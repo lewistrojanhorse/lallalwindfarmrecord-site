@@ -1,20 +1,19 @@
-Lal Lal Wind Farm Record - Website Version 1.0
+Lal Lal Wind Farm Record — Website Version 2.0
 
-Upload the CONTENTS of this folder to the root of a GitHub repository.
+Upload the CONTENTS of this folder to the GitHub repository lallalwindfarmrecord-site.
+Do not upload the ZIP file itself.
 
-Required root-level files/folders:
+Required files/folders:
 - index.html
-- style.css
-- images/
+- about.html
 - record.html
 - chronology.html
+- foi-decisions.html
 - documents.html
 - technical-reports.html
-- about.html
 - contact.html
+- style.css
+- images/
 - .nojekyll
 
-GitHub Pages settings:
-Source: Deploy from a branch
-Branch: main
-Folder: / (root)
+After upload, commit changes. GitHub Pages will rebuild automatically.
