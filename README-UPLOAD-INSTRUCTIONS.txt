@@ -1,19 +1,9 @@
-Lal Lal Wind Farm Record — Website Version 2.0
+Lal Lal Wind Farm Record — Website Version 2.1
 
-Upload the CONTENTS of this folder to the GitHub repository lallalwindfarmrecord-site.
-Do not upload the ZIP file itself.
+Upload the CONTENTS of this folder to the GitHub repository root.
+Do not upload the enclosing folder itself.
 
-Required files/folders:
-- index.html
-- about.html
-- record.html
-- chronology.html
-- foi-decisions.html
-- documents.html
-- technical-reports.html
-- contact.html
-- style.css
-- images/
-- .nojekyll
+Commit message suggestion:
+Website Version 2.1 - chronology and FOI register update
 
-After upload, commit changes. GitHub Pages will rebuild automatically.
+This version adds methodology and record-status pages, rebuilds the chronology, expands the FOI register, and corrects current status language so the updated Ombudsman package is marked prepared / pending issue rather than issued.
