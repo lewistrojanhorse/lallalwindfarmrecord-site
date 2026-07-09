@@ -1,238 +1,150 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en-AU">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Understanding the Record | Lal Lal Wind Farm Record</title>
-  <meta name="description" content="Plain English guide to the Lal Lal Wind Farm administrative and evidentiary record.">
-  <link rel="icon" href="images/favicon.png">
-  <style>
-    :root{--navy:#071538;--navy2:#0b173d;--gold:#b08a3a;--ink:#111827;--muted:#5f6674;--paper:#f6f3ec;--card:#ffffff;--line:#e2ded3;--soft:#f1eee6;--bluecard:#eef3f8;}
-    *{box-sizing:border-box}
-    body{margin:0;background:var(--paper);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.58}
-    a{color:inherit;text-decoration:none}
-    .topbar{background:var(--navy);color:white;font-size:13px;letter-spacing:.12em;text-transform:uppercase;padding:10px 8vw;display:flex;justify-content:space-between;gap:20px}
-    header{background:#faf8f1;border-bottom:1px solid var(--line)}
-    .brand{max-width:1180px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:28px;padding:26px 24px 18px}
-    .brand-left{display:flex;align-items:center;gap:28px;min-width:340px}
-    .brand-left img{width:210px;max-width:42vw;height:auto;border-right:1px solid #ddd4c2;padding-right:24px}
-    .brand-title{font-family:Georgia,"Times New Roman",serif;color:var(--navy);font-weight:700;font-size:30px;line-height:.88}
-    .brand-subtitle{font-size:15px;letter-spacing:.08em;color:var(--muted);text-transform:uppercase;margin-top:8px;line-height:1.25}
-    nav{display:flex;justify-content:flex-end;flex-wrap:wrap;gap:8px 14px;font-size:16px;align-items:center}
-    nav a{padding:9px 12px;border-radius:999px;color:#1f2937}
-    nav a.active,nav a:hover{background:#ece9e1;color:var(--navy)}
-    main{max-width:1080px;margin:0 auto;padding:34px 24px 54px}
-    .eyebrow{text-align:center;color:var(--gold);font-weight:700;letter-spacing:.22em;text-transform:uppercase;font-size:14px;margin-top:6px}
-    h1,h2,h3{font-family:Georgia,"Times New Roman",serif;color:var(--navy);line-height:1.08}
-    h1{text-align:center;font-size:58px;margin:16px auto 12px;max-width:850px}
-    h2{font-size:34px;margin:44px 0 16px}
-    h3{font-size:23px;margin:24px 0 10px}
-    .lead{text-align:center;max-width:850px;margin:0 auto 30px;color:var(--muted);font-size:20px}
-    .hero{background:#fff;border:1px solid var(--line);border-radius:24px;overflow:hidden;box-shadow:0 12px 34px rgba(7,21,56,.06);margin:22px 0 34px}
-    .hero img{display:block;width:100%;height:auto;max-height:520px;object-fit:cover}
-    .hero .caption{font-size:14px;color:var(--muted);padding:12px 18px;border-top:1px solid var(--line)}
-    .panel{background:rgba(255,255,255,.76);border:1px solid var(--line);border-radius:22px;padding:28px;margin:22px 0;box-shadow:0 10px 30px rgba(7,21,56,.05)}
-    .plain{background:#fff;border-left:5px solid var(--gold)}
-    .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px;margin-top:18px}
-    .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:18px}
-    .card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:22px}
-    .card h3{margin-top:0}
-    .agency{background:var(--bluecard);border:1px solid #d9e2ec;border-radius:20px;padding:24px}
-    .agency h3{margin-top:0}
-    .term{background:#fff;border:1px solid var(--line);border-radius:18px;padding:22px;margin:16px 0}
-    .term h3{margin-top:0;display:flex;align-items:center;gap:10px}
-    .tag{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#fff;background:var(--gold);border-radius:999px;padding:4px 8px;white-space:nowrap}
-    .muted{color:var(--muted)}
-    .quote{background:#fbfaf7;border-left:5px solid var(--gold);padding:16px 18px;border-radius:12px;margin:14px 0;color:#25304a}
-    .flow{background:#fff;border:1px solid var(--line);border-radius:22px;padding:28px;margin:20px 0;text-align:center}
-    .flow-step{display:inline-block;background:#f1eee6;border:1px solid var(--line);border-radius:999px;padding:12px 18px;margin:8px;font-weight:700;color:var(--navy)}
-    .arrow{display:block;color:var(--gold);font-size:22px;line-height:1;margin:2px 0}
-    .btn-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
-    .btn{display:inline-block;background:var(--navy);color:white;border-radius:999px;padding:9px 14px;font-size:14px;font-weight:700}
-    .btn.secondary{background:#eee8da;color:var(--navy)}
-    ul.clean{padding-left:20px;margin:10px 0}
-    ul.clean li{margin:6px 0}
-    footer{background:var(--navy);color:white;margin-top:42px;padding:34px 24px}
-    footer .inner{max-width:1080px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr 1fr;gap:30px}
-    footer a{color:white;text-decoration:underline;text-underline-offset:3px}
-    footer h4{margin:0 0 10px;color:#e8d7ad}
-    .small{font-size:14px;color:#cbd5e1}
-    @media(max-width:850px){.topbar{display:block;text-align:center}.brand{display:block}.brand-left{min-width:0;justify-content:center}.brand-title{text-align:center;margin-top:14px}nav{justify-content:center;margin-top:20px}h1{font-size:42px}.grid,.grid3{grid-template-columns:1fr}footer .inner{grid-template-columns:1fr}}
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Understanding the Record | Lal Lal Wind Farm Record</title>
+<meta name="description" content="Plain-English guide to how the Lal Lal Wind Farm Record is organised, verified and read.">
+<meta property="og:title" content="Understanding the Record | Lal Lal Wind Farm Record">
+<meta property="og:description" content="Plain-English guide to how the Lal Lal Wind Farm Record is organised, verified and read.">
+<meta property="og:image" content="images/social-preview.jpg">
+<link rel="icon" type="image/png" href="images/favicon.png">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="topbar"><span>Lal Lal Wind Farm Administrative Record</span><span>Public Administrative Repository</span></div>
-  <header>
-    <div class="brand">
-      <div class="brand-left">
-        <a href="index.html"><img src="images/lth-logo.png" alt="LEWIS TROJAN HORSE PTY LTD logo"></a>
-        <div>
-          <div class="brand-title">Lal Lal<br>Wind Farm<br>Record</div>
-          <div class="brand-subtitle">Administrative<br>&amp; Evidentiary<br>Repository</div>
-        </div>
-      </div>
-      <nav aria-label="Main navigation">
-        <a href="index.html">Home</a>
-        <a href="start-here.html">Start Here</a>
-        <a class="active" href="understanding-the-record.html">Understanding the Record</a>
-        <a href="framework.html">Framework</a>
-        <a href="verification.html">Verification</a>
-        <a href="key-issues.html">Key Issues</a>
-        <a href="k15aa.html">K15aa</a>
-        <a href="nctp.html">NCTP</a>
-        <a href="nzs6808.html">NZS 6808</a>
-        <a href="sac.html">SAC</a>
-        <a href="permit-amendment.html">Permit Amendment</a>
-        <a href="record.html">Record</a>
-        <a href="documents.html">Documents</a>
-        <a href="foi-decisions.html">FOI</a>
-        <a href="technical-reports.html">Technical</a>
-        <a href="chronology.html">Chronology</a>
-        <a href="record-status.html">Status</a>
-      </nav>
-    </div>
-  </header>
-
-  <main>
-    <div class="eyebrow">Plain English Guide</div>
+<header class="site-header">
+  <div class="topbar"><div class="container"><span>Lal Lal Wind Farm Administrative Record</span><span>Public Administrative Repository</span></div></div>
+  <div class="container header-main">
+    <a class="brand" href="index.html">
+      <img src="images/lth-logo.png" alt="LEWIS TROJAN HORSE PTY LTD logo">
+      <div class="brand-text"><div class="brand-title">Lal Lal Wind Farm Record</div><div class="brand-subtitle">Administrative &amp; Evidentiary Repository</div></div>
+    </a>
+    <nav class="main-nav" aria-label="Main navigation"><a class="" href="index.html">Home</a><a class="" href="start-here.html">Start Here</a><a class="" href="glossary.html">Glossary</a><a class="active" href="understanding-the-record.html">Understanding the Record</a><a class="" href="framework.html">Framework</a><a class="" href="verification.html">Verification</a><a class="" href="key-issues.html">Key Issues</a><a class="" href="k15aa.html">K15aa</a><a class="" href="nctp.html">NCTP</a><a class="" href="nzs6808.html">NZS 6808</a><a class="" href="sac.html">SAC</a><a class="" href="permit-amendment.html">Permit Amendment</a><a class="" href="record.html">Record</a><a class="" href="documents.html">Documents</a><a class="" href="foi-decisions.html">FOI</a><a class="" href="technical-reports.html">Technical</a><a class="" href="chronology.html">Chronology</a><a class="" href="record-status.html">Status</a></nav>
+  </div>
+</header>
+<main>
+<section class="page-hero">
+  <div class="container">
+    <div class="kicker">Repository Methodology</div>
     <h1>Understanding the Record</h1>
-    <p class="lead">A plain English guide to the terms, organisations and documents used throughout the Lal Lal Wind Farm administrative record.</p>
+    <p>This page explains how to read the Lal Lal Wind Farm Record: the documentary hierarchy, the verification method, the role of Freedom of Information material, and the way each evidence page should be approached.</p>
+  </div>
+</section>
 
-    <section class="hero">
-      <img src="images/understanding-record/llwf-entrance-sign.jpg" alt="Lal Lal Wind Farm entrance sign">
-      <div class="caption">Lal Lal Wind Farm entrance sign. Image included as contextual orientation for readers.</div>
-    </section>
+<section>
+  <div class="container narrow">
+    <div class="notice"><strong>Reading position:</strong> The <a href="glossary.html">Glossary</a> explains technical terms. This page explains the method. It does not repeat definitions that now belong in the Glossary.</div>
+  </div>
+</section>
 
-    <section class="panel plain">
-      <h2 style="margin-top:0">Why this page exists</h2>
-      <p>This website contains planning, technical and regulatory documents. Many of those documents use specialised language used by planners, acousticians, regulators and lawyers.</p>
-      <p>This guide explains the most common terms in everyday language. You do not need any planning, engineering, legal or acoustic experience to understand the information below.</p>
-      <p><strong>Simple rule:</strong> read this page first, then move into the detailed evidence.</p>
-    </section>
+<section class="soft">
+  <div class="container">
+    <div class="section-header"><div class="eyebrow">Purpose</div><h2>Why understanding the record matters</h2><p>The repository is not arranged as a general commentary page. It is arranged so an independent reader can move from context, to terms, to source documents, and then to the evidentiary issue pages.</p></div>
+    <div class="grid-3">
+      <div class="card"><div class="icon">1</div><h3>Context first</h3><p><a href="start-here.html">Start Here</a> introduces the Lal Lal Wind Farm, the project chronology and the basic pathway from planning approval to this repository.</p></div>
+      <div class="card"><div class="icon">2</div><h3>Terms once</h3><p>The <a href="glossary.html">Glossary</a> is the learning hub. Technical, planning and administrative terms are explained there first, then linked throughout the site.</p></div>
+      <div class="card"><div class="icon">3</div><h3>Evidence by issue</h3><p>Evidence pages such as <a href="k15aa.html">K15aa</a> and <a href="sac.html">SAC</a> then apply the same method to particular documentary questions.</p></div>
+    </div>
+  </div>
+</section>
 
-    <section>
-      <h2>The Lal Lal Wind Farm</h2>
+<section>
+  <div class="container">
+    <div class="section-header"><div class="eyebrow">Hierarchy</div><h2>The documentary hierarchy</h2><p>The repository follows the order of the record itself. Each later document is read against the framework that came before it.</p></div>
+    <div class="flow">
+      <div><a href="glossary.html#planning-and-environment-act">Planning &amp; Environment Act</a></div><span>↓</span>
+      <div><a href="glossary.html#planning-permit">Planning Permit</a></div><span>↓</span>
+      <div><a href="glossary.html#conditions-23-25">Conditions 23–25</a></div><span>↓</span>
+      <div><a href="glossary.html#nzs-6808-2010">NZS 6808:2010</a></div><span>↓</span>
+      <div><a href="glossary.html#noise-compliance-testing-plan">Noise Compliance Testing Plan</a></div><span>↓</span>
+      <div><a href="glossary.html#pre-construction-monitoring">Pre-construction Monitoring &amp; Assessments</a></div><span>↓</span>
+      <div><a href="glossary.html#construction">Construction</a></div><span>↓</span>
+      <div><a href="glossary.html#commissioning">Commissioning</a></div><span>↓</span>
+      <div><a href="glossary.html#post-construction-monitoring">Post-construction Monitoring &amp; Assessments</a></div><span>↓</span>
+      <div><a href="glossary.html#environmental-auditor">Environmental Auditor</a></div><span>↓</span>
+      <div><a href="glossary.html#regulators">Regulators</a></div><span>↓</span>
+      <div><a href="glossary.html#freedom-of-information">Freedom of Information</a></div><span>↓</span>
+      <div><a href="glossary.html#administrative-record">This Repository</a></div>
+    </div>
+  </div>
+</section>
+
+<section class="soft">
+  <div class="container">
+    <div class="section-header"><div class="eyebrow">Method</div><h2>How evidence pages should be read</h2><p>Each evidentiary page is intended to separate framework, disclosed documents and administrative observation.</p></div>
+    <div class="grid-3">
+      <div class="card"><div class="icon">A</div><h3>Requirement</h3><p>The page identifies the relevant permit, standard, testing-plan or regulatory requirement as the starting point.</p></div>
+      <div class="card"><div class="icon">B</div><h3>Disclosed record</h3><p>The page then records what has been disclosed through reports, correspondence, agency records or Freedom of Information processes.</p></div>
+      <div class="card"><div class="icon">C</div><h3>Verification question</h3><p>The page asks whether an independent reader can reconcile the requirement with the documents presently available.</p></div>
+    </div>
+    <div class="notice"><strong>Important:</strong> This repository does not determine compliance, breach, liability, legal rights or regulatory findings. It records the documentary pathway and whether the disclosed record enables independent verification.</div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="section-header"><div class="eyebrow">Verification</div><h2>Evidence before opinion</h2><p>The repository is built around documentary verification. That means the site prefers primary documents, dated correspondence, disclosed records and formal decisions over unsupported assertion.</p></div>
+    <div class="split">
       <div class="panel">
-        <p>The Lal Lal Wind Farm is a wind energy facility located near <strong>Elaine</strong> and <strong>Yendon</strong> in western Victoria.</p>
-        <p>It consists of <strong>60 wind turbines</strong> and has an installed capacity of approximately <strong>228 megawatts</strong>.</p>
-        <p>This website is not about whether wind energy is good or bad. It documents the <strong>administrative, regulatory and evidentiary record</strong> relating to the planning, construction, operation and regulation of the Lal Lal Wind Farm.</p>
-        <div class="btn-row"><a class="btn secondary" href="https://www.lallalwindfarms.com.au/about/">Operator information</a><a class="btn secondary" href="mailto:info@lallalwindfarm.com.au">info@lallalwindfarm.com.au</a></div>
+        <h3>What counts as useful record material?</h3>
+        <p>Useful material includes planning permits, endorsed plans, technical reports, monitoring documents, agency correspondence, public meeting records, FOI decisions, disclosed emails, auditor material and Trustee records.</p>
+        <p>Where the record is incomplete, the site should say so in restrained terms rather than filling the gap with speculation.</p>
       </div>
-    </section>
-
-    <section>
-      <h2>Government organisations</h2>
-      <p class="muted">These are the main organisations that appear throughout this repository.</p>
-      <div class="grid">
-        <article class="agency">
-          <h3>Department of Transport and Planning (DTP)</h3>
-          <p><strong>What is it?</strong> DTP is the Victorian Government department connected with Victoria's planning system.</p>
-          <p><strong>Why is it relevant?</strong> The Lal Lal Wind Farm operates under a Planning Permit issued through the Victorian planning system. DTP appears throughout this record in relation to planning permits, amendments, correspondence, compliance records and FOI decisions.</p>
-          <p><strong>Examples:</strong> Planning Permit, NCTP, permit amendments, FOI decisions and planning correspondence.</p>
-          <div class="btn-row"><a class="btn secondary" href="https://www.vic.gov.au/department-transport-and-planning">Official website</a><a class="btn secondary" href="mailto:energyandinfrastructure@transport.vic.gov.au">Email DTP</a></div>
-        </article>
-        <article class="agency">
-          <h3>Moorabool Shire Council</h3>
-          <p><strong>What is it?</strong> Moorabool Shire Council is the local government authority for much of the area in which the Lal Lal Wind Farm is located.</p>
-          <p><strong>Why is it relevant?</strong> Historically, Council was the Responsible Authority responsible for administering and enforcing the Planning Permit. Many earlier planning, compliance, complaint and Community Reference Group records originated from, or were held by, Council.</p>
-          <p><strong>Examples:</strong> Council correspondence, CRG minutes, FOI responses and historical compliance material.</p>
-          <div class="btn-row"><a class="btn secondary" href="https://www.moorabool.vic.gov.au/About-Council/Large-Projects-Impacting-Moorabool/Wind-Farms">Council wind farm page</a><a class="btn secondary" href="mailto:info@moorabool.vic.gov.au">Email Council</a></div>
-        </article>
-        <article class="agency">
-          <h3>Environment Protection Authority Victoria (EPA)</h3>
-          <p><strong>What is it?</strong> EPA is Victoria's environmental regulator.</p>
-          <p><strong>Why is it relevant?</strong> EPA regulates pollution and administers environmental laws. For operational wind farms, EPA has an important role in the regulation of wind turbine noise, including under the Environment Protection Regulations.</p>
-          <p><strong>Examples:</strong> Pollution reports, EPA correspondence, FOI decisions, auditor records, Noise Management Plan material and operational regulatory records.</p>
-          <div class="btn-row"><a class="btn secondary" href="https://www.epa.vic.gov.au/">Official website</a><a class="btn secondary" href="mailto:contact@epa.vic.gov.au">Email EPA</a></div>
-        </article>
-        <article class="agency">
-          <h3>Australian Energy Infrastructure Commissioner (AEIC)</h3>
-          <p><strong>What is it?</strong> The AEIC helps communities, landholders and renewable energy developers resolve concerns relating to renewable energy projects.</p>
-          <p><strong>Why is it relevant?</strong> The AEIC provides an independent pathway for community engagement and complaint resolution. It does not administer the Planning Permit or regulate environmental compliance.</p>
-          <p><strong>Examples:</strong> Complaint correspondence, community engagement material, acknowledgements and guidance.</p>
-          <div class="btn-row"><a class="btn secondary" href="https://www.aeic.gov.au/">Official website</a><a class="btn secondary" href="mailto:aeic@aeic.gov.au">Email AEIC</a></div>
-        </article>
-      </div>
-    </section>
-
-    <section>
-      <h2>Common terms explained</h2>
-      <p class="muted">Each explanation is deliberately short. The purpose is to make the detailed record easier to read.</p>
-
-      <article class="term"><h3>Dwelling <span class="tag">Plain English</span></h3><p>A dwelling is simply a house where people live. In wind farm noise reports, a dwelling may also be described as a noise-sensitive receiver because it is a place where noise may be measured or assessed.</p></article>
-      <article class="term"><h3>Noise-sensitive receiver</h3><p>A noise-sensitive receiver is a place where people live or regularly spend time, and where noise could affect them. Technical reports often identify each receiver using a code instead of repeatedly writing the full street address.</p></article>
-      <article class="term"><h3>K15aa and other location codes</h3><p>K15aa is not the name of a house or a person. It is the identification code used in technical reports for one particular dwelling used as a reference location for measuring and assessing wind farm noise.</p><p>Other dwellings and locations have their own identifiers, such as <strong>H18aa</strong>, <strong>L18aa</strong>, <strong>J14aa</strong> and many others. Think of these identifiers like reference numbers on a map. They help reports consistently refer to the same place without repeatedly using the full street address.</p><p>These identifiers are reference labels. They do not, by themselves, indicate ownership, importance or priority.</p></article>
-      <article class="term"><h3>Background sound</h3><p>Before the wind farm is constructed and the turbines are installed, the existing sound around nearby homes is measured. These measurements are called background sound.</p><p>They provide a starting point so that, after the wind farm begins operating, new measurements can be compared with the sounds that already existed.</p></article>
-      <article class="term"><h3>Baseline report</h3><p>A baseline report records background sound measurements before normal operation of the wind farm. It provides the reference point against which later operational noise measurements can be compared.</p></article>
-      <article class="term"><h3>Commissioning</h3><p>Commissioning is the period after construction has finished when the wind turbines are tested before entering normal operation. During commissioning, equipment is checked, adjusted and tested to ensure it operates correctly.</p></article>
-      <article class="term"><h3>Compliance monitoring</h3><p>Compliance monitoring means checking whether the wind farm is operating within the requirements of the Planning Permit and related approved documents.</p></article>
-      <article class="term"><h3>Planning Permit</h3><p>A Planning Permit is the legal approval allowing the wind farm to be built and operated. It also contains conditions that must be complied with throughout the life of the project.</p></article>
-      <article class="term"><h3>Planning Permit condition</h3><p>Think of the Planning Permit as a licence. The conditions are the rules attached to that licence.</p></article>
-      <article class="term"><h3>Responsible Authority</h3><p>The Responsible Authority is the government body responsible for administering and enforcing the Planning Permit. The identity of the Responsible Authority can change over time.</p></article>
-      <article class="term"><h3>NZS 6808:2010</h3><p>NZS 6808:2010 is the Standard used to assess wind farm noise under the relevant planning framework. It deals with background sound, operational noise assessment and compliance methods.</p><p><strong>Copyright note:</strong> this website refers to NZS 6808:2010 for context and terminology, but does not reproduce the Standard.</p></article>
-      <article class="term"><h3>Noise Compliance Test Plan (NCTP)</h3><p>The Noise Compliance Test Plan explains how the wind farm must demonstrate compliance with the Planning Permit. It describes where sound is measured, how measurements are taken, when monitoring occurs and what information must be reported.</p></article>
-      <article class="term"><h3>Attended listening observations</h3><p>A microphone can measure how loud a sound is. A trained acoustician can also describe what the sound actually sounds like.</p><p>An attended listening observation occurs when an acoustician visits a location, listens while measurements are being taken, records what they hear and compares those observations with instrument readings.</p><p>Under the Lal Lal Wind Farm NCTP, attended observations also included informative observations close to the nearest turbines during at least one set of observations. This helps determine whether sounds heard at a dwelling are also audible near the turbines.</p><p>During a public information session, SLR's Gustaf Reutersward explained that listening closer to turbines can help confirm whether a sound heard in the distance is actually coming from those turbines. He also described the listening test as the <strong>"Gateway"</strong> to further analysis.</p></article>
-      <article class="term"><h3>Special Audible Characteristics (SAC)</h3><p>Sometimes wind turbine noise has characteristics that make it more noticeable than ordinary wind noise. Examples include tones, impulses, rhythmic beating, modulation or other distinctive sound qualities. These are called Special Audible Characteristics, often shortened to SAC.</p></article>
-      <article class="term"><h3>Environmental Auditor</h3><p>An Environmental Auditor is an independent professional appointed under Victorian environmental legislation to review particular environmental matters. Some wind farm noise documents are reviewed by an Environmental Auditor before being provided to regulators.</p></article>
-      <article class="term"><h3>Noise Management Plan</h3><p>A Noise Management Plan explains how operational wind turbine noise will be managed after the wind farm begins operating.</p></article>
-      <article class="term"><h3>Freedom of Information (FOI)</h3><p>A Freedom of Information request is a legal process that allows members of the public to request government documents. Many documents discussed on this website were obtained through FOI processes.</p></article>
-      <article class="term"><h3>Primary source document</h3><p>A primary source document is an original document created at the time an event occurred, or by a person or organisation directly involved. Examples include permits, reports, meeting minutes, emails, letters and FOI decisions.</p></article>
-      <article class="term"><h3>Documentary evidence</h3><p>Documentary evidence is information contained in documents rather than opinions or recollections. This website places emphasis on documentary evidence so readers can examine the source material directly.</p></article>
-      <article class="term"><h3>Documentary record</h3><p>The documentary record is the collection of documents available for examination about a particular issue. It may include reports, letters, emails, meeting minutes, permits, plans, maps, FOI documents and other records.</p></article>
-      <article class="term"><h3>Administrative record</h3><p>The administrative record is the documentary record showing how decisions were made, what information was available at the time and how the regulatory process developed.</p></article>
-      <article class="term"><h3>Disclosed record</h3><p>The disclosed record means the documents that have actually been released or disclosed at a particular point in time, usually through FOI or another official process.</p><p>It does not necessarily mean other documents never existed. It simply means those are the records available for examination at that point in time.</p></article>
-    </section>
-
-    <section>
-      <h2>Understanding the process</h2>
-      <div class="flow" aria-label="Plain English process flow">
-        <span class="flow-step">Planning Permit</span><span class="arrow">↓</span>
-        <span class="flow-step">Background Monitoring</span><span class="arrow">↓</span>
-        <span class="flow-step">Construction</span><span class="arrow">↓</span>
-        <span class="flow-step">Commissioning</span><span class="arrow">↓</span>
-        <span class="flow-step">Operational Monitoring</span><span class="arrow">↓</span>
-        <span class="flow-step">Attended Listening Observations</span><span class="arrow">↓</span>
-        <span class="flow-step">Assessment &amp; Reporting</span><span class="arrow">↓</span>
-        <span class="flow-step">Administrative Record</span><span class="arrow">↓</span>
-        <span class="flow-step">This Website</span>
-      </div>
-    </section>
-
-    <section class="panel plain">
-      <h2 style="margin-top:0">How to read this website</h2>
-      <p>Most pages follow a simple pattern:</p>
-      <div class="grid3">
-        <div class="card"><h3>1. Plain English</h3><p>The issue is introduced in everyday language.</p></div>
-        <div class="card"><h3>2. Evidence</h3><p>Key documentary evidence is identified and explained.</p></div>
-        <div class="card"><h3>3. Source documents</h3><p>Readers can open the underlying primary documents and check the record themselves.</p></div>
-      </div>
-      <p style="margin-top:18px">The repository is intended to preserve and explain the administrative record. It does not determine compliance, liability, legal rights or regulatory findings.</p>
-    </section>
-
-    <section class="panel">
-      <h2 style="margin-top:0">Still unsure?</h2>
-      <p>If you come across a word or abbreviation elsewhere on this website that is not explained here, please contact the Trustee. This guide may be expanded as additional material is added to the repository.</p>
-      <div class="btn-row"><a class="btn" href="contact.html">Trustee Contact</a><a class="btn secondary" href="start-here.html">Return to Start Here</a></div>
-    </section>
-  </main>
-
-  <footer>
-    <div class="inner">
-      <div>
-        <p>Published by LEWIS TROJAN HORSE PTY LTD as Trustee of the Owen Robert Inter Vivos Trust.</p>
-        <p class="small">This repository is an independent administrative publication. It is not the official website of the Lal Lal Wind Farm, the operator, a regulator or a government agency.</p>
-      </div>
-      <div>
-        <h4>Repository</h4>
-        <p><a href="record.html">Administrative Record</a><br><a href="verification.html">Documentary Verification</a><br><a href="key-issues.html">Key Issues</a><br><a href="chronology.html">Chronology</a><br><a href="foi-decisions.html">FOI Register</a></p>
-      </div>
-      <div>
-        <h4>Contact</h4>
-        <p><a href="contact.html">Trustee Contact</a><br>officeexecutorowenrobertlewis@gmail.com</p>
-        <p class="small">Repository Version 3.7<br>5 July 2026</p>
+      <div class="panel">
+        <h3>What the site avoids</h3>
+        <p>The repository avoids substituting its own findings for a regulator, court, auditor or technical decision-maker. Its function is to preserve, organise and explain the record so readers can inspect the material directly.</p>
+        <div class="button-row"><a class="btn primary" href="verification.html">Open Verification</a><a class="btn secondary" href="documents.html">Open Documents</a></div>
       </div>
     </div>
-    <div class="inner" style="margin-top:24px;display:block"><p class="small">© 2026 LEWIS TROJAN HORSE PTY LTD. All rights reserved. Publication preserves documentary chronology and version history; it does not alter the legal status of any document.</p></div>
-  </footer>
+  </div>
+</section>
+
+<section class="soft">
+  <div class="container">
+    <div class="section-header"><div class="eyebrow">FOI and custody</div><h2>Why Freedom of Information matters</h2><p>Freedom of Information material is important because it shows what records agencies have disclosed, what records they identify as held, and where the disclosed record does or does not contain a particular document.</p></div>
+    <div class="split">
+      <div class="panel">
+        <h3>Disclosed does not always mean complete</h3>
+        <p>A disclosed record is the material available for examination at a particular point in time. It may include released documents, partial releases, refusal reasons, searches, correspondence and agency decision letters.</p>
+      </div>
+      <div class="panel">
+        <h3>How FOI material is used</h3>
+        <p>FOI material is used as a custody and verification tool. It helps identify whether the documentary pathway can be followed from the planning framework through technical assessment and regulatory reliance.</p>
+        <div class="button-row"><a class="btn primary" href="foi-decisions.html">Open FOI Register</a><a class="btn secondary" href="record-status.html">Record Status</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="section-header"><div class="eyebrow">Progressive reading</div><h2>Recommended reading order</h2><p>The pages are intended to teach progressively. Readers should not need to begin with the most technical material.</p></div>
+    <div class="grid-3">
+      <a class="card" href="index.html"><div class="icon">H</div><h3>Home</h3><p>Broad purpose, current repository status and main entry points.</p></a>
+      <a class="card" href="start-here.html"><div class="icon">S</div><h3>Start Here</h3><p>Plain-English orientation to the project, chronology and repository pathway.</p></a>
+      <a class="card" href="glossary.html"><div class="icon">G</div><h3>Glossary</h3><p>Technical, planning and administrative terms explained once in one place.</p></a>
+      <a class="card" href="framework.html"><div class="icon">F</div><h3>Framework</h3><p>The relationship between the planning permit, NZS 6808 and the NCTP.</p></a>
+      <a class="card" href="k15aa.html"><div class="icon">K</div><h3>K15aa</h3><p>The benchmark evidentiary page for the background sound record.</p></a>
+      <a class="card" href="sac.html"><div class="icon">S</div><h3>SAC</h3><p>Special Audible Characteristics, attended observations and verification issues.</p></a>
+    </div>
+  </div>
+</section>
+
+<section class="soft">
+  <div class="container narrow">
+    <h2>Before moving into the evidence</h2>
+    <p>Use this page as the bridge between the plain-English introduction and the issue pages. Where a technical term is unfamiliar, return to the <a href="glossary.html">Glossary</a>. Where a factual statement matters, move from the explanation to the source documents.</p>
+    <div class="button-row"><a class="btn primary" href="glossary.html">Open Glossary</a><a class="btn secondary" href="key-issues.html">Explore Key Issues</a></div>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div><img src="images/lth-logo.png" alt="LEWIS TROJAN HORSE PTY LTD logo"><p>Published by <strong>LEWIS TROJAN HORSE PTY LTD</strong> as Trustee of the Owen Robert Inter Vivos Trust.</p><p class="small footer-note">This repository is an independent administrative publication. It is not the official website of the Lal Lal Wind Farm, the operator, a regulator or a government agency.</p></div>
+    <div><h4>Repository</h4><a href="start-here.html">Start Here</a><a href="glossary.html">Glossary</a><a href="record.html">Administrative Record</a><a href="verification.html">Documentary Verification</a><a href="key-issues.html">Key Issues</a><a href="chronology.html">Chronology</a><a href="foi-decisions.html">FOI Register</a></div>
+    <div><h4>Contact</h4><a href="contact.html">Trustee Contact</a><a href="mailto:officeexecutorowenrobertlewis@gmail.com">officeexecutorowenrobertlewis@gmail.com</a><p class="small footer-note">Repository Version 3.8<br>9 July 2026</p></div>
+  </div>
+  <div class="container fineprint">© 2026 LEWIS TROJAN HORSE PTY LTD. All rights reserved. Publication preserves documentary chronology and version history; it does not alter the legal status of any document.</div>
+</footer>
 </body>
 </html>
