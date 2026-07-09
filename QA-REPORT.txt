@@ -1,0 +1,17 @@
+Lal Lal Wind Farm Record — Final QA Correction Pack
+Generated: 9 July 2026
+
+Files included: 20 HTML files
+Missing glossary anchors after correction: 0
+None
+
+Methodology references remaining: None
+Navigation missing Glossary: None
+
+Correction summary:
+- Standardised main navigation across all uploaded HTML pages.
+- Added Glossary to older pages including Start Here, Contact and About.
+- Standardised footer and repository version to 4.0 / 9 July 2026.
+- Removed stale methodology.html links.
+- Added missing Glossary anchors and supplementary glossary entries for cross-page links.
+- Included QA report for verification.
