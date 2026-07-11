@@ -1,0 +1,14 @@
+Title: Add Noise Management Plan documentary pathway
+
+Body:
+- add permanent Noise Management Plan reference page
+- document Version 3.0 dated 18 October 2022
+- distinguish governing framework, technical content, documentary custody and administrative reliance
+- compare six endorsed NCTP preferred measurement locations with three NMP preferred locations
+- identify the separate Elaine and Yendon receiver coverage
+- record that the NMP references the Marshall Day background pathway but not the 2021 SLR K15aa Baseline Report
+- add EPA NMP chronology from November 2023 verification request through February 2025 draft-date clarification
+- record FOI-002-2024 and FOI-100-2025 disclosure of the same October 2022 NMP
+- connect Transitional Condition 27A and the Trustee's 22 June 2026 DTP correspondence
+- update NCTP, K15aa, permit amendment, EPA, FOI, chronology, glossary, documents, technical and key-issues pathways
+- preserve existing authoritative filenames and repository navigation

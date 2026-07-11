@@ -1,0 +1,27 @@
+LAL LAL WIND FARM RECORD — NMP REPOSITORY UPDATE
+
+UPLOAD / REPLACE
+- index.html
+- technical-reports.html
+- key-issues.html
+- nctp.html
+- k15aa.html
+- permit-amendment.html
+- foi-decisions.html
+- agency-records.html
+- chronology.html
+- glossary.html
+- documents.html
+
+NEW PERMANENT PAGE
+- noise-management-plan.html
+
+UPLOAD NEW DOCUMENT ASSETS
+- all files in documents/
+
+UPLOAD NEW IMAGE ASSETS
+- all files in images/
+
+NO EXISTING HTML, PDF OR IMAGE FILE WAS RENAMED. Browser duplicate suffixes on uploaded HTML source copies were removed only to restore their authoritative live filenames. Documentary and image source filenames were preserved exactly.
+
+No CSS replacement is required. The new page uses the existing style.css and restrained inline image sizing only.
