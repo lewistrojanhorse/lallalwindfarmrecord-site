@@ -1,0 +1,7 @@
+Upload the HTML and BOTH folders exactly as shown.
+
+sonus-pre-construction-noise-assessment.html
+images/sonus/
+documents/
+
+The live page currently returns 404 for the ARUP images and EPA email because those asset files were not uploaded to the matching folders.
