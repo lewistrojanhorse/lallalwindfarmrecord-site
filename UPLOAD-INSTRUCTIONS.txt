@@ -1,7 +1,7 @@
-Upload the HTML and BOTH folders exactly as shown.
+Upload BOTH items:
 
-sonus-pre-construction-noise-assessment.html
-images/sonus/
-documents/
+1. Replace sonus-pre-construction-noise-assessment.html in the website root.
+2. Upload epa-sonus-email.pdf directly into the existing documents folder.
 
-The live page currently returns 404 for the ARUP images and EPA email because those asset files were not uploaded to the matching folders.
+Then test:
+https://lallalwindfarmrecord.com.au/documents/epa-sonus-email.pdf
