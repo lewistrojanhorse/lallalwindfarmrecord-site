@@ -1,7 +1,21 @@
-Upload BOTH items:
+LAL LAL WIND FARM RECORD — SEARCH ENGINE PUBLICATION
+STEP 1: ROBOTS.TXT AND SITEMAP.XML
 
-1. Replace sonus-pre-construction-noise-assessment.html in the website root.
-2. Upload epa-sonus-email.pdf directly into the existing documents folder.
+Upload both files directly into the ROOT of the website, beside index.html.
 
-Then test:
-https://lallalwindfarmrecord.com.au/documents/epa-sonus-email.pdf
+Correct locations after upload:
+https://lallalwindfarmrecord.com.au/robots.txt
+https://lallalwindfarmrecord.com.au/sitemap.xml
+
+Do not place them inside the documents or images folders.
+
+The sitemap contains the current shared-navigation pages and the three
+additional technical pathway pages:
+- pre-construction-acoustic-assessments.html
+- sonus-pre-construction-noise-assessment.html
+- noise-management-plan.html
+
+The obsolete methodology.html page is deliberately excluded.
+The homepage is represented by the preferred root URL:
+https://lallalwindfarmrecord.com.au/
+rather than duplicating it as /index.html.
