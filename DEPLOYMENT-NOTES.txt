@@ -1,19 +1,16 @@
-CORRECTED NOISE MANAGEMENT PLAN PATCH
+PERMIT AMENDMENT — AUTHORITATIVE REFRESH
 
 Replace:
-- noise-management-plan.html
+  permit-amendment.html
 
-Upload/confirm all files in:
-- images/
-- documents/
+Upload to documents/:
+  DTP-Permit-Amendment-email.pdf
 
-Important corrections:
-- Document history now uses Image 11-7-2026 at 6.39 pm(1).jpg
-- NMP three-location extract now uses Image 11-7-2026 at 6.43 pm.jpg
-- All eight supplied documentary screenshots are now displayed on the page
-- Trustee DTP correspondence date corrected to 18 May 2026
-- FOI decision dates recorded as 4 March 2024 and 25 September 2025
-- The October 2022 NMP PDF is included again and must be uploaded with its exact filename:
-  NMP Lal Lal Wind Farm NMP F03_Redacted(15).pdf
+Remove obsolete duplicates if still present:
+  DTP-Permit Ammendment-email.pdf
+  DTP-Permit Amendment-email.pdf
+  DTP-Permit-Ammendment-email.pdf
+  any copies with (1), (2), or (3) suffixes
 
-Do not rename any included file.
+The updated HTML links exactly to:
+  documents/DTP-Permit-Amendment-email.pdf
