@@ -1,27 +1,19 @@
-LAL LAL WIND FARM RECORD — NMP REPOSITORY UPDATE
+CORRECTED NOISE MANAGEMENT PLAN PATCH
 
-UPLOAD / REPLACE
-- index.html
-- technical-reports.html
-- key-issues.html
-- nctp.html
-- k15aa.html
-- permit-amendment.html
-- foi-decisions.html
-- agency-records.html
-- chronology.html
-- glossary.html
-- documents.html
-
-NEW PERMANENT PAGE
+Replace:
 - noise-management-plan.html
 
-UPLOAD NEW DOCUMENT ASSETS
-- all files in documents/
+Upload/confirm all files in:
+- images/
+- documents/
 
-UPLOAD NEW IMAGE ASSETS
-- all files in images/
+Important corrections:
+- Document history now uses Image 11-7-2026 at 6.39 pm(1).jpg
+- NMP three-location extract now uses Image 11-7-2026 at 6.43 pm.jpg
+- All eight supplied documentary screenshots are now displayed on the page
+- Trustee DTP correspondence date corrected to 18 May 2026
+- FOI decision dates recorded as 4 March 2024 and 25 September 2025
+- The October 2022 NMP PDF is included again and must be uploaded with its exact filename:
+  NMP Lal Lal Wind Farm NMP F03_Redacted(15).pdf
 
-NO EXISTING HTML, PDF OR IMAGE FILE WAS RENAMED. Browser duplicate suffixes on uploaded HTML source copies were removed only to restore their authoritative live filenames. Documentary and image source filenames were preserved exactly.
-
-No CSS replacement is required. The new page uses the existing style.css and restrained inline image sizing only.
+Do not rename any included file.
