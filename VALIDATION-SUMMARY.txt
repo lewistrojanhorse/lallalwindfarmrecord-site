@@ -1,27 +1,25 @@
-Lal Lal Wind Farm Record — Technical Reports Consistency Pass
+Lal Lal Wind Farm Record — 2019 Technical Chronology Update
 
-File:
+Files:
 - technical-reports.html
+- documents/Vestas-Turbine-Blade-Incident-Update-23-September-2019.pdf
 
 Validation:
 - filename_preserved: True
 - canonical_unchanged: True
-- document_note_style_present: True
-- source_extract_style_present: True
-- significance_callout_style_present: True
-- slr_documentary_note_present: True
-- mda_location_significance_present: True
-- mda_documentary_position_highlighted: True
-- arup_exact_quote_preserved: True
-- appendix_h_significance_preserved: True
-- appendix_h_reading_callout_present: True
-- youtube_preservation_notice_preserved: True
-- exact_nzs_notional_boundary_preserved: True
-- exact_nctp_location_wording_preserved: True
+- vestas_section_present: True
+- crg_section_present: True
+- vestas_before_crg: True
+- crg_before_slr_baseline: True
+- arup_before_slr_letter: True
+- pdf_included: True
+- pdf_link_resolves: True
+- prior_consistency_styles_preserved: True
+- youtube_notice_preserved: True
 
-Presentation changes:
-- Introduced one restrained style for documentary reading and preservation notes.
-- Introduced one consistent style for exact source extracts.
-- Introduced one restrained emphasis style for the most important documentary observations.
-- Standardised spacing around related-document buttons.
-- Preserved all existing technical wording, links, navigation, filenames and canonical URL.
+Scope:
+- Inserted the 23 September 2019 Vestas turbine-blade incident update.
+- Inserted the 1 October 2019 Community Reference Group minute in chronological position.
+- Moved the 21 October 2022 ARUP section before the 1 December 2022 SLR technical letter.
+- Updated the chronology cards to reflect the complete sequence.
+- Preserved the existing filename, canonical URL, navigation and prior presentation-consistency updates.
