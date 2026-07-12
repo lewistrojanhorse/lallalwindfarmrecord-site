@@ -1,21 +1,12 @@
-Lal Lal Wind Farm Record — Sonus EPA Verified Documents Update
+Lal Lal Wind Farm Record — Key Issues Nested-Link Fix
 
-Files:
-- sonus-pre-construction-noise-assessment.html
-- documents/EPA-30-September-2024-Verified-Documents-Email.pdf
+File:
+- key-issues.html
 
 Validation:
-- Existing HTML filename preserved: True
+- Existing filename preserved: True
 - Canonical URL unchanged: True
-- HTML root structure present: True
-- HTML title present: True
-- New EPA section present: True
-- New PDF links found: 2
-- New PDF link resolves within package: True
-- PDF included: True
-- PDF size: 270203 bytes
-
-Scope:
-- Added a focused EPA assessment-pathway section after the Council SR62774 section.
-- Added the 30 September 2024 EPA email to the source-record cards.
-- No navigation, URL, canonical, or unrelated content changes were made.
+- Nested background-sound link removed: True
+- Nested NCTP glossary link removed: True
+- NZS card link preserved: True
+- NCTP card link preserved: True
