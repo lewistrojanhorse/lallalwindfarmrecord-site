@@ -1,12 +1,14 @@
-Lal Lal Wind Farm Record — Key Issues Nested-Link Fix
+Lal Lal Wind Farm Record — Technical Reports Provenance Correction
 
 File:
-- key-issues.html
+- technical-reports.html
 
 Validation:
 - Existing filename preserved: True
 - Canonical URL unchanged: True
-- Nested background-sound link removed: True
-- Nested NCTP glossary link removed: True
-- NZS card link preserved: True
-- NCTP card link preserved: True
+- Incorrect EPA FOI provenance wording removed: True
+- Corrected provenance wording present: True
+
+Scope:
+- Corrected the provenance statement for the SLR Baseline Noise Monitoring Report.
+- No navigation, URL, or unrelated content changes were made.
