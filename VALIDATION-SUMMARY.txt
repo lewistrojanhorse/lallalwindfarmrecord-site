@@ -1,4 +1,4 @@
-Lal Lal Wind Farm Record — Technical Reports Provenance Correction
+Lal Lal Wind Farm Record — Technical Reports SLR Chronology Note
 
 File:
 - technical-reports.html
@@ -6,9 +6,13 @@ File:
 Validation:
 - Existing filename preserved: True
 - Canonical URL unchanged: True
-- Incorrect EPA FOI provenance wording removed: True
-- Corrected provenance wording present: True
+- Documentary reading note present: True
+- Exact NZS background-sound definition present: True
+- Exact NCTP K15aa requirement present: True
+- 1 October 2019 CRG reference present: True
+- SLR baseline report link present: True
+- Appendix H link present: True
 
 Scope:
-- Corrected the provenance statement for the SLR Baseline Noise Monitoring Report.
-- No navigation, URL, or unrelated content changes were made.
+- Added a documentary reading note to the SLR Technical Response Letter section.
+- Preserved existing URL, navigation, filename and unrelated content.
