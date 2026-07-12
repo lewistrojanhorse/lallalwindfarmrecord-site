@@ -1,21 +1,11 @@
-LAL LAL WIND FARM RECORD — SEARCH ENGINE PUBLICATION
-STEP 1: ROBOTS.TXT AND SITEMAP.XML
+Upload the CONTENTS of this ZIP to the GitHub repository root.
 
-Upload both files directly into the ROOT of the website, beside index.html.
+Replace the matching HTML files, robots.txt and sitemap.xml.
+Do not upload the enclosing folder itself.
+Do not delete the existing documents or images folders.
 
-Correct locations after upload:
+After committing and pushing, verify:
 https://lallalwindfarmrecord.com.au/robots.txt
 https://lallalwindfarmrecord.com.au/sitemap.xml
 
-Do not place them inside the documents or images folders.
-
-The sitemap contains the current shared-navigation pages and the three
-additional technical pathway pages:
-- pre-construction-acoustic-assessments.html
-- sonus-pre-construction-noise-assessment.html
-- noise-management-plan.html
-
-The obsolete methodology.html page is deliberately excluded.
-The homepage is represented by the preferred root URL:
-https://lallalwindfarmrecord.com.au/
-rather than duplicating it as /index.html.
+Then proceed to Google Search Console sitemap submission.

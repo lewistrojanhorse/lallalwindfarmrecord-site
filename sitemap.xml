@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lallalwindfarmrecord.com.au/</loc>
@@ -23,15 +23,6 @@
   </url>
   <url>
     <loc>https://lallalwindfarmrecord.com.au/technical-reports.html</loc>
-  </url>
-  <url>
-    <loc>https://lallalwindfarmrecord.com.au/pre-construction-acoustic-assessments.html</loc>
-  </url>
-  <url>
-    <loc>https://lallalwindfarmrecord.com.au/sonus-pre-construction-noise-assessment.html</loc>
-  </url>
-  <url>
-    <loc>https://lallalwindfarmrecord.com.au/noise-management-plan.html</loc>
   </url>
   <url>
     <loc>https://lallalwindfarmrecord.com.au/k15aa.html</loc>
@@ -67,6 +58,12 @@
     <loc>https://lallalwindfarmrecord.com.au/record-status.html</loc>
   </url>
   <url>
-    <loc>https://lallalwindfarmrecord.com.au/contact.html</loc>
+    <loc>https://lallalwindfarmrecord.com.au/pre-construction-acoustic-assessments.html</loc>
+  </url>
+  <url>
+    <loc>https://lallalwindfarmrecord.com.au/sonus-pre-construction-noise-assessment.html</loc>
+  </url>
+  <url>
+    <loc>https://lallalwindfarmrecord.com.au/noise-management-plan.html</loc>
   </url>
 </urlset>

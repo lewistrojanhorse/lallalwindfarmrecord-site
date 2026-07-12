@@ -1,0 +1,35 @@
+LAL LAL WIND FARM RECORD — SEO RELEASE v4.1
+Generated: 12 July 2026
+
+FILES UPDATED: 22 HTML pages
+
+CHANGES APPLIED TO EACH INCLUDED PAGE:
+- canonical URL
+- robots index/follow directive
+- Open Graph URL, type and site name
+- absolute Open Graph image URL
+- Twitter summary card metadata
+- Schema.org WebPage/WebSite JSON-LD
+
+ROOT FILES INCLUDED:
+- robots.txt
+- sitemap.xml (22 URLs)
+
+CONTENT CONTROL:
+- existing page body content retained
+- existing filenames retained
+- existing internal links retained
+- no obsolete methodology.html included
+- no document or image files renamed
+
+NOT INCLUDED BECAUSE NOT SUPPLIED AS A CURRENT PRODUCTION HTML FILE:
+- contact.html
+
+SOURCE SELECTION:
+The Stage 1 production HTML set supplied in this conversation was used as the authoritative base. Later duplicate historical copies with older navigation/version markings were not substituted.
+
+VALIDATION:
+- all included files contain a canonical link
+- all included files contain JSON-LD
+- sitemap includes each included public HTML page exactly once
+- homepage canonical is the root domain rather than /index.html
