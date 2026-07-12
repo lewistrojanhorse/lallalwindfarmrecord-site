@@ -1,4 +1,4 @@
-Lal Lal Wind Farm Record — Appendix H Significance Update
+Lal Lal Wind Farm Record — YouTube Preservation Notice Update
 
 File:
 - technical-reports.html
@@ -6,16 +6,14 @@ File:
 Validation:
 - filename_preserved: True
 - canonical_unchanged: True
-- provenance_fix_present: True
-- slr_note_present: True
-- arup_quote_present: True
-- appendix_h_expanded: True
-- no_wtgs_statement_present: True
-- exact_background_definition_present: True
-- exact_nctp_requirement_present: True
-- crg_reference_present: True
+- preservation_notice_present: True
+- official_youtube_link_preserved: True
+- archival_recording_wording_present: True
+- appendix_h_update_preserved: True
+- slr_note_preserved: True
+- arup_quote_preserved: True
 
 Scope:
-- Expanded the Appendix H administrative significance section.
-- Preserved and incorporated the earlier provenance, SLR chronology-note and ARUP quotation updates.
-- Preserved the existing filename, canonical URL, navigation and unrelated content.
+- Added a preservation notice beneath the official YouTube information-session link.
+- Preserved the official source as the primary publication.
+- Preserved the existing filename, canonical URL, navigation and prior technical-page updates.
