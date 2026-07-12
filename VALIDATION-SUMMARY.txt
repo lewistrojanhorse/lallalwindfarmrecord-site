@@ -1,8 +1,21 @@
-Validation Summary
+Lal Lal Wind Farm Record — Appendix H Significance Update
 
-- technical-reports.html updated.
-- Existing filename preserved.
-- Canonical URL unchanged.
-- Added ARUP quotation of NZS 6808:2010 section 2.1.
-- Navigation unchanged.
-- No other repository content modified.
+File:
+- technical-reports.html
+
+Validation:
+- filename_preserved: True
+- canonical_unchanged: True
+- provenance_fix_present: True
+- slr_note_present: True
+- arup_quote_present: True
+- appendix_h_expanded: True
+- no_wtgs_statement_present: True
+- exact_background_definition_present: True
+- exact_nctp_requirement_present: True
+- crg_reference_present: True
+
+Scope:
+- Expanded the Appendix H administrative significance section.
+- Preserved and incorporated the earlier provenance, SLR chronology-note and ARUP quotation updates.
+- Preserved the existing filename, canonical URL, navigation and unrelated content.
