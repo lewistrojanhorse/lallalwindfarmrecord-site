@@ -1,4 +1,4 @@
-Lal Lal Wind Farm Record — YouTube Preservation Notice Update
+Lal Lal Wind Farm Record — K15aa Monitoring Location Update
 
 File:
 - technical-reports.html
@@ -6,14 +6,18 @@ File:
 Validation:
 - filename_preserved: True
 - canonical_unchanged: True
-- preservation_notice_present: True
-- official_youtube_link_preserved: True
-- archival_recording_wording_present: True
+- location_section_present: True
+- exact_notional_boundary_definition_present: True
+- exact_nctp_location_extract_present: True
+- slr_100m_statement_present: True
+- authorising_instrument_observation_present: True
+- youtube_notice_preserved: True
 - appendix_h_update_preserved: True
-- slr_note_preserved: True
 - arup_quote_preserved: True
 
 Scope:
-- Added a preservation notice beneath the official YouTube information-session link.
-- Preserved the official source as the primary publication.
+- Added a focused documentary significance section to the Marshall Day K15aa monitoring discussion.
+- Added the exact NZS notional-boundary definition and exact NCTP measurement-location wording.
+- Recorded the later SLR monitoring location as approximately 100 metres from K15aa.
+- Added the restrained documentary observation concerning the absence of an identified authorising instrument, approval or endorsed amendment.
 - Preserved the existing filename, canonical URL, navigation and prior technical-page updates.
