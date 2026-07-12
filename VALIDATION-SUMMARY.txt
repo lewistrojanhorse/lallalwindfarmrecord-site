@@ -1,4 +1,4 @@
-Lal Lal Wind Farm Record — K15aa Monitoring Location Update
+Lal Lal Wind Farm Record — Technical Reports Consistency Pass
 
 File:
 - technical-reports.html
@@ -6,18 +6,22 @@ File:
 Validation:
 - filename_preserved: True
 - canonical_unchanged: True
-- location_section_present: True
-- exact_notional_boundary_definition_present: True
-- exact_nctp_location_extract_present: True
-- slr_100m_statement_present: True
-- authorising_instrument_observation_present: True
-- youtube_notice_preserved: True
-- appendix_h_update_preserved: True
-- arup_quote_preserved: True
+- document_note_style_present: True
+- source_extract_style_present: True
+- significance_callout_style_present: True
+- slr_documentary_note_present: True
+- mda_location_significance_present: True
+- mda_documentary_position_highlighted: True
+- arup_exact_quote_preserved: True
+- appendix_h_significance_preserved: True
+- appendix_h_reading_callout_present: True
+- youtube_preservation_notice_preserved: True
+- exact_nzs_notional_boundary_preserved: True
+- exact_nctp_location_wording_preserved: True
 
-Scope:
-- Added a focused documentary significance section to the Marshall Day K15aa monitoring discussion.
-- Added the exact NZS notional-boundary definition and exact NCTP measurement-location wording.
-- Recorded the later SLR monitoring location as approximately 100 metres from K15aa.
-- Added the restrained documentary observation concerning the absence of an identified authorising instrument, approval or endorsed amendment.
-- Preserved the existing filename, canonical URL, navigation and prior technical-page updates.
+Presentation changes:
+- Introduced one restrained style for documentary reading and preservation notes.
+- Introduced one consistent style for exact source extracts.
+- Introduced one restrained emphasis style for the most important documentary observations.
+- Standardised spacing around related-document buttons.
+- Preserved all existing technical wording, links, navigation, filenames and canonical URL.
