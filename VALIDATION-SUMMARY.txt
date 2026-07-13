@@ -1,24 +1,22 @@
-Lal Lal Wind Farm Record — Mobile Responsive Update
+Lal Lal Wind Farm Record — Mobile-only Responsive Correction
 
 File:
 - style.css
 
 Validation:
-- source_css_preserved_and_extended: True
-- desktop_rules_unchanged: True
-- mobile_900_breakpoint_present: True
-- mobile_620_breakpoint_present: True
+- original_css_preserved: True
+- no_global_desktop_overflow_rule_added: True
+- desktop_900_breakpoint_not_added: True
+- phone_only_680_breakpoint_present: True
 - small_phone_390_breakpoint_present: True
+- desktop_header_rules_untouched: True
 - mobile_navigation_scroller_present: True
 - mobile_buttons_stack: True
-- mobile_document_rows_stack: True
 - mobile_table_scrolling_present: True
-- horizontal_overflow_protection_present: True
 
-Scope:
-- Added responsive rules only; existing desktop CSS remains intact.
-- Improved phone navigation through a single-row touch-scroll navigation bar.
-- Stacked buttons, document rows, cards and panels on narrow screens.
-- Added mobile-safe table scrolling and horizontal-overflow protection.
-- Reduced mobile hero height, spacing and heading scale.
-- Preserved all HTML content, filenames, URLs, links and SEO metadata.
+Correction:
+- Removed the 900 px responsive breakpoint that affected desktop and tablet layouts at enlarged browser zoom.
+- Removed desktop-wide overflow and header changes.
+- Restricted all new responsive behaviour to phone-sized viewports of 680 px or less.
+- Preserved the original desktop and tablet CSS exactly.
+- No HTML, content, filenames, URLs, links or SEO metadata changed.

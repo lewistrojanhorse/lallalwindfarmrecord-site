@@ -9,73 +9,64 @@
 ul.check-list{margin:0;padding:0;list-style:none}ul.check-list li{position:relative;padding-left:28px;margin:13px 0;color:var(--muted)}ul.check-list li::before{content:"✓";position:absolute;left:0;color:var(--green);font-weight:900}.record-groups{display:grid;gap:26px}.record-group{background:#fff;border:1px solid var(--line);border-radius:24px;padding:28px;box-shadow:0 14px 45px rgba(12,24,56,.05)}.record-group h3{font-family:Georgia,'Times New Roman',serif;font-size:1.8rem;margin-bottom:18px}.tag.pending{background:#fff7e6;border-color:#e7c982;color:#8a5b0f}.notice.wide{font-size:1rem}.filter-note{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-bottom:30px}.filter-note span{border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 14px;font-size:.82rem;color:var(--navy);font-weight:800}.timeline.compact .timeline-item{margin-bottom:22px}.wide-table{font-size:.92rem}.footer-note{color:#aeb7c9}.main-nav a{white-space:nowrap}@media(max-width:1050px){.main-nav{gap:2px}.main-nav a{font-size:.8rem;padding:8px 9px}.brand img{width:190px}.brand-title{font-size:1.05rem}.brand-subtitle{font-size:.68rem}}@media(max-width:760px){.wide-table{display:block;overflow-x:auto;white-space:nowrap}.page-hero{padding:54px 0}.status-grid{gap:10px}.status-card{padding:14px}}
 
 /* =========================================================
-   Version 5.0 — Responsive and Mobile Usability Update
-   Desktop presentation remains unchanged.
+   Version 5.1 — Mobile-only usability update
+   Applies only to phone-sized viewports.
+   Desktop and tablet presentation remain unchanged.
 ========================================================= */
 
-html,
-body{
-  max-width:100%;
-  overflow-x:hidden;
-}
+@media (max-width:680px){
 
-body{
-  overflow-wrap:anywhere;
-}
+  html,
+  body{
+    max-width:100%;
+    overflow-x:hidden;
+  }
 
-a,
-button,
-.btn,
-.tag{
-  -webkit-tap-highlight-color:rgba(178,138,52,.18);
-}
-
-.flow{
-  max-width:100%;
-}
-
-.table,
-.wide-table{
-  max-width:100%;
-}
-
-blockquote,
-.notice,
-.panel,
-.card,
-.doc-item,
-.timeline-item{
-  overflow-wrap:anywhere;
-  word-break:normal;
-}
-
-@media (max-width:900px){
+  body{
+    overflow-wrap:anywhere;
+  }
 
   .site-header{
     position:relative;
     backdrop-filter:none;
   }
 
+  .topbar{
+    font-size:.68rem;
+    letter-spacing:.05em;
+  }
+
   .topbar .container{
     padding:7px 0;
+    gap:2px;
   }
 
   .header-main{
-    gap:14px;
-    padding:14px 0 10px;
+    gap:12px;
+    padding:12px 0 10px;
   }
 
   .brand{
     width:100%;
+    min-width:0;
     gap:10px;
   }
 
   .brand img{
-    width:min(190px,58vw);
+    width:min(180px,58vw);
   }
 
   .brand-text{
     width:100%;
+  }
+
+  .brand-title{
+    font-size:1rem;
+  }
+
+  .brand-subtitle{
+    font-size:.64rem;
+    letter-spacing:.06em;
   }
 
   .main-nav{
@@ -108,7 +99,8 @@ blockquote,
     display:inline-flex;
     align-items:center;
     justify-content:center;
-    padding:10px 13px;
+    padding:9px 12px;
+    font-size:.8rem;
     scroll-snap-align:start;
     border:1px solid var(--line);
     background:#fff;
@@ -120,134 +112,6 @@ blockquote,
 
   .hero{
     min-height:auto;
-  }
-
-  .hero-content{
-    padding:66px 0 104px;
-  }
-
-  .hero p{
-    font-size:1.04rem;
-  }
-
-  .status-band{
-    margin-top:-38px;
-  }
-
-  .status-grid{
-    grid-template-columns:repeat(2,minmax(0,1fr));
-  }
-
-  section{
-    padding:60px 0;
-  }
-
-  .section-header{
-    margin-bottom:26px;
-  }
-
-  .section-header p{
-    font-size:1rem;
-  }
-
-  .panel{
-    padding:28px;
-  }
-
-  .card{
-    padding:24px;
-  }
-
-  .split,
-  .grid-2,
-  .grid-3,
-  .footer-grid{
-    grid-template-columns:1fr;
-  }
-
-  .button-row{
-    align-items:stretch;
-  }
-
-  .button-row .btn{
-    min-height:46px;
-  }
-
-  .doc-item{
-    align-items:flex-start;
-  }
-
-  .table,
-  .wide-table{
-    display:block;
-    width:100%;
-    overflow-x:auto;
-    -webkit-overflow-scrolling:touch;
-  }
-
-  .table th,
-  .table td{
-    min-width:150px;
-  }
-
-  .table th:first-child,
-  .table td:first-child{
-    min-width:125px;
-  }
-
-  .flow{
-    width:100%;
-  }
-
-  .flow > div{
-    width:100%;
-    max-width:100%;
-  }
-
-  .site-footer{
-    padding:44px 0 28px;
-  }
-}
-
-@media (max-width:620px){
-
-  .container{
-    width:min(94vw,1180px);
-  }
-
-  .topbar{
-    font-size:.68rem;
-    letter-spacing:.05em;
-  }
-
-  .topbar .container{
-    gap:2px;
-  }
-
-  .header-main{
-    padding-top:12px;
-  }
-
-  .brand-title{
-    font-size:1rem;
-  }
-
-  .brand-subtitle{
-    font-size:.64rem;
-    letter-spacing:.06em;
-  }
-
-  .main-nav{
-    margin-left:-3vw;
-    margin-right:-3vw;
-    width:106vw;
-    padding-left:3vw;
-    padding-right:3vw;
-  }
-
-  .main-nav a{
-    font-size:.8rem;
-    padding:9px 12px;
   }
 
   .hero::before{
@@ -265,6 +129,11 @@ blockquote,
     letter-spacing:-.035em;
   }
 
+  .hero p,
+  .page-hero p{
+    font-size:1rem;
+  }
+
   .page-hero{
     padding:44px 0;
   }
@@ -273,21 +142,21 @@ blockquote,
     font-size:clamp(2.15rem,10vw,3rem);
   }
 
-  .page-hero p,
-  .hero p{
-    font-size:1rem;
-  }
-
   section{
     padding:48px 0;
   }
 
   .section-header{
     text-align:left;
+    margin-bottom:26px;
   }
 
   .section-header h2{
     font-size:clamp(1.85rem,9vw,2.45rem);
+  }
+
+  .section-header p{
+    font-size:1rem;
   }
 
   .panel h2{
@@ -305,8 +174,13 @@ blockquote,
     margin-bottom:14px;
   }
 
+  .status-band{
+    margin-top:-34px;
+  }
+
   .status-grid{
     grid-template-columns:1fr;
+    gap:10px;
     padding:12px;
     border-radius:18px;
   }
@@ -324,6 +198,7 @@ blockquote,
 
   .button-row .btn{
     width:100%;
+    min-height:46px;
     white-space:normal;
     text-align:center;
     border-radius:14px;
@@ -332,6 +207,7 @@ blockquote,
 
   .doc-item{
     flex-direction:column;
+    align-items:flex-start;
     gap:12px;
     padding:16px;
   }
@@ -341,7 +217,11 @@ blockquote,
   }
 
   .doc-title,
-  .doc-meta{
+  .doc-meta,
+  blockquote,
+  .notice,
+  .panel,
+  .card{
     overflow-wrap:anywhere;
   }
 
@@ -361,14 +241,36 @@ blockquote,
     left:4px;
   }
 
-  .table{
+  .table,
+  .wide-table{
+    display:block;
+    width:100%;
+    max-width:100%;
+    overflow-x:auto;
+    -webkit-overflow-scrolling:touch;
     border-radius:14px;
     font-size:.88rem;
   }
 
   .table th,
   .table td{
+    min-width:145px;
     padding:12px;
+  }
+
+  .table th:first-child,
+  .table td:first-child{
+    min-width:120px;
+  }
+
+  .flow{
+    width:100%;
+    max-width:100%;
+  }
+
+  .flow > div{
+    width:100%;
+    max-width:100%;
   }
 
   .filter-note{
@@ -378,6 +280,10 @@ blockquote,
   .filter-note span{
     font-size:.76rem;
     padding:7px 11px;
+  }
+
+  .site-footer{
+    padding:44px 0 28px;
   }
 
   .site-footer img{
@@ -396,7 +302,7 @@ blockquote,
   }
 
   .brand img{
-    width:min(170px,64vw);
+    width:min(165px,64vw);
   }
 
   .main-nav a{
