@@ -1,25 +1,18 @@
-Lal Lal Wind Farm Record — 2019 Technical Chronology Update
+Lal Lal Wind Farm Record — Documents Technical Collection Heading Update
 
-Files:
-- technical-reports.html
-- documents/Vestas-Turbine-Blade-Incident-Update-23-September-2019.pdf
+File:
+- documents.html
 
 Validation:
 - filename_preserved: True
 - canonical_unchanged: True
-- vestas_section_present: True
-- crg_section_present: True
-- vestas_before_crg: True
-- crg_before_slr_baseline: True
-- arup_before_slr_letter: True
-- pdf_included: True
-- pdf_link_resolves: True
-- prior_consistency_styles_preserved: True
-- youtube_notice_preserved: True
+- old_heading_removed: True
+- new_heading_present: True
+- technical_reports_link_present: True
+- document_list_preserved: True
 
 Scope:
-- Inserted the 23 September 2019 Vestas turbine-blade incident update.
-- Inserted the 1 October 2019 Community Reference Group minute in chronological position.
-- Moved the 21 October 2022 ARUP section before the 1 December 2022 SLR technical letter.
-- Updated the chronology cards to reflect the complete sequence.
-- Preserved the existing filename, canonical URL, navigation and prior presentation-consistency updates.
+- Replaced the misleading pre-construction-only heading with “Technical report collection”.
+- Updated the lead text to cover planning-stage, post-construction, later technical and auditor records.
+- Added a direct link to the Technical Reports page for explanation and chronology.
+- Preserved the existing filename, canonical URL, navigation and document links.
