@@ -1,22 +1,24 @@
-Lal Lal Wind Farm Record — Yendon Stage 1 Document Update
+Lal Lal Wind Farm Record — Mobile Responsive Update
 
-Files:
-- chronology.html
-- documents/SLR-Elaine-Stage-1-Post-construction-Noise-Assessment-v1.7-27-June-2022.pdf
-- documents/SLR-Yendon-Stage-1-Post-construction-Noise-Assessment-v1.7-31-October-2023.pdf
+File:
+- style.css
 
 Validation:
-- chronology_filename_preserved: True
-- canonical_unchanged: True
-- elaine_pdf_preserved: True
-- yendon_pdf_included: True
-- yendon_direct_link_present: True
-- yendon_technical_link_preserved: True
-- elaine_entry_preserved: True
-- stage2_entries_preserved: True
+- source_css_preserved_and_extended: True
+- desktop_rules_unchanged: True
+- mobile_900_breakpoint_present: True
+- mobile_620_breakpoint_present: True
+- small_phone_390_breakpoint_present: True
+- mobile_navigation_scroller_present: True
+- mobile_buttons_stack: True
+- mobile_document_rows_stack: True
+- mobile_table_scrolling_present: True
+- horizontal_overflow_protection_present: True
 
 Scope:
-- Added the Yendon Stage 1 Post-construction Noise Assessment PDF to the deployment package.
-- Updated the Yendon chronology entry with a direct local report link.
-- Preserved the Technical Reports cross-reference.
-- Preserved the earlier Elaine Stage 1 report and all prior chronology updates.
+- Added responsive rules only; existing desktop CSS remains intact.
+- Improved phone navigation through a single-row touch-scroll navigation bar.
+- Stacked buttons, document rows, cards and panels on narrow screens.
+- Added mobile-safe table scrolling and horizontal-overflow protection.
+- Reduced mobile hero height, spacing and heading scale.
+- Preserved all HTML content, filenames, URLs, links and SEO metadata.
