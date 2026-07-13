@@ -1,18 +1,17 @@
-Lal Lal Wind Farm Record — Documents Technical Collection Heading Update
+Lal Lal Wind Farm Record — Stage 1 and Stage 2 Chronology Update
 
-File:
-- documents.html
-
-Validation:
 - filename_preserved: True
 - canonical_unchanged: True
-- old_heading_removed: True
-- new_heading_present: True
-- technical_reports_link_present: True
-- document_list_preserved: True
+- june_2022_elaine_entry_present: True
+- epa_email_link_present: True
+- june_2022_pdf_included: True
+- yendon_stage1_present: True
+- elaine_final_present: True
+- stage2_present: True
+- auditor_verifications_present: True
+- coarse_rows_removed: True
 
 Scope:
-- Replaced the misleading pre-construction-only heading with “Technical report collection”.
-- Updated the lead text to cover planning-stage, post-construction, later technical and auditor records.
-- Added a direct link to the Technical Reports page for explanation and chronology.
-- Preserved the existing filename, canonical URL, navigation and document links.
+- Added the June 2022 Elaine Stage 1 report relied upon within the EPA administrative record.
+- Added Yendon Stage 1, final Elaine Stage 1, Stage 2 and corresponding ARUP verification milestones.
+- Preserved filename, canonical URL, navigation and unrelated content.
