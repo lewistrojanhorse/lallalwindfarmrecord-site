@@ -1,17 +1,22 @@
-Lal Lal Wind Farm Record — Stage 1 and Stage 2 Chronology Update
+Lal Lal Wind Farm Record — Yendon Stage 1 Document Update
 
-- filename_preserved: True
+Files:
+- chronology.html
+- documents/SLR-Elaine-Stage-1-Post-construction-Noise-Assessment-v1.7-27-June-2022.pdf
+- documents/SLR-Yendon-Stage-1-Post-construction-Noise-Assessment-v1.7-31-October-2023.pdf
+
+Validation:
+- chronology_filename_preserved: True
 - canonical_unchanged: True
-- june_2022_elaine_entry_present: True
-- epa_email_link_present: True
-- june_2022_pdf_included: True
-- yendon_stage1_present: True
-- elaine_final_present: True
-- stage2_present: True
-- auditor_verifications_present: True
-- coarse_rows_removed: True
+- elaine_pdf_preserved: True
+- yendon_pdf_included: True
+- yendon_direct_link_present: True
+- yendon_technical_link_preserved: True
+- elaine_entry_preserved: True
+- stage2_entries_preserved: True
 
 Scope:
-- Added the June 2022 Elaine Stage 1 report relied upon within the EPA administrative record.
-- Added Yendon Stage 1, final Elaine Stage 1, Stage 2 and corresponding ARUP verification milestones.
-- Preserved filename, canonical URL, navigation and unrelated content.
+- Added the Yendon Stage 1 Post-construction Noise Assessment PDF to the deployment package.
+- Updated the Yendon chronology entry with a direct local report link.
+- Preserved the Technical Reports cross-reference.
+- Preserved the earlier Elaine Stage 1 report and all prior chronology updates.
