@@ -1,5 +1,13 @@
-EPA Sonus Email Fix
+SLR and ARUP Context Images Update
 
-- Added documents/epa-sonus-email.pdf
-- No other files changed.
-- Existing epa-NMP-email.pdf remains untouched.
+- html_included: True
+- slr_image_included: True
+- arup_image_included: True
+- slr_image_link_present: True
+- arup_image_link_present: True
+- context_links_preserved: True
+- canonical_preserved: True
+
+Scope:
+- Added the supplied SLR and ARUP highlighted extracts to their respective cards.
+- Preserved the documentary-context links and existing source-document buttons.
