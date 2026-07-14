@@ -1,9 +1,8 @@
-K15aa Resonate Peer Review Update
+K15aa Appendix H Update
 
 - filename_preserved: True
-- canonical_preserved: True
-- resonate_section_present: True
-- 0.2_db_present: True
-- reading_note_present: True
+- appendix_h_present: True
+- single_extract_present: True
 - pdf_included: True
-- both_images_included: True
+- resonate_renumbered: True
+- canonical_preserved: True
