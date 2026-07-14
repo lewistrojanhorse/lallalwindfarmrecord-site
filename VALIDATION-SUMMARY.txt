@@ -1,16 +1,18 @@
-April 2018 Sonus Report Link Update
+Verification Page — ARUP Document Control History Update
 
 - html_filename_preserved: True
 - canonical_preserved: True
-- april_sonus_link_added: True
-- april_sonus_pdf_included: True
-- placeholder_removed: True
-- obsolete_note_removed: True
-- aecom_links_preserved: True
-- community_letter_link_preserved: True
+- document_control_section_added: True
+- 22_june_description_present: True
+- 28_june_descriptions_present: True
+- 22_june_image_included: True
+- 28_june_image_included: True
+- applied_example_preserved: True
+- primary_material_preserved: True
 
 Scope:
-- Added a working PDF button for the April 2018 Sonus S5464C6 report.
-- Included the April 2018 Sonus PDF in the documents folder.
-- Removed the obsolete link-to-be-confirmed wording.
-- Preserved the AECOM peer review and community letter links and all unrelated content.
+- Added a document-control-history section to verification.html.
+- Displayed the supplied 22 June 2022 and 28 June 2022 ARUP verification sheets side by side.
+- Recorded the descriptions “Verification Audit”, “Draft Verification Report” and “Final Verification Report”.
+- Added a restrained provenance note without making a compliance or process finding.
+- Preserved the existing page filename, canonical URL, navigation and all prior verification content.
