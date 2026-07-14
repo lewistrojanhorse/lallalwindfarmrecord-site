@@ -1,6 +1,5 @@
-Sonus PDF Link Fix
+EPA Sonus Email Fix
 
-- html_created: True
-- pdf_created: True
-- exact_link_present: True
-- canonical_preserved: True
+- Added documents/epa-sonus-email.pdf
+- No other files changed.
+- Existing epa-NMP-email.pdf remains untouched.
