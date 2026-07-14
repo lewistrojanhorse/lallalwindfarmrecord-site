@@ -1,18 +1,15 @@
-Verification Page — ARUP Document Control History Update
+AECOM and Community Letter Button Visibility Fix
 
-- html_filename_preserved: True
+- html_filename_correct: True
 - canonical_preserved: True
-- document_control_section_added: True
-- 22_june_description_present: True
-- 28_june_descriptions_present: True
-- 22_june_image_included: True
-- 28_june_image_included: True
-- applied_example_preserved: True
-- primary_material_preserved: True
+- peer_review_button_visible: True
+- community_letter_button_visible: True
+- aecom_pdf_included: True
+- community_letter_pdf_included: True
+- exact_document_paths_used: True
 
 Scope:
-- Added a document-control-history section to verification.html.
-- Displayed the supplied 22 June 2022 and 28 June 2022 ARUP verification sheets side by side.
-- Recorded the descriptions “Verification Audit”, “Draft Verification Report” and “Final Verification Report”.
-- Added a restrained provenance note without making a compliance or process finding.
-- Preserved the existing page filename, canonical URL, navigation and all prior verification content.
+- Rebuilt the current pre-construction page with both document buttons explicitly visible.
+- Placed the buttons directly at the end of each card rather than relying on inherited auto-spacing.
+- Included both PDFs at the exact case-sensitive paths used by the HTML.
+- Preserved all other page content and links.
