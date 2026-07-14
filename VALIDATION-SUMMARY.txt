@@ -1,13 +1,15 @@
-SLR and ARUP Context Images Update
+EPA Sonus Inline Image Update
 
 - html_included: True
-- slr_image_included: True
-- arup_image_included: True
-- slr_image_link_present: True
-- arup_image_link_present: True
-- context_links_preserved: True
+- epa_image_included: True
+- epa_image_link_present: True
+- epa_button_removed: True
+- slr_image_preserved: True
+- arup_image_preserved: True
+- three_card_section_preserved: True
 - canonical_preserved: True
 
 Scope:
-- Added the supplied SLR and ARUP highlighted extracts to their respective cards.
-- Preserved the documentary-context links and existing source-document buttons.
+- Replaced the EPA email button with the full one-page EPA email displayed inline.
+- Placed the image beside the existing SLR and ARUP extracts.
+- Preserved the existing SLR and ARUP images, links and all unrelated page content.
