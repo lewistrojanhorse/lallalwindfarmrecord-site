@@ -1,8 +1,6 @@
-K15aa Appendix H Update
+Sonus PDF Link Fix
 
-- filename_preserved: True
-- appendix_h_present: True
-- single_extract_present: True
-- pdf_included: True
-- resonate_renumbered: True
+- html_created: True
+- pdf_created: True
+- exact_link_present: True
 - canonical_preserved: True
