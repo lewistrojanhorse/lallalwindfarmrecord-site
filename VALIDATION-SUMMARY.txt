@@ -1,15 +1,15 @@
-EPA Sonus Inline Image Update
+AECOM Peer Review and Community Letter Links Update
 
-- html_included: True
-- epa_image_included: True
-- epa_image_link_present: True
-- epa_button_removed: True
-- slr_image_preserved: True
-- arup_image_preserved: True
-- three_card_section_preserved: True
+- html_filename_preserved: True
 - canonical_preserved: True
+- aecom_link_added: True
+- community_letter_link_added: True
+- aecom_pdf_included: True
+- community_letter_pdf_included: True
+- placeholder_removed_for_aecom_section: True
 
 Scope:
-- Replaced the EPA email button with the full one-page EPA email displayed inline.
-- Placed the image beside the existing SLR and ARUP extracts.
-- Preserved the existing SLR and ARUP images, links and all unrelated page content.
+- Added a working PDF button for the AECOM peer review.
+- Added a working PDF button for the LLWF community letter.
+- Included both PDFs in the documents folder.
+- Preserved the existing page filename, canonical URL and unrelated content.
