@@ -1,15 +1,9 @@
-AECOM and Community Letter Button Visibility Fix
+Permit Amendment Formal Submission Update
 
-- html_filename_correct: True
+- filename_preserved: True
 - canonical_preserved: True
-- peer_review_button_visible: True
-- community_letter_button_visible: True
-- aecom_pdf_included: True
-- community_letter_pdf_included: True
-- exact_document_paths_used: True
-
-Scope:
-- Rebuilt the current pre-construction page with both document buttons explicitly visible.
-- Placed the buttons directly at the end of each card rather than relying on inherited auto-spacing.
-- Included both PDFs at the exact case-sensitive paths used by the HTML.
-- Preserved all other page content and links.
+- submission_section_added: True
+- pdf_included: True
+- primary_documents_entry_added: True
+- annex_e_preserved: True
+- existing_27a_section_preserved: True
