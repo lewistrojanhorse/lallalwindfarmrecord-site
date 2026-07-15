@@ -1,9 +1,15 @@
-Permit Amendment Formal Submission Update
+Noise Management Plan EPA Chronology Update
 
-- filename_preserved: True
+- document_use_email_first: True
 - canonical_preserved: True
-- submission_section_added: True
-- pdf_included: True
-- primary_documents_entry_added: True
-- annex_e_preserved: True
-- existing_27a_section_preserved: True
+- all_links_preserved: True
+
+Order:
+- EPA document-use email — 31 January 2024
+- EPA FOI-002-2024 decision — 4 March 2024
+- EPA revisions email — 22 May 2024
+- EPA verification email — 21 June 2024
+- EPA internal review manager email — 23 January 2025
+- EPA draft-date email — 4 February 2025
+- EPA FOI-100-2025 decision — 25 September 2025
+- Trustee request to DTP — 18 May 2026
