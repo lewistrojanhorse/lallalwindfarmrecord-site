@@ -1,15 +1,5 @@
-EPA Documentary Reconciliation Notice — 16 July 2026
+Homepage Current Administrative Step Update
 
-- homepage_updated: True
-- documents_updated: True
-- chronology_updated: True
-- k15aa_updated: True
-- pdf_included: True
-- short_dated_filename_used: Notice-Documentary-Reconciliation-EPA-K15aa-16-July-2026.pdf
-
-Files updated:
-- index.html
-- documents.html
-- chronology.html
-- k15aa.html
-- documents/Notice-Documentary-Reconciliation-EPA-K15aa-16-July-2026.pdf
+- Current package renamed to Current administrative step.
+- Submitted 5 July 2026 replaced with EPA Reconciliation Notice issued 16 July 2026.
+- All other homepage content preserved.
