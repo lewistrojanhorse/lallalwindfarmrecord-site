@@ -1,10 +1,9 @@
-Refine Pre-construction Acoustic Assessments page to align with locked documentary methodology
+Refine Sonus documentary guide to align with locked record methodology
 
 - standardise page terminology to use administrative record consistently
-- preserve the planning-stage, background-monitoring, Sonus and Environmental Auditor sequence
-- retain the distinction between the formal PCNA pathway, later technical references and agency reliance
-- preserve all April 2018 Sonus, AECOM, June 2018 Sonus, EPA and DTP FOI links
-- retain the cautious documentary limitation concerning separately identified peer-review material
-- update agency-record wording to reflect the currently published record
+- preserve the distinction between planning-stage prediction, formal post-construction assessment and later agency reliance
+- retain the separate peer-review custody analysis and cautious documentary limitations
+- preserve all Sonus, EPA, Council, DTP, SLR and ARUP source links
+- retain the ARUP verification comparison and FOI comparison section anchors
 - update footer terminology, version and publication date
-- preserve pre-construction-acoustic-assessments.html, canonical URL, navigation, section anchors, images and internal cross-references
+- preserve sonus-pre-construction-noise-assessment.html, canonical URL, navigation, images and internal cross-references

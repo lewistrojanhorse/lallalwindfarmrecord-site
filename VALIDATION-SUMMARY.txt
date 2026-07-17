@@ -1,4 +1,4 @@
-PRE-CONSTRUCTION ACOUSTIC ASSESSMENTS PAGE VALIDATION
+SONUS PRE-CONSTRUCTION NOISE ASSESSMENT PAGE VALIDATION
 
 PASS - doctype
 PASS - canonical preserved
@@ -6,17 +6,18 @@ PASS - active navigation
 PASS - main present
 PASS - footer present
 PASS - record terminology
-PASS - April Sonus link preserved
-PASS - AECOM review link preserved
-PASS - June Sonus link preserved
-PASS - EPA FOI-031 link preserved
-PASS - DTP FOI link preserved
+PASS - Sonus report link preserved
+PASS - EPA email link preserved
+PASS - Council consultation link preserved
+PASS - EPA verified-documents link preserved
+PASS - ARUP comparison anchor preserved
+PASS - FOI comparison anchor preserved
 PASS - cautious limitation preserved
 PASS - no duplicate IDs
 PASS - balanced section tags
 
 Duplicate IDs: None
-Section tags: 14 open / 14 close
-Anchor links: 59
+Section tags: 11 open / 11 close
+Anchor links: 55
 
 Overall: PASS
