@@ -1,9 +1,9 @@
-Refine Understanding the Record documentary methodology
+Refine chronology and reconcile documentary dates
 
-- distinguish governing requirements from later evidentiary material
-- define the authority and documentary role of source documents
-- clarify the meaning and limits of documentary gaps and FOI disclosures
-- strengthen the six-step issue assessment methodology
-- add disciplined language for established, unidentified and unresolved matters
-- align shared record terminology with the updated Glossary and Framework
-- preserve filename, canonical URL, navigation, anchors and stable links
+- align chronology with the locked documentary methodology
+- distinguish requirement, event, report, verification, reliance and disclosure dates
+- preserve and attribute differing commissioning-related dates
+- integrate K15aa, Sonus, NMP, FOI and Trustee record milestones
+- correct the Ombudsman supplementary submission date to 6 July 2026
+- strengthen evidentiary limits and source-attribution language
+- preserve chronology.html, canonical URL, navigation and stable links

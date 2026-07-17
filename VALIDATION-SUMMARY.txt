@@ -1,24 +1,28 @@
 VALIDATION SUMMARY
 ==================
-File: understanding-the-record.html
+File: chronology.html
+Result: PASS
 
-HTML parse: PASS
-DOCTYPE: PASS
-Title: PASS
-Canonical: PASS
-Navigation active state: PASS
-Duplicate IDs: PASS
-Empty links: PASS
-Broken same-page anchors: PASS
-Legacy terminology: PASS
-Stable filename and canonical URL: PASS
-Internal navigation and existing cross-page links preserved: PASS
-New section anchor reading-statements: PASS
+Structural checks
+-----------------
+- HTML5 doctype: PASS
+- lang="en-AU": PASS
+- title present: PASS
+- canonical URL preserved: PASS
+- header/main/footer present: PASS
+- Chronology navigation state preserved: PASS
+- Duplicate IDs: NONE
+- Empty href attributes: NONE
+- Unsafe href schemes: NONE
+- Missing same-page anchors: NONE
 
-Review completed:
-- governing hierarchy and documentary roles
-- requirement/evidence/gap/question/response/current-position method
-- source authority and interpretive limits
-- FOI and disclosed-record limitations
-- technical and agency pathway consistency
-- shared header, footer and version terminology
+Documentary review
+------------------
+- Shared terminology aligned with Glossary, Framework and Understanding the Record.
+- Governing requirements separated from later technical, auditor, agency and FOI material.
+- Monitoring dates, report dates, verification dates, reliance dates and disclosure dates distinguished.
+- Conflicting commissioning-related dates preserved and attributed rather than silently harmonised.
+- Ombudsman supplementary submission date corrected to 6 July 2026.
+- K15aa, Sonus, Stage 1, Stage 2, NMP, FOI and Trustee record chronology integrated.
+- Evidentiary limits strengthened without making regulatory findings.
+- Filename, canonical URL, navigation structure and stable document links preserved.
