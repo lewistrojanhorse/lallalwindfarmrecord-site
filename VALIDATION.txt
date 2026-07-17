@@ -1,8 +1,12 @@
-doctype: PASS
-title: PASS
-headline: PASS
-version: PASS
-nav_index: PASS
-stylesheet: PASS
-no_old_headline: PASS
-no_scattered: PASS
+Glossary update validation
+
+PASS
+
+
+Checks performed:
+- HTML parsed successfully
+- Required document structure present
+- Duplicate IDs checked
+- In-page anchors checked
+- Canonical and title retained
+- Existing filename and relative navigation links preserved

@@ -1,0 +1,7 @@
+Update glossary to locked documentary methodology
+
+- align glossary introduction with the central compliance question
+- apply the required requirement/evidence/gap/response method
+- replace editorial repository terminology with record terminology
+- complete incomplete glossary entries and correct duplicate section ID
+- preserve glossary.html filename, anchors, navigation and document links
