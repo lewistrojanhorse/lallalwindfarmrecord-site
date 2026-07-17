@@ -1,9 +1,9 @@
-feat(navigation): reorganise repository into a guided learning sequence
+feat(home): explain the purpose of the Lal Lal Wind Farm Record in plain English
 
-- order navigation from introduction and glossary through framework, chronology and key issues
-- place NZS 6808, NCTP, K15aa and SAC in the core technical evidence sequence
-- group detailed technical pages after the technical reports hub
-- move verification, record status and contact into repository resources
-- apply the same primary navigation across all public HTML pages
-- retain the I14aa representative-monitoring page as an unpublished noindex draft
-- refresh sitemap ordering without changing public filenames or URLs
+- rewrite the Home page for visitors with no prior knowledge of the wind farm or website
+- explain why the website was created before introducing technical material
+- frame the central documentary question in neutral, accessible language
+- retain the latest issued Notices prominently on the Home page
+- provide clear pathways to Start Here, Glossary and Chronology
+- preserve original document links, filenames, navigation and repository structure
+- update Home page metadata and repository version to 5.1
