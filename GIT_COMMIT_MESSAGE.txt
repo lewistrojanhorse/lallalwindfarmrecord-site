@@ -1,7 +1,8 @@
-Update glossary to locked documentary methodology
+Refine Key Issues and documentary hierarchy
 
-- align glossary introduction with the central compliance question
-- apply the required requirement/evidence/gap/response method
-- replace editorial repository terminology with record terminology
-- complete incomplete glossary entries and correct duplicate section ID
-- preserve glossary.html filename, anchors, navigation and document links
+- reorganise issues by technical, verification and regulatory pathway
+- align all issue descriptions with the locked documentary methodology
+- distinguish source statements, unidentified material and decision-maker findings
+- strengthen FOI and documentary-custody language
+- add a clear recommended reading sequence
+- preserve key-issues.html, canonical URL, navigation and stable links

@@ -1,12 +1,21 @@
-Glossary update validation
+VALIDATION SUMMARY
+==================
+File: key-issues.html
+Status: PASS
 
-PASS
+Required structure: {'title': True, 'canonical': True, 'main': True, 'nav': True, 'footer': True}
+Duplicate IDs: None
+Empty links: None
+Unsafe links: None
+Canonical: https://lallalwindfarmrecord.com.au/key-issues.html
+Navigation links: 23
+Total links: 58
 
-
-Checks performed:
-- HTML parsed successfully
-- Required document structure present
-- Duplicate IDs checked
-- In-page anchors checked
-- Canonical and title retained
-- Existing filename and relative navigation links preserved
+Review completed:
+- governing-document hierarchy
+- six-step documentary methodology
+- issue categorisation and reading order
+- distinction between documentary gap and regulatory finding
+- shared record terminology
+- canonical URL, filename and navigation preservation
+- stable internal and document links preserved
