@@ -1,17 +1,24 @@
-LAL LAL WIND FARM RECORD — START HERE UPDATE v5.2
-Date: 18 July 2026
+VALIDATION SUMMARY
+==================
+File: understanding-the-record.html
 
-Scope
-- Rebuilt start-here.html only.
-- Preserved the Home page, public architecture, filenames and navigation.
+HTML parse: PASS
+DOCTYPE: PASS
+Title: PASS
+Canonical: PASS
+Navigation active state: PASS
+Duplicate IDs: PASS
+Empty links: PASS
+Broken same-page anchors: PASS
+Legacy terminology: PASS
+Stable filename and canonical URL: PASS
+Internal navigation and existing cross-page links preserved: PASS
+New section anchor reading-statements: PASS
 
-Checks completed
-- start-here.html parses as HTML.
-- All local HTML links on the revised page resolve to files in the package.
-- Glossary fragment links used on the revised page exist in glossary.html.
-- Existing image path retained.
-- Canonical, Open Graph, Twitter and JSON-LD descriptions updated.
-- No public link added to the unpublished I14aa draft.
-
-Deployment
-Upload the ZIP contents to the repository root. Retain the existing images and documents folders on the live site.
+Review completed:
+- governing hierarchy and documentary roles
+- requirement/evidence/gap/question/response/current-position method
+- source authority and interpretive limits
+- FOI and disclosed-record limitations
+- technical and agency pathway consistency
+- shared header, footer and version terminology

@@ -1,10 +1,9 @@
-feat(start-here): introduce the wind farm and guide first-time readers in plain English
+Refine Understanding the Record documentary methodology
 
-- explain what the Lal Lal Wind Farm is before introducing the documentary record
-- explain why the website was created without assuming technical or legal knowledge
-- introduce the central question of whether available documents clearly explain how requirements were met
-- guide readers from the Glossary through the framework, chronology, key issues and detailed evidence
-- link unfamiliar terms back to the Glossary
-- distinguish the independent website from the operator and government agencies
-- preserve existing filenames, navigation, source links and repository structure
-- update repository version to 5.2
+- distinguish governing requirements from later evidentiary material
+- define the authority and documentary role of source documents
+- clarify the meaning and limits of documentary gaps and FOI disclosures
+- strengthen the six-step issue assessment methodology
+- add disciplined language for established, unidentified and unresolved matters
+- align shared record terminology with the updated Glossary and Framework
+- preserve filename, canonical URL, navigation, anchors and stable links
