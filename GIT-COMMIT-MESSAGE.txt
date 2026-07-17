@@ -1,10 +1,10 @@
-Refine SAC page to align with locked documentary methodology
+Refine Technical Reports page to align with locked documentary methodology
 
 - standardise page terminology to use administrative record consistently
-- align section hierarchy, panels and source-document presentation with current record pages
-- preserve the approved NCTP methodology and Stage 1 / Stage 2 documentary chronology
-- retain all attended-observation extracts, maps, analytical figures and source links
-- preserve the evidentiary limits and restrained non-determinative language
-- update Agency Records wording to reflect the current published record
+- align the opening purpose section and technical chronology presentation with current record pages
+- preserve the complete technical document sequence and source-document hierarchy
+- retain all Marshall Day, Vestas, CRG, SLR, ARUP, Appendix H and information-session links
+- preserve the exact NZS 6808:2010 and NCTP source-wording anchors
+- update agency-record wording to reflect the currently published record
 - update footer terminology, version and publication date
-- preserve sac.html, canonical URL, navigation, images, anchors and internal cross-references
+- preserve technical-reports.html, canonical URL, navigation, section anchors and internal cross-references

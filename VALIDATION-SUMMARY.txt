@@ -1,4 +1,4 @@
-SAC PAGE VALIDATION
+TECHNICAL REPORTS PAGE VALIDATION
 
 PASS - doctype
 PASS - canonical preserved
@@ -6,16 +6,18 @@ PASS - active navigation
 PASS - main present
 PASS - footer present
 PASS - record terminology
-PASS - NCTP link preserved
-PASS - Annex B link preserved
-PASS - transcript link preserved
-PASS - all evidence images retained
+PASS - MDA link preserved
+PASS - SLR baseline link preserved
+PASS - ARUP link preserved
+PASS - Appendix H link preserved
+PASS - information session link preserved
+PASS - exact NZS wording preserved
+PASS - exact NCTP wording preserved
 PASS - no duplicate IDs
 PASS - balanced section tags
 
 Duplicate IDs: None
-Section tags: 15 open / 15 close
-Anchor links: 62
-Evidence images: 16
+Section tags: 22 open / 22 close
+Anchor links: 108
 
 Overall: PASS
