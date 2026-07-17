@@ -1,10 +1,10 @@
-Refine K15aa page to align with locked documentary methodology
+Refine SAC page to align with locked documentary methodology
 
 - standardise page terminology to use administrative record consistently
-- align section hierarchy, panels and source-document presentation with current repository pages
-- preserve the governing requirement, documentary chronology and evidentiary sequence
-- retain all K15aa, NCTP, Appendix H, Resonate, FOI and agency-record links
+- align section hierarchy, panels and source-document presentation with current record pages
+- preserve the approved NCTP methodology and Stage 1 / Stage 2 documentary chronology
+- retain all attended-observation extracts, maps, analytical figures and source links
+- preserve the evidentiary limits and restrained non-determinative language
 - update Agency Records wording to reflect the current published record
 - update footer terminology, version and publication date
-- preserve k15aa.html, canonical URL, navigation, images, anchors and internal cross-references
-- maintain restrained administrative language without making a compliance finding
+- preserve sac.html, canonical URL, navigation, images, anchors and internal cross-references

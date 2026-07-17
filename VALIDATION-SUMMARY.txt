@@ -1,4 +1,4 @@
-K15AA PAGE VALIDATION
+SAC PAGE VALIDATION
 
 PASS - doctype
 PASS - canonical preserved
@@ -6,15 +6,16 @@ PASS - active navigation
 PASS - main present
 PASS - footer present
 PASS - record terminology
-PASS - Annex A link preserved
 PASS - NCTP link preserved
-PASS - Appendix H link preserved
-PASS - EPA notice link preserved
+PASS - Annex B link preserved
+PASS - transcript link preserved
+PASS - all evidence images retained
 PASS - no duplicate IDs
 PASS - balanced section tags
 
 Duplicate IDs: None
-Section tags: 12 open / 12 close
-Anchor links: 89
+Section tags: 15 open / 15 close
+Anchor links: 62
+Evidence images: 16
 
 Overall: PASS
