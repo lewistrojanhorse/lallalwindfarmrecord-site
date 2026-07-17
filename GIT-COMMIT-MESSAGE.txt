@@ -1,7 +1,8 @@
-Align Glossary presentation with repository pages
+Align NCTP page with current record presentation
 
-- replace the legacy full-height hero with the standard page hero
-- standardise glossary heading, spacing and entry presentation
-- add page-specific glossary styling without altering shared components
-- align footer wording with current record terminology
-- preserve glossary content, anchors, links, navigation and canonical URL
+- standardise repository terminology to administrative record terminology
+- align the Public Information Session section with the current page presentation
+- standardise the primary source-document section heading
+- refine agency-record wording to reflect the current published record
+- update footer terminology, version and publication date
+- preserve nctp.html, canonical URL, navigation, anchors and document links
