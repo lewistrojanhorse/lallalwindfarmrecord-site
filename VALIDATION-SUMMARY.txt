@@ -1,11 +1,3 @@
-Validation status: PASS
-
-Checks completed:
-- HTML parsed successfully
-- Required structural elements present
-- Canonical URL preserved
-- Active navigation preserved
-- Filename preserved as nzs6808.html
-- Existing document links preserved
-- Repository terminology aligned
-- Footer version updated to 6.0
+PASS — presentation-only glossary update.
+Updated hero presentation, glossary page-specific spacing and typography, and footer wording.
+Preserved glossary content, IDs, anchors, links, navigation, filename and canonical URL.
