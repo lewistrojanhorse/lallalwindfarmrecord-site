@@ -1,9 +1,13 @@
-REVIEW DRAFT — NOT FOR DEPLOYMENT
+I14aa Representative Monitoring — Review Draft v2
 
-This package is a standalone review page only. It has not been added to navigation, sitemap, chronology or any live page.
+This package remains a review-only draft and is not linked from the website navigation or sitemap.
 
-Review points:
-- Confirm approximate 700 m I14aa–J14aa distance using authoritative coordinates.
-- Confirm both receptors are south of the same controlling turbine group.
-- Review the wording describing the 2008 threshold decision and the 2016 Marshall Day response.
-- Decide final page title and whether full PDFs or extracts only should be published.
+Updates in this version:
+- Replaced the Marshall Day 2016 response extract with the higher-quality user-supplied image.
+- Replaced the CRG extract and applied the full date 26 October 2021 consistently.
+- Replaced the SLR K15aa rationale extract with the highlighted user-supplied image.
+- Replaced the L Huson & Associates 2022 extract with the clearer executive-summary image.
+- Added the user-annotated turbine-layout map comparing J14aa and K15aa.
+- Used “L Huson” consistently in visible page text.
+- Added provisional analysis of differing turbine geometry, wind sectors and southern pine plantations.
+- Retained the existing draft filename and did not add navigation, sitemap or chronology links.
