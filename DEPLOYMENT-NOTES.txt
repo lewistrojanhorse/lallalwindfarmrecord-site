@@ -1,16 +1,7 @@
-PERMIT AMENDMENT — AUTHORITATIVE REFRESH
+Upload the CONTENTS of this folder to the GitHub repository root.
 
-Replace:
-  permit-amendment.html
+Replace matching HTML files, style.css, robots.txt and sitemap.xml.
+Retain the existing documents/ and images/ folders.
+The I14aa draft remains noindex and is not included in the sitemap or public navigation.
 
-Upload to documents/:
-  DTP-Permit-Amendment-email.pdf
-
-Remove obsolete duplicates if still present:
-  DTP-Permit Ammendment-email.pdf
-  DTP-Permit Amendment-email.pdf
-  DTP-Permit-Ammendment-email.pdf
-  any copies with (1), (2), or (3) suffixes
-
-The updated HTML links exactly to:
-  documents/DTP-Permit-Amendment-email.pdf
+Use the commit message in GIT-COMMIT-MESSAGE.txt.

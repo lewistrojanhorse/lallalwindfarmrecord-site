@@ -1,10 +1,9 @@
-feat(seo): add canonical metadata and structured data across repository
+feat(navigation): reorganise repository into a guided learning sequence
 
-- add canonical URLs to 22 public repository pages
-- add index/follow search-engine directives
-- add Open Graph URL, type and site-name metadata
-- add Twitter summary card metadata
-- add Schema.org WebPage and WebSite structured data
-- refresh robots.txt and sitemap.xml
-- retain existing content, filenames, links and repository structure
-- exclude obsolete methodology page from indexing
+- order navigation from introduction and glossary through framework, chronology and key issues
+- place NZS 6808, NCTP, K15aa and SAC in the core technical evidence sequence
+- group detailed technical pages after the technical reports hub
+- move verification, record status and contact into repository resources
+- apply the same primary navigation across all public HTML pages
+- retain the I14aa representative-monitoring page as an unpublished noindex draft
+- refresh sitemap ordering without changing public filenames or URLs

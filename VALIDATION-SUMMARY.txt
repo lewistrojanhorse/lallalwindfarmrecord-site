@@ -1,6 +1,46 @@
-Home and Record Status Synchronisation
+Lal Lal Wind Farm Record — Architecture Update v5.0
+Generated: 18 July 2026
 
-- index.html preserved as supplied.
-- record-status.html updated to show the EPA Reconciliation Notice as the current administrative step.
-- Ombudsman submission retained as a completed milestone.
-- Notice added to the status register and current development section.
+SCOPE
+- Updated primary navigation across 24 HTML files (23 public pages and 1 unpublished draft).
+- Preserved all public HTML filenames and URLs.
+- Preserved existing page body content.
+- Preserved the I14aa draft as noindex and excluded it from public navigation and sitemap.
+- Refreshed sitemap.xml in the new learning sequence.
+
+LOCKED LEARNING SEQUENCE
+1. Home
+2. Start Here
+3. Glossary
+4. Framework
+5. Understanding the Record
+6. Chronology
+7. Key Issues
+8. NZS 6808
+9. NCTP
+10. K15aa
+11. SAC
+12. Technical
+13. Pre-construction
+14. Sonus 2018
+15. NMP
+16. Permit Amendment
+17. Record
+18. Documents
+19. Agencies
+20. FOI
+21. Verification
+22. Status
+23. Contact
+
+VALIDATION
+- Common primary navigation found on all included HTML pages: PASS
+- Active navigation item matches each public page: PASS
+- Draft active context remains Key Issues: PASS
+- Sitemap contains 23 public URLs exactly once: PASS
+- Draft omitted from sitemap: PASS
+- robots.txt and Google verification file retained: PASS
+
+DEPLOYMENT
+Upload the CONTENTS of this folder to the repository root.
+Do not delete the existing documents or images folders.
