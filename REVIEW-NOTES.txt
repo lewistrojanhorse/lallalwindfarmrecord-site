@@ -1,0 +1,9 @@
+REVIEW DRAFT — NOT FOR DEPLOYMENT
+
+This package is a standalone review page only. It has not been added to navigation, sitemap, chronology or any live page.
+
+Review points:
+- Confirm approximate 700 m I14aa–J14aa distance using authoritative coordinates.
+- Confirm both receptors are south of the same controlling turbine group.
+- Review the wording describing the 2008 threshold decision and the 2016 Marshall Day response.
+- Decide final page title and whether full PDFs or extracts only should be published.
