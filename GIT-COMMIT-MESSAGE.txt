@@ -1,9 +1,10 @@
-Refine chronology and reconcile documentary dates
+Refine NZS 6808 page and documentary framework
 
-- align chronology with the locked documentary methodology
-- distinguish requirement, event, report, verification, reliance and disclosure dates
-- preserve and attribute differing commissioning-related dates
-- integrate K15aa, Sonus, NMP, FOI and Trustee record milestones
-- correct the Ombudsman supplementary submission date to 6 July 2026
-- strengthen evidentiary limits and source-attribution language
-- preserve chronology.html, canonical URL, navigation and stable links
+- restructure the page around the governing permit, Standard and NCTP hierarchy
+- distinguish mandatory requirements from later technical and regulatory reliance
+- align the page with the locked six-step documentary verification methodology
+- strengthen the K15aa, noise-sensitive location, notional boundary and SAC pathways
+- add a clear modification-or-substitution documentary question
+- clarify established facts, unresolved documentary questions and interpretive limits
+- improve cross-links to NCTP, K15aa, SAC, technical reports, FOI and agency records
+- preserve nzs6808.html, canonical URL, navigation and stable document links
