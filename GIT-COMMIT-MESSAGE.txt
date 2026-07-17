@@ -1,9 +1,10 @@
-Refine Noise Management Plan page to align with locked documentary methodology
+Refine Planning Permit Amendment page to align with locked documentary methodology
 
 - standardise page terminology to use administrative record consistently
-- preserve the distinction between the endorsed NCTP, October 2022 NMP, EPA custody record and later permit-amendment pathway
-- retain the preferred measurement-location comparison and technical extracts
-- preserve the full EPA chronology, FOI decisions and Trustee correspondence links
-- retain the restrained evidentiary limitation without making compliance or legal findings
-- update footer terminology, version and publication date
-- preserve noise-management-plan.html, canonical URL, navigation, section anchors, images and internal cross-references
+- preserve the distinction between the original permit framework, regulatory transition and continuing administrative record
+- retain the Conditions 23–27 pathway, Transitional Condition 27A chronology and Trustee amendment correspondence
+- preserve the relationship between the Planning Permit, endorsed NCTP, NZS 6808:2010, Documentary Verification methodology and Annex E
+- retain the Formal Submission dated 25 February 2026 and associated source-document links
+- preserve the restrained evidentiary methodology without making compliance, legal or regulatory findings
+- update Agency Records wording, footer terminology, version and publication date
+- preserve permit-amendment.html, canonical URL, navigation, section anchors and internal cross-references

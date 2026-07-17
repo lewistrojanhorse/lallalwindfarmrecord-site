@@ -1,4 +1,4 @@
-NOISE MANAGEMENT PLAN PAGE VALIDATION
+PLANNING PERMIT AMENDMENT PAGE VALIDATION
 
 PASS - doctype
 PASS - canonical preserved
@@ -6,19 +6,20 @@ PASS - active navigation
 PASS - main present
 PASS - footer present
 PASS - record terminology
-PASS - NMP link preserved
+PASS - formal submission link preserved
+PASS - Annex E link preserved
 PASS - NCTP link preserved
-PASS - FOI-002 link preserved
-PASS - FOI-100 link preserved
-PASS - Trustee DTP link preserved
-PASS - measurement anchor preserved
-PASS - source correspondence anchor preserved
+PASS - NMP link preserved
+PASS - DTP correspondence link preserved
+PASS - formal submission anchor preserved
+PASS - conditions 23-27 preserved
+PASS - Transitional Condition 27A preserved
 PASS - evidentiary limitation preserved
 PASS - no duplicate IDs
 PASS - balanced section tags
 
 Duplicate IDs: None
-Section tags: 10 open / 10 close
-Anchor links: 49
+Section tags: 11 open / 11 close
+Anchor links: 71
 
 Overall: PASS
