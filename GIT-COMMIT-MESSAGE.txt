@@ -1,10 +1,10 @@
-Refine Technical Reports page to align with locked documentary methodology
+Refine Pre-construction Acoustic Assessments page to align with locked documentary methodology
 
 - standardise page terminology to use administrative record consistently
-- align the opening purpose section and technical chronology presentation with current record pages
-- preserve the complete technical document sequence and source-document hierarchy
-- retain all Marshall Day, Vestas, CRG, SLR, ARUP, Appendix H and information-session links
-- preserve the exact NZS 6808:2010 and NCTP source-wording anchors
+- preserve the planning-stage, background-monitoring, Sonus and Environmental Auditor sequence
+- retain the distinction between the formal PCNA pathway, later technical references and agency reliance
+- preserve all April 2018 Sonus, AECOM, June 2018 Sonus, EPA and DTP FOI links
+- retain the cautious documentary limitation concerning separately identified peer-review material
 - update agency-record wording to reflect the currently published record
 - update footer terminology, version and publication date
-- preserve technical-reports.html, canonical URL, navigation, section anchors and internal cross-references
+- preserve pre-construction-acoustic-assessments.html, canonical URL, navigation, section anchors, images and internal cross-references

@@ -1,4 +1,4 @@
-TECHNICAL REPORTS PAGE VALIDATION
+PRE-CONSTRUCTION ACOUSTIC ASSESSMENTS PAGE VALIDATION
 
 PASS - doctype
 PASS - canonical preserved
@@ -6,18 +6,17 @@ PASS - active navigation
 PASS - main present
 PASS - footer present
 PASS - record terminology
-PASS - MDA link preserved
-PASS - SLR baseline link preserved
-PASS - ARUP link preserved
-PASS - Appendix H link preserved
-PASS - information session link preserved
-PASS - exact NZS wording preserved
-PASS - exact NCTP wording preserved
+PASS - April Sonus link preserved
+PASS - AECOM review link preserved
+PASS - June Sonus link preserved
+PASS - EPA FOI-031 link preserved
+PASS - DTP FOI link preserved
+PASS - cautious limitation preserved
 PASS - no duplicate IDs
 PASS - balanced section tags
 
 Duplicate IDs: None
-Section tags: 22 open / 22 close
-Anchor links: 108
+Section tags: 14 open / 14 close
+Anchor links: 59
 
 Overall: PASS
