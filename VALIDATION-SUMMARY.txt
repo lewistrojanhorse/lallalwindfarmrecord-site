@@ -1,7 +1,21 @@
-FOI REGISTER VALIDATION
+DOCUMENTARY VERIFICATION PAGE VALIDATION
 
-PASS - canonical
-PASS - no repository term
-PASS - FOI-010-2026
-PASS - CS019241
-PASS - balanced
+PASS - doctype
+PASS - canonical preserved
+PASS - active navigation
+PASS - record terminology
+PASS - verification limitation preserved
+PASS - adjudication limitation preserved
+PASS - K15aa method preserved
+PASS - ARUP 22 June wording preserved
+PASS - ARUP 28 June wording preserved
+PASS - Sonus comparison preserved
+PASS - primary documents preserved
+PASS - no duplicate IDs
+PASS - balanced sections
+
+Duplicate IDs: None
+Section tags: 10 open / 10 close
+Anchor links: 61
+
+Overall: PASS
