@@ -1,7 +1,21 @@
-DOCUMENTS PAGE VALIDATION
+AGENCY RECORDS PAGE VALIDATION
 
-PASS - canonical
-PASS - no repository term
-PASS - ombudsman date
-PASS - trustee notice
-PASS - balanced
+PASS - doctype
+PASS - canonical preserved
+PASS - active navigation
+PASS - main present
+PASS - footer present
+PASS - record terminology
+PASS - four agencies preserved
+PASS - Sonus custody pathway preserved
+PASS - NMP pathway preserved
+PASS - FOI custody limitation preserved
+PASS - statutory-role distinction preserved
+PASS - no duplicate IDs
+PASS - balanced sections
+
+Duplicate IDs: None
+Section tags: 9 open / 9 close
+Anchor links: 36
+
+Overall: PASS
