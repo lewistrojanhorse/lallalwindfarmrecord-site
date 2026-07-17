@@ -1,4 +1,4 @@
-SONUS PRE-CONSTRUCTION NOISE ASSESSMENT PAGE VALIDATION
+NOISE MANAGEMENT PLAN PAGE VALIDATION
 
 PASS - doctype
 PASS - canonical preserved
@@ -6,18 +6,19 @@ PASS - active navigation
 PASS - main present
 PASS - footer present
 PASS - record terminology
-PASS - Sonus report link preserved
-PASS - EPA email link preserved
-PASS - Council consultation link preserved
-PASS - EPA verified-documents link preserved
-PASS - ARUP comparison anchor preserved
-PASS - FOI comparison anchor preserved
-PASS - cautious limitation preserved
+PASS - NMP link preserved
+PASS - NCTP link preserved
+PASS - FOI-002 link preserved
+PASS - FOI-100 link preserved
+PASS - Trustee DTP link preserved
+PASS - measurement anchor preserved
+PASS - source correspondence anchor preserved
+PASS - evidentiary limitation preserved
 PASS - no duplicate IDs
 PASS - balanced section tags
 
 Duplicate IDs: None
-Section tags: 11 open / 11 close
-Anchor links: 55
+Section tags: 10 open / 10 close
+Anchor links: 49
 
 Overall: PASS

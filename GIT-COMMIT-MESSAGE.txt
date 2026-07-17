@@ -1,9 +1,9 @@
-Refine Sonus documentary guide to align with locked record methodology
+Refine Noise Management Plan page to align with locked documentary methodology
 
 - standardise page terminology to use administrative record consistently
-- preserve the distinction between planning-stage prediction, formal post-construction assessment and later agency reliance
-- retain the separate peer-review custody analysis and cautious documentary limitations
-- preserve all Sonus, EPA, Council, DTP, SLR and ARUP source links
-- retain the ARUP verification comparison and FOI comparison section anchors
+- preserve the distinction between the endorsed NCTP, October 2022 NMP, EPA custody record and later permit-amendment pathway
+- retain the preferred measurement-location comparison and technical extracts
+- preserve the full EPA chronology, FOI decisions and Trustee correspondence links
+- retain the restrained evidentiary limitation without making compliance or legal findings
 - update footer terminology, version and publication date
-- preserve sonus-pre-construction-noise-assessment.html, canonical URL, navigation, images and internal cross-references
+- preserve noise-management-plan.html, canonical URL, navigation, section anchors, images and internal cross-references
