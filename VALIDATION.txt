@@ -1,0 +1,8 @@
+doctype: PASS
+title: PASS
+headline: PASS
+version: PASS
+nav_index: PASS
+stylesheet: PASS
+no_old_headline: PASS
+no_scattered: PASS
