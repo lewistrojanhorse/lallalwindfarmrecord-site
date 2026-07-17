@@ -1,4 +1,4 @@
-PLANNING PERMIT AMENDMENT PAGE VALIDATION
+RECORD STATUS PAGE VALIDATION
 
 PASS - doctype
 PASS - canonical preserved
@@ -6,20 +6,18 @@ PASS - active navigation
 PASS - main present
 PASS - footer present
 PASS - record terminology
-PASS - formal submission link preserved
-PASS - Annex E link preserved
-PASS - NCTP link preserved
-PASS - NMP link preserved
-PASS - DTP correspondence link preserved
-PASS - formal submission anchor preserved
-PASS - conditions 23-27 preserved
-PASS - Transitional Condition 27A preserved
-PASS - evidentiary limitation preserved
+PASS - crystallisation date preserved
+PASS - EPA notice date preserved
+PASS - Ombudsman date corrected
+PASS - EPA notice link preserved
+PASS - Sonus report link preserved
+PASS - EPA reconciliation anchor preserved
+PASS - status limitation preserved
 PASS - no duplicate IDs
 PASS - balanced section tags
 
 Duplicate IDs: None
-Section tags: 11 open / 11 close
-Anchor links: 71
+Section tags: 14 open / 14 close
+Anchor links: 61
 
 Overall: PASS

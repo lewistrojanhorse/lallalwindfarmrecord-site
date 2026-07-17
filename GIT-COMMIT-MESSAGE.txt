@@ -1,10 +1,10 @@
-Refine Planning Permit Amendment page to align with locked documentary methodology
+Refine Record Status page to align with current publication control
 
-- standardise page terminology to use administrative record consistently
-- preserve the distinction between the original permit framework, regulatory transition and continuing administrative record
-- retain the Conditions 23–27 pathway, Transitional Condition 27A chronology and Trustee amendment correspondence
-- preserve the relationship between the Planning Permit, endorsed NCTP, NZS 6808:2010, Documentary Verification methodology and Annex E
-- retain the Formal Submission dated 25 February 2026 and associated source-document links
-- preserve the restrained evidentiary methodology without making compliance, legal or regulatory findings
-- update Agency Records wording, footer terminology, version and publication date
-- preserve permit-amendment.html, canonical URL, navigation, section anchors and internal cross-references
+- standardise page terminology to use public administrative record consistently
+- update the page to Record Version 5.9 dated 18 July 2026
+- preserve the 29 June 2026 crystallisation date and 16 July 2026 EPA reconciliation notice status
+- correct the Supplementary Public Interest Submission chronology to 6 July 2026
+- update the pre-construction pathway to reflect publication of the Sonus report and documentary guide
+- retain the distinction between publication status, administrative status and evidentiary content
+- preserve the VAGO pending-status limitation and restrained non-finding language
+- preserve record-status.html, canonical URL, navigation, section anchor and all documentary links
