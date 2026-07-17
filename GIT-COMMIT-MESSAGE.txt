@@ -1,10 +1,8 @@
-Refine Agency Records gateway to align with locked documentary methodology
+Refine FOI Register page to align with locked documentary methodology
 
-- standardise page terminology to use public administrative record consistently
-- align the gateway with the established agency-record methodology while preserving each agency's distinct statutory and administrative role
-- retain the EPA, DTP, Moorabool Shire Council and AEIC documentary pathways and development-status entries
-- preserve the Sonus custody pathway, Noise Management Plan chronology and Freedom of Information custody limitations
-- replace preview and hypothetical wording with restrained live-gateway language without overstating publication status
-- retain the distinction between documentary custody, technical reliance, correspondence and regulatory function
-- preserve agency-records.html, canonical URL, navigation, page structure and all existing links
+- standardise page terminology to use administrative record consistently
+- preserve the complete FOI register, chronology and documentary custody pathway
+- retain the distinction between historical Beneficiary and Trustee FOI collections
+- preserve all FOI references, agency outcomes, Sonus custody pathway, NMP chronology and agency cross-links
+- preserve canonical URL, navigation, document links and page structure
 - update footer terminology, version and publication date
