@@ -1,10 +1,9 @@
-Refine Contact page to align with locked documentary methodology
+Refine I14aa representative monitoring review draft to align with locked documentary methodology
 
-- standardise page terminology to use administrative record consistently
-- preserve the Trustee contact details, corporate capacity and correction protocol
-- retain the glossary-led reader pathway, agency correspondence, media enquiry and source-material guidance
-- preserve the supplementary-publication approach for correcting apparent documentary errors without retrospectively altering executed material
-- retain the Agency Records correction and additions pathway
-- add canonical, social and structured-data publication controls consistent with the current website architecture
-- preserve contact.html, navigation, email links and page structure
-- update footer terminology, version and publication date to Record Version 5.9 (18 July 2026)
+- standardise page terminology to use administrative record consistently throughout the review draft
+- preserve the unpublished draft status, noindex controls, canonical URL and review notices
+- retain the documented sequence, provisional documentary comparison and evidentiary limitations without altering the underlying documentary meaning
+- preserve the distinction between documented material, provisional observations and the absence of an identified comparative assessment under NZS 6808 Clause 7.1.5
+- retain all primary document references, chronology, images, navigation, internal cross-references and draft publication controls
+- preserve the review draft outside the public navigation and sitemap pending future documentary development
+- update page terminology, footer wording, version and publication date to Record Version 5.9 (18 July 2026)

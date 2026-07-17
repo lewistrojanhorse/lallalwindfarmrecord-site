@@ -1,15 +1,11 @@
-CONTACT PAGE VALIDATION
+I14AA REVIEW DRAFT VALIDATION
 
-PASS - doctype
-PASS - canonical added
-PASS - active navigation preserved
-PASS - Trustee capacity preserved
-PASS - email address preserved
-PASS - correction protocol preserved
-PASS - reader pathway preserved
-PASS - Agency Records link preserved
-PASS - record terminology standardised
-PASS - footer updated
-PASS - balanced sections
+PASS - Draft controls preserved
+PASS - noindex/noarchive preserved
+PASS - Canonical preserved
+PASS - Navigation preserved
+PASS - Documentary methodology preserved
+PASS - Record terminology standardised
+PASS - Footer updated
 
 Overall: PASS
