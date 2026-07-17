@@ -1,21 +1,10 @@
-DOCUMENTARY VERIFICATION PAGE VALIDATION
+ADMINISTRATIVE RECORD PAGE VALIDATION
 
-PASS - doctype
-PASS - canonical preserved
-PASS - active navigation
-PASS - record terminology
-PASS - verification limitation preserved
-PASS - adjudication limitation preserved
-PASS - K15aa method preserved
-PASS - ARUP 22 June wording preserved
-PASS - ARUP 28 June wording preserved
-PASS - Sonus comparison preserved
-PASS - primary documents preserved
-PASS - no duplicate IDs
-PASS - balanced sections
-
-Duplicate IDs: None
-Section tags: 10 open / 10 close
-Anchor links: 61
-
+PASS - Canonical preserved
+PASS - Navigation preserved
+PASS - Documentary hierarchy preserved
+PASS - PDF links preserved
+PASS - Chronology updated to 6 July 2026
+PASS - Record terminology standardised
+PASS - Footer updated to Version 5.9
 Overall: PASS

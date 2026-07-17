@@ -1,10 +1,7 @@
-Refine Documentary Verification page to align with locked methodology
+Refine Administrative Record page to align with locked documentary methodology
 
 - standardise page terminology to use administrative record consistently
-- preserve the requirement, disclosed record and reconciliation methodology
-- retain the express limitations that documentary verification is not a compliance finding or adjudication
-- preserve the K15aa evidentiary method and links to the principal evidence pages
-- preserve the ARUP Elaine document-control history and exact Verification Audit, Draft Verification Report and Final Verification Report wording
-- retain the Sonus predictive-assessment comparison and all primary verification document links
-- preserve verification.html, canonical URL, navigation, images, anchors and page structure
-- update footer terminology, version and publication date
+- preserve the complete documentary hierarchy including foundational documents, Supplementary Public Interest Submission, Supporting Record and Analytical Memoranda, Annexes and verification material
+- correct the Supplementary Public Interest Submission chronology to 6 July 2026
+- preserve all PDF links, navigation, canonical URL, chronology and evidentiary structure
+- update page terminology, footer wording, version and publication date to Record Version 5.9 (18 July 2026)
