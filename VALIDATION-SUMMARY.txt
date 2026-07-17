@@ -1,10 +1,15 @@
-ADMINISTRATIVE RECORD PAGE VALIDATION
+CONTACT PAGE VALIDATION
 
-PASS - Canonical preserved
-PASS - Navigation preserved
-PASS - Documentary hierarchy preserved
-PASS - PDF links preserved
-PASS - Chronology updated to 6 July 2026
-PASS - Record terminology standardised
-PASS - Footer updated to Version 5.9
+PASS - doctype
+PASS - canonical added
+PASS - active navigation preserved
+PASS - Trustee capacity preserved
+PASS - email address preserved
+PASS - correction protocol preserved
+PASS - reader pathway preserved
+PASS - Agency Records link preserved
+PASS - record terminology standardised
+PASS - footer updated
+PASS - balanced sections
+
 Overall: PASS

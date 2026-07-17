@@ -1,7 +1,10 @@
-Refine Administrative Record page to align with locked documentary methodology
+Refine Contact page to align with locked documentary methodology
 
 - standardise page terminology to use administrative record consistently
-- preserve the complete documentary hierarchy including foundational documents, Supplementary Public Interest Submission, Supporting Record and Analytical Memoranda, Annexes and verification material
-- correct the Supplementary Public Interest Submission chronology to 6 July 2026
-- preserve all PDF links, navigation, canonical URL, chronology and evidentiary structure
-- update page terminology, footer wording, version and publication date to Record Version 5.9 (18 July 2026)
+- preserve the Trustee contact details, corporate capacity and correction protocol
+- retain the glossary-led reader pathway, agency correspondence, media enquiry and source-material guidance
+- preserve the supplementary-publication approach for correcting apparent documentary errors without retrospectively altering executed material
+- retain the Agency Records correction and additions pathway
+- add canonical, social and structured-data publication controls consistent with the current website architecture
+- preserve contact.html, navigation, email links and page structure
+- update footer terminology, version and publication date to Record Version 5.9 (18 July 2026)
