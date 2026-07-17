@@ -1,5 +1,6 @@
-Homepage Current Administrative Step Update
+Home and Record Status Synchronisation
 
-- Current package renamed to Current administrative step.
-- Submitted 5 July 2026 replaced with EPA Reconciliation Notice issued 16 July 2026.
-- All other homepage content preserved.
+- index.html preserved as supplied.
+- record-status.html updated to show the EPA Reconciliation Notice as the current administrative step.
+- Ombudsman submission retained as a completed milestone.
+- Notice added to the status register and current development section.
