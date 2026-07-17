@@ -1,10 +1,8 @@
-Refine Record Status page to align with current publication control
+Refine Documents page to align with locked documentary methodology
 
-- standardise page terminology to use public administrative record consistently
-- update the page to Record Version 5.9 dated 18 July 2026
-- preserve the 29 June 2026 crystallisation date and 16 July 2026 EPA reconciliation notice status
+- standardise page terminology to use administrative record consistently
+- update page terminology to reflect the document library within the public administrative record
+- preserve the complete document hierarchy, technical reports, Trustee notices, annexes and verification material
 - correct the Supplementary Public Interest Submission chronology to 6 July 2026
-- update the pre-construction pathway to reflect publication of the Sonus report and documentary guide
-- retain the distinction between publication status, administrative status and evidentiary content
-- preserve the VAGO pending-status limitation and restrained non-finding language
-- preserve record-status.html, canonical URL, navigation, section anchor and all documentary links
+- preserve all filenames, document links, navigation, canonical URL and section structure
+- update footer terminology, version and publication date
