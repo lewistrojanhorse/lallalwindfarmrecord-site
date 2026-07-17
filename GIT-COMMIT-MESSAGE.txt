@@ -1,9 +1,10 @@
-feat(home): explain the purpose of the Lal Lal Wind Farm Record in plain English
+feat(start-here): introduce the wind farm and guide first-time readers in plain English
 
-- rewrite the Home page for visitors with no prior knowledge of the wind farm or website
-- explain why the website was created before introducing technical material
-- frame the central documentary question in neutral, accessible language
-- retain the latest issued Notices prominently on the Home page
-- provide clear pathways to Start Here, Glossary and Chronology
-- preserve original document links, filenames, navigation and repository structure
-- update Home page metadata and repository version to 5.1
+- explain what the Lal Lal Wind Farm is before introducing the documentary record
+- explain why the website was created without assuming technical or legal knowledge
+- introduce the central question of whether available documents clearly explain how requirements were met
+- guide readers from the Glossary through the framework, chronology, key issues and detailed evidence
+- link unfamiliar terms back to the Glossary
+- distinguish the independent website from the operator and government agencies
+- preserve existing filenames, navigation, source links and repository structure
+- update repository version to 5.2

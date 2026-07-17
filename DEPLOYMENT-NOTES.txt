@@ -1,7 +1,7 @@
-Upload the CONTENTS of this folder to the GitHub repository root.
+LAL LAL WIND FARM RECORD — v5.2
 
-Replace matching HTML files, style.css, robots.txt and sitemap.xml.
-Retain the existing documents/ and images/ folders.
-The I14aa draft remains noindex and is not included in the sitemap or public navigation.
+Upload the contents of this package to the GitHub repository root.
 
-Use the commit message in GIT-COMMIT-MESSAGE.txt.
+This release updates start-here.html. All public filenames and URLs are preserved.
+Do not delete the existing images or documents folders from the live repository.
+The representative-monitoring-i14aa-DRAFT.html file remains unpublished and excluded from public navigation.

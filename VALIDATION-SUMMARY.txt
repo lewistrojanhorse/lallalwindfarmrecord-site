@@ -1,20 +1,17 @@
-Lal Lal Wind Farm Record — Home Page Update v5.1
+LAL LAL WIND FARM RECORD — START HERE UPDATE v5.2
 Date: 18 July 2026
 
-Updated:
-- index.html content and metadata
-- Home page introductory structure
-- Latest issued Notices presentation
-- GIT-COMMIT-MESSAGE.txt
+Scope
+- Rebuilt start-here.html only.
+- Preserved the Home page, public architecture, filenames and navigation.
 
-Preserved:
-- all existing public filenames and URLs
-- primary navigation architecture
-- source-document links
-- unpublished I14aa draft status
-- robots.txt, sitemap.xml and Google verification file
+Checks completed
+- start-here.html parses as HTML.
+- All local HTML links on the revised page resolve to files in the package.
+- Glossary fragment links used on the revised page exist in glossary.html.
+- Existing image path retained.
+- Canonical, Open Graph, Twitter and JSON-LD descriptions updated.
+- No public link added to the unpublished I14aa draft.
 
-Validation:
-- HTML parsed successfully
-- all local links referenced by index.html checked against the supplied package or preserved external document folders
-- no changes made to other public-page content
+Deployment
+Upload the ZIP contents to the repository root. Retain the existing images and documents folders on the live site.
