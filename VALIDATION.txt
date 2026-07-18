@@ -1,21 +1,10 @@
-VALIDATION SUMMARY
-==================
-File: key-issues.html
-Status: PASS
+Lal Lal Wind Farm Record — Mobile Compatibility Validation
 
-Required structure: {'title': True, 'canonical': True, 'main': True, 'nav': True, 'footer': True}
-Duplicate IDs: None
-Empty links: None
-Unsafe links: None
-Canonical: https://lallalwindfarmrecord.com.au/key-issues.html
-Navigation links: 23
-Total links: 58
-
-Review completed:
-- governing-document hierarchy
-- six-step documentary methodology
-- issue categorisation and reading order
-- distinction between documentary gap and regulatory finding
-- shared record terminology
-- canonical URL, filename and navigation preservation
-- stable internal and document links preserved
+Scope: presentation-only mobile compatibility update.
+HTML pages included: 24
+HTML content byte-identical to supplied files: PASS
+Viewport meta tag present on every HTML page: PASS
+Shared style.css reference present on every HTML page: PASS
+Sitemap copied without change: PASS
+Only style.css modified: PASS
+URLs, navigation, anchors, metadata, structured data and documentary wording: UNCHANGED

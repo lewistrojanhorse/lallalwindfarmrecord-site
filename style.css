@@ -22,3 +22,57 @@ body.glossary-page .doc-meta{font-size:.94rem;line-height:1.65;margin-top:8px}
 body.glossary-page .doc-item .tag{margin-top:2px}
 body.glossary-page section[id]{scroll-margin-top:170px}
 @media(max-width:900px){body.glossary-page .doc-item{padding:20px 22px}}
+
+
+/* Mobile compatibility update — presentation only; no document content changed. */
+@media (max-width: 900px) {
+  html, body { width: 100%; max-width: 100%; overflow-x: clip; }
+  .site-header { position: relative; top: auto; }
+  .header-main { width: 100%; gap: 14px; padding: 14px 0 10px; }
+  .brand { width: 100%; min-width: 0; }
+  .brand img { max-width: min(190px, 70vw); }
+  .main-nav {
+    width: 100%;
+    max-width: 100%;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 2px 0 10px;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    scroll-snap-type: x proximity;
+  }
+  .main-nav a { flex: 0 0 auto; scroll-snap-align: start; }
+  .container, .hero-content, .panel, .card, .record-group,
+  .doc-item, .status-card, .notice { min-width: 0; max-width: 100%; }
+  .table-wrap, .wide-table, .table, table {
+    max-width: 100%;
+  }
+  .table-wrap, .wide-table {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  iframe, video, embed, object { max-width: 100%; }
+  h1, h2, h3, p, li, .doc-title, .doc-meta, .notice, .panel, .card {
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+}
+
+@media (max-width: 520px) {
+  .container { width: 100%; padding-left: 16px; padding-right: 16px; }
+  .topbar .container { padding-top: 7px; padding-bottom: 7px; }
+  .brand { gap: 10px; }
+  .brand-text { width: 100%; }
+  .main-nav { margin-left: -4px; padding-left: 4px; }
+  .main-nav a { padding: 8px 10px; }
+  .hero-content { padding: 58px 0 108px; }
+  .page-hero { padding: 46px 0; }
+  h1, .page-hero h1 { font-size: clamp(2.15rem, 11vw, 3rem); letter-spacing: -.025em; }
+  .button-row { width: 100%; }
+  .btn { max-width: 100%; white-space: normal; text-align: center; }
+  .status-band { margin-top: -34px; }
+  .card, .panel, .record-group { padding: 20px; }
+  .doc-item { padding: 17px; }
+}
