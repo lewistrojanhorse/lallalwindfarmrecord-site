@@ -36,3 +36,10 @@ Repository preservation
 Deployment note
 - This ZIP is an update package containing all supplied repository HTML pages, stylesheet, sitemap and the new Key Project Dates images.
 - Deploy over the existing repository so existing documents and other image assets remain in place.
+
+Operational monitoring revision
+- Expanded the milestone period from 2021–2024 to 2020–2024.
+- Added the October–December 2020 interim monitoring program.
+- Identified the report description of the newly commissioned wind farm and interim check of compliance.
+- Distinguished Elaine Stage 1, Yendon Stage 1 and Stage 2 monitoring periods.
+- Replaced the prior single-document image with a four-panel documentary chronology image.

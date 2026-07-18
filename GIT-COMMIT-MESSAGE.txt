@@ -1,8 +1,8 @@
-Integrate Key Project Dates across repository
+Expand operational monitoring chronology
 
-- add the final Key Project Dates page and corrected documentary images
-- add Key Project Dates after Chronology in all supplied repository navigation
-- add the page to standard footer record links where present
-- append responsive Key Project Dates styling to the current stylesheet
-- add key-project-dates.html to the public sitemap
-- preserve stable filenames, URLs, document links and draft noindex status
+- add the October–December 2020 interim monitoring milestone
+- record SLR's description of the newly commissioned wind farm and interim check of compliance
+- distinguish Elaine Stage 1, Yendon Stage 1 and Stage 2 monitoring periods
+- update the milestone range from 2021–2024 to 2020–2024
+- replace the prior image with a four-panel documentary monitoring chronology
+- preserve repository navigation, URLs and stable page structure
