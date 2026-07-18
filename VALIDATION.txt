@@ -1,10 +1,6 @@
-Lal Lal Wind Farm Record — Mobile Compatibility Validation
-
-Scope: presentation-only mobile compatibility update.
-HTML pages included: 24
-HTML content byte-identical to supplied files: PASS
-Viewport meta tag present on every HTML page: PASS
-Shared style.css reference present on every HTML page: PASS
-Sitemap copied without change: PASS
-Only style.css modified: PASS
-URLs, navigation, anchors, metadata, structured data and documentary wording: UNCHANGED
+Validation summary
+- Updated key-project-dates.html only.
+- Added 16 February 2021 SLR supplementary K15aa baseline report milestone.
+- Added image: images/slr-k15aa-baseline-report-issued-16-february-2021.jpg
+- Preserved existing filenames, navigation, canonical URL and repository structure.
+- Confirmed the new image path resolves within the update package.
