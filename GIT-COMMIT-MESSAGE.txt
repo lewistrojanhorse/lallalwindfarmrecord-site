@@ -1,7 +1,8 @@
-Refine Key Project Dates documentary images
+Integrate Key Project Dates across repository
 
-- replace the 2007 background monitoring image with the supplied K15aa logger-location photographs
-- replace the 30 April 2009 Planning Permit image with the signed issue page
-- replace the operational noise monitoring image with the NCTP timing and duration extract
-- preserve stable image filenames and existing page references
-- finalise the Key Project Dates Version 6.1 page package
+- add the final Key Project Dates page and corrected documentary images
+- add Key Project Dates after Chronology in all supplied repository navigation
+- add the page to standard footer record links where present
+- append responsive Key Project Dates styling to the current stylesheet
+- add key-project-dates.html to the public sitemap
+- preserve stable filenames, URLs, document links and draft noindex status
