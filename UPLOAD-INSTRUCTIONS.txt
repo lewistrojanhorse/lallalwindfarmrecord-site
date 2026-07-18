@@ -1,24 +1,19 @@
 Representative Monitoring — Upload Instructions
 
-1. Open this ZIP.
-2. Upload the CONTENTS of the ZIP to the GitHub repository root.
-3. Do not upload the enclosing folder itself.
-4. Replace representative-monitoring.html.
-5. Preserve the included folder structure:
-   images/i14aa-record/
-6. Upload the nine included images into that repository folder.
-7. Do not delete the existing images or documents folders.
-8. Commit and push using the supplied commit message.
+Upload the CONTENTS of this ZIP to the GitHub repository root.
+Do not upload the enclosing folder itself.
 
-After deployment, verify:
+Replace:
+- representative-monitoring.html
+
+Upload/update:
+- images/i14aa-record/ and the ten included image files
+
+Do not delete the existing images or documents folders.
+Commit and push using GIT-COMMIT-MESSAGE.txt.
+
+Then verify:
 https://lallalwindfarmrecord.com.au/representative-monitoring.html
 
-The updated page should display:
-- NZS 6808 Clauses 7.1.4 and 7.1.5;
-- the Southern receptor corridor section;
-- the I14aa planning record;
-- background and compliance-limit tables;
-- CRG, EPA, Huson and SLR evidence extracts.
-
-A cache-bypass check may be made with:
-https://lallalwindfarmrecord.com.au/representative-monitoring.html?v=20260719
+The opening figure should now be the annotated NCTP predicted noise contour.
+The Marshall Day 2016 figure should show the highlighted St Sava text and circled location.

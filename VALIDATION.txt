@@ -1,27 +1,30 @@
 Representative Monitoring — Validation Summary
 Date: 19 July 2026
 
-PACKAGE CONTENTS
+FILES
 - representative-monitoring.html
-- images/i14aa-record/ (9 required image assets)
+- images/i14aa-record/ (10 image assets)
 - IMAGE-MANIFEST.txt
 - VALIDATION.txt
 - GIT-COMMIT-MESSAGE.txt
 - UPLOAD-INSTRUCTIONS.txt
 
-CHECKS
+CHANGES
+- Added the annotated NCTP predicted-noise-contour image as Figure 1.
+- Retained the NZS 6808 Clauses 7.1.4 and 7.1.5 image.
+- Retained the annotated SLR receptor map and turbine-sector comparison.
+- Replaced the earlier Marshall Day 2016 image with the highlighted and circled version.
+- Retained the Marshall Day 2008, CRG, EPA, Huson and SLR extracts.
+- Renumbered all ten figures in documentary order.
+- Updated footer notation to Record Version 6.4 dated 19 July 2026.
+
+VALIDATION
 - HTML parsed successfully.
-- Stable filename preserved: representative-monitoring.html.
-- Canonical URL confirmed:
-  https://lallalwindfarmrecord.com.au/representative-monitoring.html
-- Robots directive confirmed: index, follow.
-- One H1 present.
-- All images contain alt text.
-- All nine page-specific image references resolve within this package.
-- No unreferenced page-specific image was packaged.
-- Shared repository assets such as style.css, images/favicon.png,
-  images/lth-logo.png and images/social-preview.jpg were not duplicated.
-- Existing navigation and stable internal URLs were preserved.
+- Stable filename and canonical URL preserved.
+- Exactly ten page-specific images are referenced.
+- All ten referenced image paths resolve inside the package.
+- No packaged page-specific image is unreferenced.
+- Existing navigation and stable internal links preserved.
 
 RESULT
-PASS — deployment-ready single-page repository update.
+PASS — deployment-ready page update.

@@ -1,16 +1,18 @@
-Representative Monitoring — Image Manifest
+Representative Monitoring — Final Image Manifest
+Date: 19 July 2026
 
 Repository path: images/i14aa-record/
 
-annotated-receptor-map-i14aa-j14aa-k15aa.png
-nzs6808-clauses-7-1-4-7-1-5.jpg
-i14aa-j14aa-k15aa-turbine-sectors.png
-mda-2008-i14aa-selection.png
-mda-2016-st-sava-contours.jpg
-crg-2021-southern-properties.png
-epa-desktop-southern-monitoring.png
-huson-2022-k15aa-location.png
-slr-k15aa-representative-reasons.png
+1. nctp-predicted-noise-contour-i14aa-j14aa-k15aa.jpg
+2. nzs6808-clauses-7-1-4-7-1-5.jpg
+3. annotated-receptor-map-i14aa-j14aa-k15aa.png
+4. i14aa-j14aa-k15aa-turbine-sectors.png
+5. mda-2008-i14aa-selection.png
+6. mda-2016-st-sava-contours.jpg
+7. crg-2021-southern-properties.png
+8. epa-desktop-southern-monitoring.png
+9. huson-2022-k15aa-location.png
+10. slr-k15aa-representative-reasons.png
 
-All nine files are referenced by representative-monitoring.html.
-No obsolete images are included in this update package.
+The Marshall Day 2016 image is the highlighted and circled version supplied by the user.
+All ten images are referenced by representative-monitoring.html.
