@@ -1,10 +1,8 @@
-Update representative monitoring page and final evidence set
+Update representative monitoring page
 
-- add the annotated NCTP predicted noise contour for I14aa, J14aa and K15aa
-- retain the NZS 6808 Clauses 7.1.4 and 7.1.5 source extract
-- retain the annotated SLR receptor map and turbine-sector comparison
-- replace the Marshall Day 2016 St Sava image with the highlighted and circled version
-- retain the Marshall Day 2008, CRG, EPA, Huson and SLR evidence extracts
-- renumber all figures in documentary order
-- update the page footer to Record Version 6.4
-- preserve the public filename, canonical URL, navigation and repository structure
+- replace Marshall Day 2016 figure with highlighted St Sava version
+- add annotated NCTP contour opening figure
+- retain established documentary image sequence
+- preserve representative-monitoring.html filename
+- preserve canonical URL, navigation and repository structure
+- retain responsive stylesheet updates
