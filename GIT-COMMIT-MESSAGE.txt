@@ -1,9 +1,7 @@
-Expand Key Project Dates operational chronology
+Correct Key Project Dates chronology order
 
-- add the September 2019 temporary turbine suspension and partial resumption milestone
-- add the February–March 2020 interim compliance monitoring entry
-- reproduce the available quoted monitoring text verbatim
-- separate October–December 2020 interim monitoring from the formal compliance program
-- split Elaine Stage 1, Yendon Stage 1 and Stage 2 into individual dated milestones
-- replace the combined operational image with separate documentary extracts
-- preserve the existing page filename, navigation and repository structure
+- reorder operational monitoring milestones into strict chronological sequence
+- place Yendon Stage 1 after the 12 April 2022 permit amendment
+- retain Stage 2 after Yendon Stage 1
+- no content changes
+- preserve filenames, navigation and repository structure
