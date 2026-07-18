@@ -1,7 +1,12 @@
-Correct Key Project Dates chronology order
+Build Representative Monitoring documentary page
 
-- reorder operational monitoring milestones into strict chronological sequence
-- place Yendon Stage 1 after the 12 April 2022 permit amendment
-- retain Stage 2 after Yendon Stage 1
-- no content changes
-- preserve filenames, navigation and repository structure
+- publish the representative monitoring page under a stable production filename
+- restructure the page around the documentary history of I14aa, J14aa and K15aa
+- add the annotated receptor and turbine-layout map
+- reproduce and explain NZS 6808:2010 Clause 7.1.5
+- integrate Marshall Day planning maps and Elaine receptor material
+- document the transition from planning assessment to operational reliance on K15aa
+- add a restrained documentary comparison table
+- record the absence of an express I14aa, J14aa and K15aa comparison in the presently disclosed material
+- update canonical, Open Graph and indexing metadata
+- preserve repository navigation, styling and linked document paths

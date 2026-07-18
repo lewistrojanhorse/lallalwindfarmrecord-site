@@ -1,22 +1,21 @@
-VALIDATION SUMMARY — KEY PROJECT DATES PAGE UPDATE
+LLWF Representative Monitoring v1.0 — Validation Summary
 Date: 18 July 2026
 
-Scope
-- Page-only update package.
-- No repository-wide HTML changes included.
+FILES
+- representative-monitoring.html
+- style.css
+- images/i14aa-record/ (6 image assets)
 
-Changes
-- Added 15–16 September 2019 temporary operational suspension milestone.
-- Added 27 February–26 March 2020 interim compliance monitoring entry using the quoted text verbatim.
-- Split operational monitoring into separate entries for:
-  • October–December 2020 interim noise monitoring
-  • Elaine Stage 1, 9 March–13 May 2021
-  • Yendon Stage 1, 26 May–2 August 2022
-  • Stage 2, March 2023–January 2024
-- Replaced the compressed four-panel image with separate documentary images and paragraphs.
+CHECKS COMPLETED
+- HTML parsed successfully.
+- Stable production filename used: representative-monitoring.html.
+- Canonical and Open Graph URL updated to representative-monitoring.html.
+- Draft/noindex metadata removed and replaced with index, follow.
+- Review-draft notices removed.
+- Image references verified against packaged assets.
+- Existing repository navigation and footer structure preserved.
+- Existing document links preserved as supplied in the working draft.
+- Responsive stylesheet retained.
 
-Checks
-- Stable page filename preserved: key-project-dates.html
-- Existing page navigation preserved.
-- Image references resolve within packaged images folder.
-- Missing referenced images: None
+DEPLOYMENT NOTE
+This is a page-update package. Deploy the files over the existing repository root while preserving the included folder structure. Existing shared assets and linked PDF documents remain in their current repository locations.
