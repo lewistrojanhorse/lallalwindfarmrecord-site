@@ -1,11 +1,25 @@
-I14AA REVIEW DRAFT VALIDATION
+LLWF RECORD VERSION 5.9 — FINAL TERMINOLOGY FIX
 
-PASS - Draft controls preserved
-PASS - noindex/noarchive preserved
-PASS - Canonical preserved
-PASS - Navigation preserved
-PASS - Documentary methodology preserved
-PASS - Record terminology standardised
-PASS - Footer updated
+index.html
+  File changed: PASS
+  Public Administrative Repository removed: PASS
+  Administrative & Evidentiary Repository removed: PASS
+  Footer heading updated: PASS
+  Independent publication wording updated: PASS
+  Version updated: PASS
+  Filename preserved: PASS
+  Navigation preserved: PASS
+  Canonical preserved: PASS
 
-Overall: PASS
+start-here.html
+  File changed: PASS
+  Public Administrative Repository removed: PASS
+  Administrative & Evidentiary Repository removed: PASS
+  Footer heading updated: PASS
+  Independent publication wording updated: PASS
+  Version updated: PASS
+  Filename preserved: PASS
+  Navigation preserved: PASS
+  Canonical preserved: PASS
+
+Overall validation: PASS

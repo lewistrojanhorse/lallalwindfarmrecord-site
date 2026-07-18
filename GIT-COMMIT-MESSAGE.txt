@@ -1,9 +1,8 @@
-Refine I14aa representative monitoring review draft to align with locked documentary methodology
+Standardise homepage and Start Here terminology for Record Version 5.9
 
-- standardise page terminology to use administrative record consistently throughout the review draft
-- preserve the unpublished draft status, noindex controls, canonical URL and review notices
-- retain the documented sequence, provisional documentary comparison and evidentiary limitations without altering the underlying documentary meaning
-- preserve the distinction between documented material, provisional observations and the absence of an identified comparative assessment under NZS 6808 Clause 7.1.5
-- retain all primary document references, chronology, images, navigation, internal cross-references and draft publication controls
-- preserve the review draft outside the public navigation and sitemap pending future documentary development
-- update page terminology, footer wording, version and publication date to Record Version 5.9 (18 July 2026)
+- replace Public Administrative Repository with Public Administrative Record on index.html and start-here.html
+- replace Administrative & Evidentiary Repository with Administrative & Evidentiary Record
+- update footer publication wording from repository to record
+- rename the footer section heading from Repository to Record
+- update both page footers to Record Version 5.9 dated 18 July 2026
+- preserve filenames, canonical URLs, navigation, metadata, page structure, chronology and documentary meaning
