@@ -1,7 +1,7 @@
-Add Key Project Dates documentary overview
+Refine Key Project Dates documentary images
 
-- add key-project-dates.html with principal project milestones
-- include supplied documentary images under stable descriptive filenames
-- add responsive exhibition-style milestone layout
-- add Key Project Dates navigation and chronology/framework cross-links
-- update page metadata and footer to Record Version 6.1
+- replace the 2007 background monitoring image with the supplied K15aa logger-location photographs
+- replace the 30 April 2009 Planning Permit image with the signed issue page
+- replace the operational noise monitoring image with the NCTP timing and duration extract
+- preserve stable image filenames and existing page references
+- finalise the Key Project Dates Version 6.1 page package

@@ -25,3 +25,11 @@ Package contents
 - IMAGE-MANIFEST.txt
 - VALIDATION-SUMMARY.txt
 - GIT-COMMIT-MESSAGE.txt
+
+Revision note
+- Background monitoring image corrected to the supplied K15aa logger-location photographs.
+
+Final image corrections
+- Background monitoring image corrected to the supplied K15aa logger-location photographs.
+- Planning Permit image corrected to the signed issue page dated 30 April 2009.
+- Operational noise monitoring image corrected to the NCTP monitoring timing and duration extract.
