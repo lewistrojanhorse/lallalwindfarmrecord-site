@@ -1,8 +1,9 @@
-Expand operational monitoring chronology
+Expand Key Project Dates operational chronology
 
-- add the October–December 2020 interim monitoring milestone
-- record SLR's description of the newly commissioned wind farm and interim check of compliance
-- distinguish Elaine Stage 1, Yendon Stage 1 and Stage 2 monitoring periods
-- update the milestone range from 2021–2024 to 2020–2024
-- replace the prior image with a four-panel documentary monitoring chronology
-- preserve repository navigation, URLs and stable page structure
+- add the September 2019 temporary turbine suspension and partial resumption milestone
+- add the February–March 2020 interim compliance monitoring entry
+- reproduce the available quoted monitoring text verbatim
+- separate October–December 2020 interim monitoring from the formal compliance program
+- split Elaine Stage 1, Yendon Stage 1 and Stage 2 into individual dated milestones
+- replace the combined operational image with separate documentary extracts
+- preserve the existing page filename, navigation and repository structure

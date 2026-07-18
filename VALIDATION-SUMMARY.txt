@@ -1,45 +1,22 @@
-VALIDATION SUMMARY — REPOSITORY INTEGRATION v6.1
+VALIDATION SUMMARY — KEY PROJECT DATES PAGE UPDATE
 Date: 18 July 2026
 
 Scope
-- Integrated Key Project Dates across all supplied repository HTML pages.
-- Preserved stable repository filenames and URLs.
-- Added corrected Key Project Dates page and documentary image assets.
-- Updated the supplied sitemap and current stylesheet.
+- Page-only update package.
+- No repository-wide HTML changes included.
 
-Files processed
-- HTML pages: 25
-- Public sitemap: sitemap.xml
-- Stylesheet: style.css
-- Key Project Dates documentary images: 13
+Changes
+- Added 15–16 September 2019 temporary operational suspension milestone.
+- Added 27 February–26 March 2020 interim compliance monitoring entry using the quoted text verbatim.
+- Split operational monitoring into separate entries for:
+  • October–December 2020 interim noise monitoring
+  • Elaine Stage 1, 9 March–13 May 2021
+  • Yendon Stage 1, 26 May–2 August 2022
+  • Stage 2, March 2023–January 2024
+- Replaced the compressed four-panel image with separate documentary images and paragraphs.
 
-Navigation validation
-- Key Project Dates inserted immediately after Chronology in every supplied main navigation.
-- Key Project Dates active state retained only on key-project-dates.html.
-- Missing navigation entries: None
-- Duplicate navigation entries: None
-- Active-state errors: None
-
-Page and asset validation
-- key-project-dates.html included under its stable filename.
-- Corrected background-monitoring, signed Planning Permit and NCTP monitoring images included.
-- Missing Key Project Dates page images: None
-- Key Project Dates sitemap entry count: 1
-- Page-specific responsive CSS appended to the current supplied stylesheet.
-
-Repository preservation
-- Existing HTML filenames and canonical URLs preserved.
-- The I14aa representative-monitoring draft remains noindex and is not added to the sitemap.
-- Existing document/download paths were not renamed or rewritten.
-- Existing image and PDF assets outside the supplied package are not duplicated in this update ZIP.
-
-Deployment note
-- This ZIP is an update package containing all supplied repository HTML pages, stylesheet, sitemap and the new Key Project Dates images.
-- Deploy over the existing repository so existing documents and other image assets remain in place.
-
-Operational monitoring revision
-- Expanded the milestone period from 2021–2024 to 2020–2024.
-- Added the October–December 2020 interim monitoring program.
-- Identified the report description of the newly commissioned wind farm and interim check of compliance.
-- Distinguished Elaine Stage 1, Yendon Stage 1 and Stage 2 monitoring periods.
-- Replaced the prior single-document image with a four-panel documentary chronology image.
+Checks
+- Stable page filename preserved: key-project-dates.html
+- Existing page navigation preserved.
+- Image references resolve within packaged images folder.
+- Missing referenced images: None
