@@ -1,8 +1,9 @@
-Update commissioning glossary entry and timing references
+Update representative monitoring documentary record
 
-- revise the commissioning definition to focus on the final turbine
-- identify 18 November 2019 as the earliest presently disclosed documentary date
-- acknowledge that other commissioning dates were asserted later
-- connect commissioning to the NCTP monitoring windows under Permit Conditions 24 and 25
-- add the Condition 12(b) off-site landscaping and Condition 17(b) bat and bird timing obligations
-- preserve existing filenames, navigation and repository structure
+- publish representative-monitoring.html at its stable production URL
+- integrate NZS 6808 Clauses 7.1.4 and 7.1.5
+- document the I14aa, J14aa and K15aa receptor comparison
+- add annotated receptor and turbine-sector evidence
+- add Marshall Day, CRG, EPA, Huson and SLR extracts
+- add background sound and derived compliance-limit comparisons
+- preserve existing navigation, canonical URL and repository structure

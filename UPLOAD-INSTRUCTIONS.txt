@@ -1,11 +1,24 @@
-Upload the CONTENTS of this ZIP to the GitHub repository root.
+Representative Monitoring — Upload Instructions
 
-Replace the matching HTML files, robots.txt and sitemap.xml.
-Do not upload the enclosing folder itself.
-Do not delete the existing documents or images folders.
+1. Open this ZIP.
+2. Upload the CONTENTS of the ZIP to the GitHub repository root.
+3. Do not upload the enclosing folder itself.
+4. Replace representative-monitoring.html.
+5. Preserve the included folder structure:
+   images/i14aa-record/
+6. Upload the nine included images into that repository folder.
+7. Do not delete the existing images or documents folders.
+8. Commit and push using the supplied commit message.
 
-After committing and pushing, verify:
-https://lallalwindfarmrecord.com.au/robots.txt
-https://lallalwindfarmrecord.com.au/sitemap.xml
+After deployment, verify:
+https://lallalwindfarmrecord.com.au/representative-monitoring.html
 
-Then proceed to Google Search Console sitemap submission.
+The updated page should display:
+- NZS 6808 Clauses 7.1.4 and 7.1.5;
+- the Southern receptor corridor section;
+- the I14aa planning record;
+- background and compliance-limit tables;
+- CRG, EPA, Huson and SLR evidence extracts.
+
+A cache-bypass check may be made with:
+https://lallalwindfarmrecord.com.au/representative-monitoring.html?v=20260719

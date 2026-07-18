@@ -1,6 +1,27 @@
-Validation summary
-- Updated key-project-dates.html only.
-- Added 16 February 2021 SLR supplementary K15aa baseline report milestone.
-- Added image: images/slr-k15aa-baseline-report-issued-16-february-2021.jpg
-- Preserved existing filenames, navigation, canonical URL and repository structure.
-- Confirmed the new image path resolves within the update package.
+Representative Monitoring — Validation Summary
+Date: 19 July 2026
+
+PACKAGE CONTENTS
+- representative-monitoring.html
+- images/i14aa-record/ (9 required image assets)
+- IMAGE-MANIFEST.txt
+- VALIDATION.txt
+- GIT-COMMIT-MESSAGE.txt
+- UPLOAD-INSTRUCTIONS.txt
+
+CHECKS
+- HTML parsed successfully.
+- Stable filename preserved: representative-monitoring.html.
+- Canonical URL confirmed:
+  https://lallalwindfarmrecord.com.au/representative-monitoring.html
+- Robots directive confirmed: index, follow.
+- One H1 present.
+- All images contain alt text.
+- All nine page-specific image references resolve within this package.
+- No unreferenced page-specific image was packaged.
+- Shared repository assets such as style.css, images/favicon.png,
+  images/lth-logo.png and images/social-preview.jpg were not duplicated.
+- Existing navigation and stable internal URLs were preserved.
+
+RESULT
+PASS — deployment-ready single-page repository update.
