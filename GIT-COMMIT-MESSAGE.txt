@@ -1,10 +1,12 @@
-Correct I14aa contour record and replace turbine-sector figure
+Standardise repository navigation and publish Representative Monitoring pathway
 
-- correct the I14aa card to refer to the Marshall Day NCTP 35 dB contour
-- clarify that I14aa is within that contour but is not identified by name on the figure
-- distinguish the Sonus prediction datasets from the NCTP contour map
-- correct related wording throughout the representative monitoring page
-- replace Figure 4 with the original user-supplied image showing I14aa, J14aa and K15aa circled
-- update the Figure 4 caption and alt text
-- update the footer to Record Version 6.5
-- preserve the public filename, canonical URL, navigation and repository structure
+- align navigation, active states, headers and footers across all production pages
+- add Representative Monitoring to the principal navigation on every page
+- add Representative Monitoring to Key Issues and Technical Reports
+- add Representative Monitoring to the common footer and sitemap
+- retain the corrected I14aa, J14aa and K15aa documentary record
+- standardise canonical, Open Graph, robots and structured-data metadata
+- standardise footer notation to Record Version 6.5
+- normalise glossary document structure
+- validate internal HTML targets, anchors and sitemap coverage
+- preserve public filenames, URLs, document links and repository structure

@@ -1,19 +1,17 @@
-Representative Monitoring v6.5 — Upload Instructions
+Lal Lal Wind Farm Record — Repository Update Instructions
 
-Upload the CONTENTS of this ZIP to the GitHub repository root.
-Do not upload the enclosing folder itself.
+1. Open this ZIP.
+2. Upload the CONTENTS of the ZIP to the GitHub repository root.
+3. Do not upload the enclosing folder itself.
+4. Replace the matching HTML files, style.css, robots.txt and sitemap.xml.
+5. Do not delete the existing images or documents directories.
+6. Commit and push using GIT-COMMIT-MESSAGE.txt.
 
-Replace:
-- representative-monitoring.html
-- style.css
-- images/i14aa-record/i14aa-j14aa-k15aa-turbine-sectors.png
+After deployment, verify:
+- https://lallalwindfarmrecord.com.au/
+- https://lallalwindfarmrecord.com.au/representative-monitoring.html
+- https://lallalwindfarmrecord.com.au/key-issues.html
+- https://lallalwindfarmrecord.com.au/technical-reports.html
+- https://lallalwindfarmrecord.com.au/sitemap.xml
 
-Do not delete the existing images or documents folders.
-
-After committing and pushing, verify:
-https://lallalwindfarmrecord.com.au/representative-monitoring.html
-
-The I14aa card should read:
-“Within the NCTP 35 dB contour”
-
-Figure 4 should use the original user-supplied image with I14aa, J14aa and K15aa circled.
+Representative Monitoring should be visible in the principal navigation on every page.
