@@ -1,25 +1,17 @@
-LLWF RECORD VERSION 5.9 — FINAL TERMINOLOGY FIX
+LAL LAL WIND FARM RECORD — VALIDATION SUMMARY
 
-index.html
-  File changed: PASS
-  Public Administrative Repository removed: PASS
-  Administrative & Evidentiary Repository removed: PASS
-  Footer heading updated: PASS
-  Independent publication wording updated: PASS
-  Version updated: PASS
-  Filename preserved: PASS
-  Navigation preserved: PASS
-  Canonical preserved: PASS
+Release: Glossary v6.0
+Date: 18 July 2026
 
-start-here.html
-  File changed: PASS
-  Public Administrative Repository removed: PASS
-  Administrative & Evidentiary Repository removed: PASS
-  Footer heading updated: PASS
-  Independent publication wording updated: PASS
-  Version updated: PASS
-  Filename preserved: PASS
-  Navigation preserved: PASS
-  Canonical preserved: PASS
+Validated:
+- glossary.html filename preserved
+- canonical URL preserved
+- existing navigation and anchors preserved
+- locked terminology retained
+- exact NZS 6808:2010 background sound definition retained
+- agreed key dates and key periods added to nine glossary entries
+- Record Version updated to 6.0
+- duplicate HTML IDs checked
+- local HTML link syntax checked
 
-Overall validation: PASS
+No new page or navigation item is included in this release.

@@ -1,8 +1,8 @@
-Standardise homepage and Start Here terminology for Record Version 5.9
+Glossary v6.0: add key project dates
 
-- replace Public Administrative Repository with Public Administrative Record on index.html and start-here.html
-- replace Administrative & Evidentiary Repository with Administrative & Evidentiary Record
-- update footer publication wording from repository to record
-- rename the footer section heading from Repository to Record
-- update both page footers to Record Version 5.9 dated 18 July 2026
-- preserve filenames, canonical URLs, navigation, metadata, page structure, chronology and documentary meaning
+- add concise key dates and periods to selected glossary entries
+- record planning approval, construction and commissioning milestones
+- add NCTP issue date and K15aa monitoring period
+- connect the background sound definition to the May 2018 construction milestone
+- preserve exact NZS 6808:2010 wording, anchors, navigation and canonical URL
+- update footer to Record Version 6.0 dated 18 July 2026
