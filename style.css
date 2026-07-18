@@ -76,3 +76,26 @@ body.glossary-page section[id]{scroll-margin-top:170px}
   .card, .panel, .record-group { padding: 20px; }
   .doc-item { padding: 17px; }
 }
+
+
+/* Key Project Dates — Version 6.1 */
+.key-dates-page .page-hero{padding:72px 0 64px}
+.key-dates-page .page-hero .container{max-width:980px}
+.key-dates-intro{max-width:840px}
+.key-dates-grid{display:grid;grid-template-columns:1fr;gap:28px;margin-top:30px}
+.key-date-entry{display:grid;grid-template-columns:minmax(250px,.82fr) minmax(0,1.18fr);gap:28px;align-items:center;background:#fff;border:1px solid var(--line);border-radius:20px;padding:22px;box-shadow:0 14px 36px rgba(12,24,56,.06)}
+.key-date-entry:nth-child(even) .key-date-image{order:2}
+.key-date-entry:nth-child(even) .key-date-copy{order:1}
+.key-date-image{margin:0;background:var(--soft);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.key-date-image img{display:block;width:100%;height:310px;object-fit:contain;background:#f3f0e9}
+.key-date-copy .date{display:inline-block;color:var(--gold);font-size:.8rem;font-weight:800;letter-spacing:.12em;text-transform:uppercase;margin-bottom:8px}
+.key-date-copy h2{font-size:clamp(1.45rem,2.6vw,2.05rem);margin:0 0 10px;color:var(--navy)}
+.key-date-copy p{margin:0 0 12px}
+.key-date-copy .source{font-size:.9rem;color:var(--muted);border-top:1px solid var(--line);padding-top:11px}
+.key-dates-note{margin-top:34px}
+@media(max-width:820px){
+  .key-date-entry{grid-template-columns:1fr}
+  .key-date-entry:nth-child(even) .key-date-image,
+  .key-date-entry:nth-child(even) .key-date-copy{order:initial}
+  .key-date-image img{height:auto;max-height:520px}
+}

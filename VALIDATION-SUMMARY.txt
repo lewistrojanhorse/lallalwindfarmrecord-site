@@ -1,17 +1,27 @@
-LAL LAL WIND FARM RECORD — VALIDATION SUMMARY
-
-Release: Glossary v6.0
+VALIDATION SUMMARY — KEY PROJECT DATES v6.1
 Date: 18 July 2026
 
-Validated:
-- glossary.html filename preserved
-- canonical URL preserved
-- existing navigation and anchors preserved
-- locked terminology retained
-- exact NZS 6808:2010 background sound definition retained
-- agreed key dates and key periods added to nine glossary entries
-- Record Version updated to 6.0
-- duplicate HTML IDs checked
-- local HTML link syntax checked
+Scope
+- Page-only deployment package for key-project-dates.html.
+- Existing repository filenames and URLs are preserved.
+- No existing repository page has been overwritten.
 
-No new page or navigation item is included in this release.
+Checks completed
+- HTML page created with Australian English metadata and canonical URL.
+- Key Project Dates navigation item included and marked active.
+- Footer identifies Record Version 6.1.
+- Thirteen supplied documentary images copied, renamed and optimised.
+- Every page image reference resolves within the packaged images folder.
+- Responsive layout included for desktop, tablet and mobile.
+- Existing style.css preserved and page-specific rules appended.
+- Detailed Chronology and Framework cross-references retained.
+- No tables used.
+- No external image dependencies introduced.
+
+Package contents
+- key-project-dates.html
+- style.css
+- images/ (13 documentary images)
+- IMAGE-MANIFEST.txt
+- VALIDATION-SUMMARY.txt
+- GIT-COMMIT-MESSAGE.txt
