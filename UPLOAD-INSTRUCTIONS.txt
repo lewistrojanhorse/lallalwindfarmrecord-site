@@ -1,19 +1,19 @@
-Representative Monitoring — Upload Instructions
+Representative Monitoring v6.5 — Upload Instructions
 
 Upload the CONTENTS of this ZIP to the GitHub repository root.
 Do not upload the enclosing folder itself.
 
 Replace:
 - representative-monitoring.html
-
-Upload/update:
-- images/i14aa-record/ and the ten included image files
+- style.css
+- images/i14aa-record/i14aa-j14aa-k15aa-turbine-sectors.png
 
 Do not delete the existing images or documents folders.
-Commit and push using GIT-COMMIT-MESSAGE.txt.
 
-Then verify:
+After committing and pushing, verify:
 https://lallalwindfarmrecord.com.au/representative-monitoring.html
 
-The opening figure should now be the annotated NCTP predicted noise contour.
-The Marshall Day 2016 figure should show the highlighted St Sava text and circled location.
+The I14aa card should read:
+“Within the NCTP 35 dB contour”
+
+Figure 4 should use the original user-supplied image with I14aa, J14aa and K15aa circled.

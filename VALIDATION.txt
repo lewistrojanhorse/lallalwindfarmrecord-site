@@ -1,30 +1,30 @@
 Representative Monitoring — Validation Summary
 Date: 19 July 2026
 
-FILES
+FILES UPDATED
 - representative-monitoring.html
-- images/i14aa-record/ (10 image assets)
-- IMAGE-MANIFEST.txt
-- VALIDATION.txt
-- GIT-COMMIT-MESSAGE.txt
-- UPLOAD-INSTRUCTIONS.txt
+- style.css
+- images/i14aa-record/i14aa-j14aa-k15aa-turbine-sectors.png
 
-CHANGES
-- Added the annotated NCTP predicted-noise-contour image as Figure 1.
-- Retained the NZS 6808 Clauses 7.1.4 and 7.1.5 image.
-- Retained the annotated SLR receptor map and turbine-sector comparison.
-- Replaced the earlier Marshall Day 2016 image with the highlighted and circled version.
-- Retained the Marshall Day 2008, CRG, EPA, Huson and SLR extracts.
-- Renumbered all ten figures in documentary order.
-- Updated footer notation to Record Version 6.4 dated 19 July 2026.
+CHANGES APPLIED
+- Corrected the I14aa card from “Within the Sonus 35 dB contour” to “Within the NCTP 35 dB contour”.
+- Recorded that I14aa is geographically located within the 35 dB contour shown on the Marshall Day NCTP map, although not identified by name on that figure.
+- Clarified that the Sonus report contains relevant prediction datasets but no noise-contour map.
+- Corrected all related Sonus contour-map statements throughout the page.
+- Replaced the existing turbine-sector image with the original user-supplied version in which I14aa, J14aa and K15aa are circled.
+- Updated the Figure 4 caption and alternative text.
+- Updated the footer to Record Version 6.5.
+
+IMAGE CONTROL
+- No AI-generated or recreated image is included.
+- The replacement image is the exact original image supplied by the user.
 
 VALIDATION
 - HTML parsed successfully.
 - Stable filename and canonical URL preserved.
-- Exactly ten page-specific images are referenced.
-- All ten referenced image paths resolve inside the package.
-- No packaged page-specific image is unreferenced.
-- Existing navigation and stable internal links preserved.
+- Existing image path preserved.
+- Replacement image is present in the package.
+- Navigation and repository structure preserved.
 
 RESULT
-PASS — deployment-ready page update.
+PASS — deployment-ready incremental update.

@@ -1,8 +1,10 @@
-Update representative monitoring page
+Correct I14aa contour record and replace turbine-sector figure
 
-- replace Marshall Day 2016 figure with highlighted St Sava version
-- add annotated NCTP contour opening figure
-- retain established documentary image sequence
-- preserve representative-monitoring.html filename
-- preserve canonical URL, navigation and repository structure
-- retain responsive stylesheet updates
+- correct the I14aa card to refer to the Marshall Day NCTP 35 dB contour
+- clarify that I14aa is within that contour but is not identified by name on the figure
+- distinguish the Sonus prediction datasets from the NCTP contour map
+- correct related wording throughout the representative monitoring page
+- replace Figure 4 with the original user-supplied image showing I14aa, J14aa and K15aa circled
+- update the Figure 4 caption and alt text
+- update the footer to Record Version 6.5
+- preserve the public filename, canonical URL, navigation and repository structure
