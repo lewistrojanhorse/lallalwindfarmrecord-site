@@ -1,12 +1,8 @@
-Build Representative Monitoring documentary page
+Update commissioning glossary entry and timing references
 
-- publish the representative monitoring page under a stable production filename
-- restructure the page around the documentary history of I14aa, J14aa and K15aa
-- add the annotated receptor and turbine-layout map
-- reproduce and explain NZS 6808:2010 Clause 7.1.5
-- integrate Marshall Day planning maps and Elaine receptor material
-- document the transition from planning assessment to operational reliance on K15aa
-- add a restrained documentary comparison table
-- record the absence of an express I14aa, J14aa and K15aa comparison in the presently disclosed material
-- update canonical, Open Graph and indexing metadata
-- preserve repository navigation, styling and linked document paths
+- revise the commissioning definition to focus on the final turbine
+- identify 18 November 2019 as the earliest presently disclosed documentary date
+- acknowledge that other commissioning dates were asserted later
+- connect commissioning to the NCTP monitoring windows under Permit Conditions 24 and 25
+- add the Condition 12(b) off-site landscaping and Condition 17(b) bat and bird timing obligations
+- preserve existing filenames, navigation and repository structure
