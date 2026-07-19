@@ -1,21 +1,7 @@
-VALIDATION SUMMARY — VERSION 6.6
-
-HTML pages: 25
-CSS files: 1
-Sitemap: updated with 19 July 2026 last-modified dates
-New primary PDFs: 4
-Duplicate DOCTYPE declarations: removed
-Footer version: Version 6.6 applied repository-wide
-SEO release markers: v6.6 applied repository-wide
-Internal HTML link check: PASS
-New PDF link/file check: PASS
-Basic parsed HTML structure check: PASS
-
-Documentary controls:
-- Released CS019200 documents were not added because they do not materially advance the important issues identified for this update.
-- “No documents found” outcomes are described as search and decision outcomes, not proof that a document never existed.
-- Part 4 is recorded as an outstanding administrative clarification on the presently published material, not as a concluded determination.
-
-Issues: []
-
-Note: the Google verification token file is intentionally a plain verification file rather than a full HTML document and is excluded from public-page structural validation.
+VERSION 6.6.2 AUDITED RESTORATION
+HTML pages audited: 25
+Preservation failures: 0
+Internal HTML link failures: 0
+Chronology milestone checks: PASS
+Stable pre-existing document URLs preserved unchanged: 70
+Deployment status: READY

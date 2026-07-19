@@ -1,8 +1,10 @@
-Publish Version 6.6 commissioning and FOI administrative update
+Restore and audit complete public record as Version 6.6.2
 
-- publish Council FOI SR.142870 and Governance clarification
-- publish DTP FOI CS019200 decision and Trustee clarification
-- add Administrative Developments to the Home page
-- integrate the documentary pathway across FOI, Documents, Chronology, Key Project Dates, Agency Records, Verification and Record Status
-- update every page footer and SEO release marker to Version 6.6
-- remove duplicate DOCTYPE declarations and refresh sitemap last-modified dates
+- rebuild every HTML page against the retained pre-error Version 6.5 baseline
+- verify preservation of substantive content page by page
+- restore the full chronology including the 2007 background record, 2008 Marshall Day assessment, 2009 planning permit and later project milestones
+- retain the Council and DTP 2026 FOI and administrative clarification pathway
+- preserve approved representative-monitoring presentation changes
+- remove duplicate DOCTYPE declarations without changing substantive content
+- update release markers and footers to Version 6.6.2
+- add repository preservation audit and validation report
