@@ -1,31 +1,11 @@
-Lal Lal Wind Farm Record — Validation Summary
-Date: 19 July 2026
+Representative Monitoring Hero Update — Validation
 
-FILES
-- 25 production HTML pages
-- style.css
-- robots.txt
-- sitemap.xml
-- REPOSITORY-AUDIT.md
-- VALIDATION.txt
-- GIT-COMMIT-MESSAGE.txt
-- UPLOAD-INSTRUCTIONS.txt
-
-RESULTS
-- Common navigation applied to every page.
-- Representative Monitoring added to navigation, Key Issues, Technical Reports, footer and sitemap.
-- Correct active navigation item confirmed on every page.
-- Common footer and Record Version 6.5 applied to every page.
-- Canonical URLs and Open Graph URLs validated.
-- Robots directive standardised.
-- Schema.org structured data standardised.
-- Duplicate IDs: 0.
-- Broken internal HTML page targets: 0.
-- Broken fragment targets: 0.
-- Sitemap contains all 25 public production URLs exactly once.
-
-LIMIT
-Physical integrity of the complete live images and documents directories was not certified because those directories were not supplied in full.
-
-STATUS
-PASS — deployment-ready repository consistency update.
+- Standard page-hero class applied
+- Eyebrow aligned with K15aa internal-page treatment
+- Visible H1 simplified to Representative Monitoring
+- Introductory text preserved
+- Navigation and active state preserved
+- Canonical URL preserved
+- Existing images and document references preserved
+- Duplicate doctype removed
+- Shared stylesheet included unchanged

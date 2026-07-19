@@ -1,12 +1,7 @@
-Standardise repository navigation and publish Representative Monitoring pathway
+Align Representative Monitoring hero with internal page template
 
-- align navigation, active states, headers and footers across all production pages
-- add Representative Monitoring to the principal navigation on every page
-- add Representative Monitoring to Key Issues and Technical Reports
-- add Representative Monitoring to the common footer and sitemap
-- retain the corrected I14aa, J14aa and K15aa documentary record
-- standardise canonical, Open Graph, robots and structured-data metadata
-- standardise footer notation to Record Version 6.5
-- normalise glossary document structure
-- validate internal HTML targets, anchors and sitemap coverage
-- preserve public filenames, URLs, document links and repository structure
+- replace the homepage-style hero with the standard internal page hero
+- align the visible heading, spacing and eyebrow treatment with the K15aa page
+- retain the Representative Monitoring documentary introduction and substantive content
+- preserve the page filename, canonical URL, navigation, images and document links
+- remove the duplicate HTML document declaration
