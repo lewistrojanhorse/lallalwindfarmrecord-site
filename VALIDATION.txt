@@ -1,7 +1,17 @@
-VERSION 6.6.2 AUDITED RESTORATION
-HTML pages audited: 25
-Preservation failures: 0
-Internal HTML link failures: 0
-Chronology milestone checks: PASS
-Stable pre-existing document URLs preserved unchanged: 70
-Deployment status: READY
+VERSION 6.6.3 VALIDATION
+Date: 20 July 2026
+
+Baseline: Version 6.6.2 audited restoration
+Public HTML pages checked: 25
+Substantive pages intentionally amended: 4
+New Council planning-administration and Governance PDFs: 5
+
+Unaffected-page preservation comparison: PASS
+Historical chronology preservation: PASS
+New document inclusion and links: PASS
+HTML structure and DOCTYPE checks: PASS
+
+Established document and image assets referenced by the HTML are not duplicated in this incremental deployment package; they remain in the existing server repository.
+
+Errors:
+None identified.

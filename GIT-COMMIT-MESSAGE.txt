@@ -1,10 +1,10 @@
-Restore and audit complete public record as Version 6.6.2
+Publish Council planning-administration and governance record as Version 6.6.3
 
-- rebuild every HTML page against the retained pre-error Version 6.5 baseline
-- verify preservation of substantive content page by page
-- restore the full chronology including the 2007 background record, 2008 Marshall Day assessment, 2009 planning permit and later project milestones
-- retain the Council and DTP 2026 FOI and administrative clarification pathway
-- preserve approved representative-monitoring presentation changes
-- remove duplicate DOCTYPE declarations without changing substantive content
-- update release markers and footers to Version 6.6.2
-- add repository preservation audit and validation report
+- publish the 9 April 2026 Elaine meteorological monitoring facility clarification
+- publish the 15 April 2026 commissioning clarification to the Executive Manager Community Planning & Development
+- publish the 22 April 2026 consolidated Governance administrative-record clarification
+- publish Council Governance's 14 May 2026 response
+- publish the 20 July 2026 Governance Consideration Notice to the Chief Executive Officer
+- integrate the Council pathway across Home, Agency Records, Documents and Chronology
+- preserve the complete pre-existing chronology and all other substantive page content
+- update repository release markers and sitemap to Version 6.6.3

@@ -1,5 +1,1 @@
-Deployment package — Lal Lal Wind Farm Record Version 6.6
-
-Upload the HTML, CSS, XML, robots and verification files to the repository root.
-Upload the four PDFs inside the documents/ folder to the existing documents/ directory.
-Preserve all filenames and paths. Existing images and previously published documents remain unchanged and are not duplicated in this incremental repository package.
+Deploy the complete contents of this folder over the current public repository. Preserve the existing server-side images and established document library; this package includes the five new Council planning-administration and Governance PDFs and the four prior Version 6.6 disclosure PDFs.
