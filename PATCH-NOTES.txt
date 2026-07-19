@@ -1,0 +1,15 @@
+Version 6.6.4 — Agency status consistency patch
+
+Files included:
+- agency-records.html
+- documents.html
+- index.html
+
+Changes:
+- EPA, DTP and Moorabool Shire Council shown as documentary pathways published.
+- AEIC remains in development.
+- EPA Notice remains linked from Home, Documents and Agency Records.
+- stale Documents-page wording corrected.
+- release markers aligned to Version 6.6.4.
+
+No other HTML or assets are included or altered.
