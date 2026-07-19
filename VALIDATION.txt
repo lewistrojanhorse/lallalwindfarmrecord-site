@@ -1,11 +1,8 @@
-Representative Monitoring Hero Update — Validation
+Representative Monitoring Map Update — Validation
 
-- Standard page-hero class applied
-- Eyebrow aligned with K15aa internal-page treatment
-- Visible H1 simplified to Representative Monitoring
-- Introductory text preserved
-- Navigation and active state preserved
-- Canonical URL preserved
-- Existing images and document references preserved
-- Duplicate doctype removed
-- Shared stylesheet included unchanged
+- Removed duplicated receptor map figure
+- Retained annotated turbine-sector comparison map
+- Confirmed map appears only once
+- Renumbered all remaining figure captions sequentially
+- Preserved all other text, images, navigation, metadata and URLs
+- Removed duplicate document declaration
