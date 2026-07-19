@@ -1,17 +1,5 @@
-Lal Lal Wind Farm Record — Repository Update Instructions
+Deployment package — Lal Lal Wind Farm Record Version 6.6
 
-1. Open this ZIP.
-2. Upload the CONTENTS of the ZIP to the GitHub repository root.
-3. Do not upload the enclosing folder itself.
-4. Replace the matching HTML files, style.css, robots.txt and sitemap.xml.
-5. Do not delete the existing images or documents directories.
-6. Commit and push using GIT-COMMIT-MESSAGE.txt.
-
-After deployment, verify:
-- https://lallalwindfarmrecord.com.au/
-- https://lallalwindfarmrecord.com.au/representative-monitoring.html
-- https://lallalwindfarmrecord.com.au/key-issues.html
-- https://lallalwindfarmrecord.com.au/technical-reports.html
-- https://lallalwindfarmrecord.com.au/sitemap.xml
-
-Representative Monitoring should be visible in the principal navigation on every page.
+Upload the HTML, CSS, XML, robots and verification files to the repository root.
+Upload the four PDFs inside the documents/ folder to the existing documents/ directory.
+Preserve all filenames and paths. Existing images and previously published documents remain unchanged and are not duplicated in this incremental repository package.

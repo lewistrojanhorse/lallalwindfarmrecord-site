@@ -1,7 +1,8 @@
-Remove duplicated receptor map from Representative Monitoring
+Publish Version 6.6 commissioning and FOI administrative update
 
-- remove the reconstructed SLR receptor map from the geographic comparison
-- retain the existing annotated turbine-sector map as the sole geographic illustration
-- avoid repeating the same receptor relationship twice on the page
-- renumber all subsequent figures to preserve a continuous sequence
-- preserve the page structure, documentary text, navigation, metadata and URLs
+- publish Council FOI SR.142870 and Governance clarification
+- publish DTP FOI CS019200 decision and Trustee clarification
+- add Administrative Developments to the Home page
+- integrate the documentary pathway across FOI, Documents, Chronology, Key Project Dates, Agency Records, Verification and Record Status
+- update every page footer and SEO release marker to Version 6.6
+- remove duplicate DOCTYPE declarations and refresh sitemap last-modified dates
