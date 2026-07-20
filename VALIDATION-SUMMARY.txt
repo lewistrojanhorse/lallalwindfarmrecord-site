@@ -1,6 +1,19 @@
-Version 6.7 validation
+Version 6.7.1 — DTP Permit-Amendment Administrative Pathway
 
-HTML files: index.html, agency-records.html, documents.html, aeic.html
-PDF documents: 6
-DOCTYPE/structure/link errors: 0
-Status: PASS
+Changed HTML:
+- permit-amendment.html
+- agency-records.html
+- documents.html
+- chronology.html
+
+Added PDFs:
+- DTP-Departmental-Reliance-Position-7-April-2026.pdf
+- DTP-Administrative-Clarification-Reconciliation-18-May-2026.pdf
+- DTP-Administrative-Clarification-Follow-Up-26-June-2026.pdf
+- DTP-Permit-Amendment-Correspondence-15-May-to-12-July-2026.pdf
+
+Checks:
+- Each changed HTML contains one DOCTYPE.
+- New local PDF links resolve within the package.
+- Existing filenames and navigation are preserved.
+- No unrelated page content was removed.

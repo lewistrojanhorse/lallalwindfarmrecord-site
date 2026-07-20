@@ -1,11 +1,1 @@
-Version 6.7 AEIC documentary pathway patch
-
-Upload the files with their existing paths:
-- index.html
-- agency-records.html
-- documents.html
-- aeic.html (new)
-- sitemap.xml
-- documents/* (included source documents)
-
-No other HTML pages are included or modified.
+Deploy the four changed HTML files and the four new PDFs in the documents folder. Preserve all existing server files and assets. This is an additive Version 6.7.1 update based on the Version 6.7 AEIC release.

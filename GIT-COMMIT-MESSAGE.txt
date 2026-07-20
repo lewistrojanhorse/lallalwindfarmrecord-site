@@ -1,11 +1,11 @@
-Publish AEIC documentary pathway as Version 6.7
+Publish DTP permit-amendment clarification pathway as Version 6.7.1
 
-- create a dedicated Australian Energy Infrastructure Commissioner documentary page
-- distinguish the Beneficiary's 2025 complaint correspondence from the Trustee's 2026 administrative record
-- publish the redacted 19 June 2025 Commissioner response
-- publish the 11 April 2025 AEIC case-management email
-- record Carolyn Francis's documented transition from EPA Victoria to the AEIC
-- publish the March-July 2026 AEIC administrative-record correspondence sequence
-- link the crystallisation and EPA reconciliation notices
-- mark all four principal agency pathways as published
-- update Home, Documents, Agency Records and sitemap
+- publish the 7 April 2026 Departmental Reliance Position notice
+- publish the 18 May 2026 Administrative Clarification and Reconciliation notice
+- publish the 26 June 2026 concluding correspondence thread
+- publish the 15 May to 12 July 2026 determination and public-reference correspondence
+- expand the Transitional Condition 27A section with direct source links
+- complete the DTP administrative pathway on Agency Records
+- add the primary documents to the document library
+- add a focused DTP permit-amendment chronology
+- preserve existing page content, filenames and navigation
