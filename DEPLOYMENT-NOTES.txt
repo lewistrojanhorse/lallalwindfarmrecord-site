@@ -1,7 +1,11 @@
-LAL LAL WIND FARM RECORD — v5.2
+Version 6.7 AEIC documentary pathway patch
 
-Upload the contents of this package to the GitHub repository root.
+Upload the files with their existing paths:
+- index.html
+- agency-records.html
+- documents.html
+- aeic.html (new)
+- sitemap.xml
+- documents/* (included source documents)
 
-This release updates start-here.html. All public filenames and URLs are preserved.
-Do not delete the existing images or documents folders from the live repository.
-The representative-monitoring-i14aa-DRAFT.html file remains unpublished and excluded from public navigation.
+No other HTML pages are included or modified.

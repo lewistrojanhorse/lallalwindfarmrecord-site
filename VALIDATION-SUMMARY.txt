@@ -1,21 +1,6 @@
-LLWF Representative Monitoring v1.0 — Validation Summary
-Date: 18 July 2026
+Version 6.7 validation
 
-FILES
-- representative-monitoring.html
-- style.css
-- images/i14aa-record/ (6 image assets)
-
-CHECKS COMPLETED
-- HTML parsed successfully.
-- Stable production filename used: representative-monitoring.html.
-- Canonical and Open Graph URL updated to representative-monitoring.html.
-- Draft/noindex metadata removed and replaced with index, follow.
-- Review-draft notices removed.
-- Image references verified against packaged assets.
-- Existing repository navigation and footer structure preserved.
-- Existing document links preserved as supplied in the working draft.
-- Responsive stylesheet retained.
-
-DEPLOYMENT NOTE
-This is a page-update package. Deploy the files over the existing repository root while preserving the included folder structure. Existing shared assets and linked PDF documents remain in their current repository locations.
+HTML files: index.html, agency-records.html, documents.html, aeic.html
+PDF documents: 6
+DOCTYPE/structure/link errors: 0
+Status: PASS

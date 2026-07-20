@@ -1,10 +1,11 @@
-Publish Council planning-administration and governance record as Version 6.6.3
+Publish AEIC documentary pathway as Version 6.7
 
-- publish the 9 April 2026 Elaine meteorological monitoring facility clarification
-- publish the 15 April 2026 commissioning clarification to the Executive Manager Community Planning & Development
-- publish the 22 April 2026 consolidated Governance administrative-record clarification
-- publish Council Governance's 14 May 2026 response
-- publish the 20 July 2026 Governance Consideration Notice to the Chief Executive Officer
-- integrate the Council pathway across Home, Agency Records, Documents and Chronology
-- preserve the complete pre-existing chronology and all other substantive page content
-- update repository release markers and sitemap to Version 6.6.3
+- create a dedicated Australian Energy Infrastructure Commissioner documentary page
+- distinguish the Beneficiary's 2025 complaint correspondence from the Trustee's 2026 administrative record
+- publish the redacted 19 June 2025 Commissioner response
+- publish the 11 April 2025 AEIC case-management email
+- record Carolyn Francis's documented transition from EPA Victoria to the AEIC
+- publish the March-July 2026 AEIC administrative-record correspondence sequence
+- link the crystallisation and EPA reconciliation notices
+- mark all four principal agency pathways as published
+- update Home, Documents, Agency Records and sitemap
