@@ -1,11 +1,8 @@
-Publish DTP permit-amendment clarification pathway as Version 6.7.1
+feat: launch responsive archive navigation v7.0
 
-- publish the 7 April 2026 Departmental Reliance Position notice
-- publish the 18 May 2026 Administrative Clarification and Reconciliation notice
-- publish the 26 June 2026 concluding correspondence thread
-- publish the 15 May to 12 July 2026 determination and public-reference correspondence
-- expand the Transitional Condition 27A section with direct source links
-- complete the DTP administrative pathway on Agency Records
-- add the primary documents to the document library
-- add a focused DTP permit-amendment chronology
-- preserve existing page content, filenames and navigation
+- replace the expanding flat header with grouped record navigation
+- add persistent desktop section index and responsive mobile menu
+- add lightweight client-side page search
+- reorganise the homepage with latest notices and key issue gateways
+- preserve existing HTML filenames, URLs, anchors and document links
+- update repository presentation date to 22 July 2026

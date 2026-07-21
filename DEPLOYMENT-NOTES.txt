@@ -1,1 +1,8 @@
-Deploy the four changed HTML files and the four new PDFs in the documents folder. Preserve all existing server files and assets. This is an additive Version 6.7.1 update based on the Version 6.7 AEIC release.
+Version 7.0 — Responsive Archive Navigation
+Date: 22 July 2026
+
+1. Preserve the existing images/ and documents/ folders.
+2. Upload all HTML files, style.css, site.js, sitemap.xml and robots.txt from this package to the repository root.
+3. Existing URLs and document paths are unchanged.
+4. Clear CDN/browser cache after deployment.
+5. Test desktop dropdowns, mobile Menu, Search, and one PDF/image link before committing.

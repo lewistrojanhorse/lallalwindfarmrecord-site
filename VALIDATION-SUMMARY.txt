@@ -1,19 +1,19 @@
-Version 6.7.1 — DTP Permit-Amendment Administrative Pathway
+Lal Lal Wind Farm Record — Version 7.0 validation summary
+Date: 22 July 2026
 
-Changed HTML:
-- permit-amendment.html
-- agency-records.html
-- documents.html
-- chronology.html
+Scope
+- 26 HTML pages updated repository-wide.
+- Existing HTML filenames, canonical URLs, anchors and document paths preserved.
+- New grouped desktop navigation, persistent desktop section index, mobile menu and client-side page search added.
+- Homepage reorganised with latest-notice panel and key-issue gateway.
+- Responsive behaviour added for desktop, tablet and mobile.
 
-Added PDFs:
-- DTP-Departmental-Reliance-Position-7-April-2026.pdf
-- DTP-Administrative-Clarification-Reconciliation-18-May-2026.pdf
-- DTP-Administrative-Clarification-Follow-Up-26-June-2026.pdf
-- DTP-Permit-Amendment-Correspondence-15-May-to-12-July-2026.pdf
+Checks
+- All supplied HTML files parsed and rewritten successfully.
+- style.css and site.js present.
+- sitemap.xml and robots.txt preserved.
+- Internal HTML-link check: 0 unresolved HTML target(s).
+- Images and documents were intentionally not packaged; existing relative links remain unchanged for deployment into the current repository.
 
-Checks:
-- Each changed HTML contains one DOCTYPE.
-- New local PDF links resolve within the package.
-- Existing filenames and navigation are preserved.
-- No unrelated page content was removed.
+Deployment
+Upload the files in this package over the matching files in the live repository. Do not delete or replace the existing images or documents directories.
