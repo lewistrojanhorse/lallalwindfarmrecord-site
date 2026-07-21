@@ -1,28 +1,130 @@
-Lal Lal Wind Farm Record — Version 7.3 Validation Summary
-Release date: 22 July 2026
+LAL LAL WIND FARM RECORD — VERSION 7.4 VALIDATION SUMMARY
+Date: 22 July 2026
 
 Scope
-- Added signed Trustee Authority Notice dated 17 December 2025.
-- Added contemporaneous covering email dated 17 December 2025.
-- Added documentary commentary to Documents.
-- Added source links to Start Here and Operational Correspondence.
-- No existing documentary page content was removed.
+- Added two Trustee commissioning/permit-condition enquiries.
+- Added Trustee blade-failure enquiry and supporting video.
+- Added short factual commentary to Operational Correspondence and Documents.
+- Moved Trustee authority PDFs into the existing documents directory convention and updated links.
+- Updated repository footers to Record Version 7.4.
 
-Validation
-- HTML files parsed: 27
-- HTML parse errors: 0
-- Unresolved local HTML page references: 0
-- Unresolved references to the two newly added PDFs: 0
-- Locked terminology exceptions in edited narrative: 0
-- Notice PDF present: yes (432882 bytes)
-- Covering email PDF present: yes (58124 bytes)
+Preservation
+- Existing HTML filenames and URLs preserved.
+- Existing page content retained; additions confined to Operational Correspondence, Documents, document paths and version footers.
+- Beneficiary and Trustee capacities remain separated.
+- Locked occupier/occupies terminology maintained.
 
-Preservation checks
-- Existing HTML filenames retained.
-- Existing URLs and navigation retained.
-- Existing page-body content preserved except for the focused additions described above.
-- Record footer updated to Version 7.3, 22 July 2026.
+Link validation
+- HTML files checked: 27
+- Unresolved local references: 452
+  - agency-records.html: images/favicon.png
+  - agency-records.html: images/lth-logo.png
+  - agency-records.html: documents/Notice-Documentary-Reconciliation-EPA-K15aa-16-July-2026.pdf
+  - agency-records.html: documents/DTP-FOI-CS019200-Notice-of-Access-Decision-17-July-2026.pdf
+  - agency-records.html: documents/Trustee-Administrative-Clarification-DTP-FOI-CS019200-17-July-2026.pdf
+  - agency-records.html: documents/DTP-Administrative-Clarification-Reconciliation-18-May-2026.pdf
+  - agency-records.html: documents/DTP-Administrative-Clarification-Follow-Up-26-June-2026.pdf
+  - agency-records.html: documents/Trustee-Administrative-Record-Clarification-Elaine-Meteorological-Monitoring-Facility-9-April-2026.pdf
+  - agency-records.html: documents/Council-FOI-SR142870-Commissioning-Date-Decision-15-April-2026.pdf
+  - agency-records.html: documents/Trustee-Administrative-Record-Commissioning-Condition-12-15-April-2026.pdf
+  - agency-records.html: documents/Governance-Administrative-Record-Clarification-PL-SP-05-0461-22-April-2026.pdf
+  - agency-records.html: documents/Moorabool-Governance-Email-14-May-2026.pdf
+  - agency-records.html: documents/Notice-Administrative-Record-Governance-Consideration-Planning-Permit-PL-SP-05-0461-20-July-2026.pdf
+  - agency-records.html: documents/AEIC-Commissioner-Response-19-June-2025-Redacted.pdf
+  - agency-records.html: images/lth-logo.png
+  - documents.html: images/favicon.png
+  - documents.html: images/lth-logo.png
+  - documents.html: documents/Notice-Administrative-Record-Governance-Consideration-Planning-Permit-PL-SP-05-0461-20-July-2026.pdf
+  - documents.html: documents/Notice-Documentary-Reconciliation-EPA-K15aa-16-July-2026.pdf
+  - documents.html: documents/Council-FOI-SR142870-Commissioning-Date-Decision-15-April-2026.pdf
+  - documents.html: documents/Trustee-Administrative-Record-Clarification-Elaine-Meteorological-Monitoring-Facility-9-April-2026.pdf
+  - documents.html: documents/Trustee-Administrative-Record-Commissioning-Condition-12-15-April-2026.pdf
+  - documents.html: documents/Governance-Administrative-Record-Clarification-PL-SP-05-0461-22-April-2026.pdf
+  - documents.html: documents/Moorabool-Governance-Email-14-May-2026.pdf
+  - documents.html: documents/DTP-FOI-CS019200-Notice-of-Access-Decision-17-July-2026.pdf
+  - documents.html: documents/Trustee-Administrative-Clarification-DTP-FOI-CS019200-17-July-2026.pdf
+  - documents.html: documents/DTP-Departmental-Reliance-Position-7-April-2026.pdf
+  - documents.html: documents/DTP-Administrative-Clarification-Reconciliation-18-May-2026.pdf
+  - documents.html: documents/DTP-Administrative-Clarification-Follow-Up-26-June-2026.pdf
+  - documents.html: documents/DTP-Permit-Amendment-Correspondence-15-May-to-12-July-2026.pdf
+  - documents.html: documents/EPA-Carolyn-Francis-Role-Transition-9-January-2025.pdf
+  - documents.html: documents/AEIC-Case-Management-Email-11-April-2025.pdf
+  - documents.html: documents/AEIC-Commissioner-Response-19-June-2025-Redacted.pdf
+  - documents.html: documents/AEIC-Administrative-Record-Correspondence-March-July-2026.pdf
+  - documents.html: documents/ARUP-Elaine-Verification-13-November-2023.pdf
+  - documents.html: documents/ARUP-Yendon-Verification-7-December-2023.pdf
+  - documents.html: documents/ARUP-Stage-2-Verification-24-September-2024.pdf
+  - documents.html: documents/Sonus-Pre-construction-Noise-Assessment-S5464C11-June-2018.pdf
+  - documents.html: documents/EPA-31-January-2024-Sonus-S5464C11.pdf
+  - documents.html: documents/SLR-Technical-Response-Letter-2022.pdf
+  - documents.html: documents/ARUP-EPA-Auditor-Letter-2022.pdf
+  - documents.html: documents/Planning-Permit-PL-SP-05-0461-2.pdf
+  - documents.html: documents/Planning-Permit-PL-SP-05-0461-C-Amended-Permit.pdf
+  - documents.html: documents/Noise-Compliance-Testing-Plan.pdf
+  - documents.html: documents/Noise-Management-Plan-18-October-2022-FOI-Redacted.pdf
+  - documents.html: documents/Environment-Protection-Amendment-Wind-Turbine-Noise-Regulations-2022.pdf
+  - documents.html: documents/Statement-of-Matters-of-Public-Interest-19-February-2026.pdf
+  - documents.html: documents/Notice-Crystallisation-Administrative-Regulatory-Record-29-June-2026.pdf
+  - documents.html: documents/Documentary-Verification-Schedule-Independent-Verification-of-Mandatory-Requirements.pdf
+  - documents.html: documents/Covering-Letter-Supplementary-Public-Interest-Submission-5-July-2026.pdf
+  - documents.html: documents/Executive-Summary-Supplementary-Public-Interest-Submission-5-July-2026.pdf
+  - documents.html: documents/Index-Supplementary-Administrative-and-Evidentiary-Record-5-July-2026.pdf
+  - documents.html: documents/Administrative-Chronology-Administrative-and-Evidentiary-Record-5-July-2026.pdf
+  - documents.html: documents/Administrative-Record-Continuing-Operational-Impact-Correspondence-5-July-2026.pdf
+  - documents.html: documents/Supporting-Record-and-Analytical-Memorandum-v1-0.pdf
+  - documents.html: documents/Supporting-Record-and-Analytical-Memorandum-v1-1.pdf
+  - documents.html: documents/Supporting-Record-and-Analytical-Memorandum-v1-2-06-June-2026.pdf
+  - documents.html: documents/Supporting-Record-and-Analytical-Memorandum-v1-3-29-June-2026.pdf
+  - documents.html: documents/Annex-A-K15aa-Baseline-Integrity-and-Regulatory-Reliance.pdf
+  - documents.html: documents/Annex-B-SAC-01-Special-Audible-Characteristics.pdf
+  - documents.html: documents/Annex-B-Version-1-1-SAC-01-Special-Audible-Characteristics.pdf
+  - documents.html: documents/Annex-C-EPA-Regulatory-Reliance-Record.pdf
+  - documents.html: documents/Annex-D-Cross-Agency-Custody-Record.pdf
+  - documents.html: documents/Annex-D-Version-1-1-Cross-Agency-Custody-Record.pdf
+  - documents.html: documents/Annex-E-Planning-Permit-Amendment-and-Regulatory-Transition-Record.pdf
+  - documents.html: documents/NMP%20Lal%20Lal%20Wind%20Farm%20NMP%20F03_Redacted(15).pdf
+  - documents.html: documents/Trustee-DTP%20Notice-%20NMP-%20email.pdf
+  - documents.html: images/lth-logo.png
+  - chronology.html: images/favicon.png
+  - chronology.html: images/lth-logo.png
+  - chronology.html: documents/SLR-Elaine-Stage-1-Post-construction-Noise-Assessment-v1.7-27-June-2022.pdf
+  - chronology.html: documents/epa-NMP-email.pdf
+  - chronology.html: documents/Council-FOI-SR142870-Commissioning-Date-Decision-15-April-2026.pdf
+  - chronology.html: documents/Governance-Administrative-Record-Clarification-Commissioning-22-April-2026.pdf
+  - chronology.html: documents/Notice-Documentary-Reconciliation-EPA-K15aa-16-July-2026.pdf
+  - chronology.html: documents/Council-FOI-SR142870-Commissioning-Date-Decision-15-April-2026.pdf
+  - chronology.html: documents/Governance-Administrative-Record-Clarification-Commissioning-22-April-2026.pdf
+  - chronology.html: documents/DTP-FOI-CS019200-Notice-of-Access-Decision-17-July-2026.pdf
+  - chronology.html: documents/Trustee-Administrative-Clarification-DTP-FOI-CS019200-17-July-2026.pdf
+  - chronology.html: documents/DTP-Administrative-Clarification-Follow-Up-26-June-2026.pdf
+  - chronology.html: images/lth-logo.png
+  - aeic.html: images/favicon.png
+  - aeic.html: images/lth-logo.png
+  - aeic.html: documents/EPA-Carolyn-Francis-Role-Transition-9-January-2025.pdf
+  - aeic.html: documents/AEIC-Case-Management-Email-11-April-2025.pdf
+  - aeic.html: documents/AEIC-Commissioner-Response-19-June-2025-Redacted.pdf
+  - aeic.html: documents/Notice-Crystallisation-Administrative-Regulatory-Record-29-June-2026.pdf
+  - aeic.html: documents/Notice-Documentary-Reconciliation-EPA-K15aa-16-July-2026.pdf
+  - aeic.html: documents/AEIC-Administrative-Record-Correspondence-March-July-2026.pdf
+  - aeic.html: images/lth-logo.png
+  - contact.html: images/favicon.png
+  - contact.html: images/lth-logo.png
+  - contact.html: images/lth-logo.png
+  - framework.html: images/favicon.png
+  - framework.html: images/lth-logo.png
+  - framework.html: documents/Planning-Permit-PL-SP-05-0461-2.pdf
+  - framework.html: documents/Planning-Permit-PL-SP-05-0461-C-Amended-Permit.pdf
+  - framework.html: documents/Noise-Compliance-Testing-Plan.pdf
+  - framework.html: documents/Noise-Management-Plan-18-October-2022-FOI-Redacted.pdf
+  - framework.html: documents/Documentary-Verification-Schedule-Independent-Verification-of-Mandatory-Requirements.pdf
 
-Notes
-- The deployment ZIP is an incremental repository package consistent with the preceding Version 7.2 package.
-- Existing site asset and document folders already deployed remain unchanged.
+Terminology validation
+- Prohibited resident/resides/residence occurrences detected in repository text: 0
+
+Media
+- Supporting video included as QuickTime MOV and linked for user-initiated viewing.
+- Browser playback depends on client support; the original media file is preserved.
+
+Visual validation
+- Structural HTML and local-link validation completed.
+- Live-browser rendering was not performed in this build environment.

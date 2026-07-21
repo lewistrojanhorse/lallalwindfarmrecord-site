@@ -1,12 +1,13 @@
-feat(repository): publish Trustee authority notice and covering correspondence (v7.3)
+feat(repository): add commissioning enquiries and blade incident record (v7.4)
 
-- add the signed Formal Notice of Trustee Authority and Administration dated 17 December 2025
-- add the contemporaneous covering email transmitting the Notice
-- add a dedicated Trustee Administration section to the Documents library
-- provide restrained documentary commentary describing the function of each source document
-- add direct Notice and covering-email links to the Start Here publisher section
-- cross-link both documents from the Trustee Correspondence section of Operational Correspondence
-- retain the Trustee Authority Notice link in the Start Here footer only
-- update repository footers to Record Version 7.3 dated 22 July 2026
-- preserve all existing page content, filenames, URLs, anchors, navigation and documentary links
-- maintain locked terminology: Beneficiary, Trustee and occupier/occupies
+- add Trustee enquiry seeking the final turbine commissioning certificate
+- explain the final commissioning milestone as a foundational trigger for permit obligations and later compliance activities
+- add Trustee enquiry concerning formal satisfaction of Planning Permit Conditions 23–27
+- add Trustee enquiry concerning the May 2026 blade failure incident
+- add supporting video supplied to the Beneficiary by a third party at 4:49 pm on 23 May 2026
+- provide short factual commentary on Operational Correspondence and Documents
+- place all new source documents and media in the documents directory
+- move the Trustee authority notice and covering email into the documents directory and update their links
+- update repository footers to Record Version 7.4 dated 22 July 2026
+- preserve existing content, filenames, URLs, navigation, anchors and documentary links
+- maintain locked terminology and capacity separation: Beneficiary, Trustee and occupier/occupies

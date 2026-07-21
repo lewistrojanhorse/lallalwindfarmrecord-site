@@ -1,10 +1,3 @@
-Lal Lal Wind Farm Record — Version 7.3
-Release date: 22 July 2026
+Deployment release: Record Version 7.4 — 22 July 2026
 
-Deployment package update:
-- adds the signed Trustee Authority Notice and covering email as source documents
-- adds documentary commentary and direct links on the Documents page
-- adds direct source links from Start Here and Operational Correspondence
-- preserves all existing HTML filenames, URLs, navigation, anchors and documentary content
-
-Upload the contents over the existing repository root. Existing site assets and document folders remain in place.
+Upload the package preserving its folder structure. The four new files and the two Trustee authority files are contained in /documents/. Replace operational-correspondence.html and documents.html, and upload the updated HTML files to carry the Version 7.4 footer.
