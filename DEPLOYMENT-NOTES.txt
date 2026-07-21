@@ -1,6 +1,10 @@
-DEPLOYMENT NOTES — VERSION 7.2
+Lal Lal Wind Farm Record — Version 7.3
+Release date: 22 July 2026
 
-Upload the complete contents of this folder to the existing repository root.
-The new PDF trustee-authority-notice-17-december-2025.pdf must be uploaded with the HTML, CSS and JavaScript files.
-No existing URL or filename has been renamed.
-Release date: 22 July 2026.
+Deployment package update:
+- adds the signed Trustee Authority Notice and covering email as source documents
+- adds documentary commentary and direct links on the Documents page
+- adds direct source links from Start Here and Operational Correspondence
+- preserves all existing HTML filenames, URLs, navigation, anchors and documentary content
+
+Upload the contents over the existing repository root. Existing site assets and document folders remain in place.

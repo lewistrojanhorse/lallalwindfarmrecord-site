@@ -1,13 +1,12 @@
-feat(repository): identify publisher and refine Operational Correspondence hero (v7.2)
+feat(repository): publish Trustee authority notice and covering correspondence (v7.3)
 
-- add an About the Publisher section to Start Here
-- identify LEWIS TROJAN HORSE PTY LTD as Trustee and maintainer of the public record
-- explain the separation of Beneficiary and Trustee correspondence by documentary capacity
-- publish the signed Trustee Authority Notice dated 17 December 2025
-- add the Trustee Authority Notice link to the Start Here footer only
-- retain the turbine image as the distinctive Operational Correspondence visual
-- present the existing Operational Correspondence title, purpose and development status clearly over the hero image
-- add Operational Correspondence to the active Administrative navigation group
-- update repository footers to Record Version 7.2 dated 22 July 2026
-- preserve all existing page content, filenames, URLs, anchors and documentary links
+- add the signed Formal Notice of Trustee Authority and Administration dated 17 December 2025
+- add the contemporaneous covering email transmitting the Notice
+- add a dedicated Trustee Administration section to the Documents library
+- provide restrained documentary commentary describing the function of each source document
+- add direct Notice and covering-email links to the Start Here publisher section
+- cross-link both documents from the Trustee Correspondence section of Operational Correspondence
+- retain the Trustee Authority Notice link in the Start Here footer only
+- update repository footers to Record Version 7.3 dated 22 July 2026
+- preserve all existing page content, filenames, URLs, anchors, navigation and documentary links
 - maintain locked terminology: Beneficiary, Trustee and occupier/occupies
