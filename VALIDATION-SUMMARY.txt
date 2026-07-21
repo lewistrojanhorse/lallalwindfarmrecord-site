@@ -1,19 +1,33 @@
-Lal Lal Wind Farm Record — Version 7.0 validation summary
+VALIDATION SUMMARY — Operational Correspondence v7.1
 Date: 22 July 2026
 
-Scope
-- 26 HTML pages updated repository-wide.
-- Existing HTML filenames, canonical URLs, anchors and document paths preserved.
-- New grouped desktop navigation, persistent desktop section index, mobile menu and client-side page search added.
-- Homepage reorganised with latest-notice panel and key-issue gateway.
-- Responsive behaviour added for desktop, tablet and mobile.
+SOURCE BASE
+- Built from the existing Version 7.0 responsive-navigation package.
+- Existing filenames and URLs preserved.
+- Existing page-body content changed: 0
+- Existing page-body differences: None
 
-Checks
-- All supplied HTML files parsed and rewritten successfully.
-- style.css and site.js present.
-- sitemap.xml and robots.txt preserved.
-- Internal HTML-link check: 0 unresolved HTML target(s).
-- Images and documents were intentionally not packaged; existing relative links remain unchanged for deployment into the current repository.
+NEW PAGE
+- operational-correspondence.html
+- Published in active-development status.
+- Beneficiary and Trustee correspondence expressly separated.
+- Locked terminology applied: Beneficiary; occupies/occupier.
+- Locked terminology exceptions on new page: None
 
-Deployment
-Upload the files in this package over the matching files in the live repository. Do not delete or replace the existing images or documents directories.
+REPOSITORY INTEGRATION
+- Added to desktop navigation, mobile navigation, administrative sidebar and footer.
+- Added to sitemap.xml.
+- Existing pages, links and documentary content retained.
+
+LINK VALIDATION
+- Unresolved local HTML references: 0
+- None
+
+LIMITATIONS
+- Existing images and document assets are referenced exactly as before and are not duplicated in this update package.
+- Browser-based visual regression testing was not performed.
+
+FOOTER UPDATE
+- All HTML page footers updated to Record Version 7.1.
+- Repository update date set to 22 July 2026.
+- Historical references to events and documents dated 20 July 2026 were preserved unchanged.

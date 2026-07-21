@@ -1,8 +1,12 @@
-feat: launch responsive archive navigation v7.0
+feat(repository): add Operational Correspondence framework and update record to 22 July 2026
 
-- replace the expanding flat header with grouped record navigation
-- add persistent desktop section index and responsive mobile menu
-- add lightweight client-side page search
-- reorganise the homepage with latest notices and key issue gateways
-- preserve existing HTML filenames, URLs, anchors and document links
-- update repository presentation date to 22 July 2026
+- add Operational Correspondence as a new top-level repository section
+- establish progressive documentary publication framework
+- separate Beneficiary and Trustee correspondence by capacity
+- record the Beneficiary's construction-phase contractor involvement as background
+- establish selected complaint case studies and administrative resolution pathways
+- identify the page as under active progressive development
+- maintain locked terminology: Beneficiary and occupies/occupier
+- integrate the page into desktop, mobile, sidebar, footer and sitemap navigation
+- update repository footers to Record Version 7.1 dated 22 July 2026
+- preserve all existing page-body content, filenames, URLs, anchors and documentary links
