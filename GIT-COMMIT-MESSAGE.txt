@@ -1,12 +1,13 @@
-feat(repository): add Operational Correspondence framework and update record to 22 July 2026
+feat(repository): identify publisher and refine Operational Correspondence hero (v7.2)
 
-- add Operational Correspondence as a new top-level repository section
-- establish progressive documentary publication framework
-- separate Beneficiary and Trustee correspondence by capacity
-- record the Beneficiary's construction-phase contractor involvement as background
-- establish selected complaint case studies and administrative resolution pathways
-- identify the page as under active progressive development
-- maintain locked terminology: Beneficiary and occupies/occupier
-- integrate the page into desktop, mobile, sidebar, footer and sitemap navigation
-- update repository footers to Record Version 7.1 dated 22 July 2026
-- preserve all existing page-body content, filenames, URLs, anchors and documentary links
+- add an About the Publisher section to Start Here
+- identify LEWIS TROJAN HORSE PTY LTD as Trustee and maintainer of the public record
+- explain the separation of Beneficiary and Trustee correspondence by documentary capacity
+- publish the signed Trustee Authority Notice dated 17 December 2025
+- add the Trustee Authority Notice link to the Start Here footer only
+- retain the turbine image as the distinctive Operational Correspondence visual
+- present the existing Operational Correspondence title, purpose and development status clearly over the hero image
+- add Operational Correspondence to the active Administrative navigation group
+- update repository footers to Record Version 7.2 dated 22 July 2026
+- preserve all existing page content, filenames, URLs, anchors and documentary links
+- maintain locked terminology: Beneficiary, Trustee and occupier/occupies

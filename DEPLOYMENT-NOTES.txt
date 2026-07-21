@@ -1,5 +1,6 @@
-DEPLOYMENT NOTES — Version 7.1
+DEPLOYMENT NOTES — VERSION 7.2
 
-Upload the complete contents of this package over the existing site root.
-
-This release adds operational-correspondence.html and updates the shared navigation references in existing HTML pages. No existing page-body content has been removed or rewritten. Existing /images and /documents directories remain in place on the live repository and are not included in this code-only package.
+Upload the complete contents of this folder to the existing repository root.
+The new PDF trustee-authority-notice-17-december-2025.pdf must be uploaded with the HTML, CSS and JavaScript files.
+No existing URL or filename has been renamed.
+Release date: 22 July 2026.
