@@ -1,3 +1,5 @@
-Deployment release: Record Version 7.4 — 22 July 2026
+Deploy the contents over the existing repository while preserving the current folder structure.
 
-Upload the package preserving its folder structure. The four new files and the two Trustee authority files are contained in /documents/. Replace operational-correspondence.html and documents.html, and upload the updated HTML files to carry the Version 7.4 footer.
+The three new source files are already located inside the documents folder. Do not move them to the website root.
+
+This is an incremental update. Existing live-site documents, images and other assets not included in this ZIP must remain in place.
