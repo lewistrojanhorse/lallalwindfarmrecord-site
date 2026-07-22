@@ -1,38 +1,23 @@
-LAL LAL WIND FARM RECORD — VERSION 7.5 VALIDATION SUMMARY
-Release date: 22 July 2026
+Lal Lal Wind Farm Record — Validation Summary
+Version: 7.6
+Date: 22 July 2026
 
-SCOPE
-- Built from the Version 7.4 deployment package supplied in the previous build.
-- Added the 15 August 2024 operational complaint as a published case study.
-- Added contemporaneous SLR logger photograph and video.
-- Added focused cross-references to Operational Correspondence, Documents, Chronology and Technical Reports.
-- Updated versioned HTML footers to Record Version 7.5 — 22 July 2026.
+Update scope
+- Added the October 2024 Beneficiary correspondence concerning submission of the updated K15aa background report.
+- Added the source PDF to the existing documents directory.
+- Updated K15aa, Operational Correspondence, Documents and Chronology.
+- Updated all packaged HTML footers to Record Version 7.6.
 
-NEW SOURCE FILES
-- documents/operational-noise-complaint-15-august-2024.pdf
-- documents/slr-logger-display-15-august-2024.jpg
-- documents/slr-logger-video-15-august-2024.mov
+Focused validation
+- k15aa_card: PASS — k15aa.html#k15aa-report-submission-enquiry
+- operational_card: PASS — operational-correspondence.html#k15aa-report-submission-enquiry
+- chronology_entry: PASS — chronology.html#october-2024-k15aa-enquiry
+- document_pdf: PASS — documents/beneficiary-enquiry-k15aa-report-submission-october-2024.pdf
+- New source PDF present and non-empty: PASS
+- Version 7.6 footer applied across 27 packaged HTML pages: PASS
+- Locked terminology and capacity separation retained in new text: Beneficiary and Trustee are not conflated; no new resident/resides/residence terminology introduced.
 
-CONTENT SAFEGUARDS
-- Existing page content, filenames, URLs, navigation and documentary links were preserved.
-- The existing placeholder date was corrected from 15 August 2025 to 15 August 2024.
-- Beneficiary and Trustee capacities remain separate.
-- Locked terminology remains in place: Beneficiary and occupier/occupies.
-- Visible logger values are presented as source material without technical or compliance conclusion.
-- The operator's later response is attributed to the correspondence record.
-
-LINK VALIDATION
-- All new links introduced by this release resolve to files included in the package.
-- Existing links to the live repository's broader documents and images remain unchanged.
-- The prior deployment package is an incremental website update and does not itself contain every pre-existing live-site asset; those pre-existing references were therefore preserved rather than treated as newly unresolved links.
-
-PAGES UPDATED
-- operational-correspondence.html
-- documents.html
-- chronology.html
-- technical-reports.html
-- all HTML footers (version only)
-
-VISUAL REVIEW
-- The case study uses the existing card, button and figure conventions.
-- Browser-level visual testing was not performed in this environment.
+Repository preservation
+- Existing HTML filenames, URLs, navigation, anchors and documentary links were preserved.
+- This ZIP continues the existing incremental deployment model and therefore relies on unchanged images and source documents already present in the live repository.
+- Existing references to those unchanged live-site assets were not treated as missing from this incremental package.

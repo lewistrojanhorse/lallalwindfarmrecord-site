@@ -1,13 +1,12 @@
-feat(repository): add 15 August 2024 operational complaint case study (v7.5)
+feat(repository): add K15aa report-submission correspondence pathway (v7.6)
 
-- publish the 15 August 2024 operational noise complaint and later operator response
-- add the contemporaneous SLR logger photograph and video recorded at J14aa
-- present the visible logger values as source material without technical conclusion
-- record the operator response and the unresolved question whether logger data was reviewed
-- add the case study to Operational Correspondence
-- add cross-references to Technical Reports and Chronology
-- add all source material to the document library and documents directory
-- correct the case-study date from 15 August 2025 to 15 August 2024
-- update repository footers to Record Version 7.5 dated 22 July 2026
+- publish the October 2024 Beneficiary correspondence concerning submission of the updated K15aa background report
+- record the operator's stated position that all permit-required reports were submitted to the relevant authority
+- connect the correspondence to the endorsed NCTP requirement and February 2021 SLR K15aa report
+- add the correspondence as a principal documentary step on the K15aa page
+- add concise cross-references to Operational Correspondence, Documents and Chronology
+- preserve the distinction between a request to identify the report and any conclusion about whether a report existed
+- place the source correspondence in the documents directory
+- update repository footers to Record Version 7.6 dated 22 July 2026
 - preserve existing content, filenames, URLs, navigation, anchors and documentary links
 - maintain locked terminology and capacity separation: Beneficiary, Trustee and occupier/occupies

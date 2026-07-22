@@ -1,5 +1,4 @@
-Deploy the contents over the existing repository while preserving the current folder structure.
+Lal Lal Wind Farm Record — Version 7.6
+Date: 22 July 2026
 
-The three new source files are already located inside the documents folder. Do not move them to the website root.
-
-This is an incremental update. Existing live-site documents, images and other assets not included in this ZIP must remain in place.
+Deployment-ready incremental repository package. Upload the package contents while preserving the existing directory structure. The new PDF must remain in the documents directory.
