@@ -1,23 +1,12 @@
-Lal Lal Wind Farm Record — Validation Summary
-Version: 7.6
-Date: 22 July 2026
+K15aa page patch validation
+Date: 23 July 2026
 
-Update scope
-- Added the October 2024 Beneficiary correspondence concerning submission of the updated K15aa background report.
-- Added the source PDF to the existing documents directory.
-- Updated K15aa, Operational Correspondence, Documents and Chronology.
-- Updated all packaged HTML footers to Record Version 7.6.
+Scope:
+- k15aa.html only
+- No source documents or unrelated repository pages included
 
-Focused validation
-- k15aa_card: PASS — k15aa.html#k15aa-report-submission-enquiry
-- operational_card: PASS — operational-correspondence.html#k15aa-report-submission-enquiry
-- chronology_entry: PASS — chronology.html#october-2024-k15aa-enquiry
-- document_pdf: PASS — documents/beneficiary-enquiry-k15aa-report-submission-october-2024.pdf
-- New source PDF present and non-empty: PASS
-- Version 7.6 footer applied across 27 packaged HTML pages: PASS
-- Locked terminology and capacity separation retained in new text: Beneficiary and Trustee are not conflated; no new resident/resides/residence terminology introduced.
-
-Repository preservation
-- Existing HTML filenames, URLs, navigation, anchors and documentary links were preserved.
-- This ZIP continues the existing incremental deployment model and therefore relies on unchanged images and source documents already present in the live repository.
-- Existing references to those unchanged live-site assets were not treated as missing from this incremental package.
+Checks:
+- 1 December 2022 SLR letter now appears before October 2024 Beneficiary correspondence in the summary table
+- SLR 2022 evidence card now appears immediately before the October 2024 enquiry card
+- Evidence-card numbering is sequential
+- Existing links and anchors preserved
