@@ -1,20 +1,15 @@
-FOCUSED UPDATE VALIDATION
-Date: 23 July 2026
+Focused documents-page correction — 23 July 2026
 
-Files included:
-- operational-correspondence.html
-- chronology.html
+Updated file:
 - documents.html
-- documents/beneficiary-enquiry-final-turbine-commissioning-dates-october-2024.pdf
-- GIT-COMMIT-MESSAGE.txt
 
-Checks:
-- New source PDF present: YES
-- Operational Correspondence link present: YES
-- Documents library link present: YES
-- Chronology cross-reference present: YES
-- Existing filenames and source paths preserved: YES
-- Capacity terminology used: Beneficiary
-- Unrelated pages and documents excluded: YES
+Changes:
+- Corrected the Operational Correspondence section heading so it no longer presents the commissioning and K15aa enquiries as part of the 15 August 2024 complaint.
+- Added a concise section description distinguishing the three documentary subjects.
+- Clarified the case-study button label.
 
-Result: PASS
+Validation:
+- Existing document entries preserved.
+- Existing href values preserved.
+- Existing section anchor preserved: operational-correspondence-records.
+- No unrelated page content changed.
