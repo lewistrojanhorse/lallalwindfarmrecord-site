@@ -1,12 +1,20 @@
-K15aa page patch validation
+FOCUSED UPDATE VALIDATION
 Date: 23 July 2026
 
-Scope:
-- k15aa.html only
-- No source documents or unrelated repository pages included
+Files included:
+- operational-correspondence.html
+- chronology.html
+- documents.html
+- documents/beneficiary-enquiry-final-turbine-commissioning-dates-october-2024.pdf
+- GIT-COMMIT-MESSAGE.txt
 
 Checks:
-- 1 December 2022 SLR letter now appears before October 2024 Beneficiary correspondence in the summary table
-- SLR 2022 evidence card now appears immediately before the October 2024 enquiry card
-- Evidence-card numbering is sequential
-- Existing links and anchors preserved
+- New source PDF present: YES
+- Operational Correspondence link present: YES
+- Documents library link present: YES
+- Chronology cross-reference present: YES
+- Existing filenames and source paths preserved: YES
+- Capacity terminology used: Beneficiary
+- Unrelated pages and documents excluded: YES
+
+Result: PASS

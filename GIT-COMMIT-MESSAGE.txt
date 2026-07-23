@@ -1,6 +1,9 @@
-fix(k15aa): place SLR 2022 letter before Beneficiary enquiry
+feat(record): add October 2024 commissioning enquiry pathway
 
-- reorder the concise documentary summary so the 1 December 2022 SLR letter precedes the October 2024 Beneficiary correspondence
-- reorder the documentary source sequence so the SLR 2022 technical response precedes the Beneficiary enquiry
-- renumber the affected evidence cards
-- preserve all existing page content, links, anchors, source documents and repository terminology
+- publish the Beneficiary's 4 October 2024 request for the authority requiring turbine commissioning notifications or the final commissioning dates for Yendon and Elaine
+- record the operator's 7 October 2024 response that notifications and reports were completed in accordance with planning requirements and that it was not obliged to provide the requested information
+- add the exchange to Operational Correspondence as an early step in the commissioning documentary pathway
+- add the source correspondence to the Documents library and documents directory
+- add the exchange to the project chronology
+- preserve capacity separation and avoid drawing a conclusion beyond the correspondence itself
+- limit this focused deployment to the three affected HTML pages and the new source PDF
