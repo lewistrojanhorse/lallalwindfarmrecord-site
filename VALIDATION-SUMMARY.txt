@@ -1,15 +1,20 @@
-Focused documents-page correction — 23 July 2026
+FOCUSED UPDATE VALIDATION
 
-Updated file:
+Updated HTML:
 - documents.html
+- agency-records.html
 
-Changes:
-- Corrected the Operational Correspondence section heading so it no longer presents the commissioning and K15aa enquiries as part of the 15 August 2024 complaint.
-- Added a concise section description distinguishing the three documentary subjects.
-- Clarified the case-study button label.
+Added source material:
+- documents/Council-Governance-Supplementary-Reference-Material-24-July-2026.pdf
+- documents/LLWF-Council-Planning-Framework.pdf
+- documents/LLWF-Council-Construction-and-Commissioning.pdf
+- documents/LLWF-Council-Compliance-Reports.pdf
+- documents/LLWF-Council-FOIs-and-Letter.pdf
+- images/council-governance-supplementary-email-preview.jpg
 
-Validation:
-- Existing document entries preserved.
-- Existing href values preserved.
-- Existing section anchor preserved: operational-correspondence-records.
-- No unrelated page content changed.
+Checks completed:
+- all newly added local links resolve within this patch
+- the existing trustee-notices-2026 anchor is preserved
+- the existing Moorabool Shire Council agency-card anchor is preserved
+- no unrelated HTML page was included or changed
+- Beneficiary and Trustee capacities were not merged

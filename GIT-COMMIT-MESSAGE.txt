@@ -1,6 +1,8 @@
-fix(documents): correct operational correspondence section heading
+feat(record): publish Council governance supplementary reference material
 
-- replace the complaint-specific section heading with a heading covering the full set of Beneficiary operational and documentary enquiries
-- identify turbine commissioning, the K15aa updated background report and the 15 August 2024 operational noise complaint as distinct records
-- clarify that the logger photograph and video support the complaint record only
-- preserve all existing document entries, links, source files and repository terminology
+- add the Trustee's supplementary reference material email dated 24 July 2026
+- publish the four Council reference bundles covering the planning framework, construction and commissioning, compliance reports, and selected FOI decisions and correspondence
+- add a documentary email preview to the Trustee notices and administrative record section
+- extend the Moorabool Shire Council agency chronology from the 20 July Governance Notice to the 24 July supporting material
+- record that the bundles were provided as a practical aid and were not intended to expand the Notice
+- preserve all unrelated page content, navigation, filenames and documentary links
