@@ -1,6 +1,6 @@
-Reference SLR daylight saving explanation in operational timeline
+Update Information Session transcript extract
 
-- link the 31 March 2021 AEMO reconstruction to Question 1 Part B
-- add the corrected Information Session timestamp of 53:53
-- reproduce the relevant daylight saving time transcript extract
-- retain existing page structure, image and source-document links
+- replace abbreviated quotation with fuller transcript extract
+- retain documentary wording while normalising AEMO acronym
+- reference commencement timestamp of 53:53
+- update source note to identify reader-aid transcript and authoritative YouTube recording
