@@ -1,20 +1,23 @@
-FOCUSED UPDATE VALIDATION
+Lal Lal Wind Farm Record — Technical Reports Update
+Date: 25 July 2026
 
-Updated HTML:
-- documents.html
-- agency-records.html
+Updated file
+- technical-reports.html
 
-Added source material:
-- documents/Council-Governance-Supplementary-Reference-Material-24-July-2026.pdf
-- documents/LLWF-Council-Planning-Framework.pdf
-- documents/LLWF-Council-Construction-and-Commissioning.pdf
-- documents/LLWF-Council-Compliance-Reports.pdf
-- documents/LLWF-Council-FOIs-and-Letter.pdf
-- images/council-governance-supplementary-email-preview.jpg
+Change made
+- Expanded the Operational Timeline — 31 March 2021 text to reference Question 1 (Part B) raised by the Beneficiary.
+- Added the corrected YouTube timestamp of 53:53.
+- Added a timestamped YouTube link using t=3233s.
+- Reproduced the relevant transcript extract beginning “I just will hasten...” and preserving the daylight saving time explanation.
+- Added links to the timestamped recording and the existing transcript PDF.
+- Retained the existing filename, navigation, page structure, image reference and document links.
 
-Checks completed:
-- all newly added local links resolve within this patch
-- the existing trustee-notices-2026 anchor is preserved
-- the existing Moorabool Shire Council agency-card anchor is preserved
-- no unrelated HTML page was included or changed
-- Beneficiary and Trustee capacities were not merged
+Validation
+- HTML parsed successfully with no parser errors.
+- Exactly one Operational Timeline heading remains.
+- Timestamp 53:53 is present in the narrative, call-out heading and source link.
+- Timestamp URL resolves syntactically to 3233 seconds.
+- Existing operational timeline image path remains unchanged:
+  images/operational-timeline-31-march-2021.jpg
+- Existing transcript path remains unchanged:
+  documents/SLR-Info-Session-Transcript.pdf

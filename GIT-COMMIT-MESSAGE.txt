@@ -1,8 +1,6 @@
-feat(record): publish Council governance supplementary reference material
+Reference SLR daylight saving explanation in operational timeline
 
-- add the Trustee's supplementary reference material email dated 24 July 2026
-- publish the four Council reference bundles covering the planning framework, construction and commissioning, compliance reports, and selected FOI decisions and correspondence
-- add a documentary email preview to the Trustee notices and administrative record section
-- extend the Moorabool Shire Council agency chronology from the 20 July Governance Notice to the 24 July supporting material
-- record that the bundles were provided as a practical aid and were not intended to expand the Notice
-- preserve all unrelated page content, navigation, filenames and documentary links
+- link the 31 March 2021 AEMO reconstruction to Question 1 Part B
+- add the corrected Information Session timestamp of 53:53
+- reproduce the relevant daylight saving time transcript extract
+- retain existing page structure, image and source-document links
