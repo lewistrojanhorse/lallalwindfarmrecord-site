@@ -1,7 +1,7 @@
-Add commissioning gateway to Home developments
+Strengthen NCTP commissioning trigger entry
 
-- add a centred Final Turbine Commissioning link
-- position it beneath the Administrative Developments introduction
-- connect commissioning-related disclosures to the gateway page
-- preserve the existing Council and DTP development cards
-- update Home page record version to 7.7.5
+- record the endorsed NCTP as part of the permit under Condition 25
+- emphasise the operational noise compliance pathway
+- retain K15aa pre-operation background monitoring
+- add the final-turbine trigger for monitoring, testing and reporting
+- update Key Project Dates version to 7.7.3

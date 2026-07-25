@@ -3,30 +3,29 @@ VALIDATION SUMMARY
 
 Updated file
 ------------
-index.html
+key-project-dates.html
 
 Implemented change
 ------------------
-- Added a centred “Open Final Turbine Commissioning” primary button within the
-  Administrative Developments section.
-- Positioned the button immediately below the section introduction and before
-  the Council and DTP development cards.
-- Linked the button to commissioning-final-turbine.html.
-- Updated the Home page record version to 7.7.5 dated 26 July 2026.
+- Expanded the 23 January 2018 Noise Compliance Testing Plan entry.
+- Recorded that the endorsed NCTP formed part of the Planning Permit under Condition 25.
+- Emphasised the NCTP as the project-specific operational noise compliance pathway.
+- Retained the K15aa pre-operation background monitoring requirement.
+- Added the repeated “commissioning of the last turbine” trigger for post-construction
+  monitoring, compliance testing and reporting.
+- Updated the page record version to 7.7.3 dated 26 July 2026.
 
 Preserved
 ---------
-- Home page filename and canonical URL
-- Existing section heading, explanatory text and development cards
-- Key Issues at a glance ordering introduced in v7.7.4
-- Site navigation, sidebar, notices, document links, assets and scripts
-- Existing separate commissioning gateway near the foot of the page
+- HTML filename and canonical URL
+- Existing chronology order and all other key-date entries
+- Existing image, source citation, navigation, links, CSS and scripts
+- Existing documentary framing and source wording elsewhere on the page
 
 Validation checks
 -----------------
-- Administrative Developments section found
-- Commissioning gateway button present exactly once within that section
-- Button target confirmed as commissioning-final-turbine.html
+- NCTP entry located and updated once
+- Documentary source line preserved
 - Canonical URL preserved
 - No new assets required
 - HTML parsed successfully
