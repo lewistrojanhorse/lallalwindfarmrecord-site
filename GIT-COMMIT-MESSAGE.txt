@@ -1,7 +1,8 @@
-Add I14aa to initial monitoring milestone
+Add Regulation 131B and EPA authorising-document pathway
 
-- identify I14aa (St Sava Monastery) in the 2007 campaign
-- connect the original assessment location to the later monitoring pathway
-- add a contextual Representative Monitoring link
-- preserve the concise historical framing and source line
-- update Key Project Dates version to 7.7.8
+- explain the statutory role of Regulation 131B
+- record EPA's explanation of incorporated NCTP modifications
+- add the supplied EPA correspondence image and caption
+- distinguish statute, regulator explanation and project documents
+- anchor the modification-or-substitution issue to Regulation 131B
+- update the NZS 6808 page to record version 7.7.3
