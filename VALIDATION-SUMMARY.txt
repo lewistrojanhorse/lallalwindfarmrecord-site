@@ -3,46 +3,45 @@ VALIDATION SUMMARY
 
 Updated page
 ------------
-nzs6808.html
+k15aa.html
 
 New asset
 ---------
-images/epa-regulation-131b-nctp-explanation.jpg
+images/k15aa-record/epa-regulation-131b-notional-boundary.jpg
 
 Implemented changes
 -------------------
-- Added a new “Regulation 131B and the authorising document” section immediately
-  after the page's purpose-and-scope section.
-- Explained that Regulation 131B determines the relevant wind-farm noise standard
-  by reference to the applicable authorising document.
-- Recorded that Regulation 131B recognises modification or replacement of NZS
-  provisions through an authorising document.
-- Added EPA's administrative explanation that an incorporated compliance test
-  plan may modify procedures under the relevant NZS.
-- Added the supplied EPA correspondence image with a documentary caption and
-  accessible alternative text.
-- Preserved the distinction between:
-  1. the statutory framework;
-  2. EPA's administrative explanation; and
-  3. the Planning Permit and endorsed NCTP as the project-specific documents.
-- Added Regulation 131B to the connected documentary hierarchy.
-- Strengthened the “Modification or substitution” issue row by expressly anchoring
-  the question to Regulation 131B.
-- Added Regulation 131B and the EPA correspondence to the primary-record list.
+- Preserved the existing NZS background-sound definition row.
+- Inserted a new “NZS definition – Notional boundary” row immediately after it.
+- Added the notional-boundary wording:
+  “A line 20 metres from any side of a dwelling or other building used for a
+  noise sensitive activity, or the legal boundary where this is closer to such
+  a building.”
+- Retained the existing source-material / copyright qualification.
+- Added NCTP, Annex A and the Verification Schedule to the evidence pathway.
+- Added the supplied EPA correspondence beneath:
+  “3. NCTP operational measurement location requirements”.
+- Added explanatory text recording EPA's Regulation 131B position concerning
+  incorporated compliance test plans, measurement locations and the
+  NZS 6808:2010 notional-boundary definition.
+- Preserved the existing NCTP image and added the EPA image as supporting
+  documentary context.
 - Updated the record version to 7.7.3 dated 26 July 2026.
 
 Preserved
 ---------
-- Canonical URL and page title
-- Existing navigation, SEO metadata, CSS and scripts
-- Existing documentary-methodology wording
-- Existing document links and all unrelated content
+- HTML filename and canonical URL
+- Existing navigation, SEO, CSS and scripts
+- Existing K15aa chronology and evidence-card order
+- Existing NCTP extract and all unrelated images
+- Existing links and document paths
 - No generated imagery was used
 
 Validation checks
 -----------------
-- New section inserted once
-- EPA image path resolves inside the deployment package
-- Regulation 131B appears in the hierarchy and issue table
-- Canonical URL remains https://lallalwindfarmrecord.com.au/nzs6808.html
+- New notional-boundary row inserted once
+- New EPA image path resolves within the package
+- Existing background-sound row remains
+- Evidence item 3 contains both NCTP and EPA figures
+- Canonical URL preserved
 - HTML parsed successfully

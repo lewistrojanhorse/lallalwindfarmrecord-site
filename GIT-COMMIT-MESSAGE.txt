@@ -1,8 +1,8 @@
-Add Regulation 131B and EPA authorising-document pathway
+Add notional-boundary definition and EPA context to K15aa
 
-- explain the statutory role of Regulation 131B
-- record EPA's explanation of incorporated NCTP modifications
-- add the supplied EPA correspondence image and caption
-- distinguish statute, regulator explanation and project documents
-- anchor the modification-or-substitution issue to Regulation 131B
-- update the NZS 6808 page to record version 7.7.3
+- retain the existing NZS background-sound definition
+- add the NZS 6808:2010 notional-boundary definition
+- link the definition to the NCTP and verification pathway
+- add EPA Regulation 131B correspondence under measurement locations
+- preserve the existing NCTP extract as the primary project document
+- update the K15aa page to record version 7.7.3
