@@ -1,5 +1,7 @@
-Standardise permit identifier on commissioning page
+Strengthen commissioning noise pathway explanation
 
-- remove the -3 suffix from visible PL-SP/05/0461 references
-- retain existing permit PDF asset paths to avoid broken links
-- update commissioning page record version to 7.7.23
+- centre the endorsed NCTP operational noise monitoring pathway
+- add pre-operation, compliance testing and reporting triggers
+- retain Conditions 12 and 17 as aligned permit pathways
+- preserve distinct commissioning terminology
+- update commissioning page record version to 7.7.24

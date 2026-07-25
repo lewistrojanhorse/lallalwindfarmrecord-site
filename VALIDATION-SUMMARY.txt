@@ -1,23 +1,27 @@
 VALIDATION SUMMARY — Commissioning of the Final Turbine
 
-Build version: 7.7.23
+Build version: 7.7.24
 Date: 26 July 2026
 
 Updated file
 - commissioning-final-turbine.html
 
 Changes made
-- Completed a page-wide check of visible Planning Permit references.
-- Removed the amendment suffix “-3” from all visible references so the page now uses the neutral identifier “Planning Permit PL-SP/05/0461”.
-- Applied the correction to the governing documentary pathway, reconciliation table, exhibit captions and source register.
-- Preserved the existing PDF asset path because the deployed source file is currently named Planning-Permit-PL-SP-05-0461-3.pdf; changing that path without the corresponding asset would break the document links.
-- Updated the page record version to 7.7.23 and the record date to 26 July 2026.
+- Refined the governing documentary pathway explanation to place the operational noise pathway at the centre of the commissioning discussion.
+- Added express reference to pre-operation requirements, post-construction noise monitoring, compliance testing and reporting under the endorsed NCTP.
+- Retained Conditions 12 and 17 as parallel permit pathways using, or operating by reference to, commissioning of the last turbine.
+- Preserved the distinction between commissioning of the facility, full operation of the facility and commissioning of the last turbine without treating those expressions as automatically synonymous.
+- Preserved the neutral visible permit identifier Planning Permit PL-SP/05/0461.
+- Updated the page record version to 7.7.24.
 
 Validation completed
 - HTML parsed successfully.
 - Canonical URL preserved.
 - Page title and metadata preserved.
-- No visible PL-SP/05/0461-3 references remain.
-- Existing permit PDF links remain unchanged and internally consistent.
+- Target paragraph updated once only.
+- Operational noise monitoring, compliance testing and reporting are expressly included in the governing pathway explanation.
+- Conditions 12 and 17 remain expressly retained.
+- No visible PL-SP/05/0461-3 references introduced.
+- Existing permit PDF asset paths remain unchanged.
 - Navigation, anchors, document links, images and page structure preserved.
 - No new assets required.
