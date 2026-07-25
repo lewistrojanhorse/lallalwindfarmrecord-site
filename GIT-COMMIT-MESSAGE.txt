@@ -1,7 +1,7 @@
-Replace interim monitoring image with CRG record
+Clarify AEMO chronology for interim monitoring
 
-- use the 24 March 2020 CRG extract as the primary image
-- lead the entry with the contemporaneous project record
-- retain SLR, K34aa, L28aa and the detailed monitoring dates
-- distinguish the CRG source from the separate documentary particulars
-- update Key Project Dates version to 7.7.5
+- preserve SLR's interim-check characterisation
+- record Elaine constraints lifted on 8 September 2020
+- record Yendon release to full output on 22 December 2020
+- distinguish LLWF's later chronology from the SLR report
+- update Key Project Dates version to 7.7.6

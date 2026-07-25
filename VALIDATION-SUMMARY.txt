@@ -5,36 +5,34 @@ Updated file
 ------------
 key-project-dates.html
 
-New asset
----------
-images/interim-compliance-monitoring-community-crg-24-march-2020.jpg
-
-Implemented changes
--------------------
-- Replaced the previous interim-monitoring image with the supplied highlighted
-  Community Reference Group extract dated 24 March 2020.
-- Reframed the 27 February–26 March 2020 entry around the contemporaneous CRG record.
-- Preserved the separate documentary details identifying:
-  - SLR as the monitoring consultant;
-  - noise-sensitive locations K34aa and L28aa;
-  - the approximate monitoring period 27 February–26 March 2020; and
-  - the description “Interim Compliance Monitoring for the community.”
-- Updated the documentary source line to distinguish the CRG minutes from the
-  separate record supplying the locations, dates and stated purpose.
-- Updated the page record version to 7.7.5 dated 26 July 2026.
+Implemented change
+------------------
+- Revised the October–December 2020 “Interim noise monitoring” entry.
+- Preserved SLR's exact characterisation of the campaign as “an interim check
+  of compliance”.
+- Recorded SLR's explanation that the wind farm was not yet operating at full
+  capacity because of constrained operations imposed by the network operator
+  during the AEMO ramp-up process.
+- Added LLWF's later chronology provided to EPA:
+  - Elaine AEMO constraints lifted on 8 September 2020;
+  - Yendon released to full output on 22 December 2020.
+- Distinguished the later LLWF chronology from SLR's contemporaneous report.
+- Updated the documentary source line.
+- Updated the page record version to 7.7.6 dated 26 July 2026.
 
 Preserved
 ---------
 - HTML filename and canonical URL
-- Existing chronology order and all other entries
-- EPA-context updates in the 2018 NCTP and 20 June 2019 generation entries
-- Navigation, links, CSS, scripts and all unrelated assets
+- Existing chronology order, image and all other entries
+- EPA-context updates in the NCTP and 20 June 2019 entries
+- CRG replacement image and revised February–March 2020 monitoring entry
+- Navigation, links, CSS, scripts and unrelated assets
 
 Validation checks
 -----------------
-- Replacement image exists in the deployment package
-- Image path in HTML matches the packaged asset
-- CRG quotation preserved
-- K34aa, L28aa and 27 February–26 March 2020 details retained
+- Interim monitoring entry located and updated once
+- Exact SLR phrase retained
+- Elaine and Yendon AEMO dates included
 - Canonical URL preserved
+- No new assets required
 - HTML parsed successfully
