@@ -1,14 +1,9 @@
-Rebuild final-turbine commissioning documentary sequence
+Correct Condition 17 record and add Council FOI context
 
-- reorganise the page into a coherent permit, public chronology, K15aa, monitoring, reporting and reconciliation pathway
-- shorten and clarify the trigger reconciliation table
-- separate the public landscaping chronology from the bird and bat monitoring record
-- place the Jacobs review between the NCTP framework and the K15aa operational record
-- preserve Elaine and Yendon Stage 2 completion dates separately
-- move the section 6.0 reporting comparison beneath the underlying monitoring record
-- distinguish report dates from actual Ministerial submission dates
-- enlarge key portrait exhibits and standardise source-document headings
-- separate the NCTP section 7.0 exhibit from the related DTP FOI note
-- position the Trustee commissioning enquiry after the conflicting date record
-- remove the self-referential next-step panel
-- update the page record version to 7.7.5
+- correct the Condition 17 reconciliation row to preserve the commissioning-linked monitoring and reporting pathway
+- record 18 November 2019 as the commissioning date used for the second and final annual bird and bat monitoring report
+- add Council FOI SR.142870 context to the Community Reference Group minutes caption
+- record that Council found no formal commissioning certificate, written notification, milestone register entry or database record within the FOI scope
+- remove the duplicated Condition 17 administrative-record exhibit and obsolete caption
+- include the Council FOI decision in the page update package
+- update the page record version to 7.7.6

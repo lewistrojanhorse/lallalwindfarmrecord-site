@@ -1,25 +1,27 @@
 VALIDATION SUMMARY
+==================
 
-File: commissioning-final-turbine.html
-Record version: 7.7.5
+Page: commissioning-final-turbine.html
+Record version: 7.7.6
 Date: 25 July 2026
 
-Checks completed:
+Applied changes
+---------------
+- Corrected the Condition 17 reconciliation row.
+- Added Council FOI SR.142870 context to the CRG minutes caption.
+- Removed the duplicated Condition 17 administrative-record exhibit.
+- Removed the obsolete Condition 17 caption.
+- Included the Council FOI decision at the existing repository-relative document path.
+- Removed the now-unused duplicate image asset.
+
+Validation checks
+-----------------
 - HTML parsed successfully with BeautifulSoup.
-- Main page structure rebuilt in the agreed documentary order.
-- Self-referential “Next documentary step” panel removed.
-- 19 commissioning image references checked.
-- Missing commissioning images in package: 0.
-- Trustee commissioning enquiry PDF included.
-- Reporting chronology placed after monitoring source exhibits.
-- Elaine and Yendon Stage 2 completion dates preserved separately.
-- Section 6.0 text distinguishes report dates from actual Ministerial submission dates.
+- Condition 17 corrected wording present.
+- Council FOI context present.
+- Bird-and-bat exhibit referenced once.
+- Obsolete exhibit and image reference absent.
+- Required changed assets present and non-empty.
+- Local image/document/navigation references identified: 145.
 
-Missing commissioning assets: None
-
-Repository dependencies not included in this page-only package:
-- site-wide style.css, site.js, favicon and branding assets
-- existing source PDFs already linked by the live repository
-
-Deployment method:
-Upload commissioning-final-turbine.html and merge the supplied images/commissioning and documents/commissioning folders into the repository root without changing filenames.
+Result: PASS
