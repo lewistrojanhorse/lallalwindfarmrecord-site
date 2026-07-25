@@ -1,11 +1,7 @@
-Refine NCTP monitoring-stage exhibits
+Restore NCTP responsibilities exhibit and emphasise full-operation statement
 
-- emphasise the mandatory “shall” wording for both endorsed NCTP monitoring stages
-- link the monitoring-stage caption to the NZS 6808:2010 background sound definition
-- retain the NCTP section 7.0 responsibilities exhibit within the monitoring-stage sequence
-- identify the acoustic consultant’s responsibility to provide supplementary information where deviation from the NCTP is required
-- reference DTP FOI CS019241 concerning the asserted NCTP revision and endorsement pathway
-- replace the unrelated monitoring exhibit with the March 2021 Lal Lal Wind Farms Project Update
-- connect the operator’s “fully operational” statement with Planning Permit Condition 25(c)
-- remove the later duplicate organisations-and-responsibilities section
-- update the page record version to 7.7.12
+- replace the Section 7.0 organisations and responsibilities exhibit with the supplied image highlighting only the acoustic consultant responsibilities
+- preserve the existing Section 7.0 caption and DTP FOI CS019241 reference
+- bold the March 2021 Project Update statement “now that Lal Lal Wind Farms is fully operational”
+- package only the updated HTML and replacement documentary image
+- update the page record version to 7.7.13
