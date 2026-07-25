@@ -1,7 +1,6 @@
-Restore NCTP responsibilities exhibit and emphasise full-operation statement
+Align monitoring-period captions across all stages
 
-- replace the Section 7.0 organisations and responsibilities exhibit with the supplied image highlighting only the acoustic consultant responsibilities
-- preserve the existing Section 7.0 caption and DTP FOI CS019241 reference
-- bold the March 2021 Project Update statement “now that Lal Lal Wind Farms is fully operational”
-- package only the updated HTML and replacement documentary image
-- update the page record version to 7.7.13
+- record that Yendon Stage 1 monitoring was completed on 1 August 2022
+- align the Stage 2 caption with the factual wording used for Stage 1
+- preserve Elaine and Yendon Stage 2 completion dates separately
+- update the page record version to 7.7.14

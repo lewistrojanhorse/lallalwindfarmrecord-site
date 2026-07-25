@@ -1,12 +1,16 @@
-Validation summary — commissioning-final-turbine.html v7.7.13
+Validation Summary — commissioning-final-turbine.html v7.7.14
 
-Incremental changes applied:
-- Replaced images/commissioning/nctp-organisations-responsibilities.jpg with the exact user-supplied documentary image.
-- Bolded “now that Lal Lal Wind Farms is fully operational” in the March 2021 Project Update caption.
-- Updated SEO release and footer record version to 7.7.13.
+Scope
+- Text-only incremental update.
+- No image or PDF assets changed.
 
-Checks:
-- Updated HTML file present.
-- Replacement image present at the path referenced by the HTML.
-- No generated or altered documentary images included.
-- Existing filenames, URLs, navigation and document links preserved.
+Changes validated
+- Part 1 caption records Elaine Stage 1 completion on 13 May 2021.
+- Part 2 caption records Yendon Stage 1 completion on 1 August 2022.
+- Part 3 caption records Elaine Stage 2 completion on 1 June 2023 and Yendon Stage 2 completion on 19 January 2024, with the dates preserved separately.
+- Page record version and SEO release updated to 7.7.14.
+
+Checks
+- HTML parsed successfully.
+- Existing relative image and document paths were not altered.
+- Incremental package contains only the updated HTML, validation summary and commit message.
