@@ -1,8 +1,7 @@
-Add notional-boundary definition and EPA context to K15aa
+Cross-reference earlier location evidence in SLR item
 
-- retain the existing NZS background-sound definition
-- add the NZS 6808:2010 notional-boundary definition
-- link the definition to the NCTP and verification pathway
-- add EPA Regulation 131B correspondence under measurement locations
-- preserve the existing NCTP extract as the primary project document
-- update the K15aa page to record version 7.7.3
+- retain the 2019 K15aa monitoring description
+- link item 4 back to the 2017 Marshall Day location evidence
+- link item 4 to the NCTP and EPA notional-boundary context
+- avoid duplicating the earlier definitions and source discussion
+- update the K15aa page to record version 7.7.4
