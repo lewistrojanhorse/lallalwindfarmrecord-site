@@ -7,28 +7,26 @@ key-project-dates.html
 
 Implemented change
 ------------------
-- Expanded the 16 February 2021 “SLR supplementary K15aa baseline report issued” entry.
-- Retained the report's stated purpose of obtaining valid baseline noise levels
-  prior to operation and determining the K15aa operational noise limits.
-- Added the endorsed NCTP requirement that the updated background noise report
-  was to be submitted prior to commencement of operation.
-- Linked the report to the project-specific operational noise compliance pathway
-  established under Planning Permit Condition 25.
-- Updated the page record version to 7.7.7 dated 26 July 2026.
+- Expanded the 2007 “Initial background noise monitoring” entry.
+- Identified I14aa (St Sava Monastery) as one of the original assessment locations
+  included in the pre-construction monitoring campaign.
+- Preserved the entry's role as a concise historical milestone rather than adding
+  later technical conclusions.
+- Added a contextual link to representative-monitoring.html.
+- Updated the page record version to 7.7.8 dated 26 July 2026.
 
 Preserved
 ---------
 - HTML filename and canonical URL
-- Existing chronology order, image and source citation
-- EPA and AEMO context added in earlier updates
-- CRG interim-monitoring replacement image and related text
-- Navigation, links, CSS, scripts and all unrelated entries
+- Existing chronology order, image and documentary source line
+- All earlier EPA, AEMO, CRG, NCTP and K15aa updates
+- Navigation, links, CSS, scripts and unrelated entries
 
 Validation checks
 -----------------
-- K15aa report entry located and updated once
-- “prior to commencement of operation” included
-- Condition 25 pathway included
+- 2007 entry located and updated once
+- I14aa and St Sava Monastery included
+- Representative Monitoring link present and correctly targeted
 - Canonical URL preserved
 - No new assets required
 - HTML parsed successfully

@@ -1,7 +1,7 @@
-Link K15aa report to pre-operation NCTP requirement
+Add I14aa to initial monitoring milestone
 
-- identify the 2021 report as the updated K15aa background record
-- add the NCTP requirement for submission before commencement of operation
-- connect the report to the Condition 25 operational noise pathway
-- preserve the existing report purpose and source citation
-- update Key Project Dates version to 7.7.7
+- identify I14aa (St Sava Monastery) in the 2007 campaign
+- connect the original assessment location to the later monitoring pathway
+- add a contextual Representative Monitoring link
+- preserve the concise historical framing and source line
+- update Key Project Dates version to 7.7.8
