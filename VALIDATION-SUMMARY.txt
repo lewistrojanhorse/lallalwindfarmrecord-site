@@ -1,12 +1,10 @@
-Commissioning of the Final Turbine — incremental validation
-Record version: 7.7.9
-Date: 25 July 2026
+VALIDATION SUMMARY
+==================
+PASS — Version marker
+PASS — Commencement section
+PASS — EPA exhibit occurs once
+PASS — Appendix H image
+PASS — NZS definition link
+PASS — Self-link absent
 
-Validated:
-- HTML parsed successfully.
-- Required html, head and body elements are present.
-- SLR K15aa caption updated without changing the linked source image or PDF.
-- NZS 6808:2010 background sound definition reproduced exactly.
-- Cross-reference resolves to glossary.html#background-sound.
-- Existing page structure retained (21 image references; 128 links).
-- Incremental package contains only the updated HTML, validation summary and commit message.
+Package scope: updated HTML and one new Appendix H image only. Existing EPA image/PDF and all unchanged repository assets are not duplicated.

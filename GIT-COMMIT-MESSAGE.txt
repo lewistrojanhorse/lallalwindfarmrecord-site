@@ -1,7 +1,9 @@
-Link K15aa pathway to NZS background sound definition
+Expand commencement-of-operation documentary record
 
-- clarify that the NCTP reference-receptor pathway determined NZS 6808:2010 noise limits from background noise monitoring
-- preserve SLR's 1 December 2022 assertion that K15aa baseline monitoring was completed in approximately October 2018
-- link the K15aa caption to the repository definition of background sound
-- reproduce the exact NZS 6808:2010 background sound definition
-- update the page record version to 7.7.9
+- move the EPA grid-export correspondence into the commencement-of-operation section
+- identify EPA's regulatory role for wind farm sound and preserve its administrative position on commencement of operation
+- add the highlighted SLR Appendix H early-commissioning extract
+- record SLR's statements that some WTGs were operated and up to 15 WTGs generated power during the 2019 K15aa monitoring period
+- link the chronology to the exact NZS 6808:2010 definition of background sound
+- remove the duplicate EPA exhibit from the earlier monitoring-record section
+- update the page record version to 7.7.10
