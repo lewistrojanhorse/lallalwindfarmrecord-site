@@ -1,9 +1,7 @@
-Add March 2020 CRG commissioning chronology record
+Replace repeated CRG minute exhibit with chronology
 
-- add the 24 March 2020 Community Reference Group minutes between the December 2019 minutes and June 2020 Project Update
-- record that post-construction noise monitoring was delayed because Lal Lal Wind Farms was not operating at full capacity
-- preserve AEMO generation constraints as part of the contemporaneous commissioning chronology
-- exclude the separate complaint-based logger and dwelling-monitoring material from the caption
-- retitle the exhibit group as the public commissioning chronology
-- use the exact supplied documentary image without generation or alteration
-- update the page record version to 7.7.18
+- retain the 4 December 2019 CRG exhibit
+- replace the 24 March 2020 CRG image with a chronological summary of March–November 2020 CRG records
+- record repeated advice that post-construction noise monitoring remained delayed because Lal Lal Wind Farms was not operating at full capacity
+- include the 12 May 2020 operating levels
+- update record version to 7.7.19

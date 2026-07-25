@@ -1,18 +1,1 @@
-VALIDATION SUMMARY — commissioning-final-turbine.html v7.7.18
-Date: 25 July 2026
-
-Scope
-- Incremental page update only.
-- Added one exact user-supplied documentary image.
-- No generated or redrawn documentary image used.
-
-Checks
-- HTML parsed successfully: PASS
-- New CRG image exists and is non-empty: PASS
-- New image referenced once: PASS
-- Record version updated to 7.7.18: PASS
-- SEO release updated to v7.7.18: PASS
-- Complaint-based logger/dwelling detail omitted from caption: PASS
-- Existing repository-relative links preserved: PASS
-
-Result: PASS
+HTML updated; chronology inserted; version updated to 7.7.19.
