@@ -1,11 +1,24 @@
-VALIDATION SUMMARY — VERSION 7.7.2
+VALIDATION SUMMARY
 
-Commissioning page validation
-PASS — all commissioning-specific images referenced by commissioning-final-turbine.html are included.
-PASS — all commissioning-specific PDF links referenced by the page are included.
-PASS — chronology wording preserves the distinct documentary sources and dates.
-PASS — no supplied commissioning exhibit has been silently replaced by generic imagery.
-PASS — archive integrity test completed.
+File: commissioning-final-turbine.html
+Release: 7.7.3 — 25 July 2026
+
+Completed checks
+- HTML parsed successfully with BeautifulSoup.
+- Duplicate IDs: none.
+- Existing filenames, canonical URL, primary navigation and stable document links preserved.
+- Page-only release contains the updated HTML, one replacement image, one new NCTP reporting chronology image and the commissioning enquiry PDF.
+- Duplicate CRG documentary exhibit removed.
+- Self-referential “Next documentary step” section removed.
+- NCTP Stage 1 and Stage 2 trigger wording updated to the exact endorsed-plan wording.
+- K15aa discussion expanded to include EPA commencement wording, operator generation chronology and SLR Appendix H observations.
+- Documentary exhibit headings now identify the source document.
+
+Verified NCTP Section 6.0 calculations
+- Elaine Stage 1: 410 days elapsed; 368 days beyond the six-week due date.
+- Yendon Stage 1: 456 days elapsed; 414 days beyond the six-week due date.
+- Elaine Stage 2: 477 days elapsed; 435 days beyond the six-week due date.
+- Yendon Stage 2: 245 days elapsed; 203 days beyond the six-week due date.
 
 Deployment note
-This package is designed to merge into the existing repository. Existing shared assets such as the site logo, favicon and unrelated repository documents/images remain in the live repository and are not duplicated solely for this page update.
+Upload the contents of this ZIP into the repository root. Existing deployed files outside the ZIP are unchanged.

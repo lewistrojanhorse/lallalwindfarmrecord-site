@@ -1,10 +1,13 @@
-v7.7.2: Complete final-turbine commissioning documentary exhibits
+Update final-turbine commissioning documentary gateway
 
-- Complete the Commissioning of the Final Turbine gateway page.
-- Add commissioning-specific Planning Permit, NCTP, CRG, Community Bulletin, Condition 17, FOI and enquiry source documents.
-- Add documentary exhibits for Permit Conditions 12, 17 and 23–25.
-- Add NCTP monitoring, reporting and responsibility extracts.
-- Add monitoring-stage and subsequent report-record exhibits.
-- Preserve the 18/19 November 2019 implied commissioning chronology separately from the November 2020 landscaping closure dates and the later 10 December 2020 agency representation.
-- Add a commissioning source register and source-document links.
-- Update repository release references to Version 7.7.2.
+- replace the CRG minutes exhibit with the cleaner source image
+- identify the Moorabool Shire Council officer recorded in attendance
+- remove the duplicate CRG exhibit
+- add the NCTP section 6.0 reporting chronology image and verified date calculations
+- use exact NCTP Stage 1 and Stage 2 commissioning-trigger wording
+- expand the K15aa record with EPA commencement wording, generation chronology and SLR Appendix H
+- identify source documents in exhibit headings and captions
+- update the bird and bat commissioning-linked monitoring caption
+- add the Trustee commissioning-certificate enquiry and follow-up
+- remove the self-referential next-step panel
+- bump the page record version to 7.7.3
