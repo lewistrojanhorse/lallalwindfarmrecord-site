@@ -1,24 +1,19 @@
-VALIDATION SUMMARY
+Lal Lal Wind Farm Record — Commissioning of the Final Turbine
+Page-only deployment validation — Version 7.7.4 — 25 July 2026
 
-File: commissioning-final-turbine.html
-Release: 7.7.3 — 25 July 2026
+Updates applied
+- Clarified the NCTP section 6.0 trigger as completion of the noise monitoring for the relevant compliance-monitoring stage.
+- Clarified that, once that monitoring was completed, the corresponding compliance report was required within six weeks.
+- Aligned the Section 6.0 exhibit caption with the revised wording.
+- Restored the complete commissioning image set required by the page.
+- Retained the replacement CRG minutes image and the NCTP reporting-timeframes comparison image.
+- Retained the Trustee commissioning enquiry PDF.
+- Updated the page record version to 7.7.4.
 
-Completed checks
-- HTML parsed successfully with BeautifulSoup.
-- Duplicate IDs: none.
-- Existing filenames, canonical URL, primary navigation and stable document links preserved.
-- Page-only release contains the updated HTML, one replacement image, one new NCTP reporting chronology image and the commissioning enquiry PDF.
-- Duplicate CRG documentary exhibit removed.
-- Self-referential “Next documentary step” section removed.
-- NCTP Stage 1 and Stage 2 trigger wording updated to the exact endorsed-plan wording.
-- K15aa discussion expanded to include EPA commencement wording, operator generation chronology and SLR Appendix H observations.
-- Documentary exhibit headings now identify the source document.
+Asset validation
+- All 19 images referenced under images/commissioning/ are included in this package.
+- The commissioning enquiry PDF is included at the exact linked path.
+- Existing site-wide assets such as style.css, site.js, favicon and logos are intentionally not duplicated in this page-only update.
 
-Verified NCTP Section 6.0 calculations
-- Elaine Stage 1: 410 days elapsed; 368 days beyond the six-week due date.
-- Yendon Stage 1: 456 days elapsed; 414 days beyond the six-week due date.
-- Elaine Stage 2: 477 days elapsed; 435 days beyond the six-week due date.
-- Yendon Stage 2: 245 days elapsed; 203 days beyond the six-week due date.
-
-Deployment note
-Upload the contents of this ZIP into the repository root. Existing deployed files outside the ZIP are unchanged.
+Deployment
+Upload the package contents into the repository root, preserving the included folder structure.

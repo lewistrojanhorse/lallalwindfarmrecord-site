@@ -1,13 +1,8 @@
-Update final-turbine commissioning documentary gateway
+Fix NCTP reporting trigger and restore commissioning exhibits
 
-- replace the CRG minutes exhibit with the cleaner source image
-- identify the Moorabool Shire Council officer recorded in attendance
-- remove the duplicate CRG exhibit
-- add the NCTP section 6.0 reporting chronology image and verified date calculations
-- use exact NCTP Stage 1 and Stage 2 commissioning-trigger wording
-- expand the K15aa record with EPA commencement wording, generation chronology and SLR Appendix H
-- identify source documents in exhibit headings and captions
-- update the bird and bat commissioning-linked monitoring caption
-- add the Trustee commissioning-certificate enquiry and follow-up
-- remove the self-referential next-step panel
-- bump the page record version to 7.7.3
+- clarify that the section 6.0 six-week period begins when noise monitoring for the relevant stage is completed
+- align the operational-noise-reporting caption with the clarified trigger
+- restore all commissioning exhibit images referenced by the page
+- retain the updated CRG minutes and reporting-timeframes comparison images
+- retain the Trustee commissioning enquiry record
+- bump the page record version to 7.7.4
