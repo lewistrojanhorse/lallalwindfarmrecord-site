@@ -1,10 +1,14 @@
-VALIDATION SUMMARY
-==================
-PASS — Version marker
-PASS — Commencement section
-PASS — EPA exhibit occurs once
-PASS — Appendix H image
-PASS — NZS definition link
-PASS — Self-link absent
+Validation summary — commissioning-final-turbine.html v7.7.11
 
-Package scope: updated HTML and one new Appendix H image only. Existing EPA image/PDF and all unchanged repository assets are not duplicated.
+PASS — FOI panel found
+PASS — K15aa section precedes FOI
+PASS — FOI precedes NCTP monitoring
+PASS — FOI appears once
+PASS — Version 7.7.11 present
+
+Package scope
+- commissioning-final-turbine.html
+- GIT-COMMIT-MESSAGE.txt
+- VALIDATION-SUMMARY.txt
+
+No images or PDFs changed in this incremental update.
