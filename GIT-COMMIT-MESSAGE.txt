@@ -1,7 +1,7 @@
-Cross-reference earlier location evidence in SLR item
+Strengthen SLR reference-receptor pathway in K15aa
 
-- retain the 2019 K15aa monitoring description
-- link item 4 back to the 2017 Marshall Day location evidence
-- link item 4 to the NCTP and EPA notional-boundary context
-- avoid duplicating the earlier definitions and source discussion
-- update the K15aa page to record version 7.7.4
+- explain that NZS noise limits derive from background monitoring
+- retain K15aa as the reference location for J14aa
+- cross-reference the earlier background and location evidence
+- replace the item 5 image with the stronger SLR extract
+- update the K15aa page to record version 7.7.5

@@ -5,31 +5,41 @@ Updated page
 ------------
 k15aa.html
 
-Implemented change
-------------------
-- Revised item 4, “SLR 2021 supplementary baseline monitoring report”.
-- Preserved the existing description of the 2019 K15aa monitoring campaign.
-- Added a concise “Read with earlier evidence” note linking item 4 to:
-  - item 2, concerning Marshall Day's 2017 alternative monitoring position; and
-  - item 3, concerning NCTP operational measurement locations, EPA's
-    Regulation 131B explanation and the NZS notional-boundary concept.
-- Avoided repeating the full notional-boundary definition or duplicating the
-  earlier documentary discussion.
-- Updated the record version to 7.7.4 dated 26 July 2026.
+New replacement asset
+---------------------
+images/k15aa-record/slr-2022-reference-receptors-background-limits.jpg
+
+Implemented changes
+-------------------
+- Strengthened item 5, “SLR 2022 technical response and J14aa reference pathway”.
+- Recorded SLR's explanation that the endorsed NCTP nominates reference receptors
+  for which NZS 6808:2010 noise limits are determined from background noise monitoring.
+- Retained K15aa as the relevant reference location for J14aa.
+- Retained SLR's statement that pre-construction baseline monitoring was completed
+  at K15aa and the relevant noise limits determined.
+- Added a concise cross-reference note directing readers to:
+  - item 1 for the background-sound definition;
+  - item 2 for the 2017 Marshall Day location statement;
+  - item 3 for NCTP measurement locations, Regulation 131B and the notional boundary;
+  - item 4 for the 2019 SLR supplementary monitoring relationship.
+- Replaced the existing item 5 image with the supplied SLR extract.
+- Updated the item 5 caption and alternative text.
+- Updated the record version to 7.7.5 dated 26 July 2026.
 
 Preserved
 ---------
 - HTML filename and canonical URL
-- Existing K15aa evidence-card order and source images
-- Existing notional-boundary definition row
-- Existing EPA image under item 3
+- Existing evidence-card order
+- Existing item 3 EPA correspondence and notional-boundary content
+- Existing item 4 cross-references
 - Navigation, SEO, CSS, scripts and document links
-- No new assets required
+- No generated imagery was used
 
 Validation checks
 -----------------
-- Item 4 located and updated once
-- References to item 2 and item 3 included
-- Existing item 3 EPA image path preserved
+- Item 5 located and updated once
+- NZS background-derived noise-limit wording included
+- Cross-references to items 1–4 included
+- Replacement image path resolves within the package
 - Canonical URL preserved
 - HTML parsed successfully
