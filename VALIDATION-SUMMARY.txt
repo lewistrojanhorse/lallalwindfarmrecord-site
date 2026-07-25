@@ -5,29 +5,36 @@ Updated file
 ------------
 key-project-dates.html
 
+New asset
+---------
+images/interim-compliance-monitoring-community-crg-24-march-2020.jpg
+
 Implemented changes
 -------------------
-1. 23 January 2018 — Noise Compliance Testing Plan
-   - retained the Condition 25, K15aa and final-turbine-trigger explanation;
-   - added EPA Victoria's later administrative description:
-     “The Endorsed NCTP is a part of the authorising document – the planning control.”
+- Replaced the previous interim-monitoring image with the supplied highlighted
+  Community Reference Group extract dated 24 March 2020.
+- Reframed the 27 February–26 March 2020 entry around the contemporaneous CRG record.
+- Preserved the separate documentary details identifying:
+  - SLR as the monitoring consultant;
+  - noise-sensitive locations K34aa and L28aa;
+  - the approximate monitoring period 27 February–26 March 2020; and
+  - the description “Interim Compliance Monitoring for the community.”
+- Updated the documentary source line to distinguish the CRG minutes from the
+  separate record supplying the locations, dates and stated purpose.
+- Updated the page record version to 7.7.5 dated 26 July 2026.
 
-2. 20 June 2019 — Generation commenced
-   - retained the LLWF-recorded Yendon generation date;
-   - added EPA Victoria's later administrative position that commencement of
-     operation occurs “when the facility commences exporting electricity to the
-     common electrical grid”;
-   - expressly preserved generation, grid export, commencement of operation,
-     commissioning and commissioning of the last turbine as distinct concepts.
+Preserved
+---------
+- HTML filename and canonical URL
+- Existing chronology order and all other entries
+- EPA-context updates in the 2018 NCTP and 20 June 2019 generation entries
+- Navigation, links, CSS, scripts and all unrelated assets
 
-3. Page metadata
-   - updated record version to 7.7.4 dated 26 July 2026.
-
-Structural validation
----------------------
-- Removed the duplicated DOCTYPE declaration present in the supplied file.
-- Canonical URL preserved.
-- Existing filename, chronology order, images, navigation, links, CSS and
-  scripts preserved.
-- No new assets required.
-- HTML parsed successfully.
+Validation checks
+-----------------
+- Replacement image exists in the deployment package
+- Image path in HTML matches the packaged asset
+- CRG quotation preserved
+- K34aa, L28aa and 27 February–26 March 2020 details retained
+- Canonical URL preserved
+- HTML parsed successfully

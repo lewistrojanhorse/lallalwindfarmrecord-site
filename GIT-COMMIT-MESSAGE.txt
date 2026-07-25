@@ -1,7 +1,7 @@
-Add EPA context to NCTP and generation milestones
+Replace interim monitoring image with CRG record
 
-- add EPA's authorising-document description to the 2018 NCTP entry
-- add EPA's grid-export position to the 20 June 2019 generation entry
-- preserve generation, operation and commissioning as distinct concepts
-- retain the K15aa and final-turbine monitoring pathway
-- remove duplicate doctype and update page version to 7.7.4
+- use the 24 March 2020 CRG extract as the primary image
+- lead the entry with the contemporaneous project record
+- retain SLR, K34aa, L28aa and the detailed monitoring dates
+- distinguish the CRG source from the separate documentary particulars
+- update Key Project Dates version to 7.7.5
