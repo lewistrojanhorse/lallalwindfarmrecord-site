@@ -1,10 +1,8 @@
-Remove generated comparison images from commissioning page
+Replace generated IGN comparison with documentary extracts
 
-- retain the 4 December 2019 CRG exhibit
-- replace the 24 March 2020 CRG image with the March–November 2020 documentary chronology
-- remove the generated IGN wording-comparison image
-- reproduce the operator wording and exact endorsed NCTP wording as HTML with direct source links
-- remove the generated reporting-timeframes image
-- retain the elapsed-day comparison as HTML/CSS cards
-- preserve all remaining documentary exhibits, URLs and navigation
-- update the page record version to 7.7.20
+- add the two supplied IGN-00008382 documentary images
+- show the operator's stated 10 December 2020 commissioning-completion date and earlier generation dates
+- show LLWF's restatement of the monitoring trigger by reference to commissioning of the Wind Farm
+- preserve the distinction from the endorsed NCTP wording referring to commissioning of the last turbine
+- retain the CRG chronology and all other documentary exhibits
+- update the page record version to 7.7.21
