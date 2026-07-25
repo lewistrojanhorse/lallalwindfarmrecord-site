@@ -1,7 +1,7 @@
-Strengthen NCTP commissioning trigger entry
+Add EPA context to NCTP and generation milestones
 
-- record the endorsed NCTP as part of the permit under Condition 25
-- emphasise the operational noise compliance pathway
-- retain K15aa pre-operation background monitoring
-- add the final-turbine trigger for monitoring, testing and reporting
-- update Key Project Dates version to 7.7.3
+- add EPA's authorising-document description to the 2018 NCTP entry
+- add EPA's grid-export position to the 20 June 2019 generation entry
+- preserve generation, operation and commissioning as distinct concepts
+- retain the K15aa and final-turbine monitoring pathway
+- remove duplicate doctype and update page version to 7.7.4

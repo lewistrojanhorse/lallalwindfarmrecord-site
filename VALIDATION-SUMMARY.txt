@@ -5,27 +5,29 @@ Updated file
 ------------
 key-project-dates.html
 
-Implemented change
-------------------
-- Expanded the 23 January 2018 Noise Compliance Testing Plan entry.
-- Recorded that the endorsed NCTP formed part of the Planning Permit under Condition 25.
-- Emphasised the NCTP as the project-specific operational noise compliance pathway.
-- Retained the K15aa pre-operation background monitoring requirement.
-- Added the repeated “commissioning of the last turbine” trigger for post-construction
-  monitoring, compliance testing and reporting.
-- Updated the page record version to 7.7.3 dated 26 July 2026.
+Implemented changes
+-------------------
+1. 23 January 2018 — Noise Compliance Testing Plan
+   - retained the Condition 25, K15aa and final-turbine-trigger explanation;
+   - added EPA Victoria's later administrative description:
+     “The Endorsed NCTP is a part of the authorising document – the planning control.”
 
-Preserved
----------
-- HTML filename and canonical URL
-- Existing chronology order and all other key-date entries
-- Existing image, source citation, navigation, links, CSS and scripts
-- Existing documentary framing and source wording elsewhere on the page
+2. 20 June 2019 — Generation commenced
+   - retained the LLWF-recorded Yendon generation date;
+   - added EPA Victoria's later administrative position that commencement of
+     operation occurs “when the facility commences exporting electricity to the
+     common electrical grid”;
+   - expressly preserved generation, grid export, commencement of operation,
+     commissioning and commissioning of the last turbine as distinct concepts.
 
-Validation checks
------------------
-- NCTP entry located and updated once
-- Documentary source line preserved
-- Canonical URL preserved
-- No new assets required
-- HTML parsed successfully
+3. Page metadata
+   - updated record version to 7.7.4 dated 26 July 2026.
+
+Structural validation
+---------------------
+- Removed the duplicated DOCTYPE declaration present in the supplied file.
+- Canonical URL preserved.
+- Existing filename, chronology order, images, navigation, links, CSS and
+  scripts preserved.
+- No new assets required.
+- HTML parsed successfully.
