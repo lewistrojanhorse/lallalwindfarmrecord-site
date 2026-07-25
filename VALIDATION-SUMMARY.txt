@@ -1,14 +1,23 @@
-Validation summary — commissioning-final-turbine.html v7.7.11
+VALIDATION SUMMARY — commissioning-final-turbine.html v7.7.12
 
-PASS — FOI panel found
-PASS — K15aa section precedes FOI
-PASS — FOI precedes NCTP monitoring
-PASS — FOI appears once
-PASS — Version 7.7.11 present
+Scope
+- Incremental update only.
+- Updated HTML and one new image are included.
 
-Package scope
-- commissioning-final-turbine.html
-- GIT-COMMIT-MESSAGE.txt
-- VALIDATION-SUMMARY.txt
+Changes checked
+- Mandatory NCTP “shall” wording is stated for Stage 1 and Stage 2.
+- NZS 6808:2010 background-sound glossary link is present.
+- NCTP section 7.0 responsibilities exhibit remains in the three-exhibit monitoring sequence.
+- DTP FOI CS019241 is referenced in text only.
+- March 2021 Project Update image is included and referenced.
+- Planning Permit Condition 25(c) is identified in the Project Update caption.
+- Later duplicate responsibilities section has been removed.
+- Record version updated to 7.7.12.
 
-No images or PDFs changed in this incremental update.
+Asset paths
+- images/commissioning/nctp-monitoring-requirements.jpg (existing repository asset)
+- images/commissioning/nctp-organisations-responsibilities.jpg (existing repository asset)
+- images/commissioning/community-bulletin-march-2021-post-construction-monitoring.jpg (included in this package)
+
+Packaging
+- Only changed HTML and the new image are included.

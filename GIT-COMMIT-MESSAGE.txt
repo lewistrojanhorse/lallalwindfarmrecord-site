@@ -1,6 +1,11 @@
-Move K15aa FOI records beneath the K15aa pathway
+Refine NCTP monitoring-stage exhibits
 
-- relocate the EPA FOI-100-2025 and DTP FOI CS015467 record beneath the K15aa documentary exhibits
-- position the FOI record immediately before the NCTP post-construction monitoring stages
-- preserve the existing FOI wording and references without adding duplicate images or documents
-- update the page record version to 7.7.11
+- emphasise the mandatory “shall” wording for both endorsed NCTP monitoring stages
+- link the monitoring-stage caption to the NZS 6808:2010 background sound definition
+- retain the NCTP section 7.0 responsibilities exhibit within the monitoring-stage sequence
+- identify the acoustic consultant’s responsibility to provide supplementary information where deviation from the NCTP is required
+- reference DTP FOI CS019241 concerning the asserted NCTP revision and endorsement pathway
+- replace the unrelated monitoring exhibit with the March 2021 Lal Lal Wind Farms Project Update
+- connect the operator’s “fully operational” statement with Planning Permit Condition 25(c)
+- remove the later duplicate organisations-and-responsibilities section
+- update the page record version to 7.7.12
