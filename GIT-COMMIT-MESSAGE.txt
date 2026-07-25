@@ -1,7 +1,7 @@
-Strengthen commissioning noise pathway explanation
+Align Home page key-issue order
 
-- centre the endorsed NCTP operational noise monitoring pathway
-- add pre-operation, compliance testing and reporting triggers
-- retain Conditions 12 and 17 as aligned permit pathways
-- preserve distinct commissioning terminology
-- update commissioning page record version to 7.7.24
+- match the Home page issue sequence to the Key Issues page
+- lead with NZS 6808, NCTP and final turbine commissioning
+- follow with K15aa, representative monitoring and SAC
+- align card labels, links and descriptions
+- update Home page record version to 7.7.4

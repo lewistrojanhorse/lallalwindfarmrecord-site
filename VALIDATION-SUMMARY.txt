@@ -1,27 +1,37 @@
-VALIDATION SUMMARY — Commissioning of the Final Turbine
-
-Build version: 7.7.24
-Date: 26 July 2026
+VALIDATION SUMMARY
+==================
 
 Updated file
-- commissioning-final-turbine.html
+------------
+index.html
 
-Changes made
-- Refined the governing documentary pathway explanation to place the operational noise pathway at the centre of the commissioning discussion.
-- Added express reference to pre-operation requirements, post-construction noise monitoring, compliance testing and reporting under the endorsed NCTP.
-- Retained Conditions 12 and 17 as parallel permit pathways using, or operating by reference to, commissioning of the last turbine.
-- Preserved the distinction between commissioning of the facility, full operation of the facility and commissioning of the last turbine without treating those expressions as automatically synonymous.
-- Preserved the neutral visible permit identifier Planning Permit PL-SP/05/0461.
-- Updated the page record version to 7.7.24.
+Implemented change
+------------------
+- Reordered the six “Key issues at a glance” items on the Home page to match
+  the order of the first six primary technical issues on key-issues.html:
+  1. NZS 6808:2010
+  2. Noise Compliance Testing Plan
+  3. Final turbine commissioning
+  4. K15aa background sound
+  5. Representative monitoring
+  6. Special Audible Characteristics
+- Updated the card links and concise descriptions so each item aligns with the
+  corresponding Key Issues page subject.
+- Updated the Home page record version to 7.7.4 dated 26 July 2026.
 
-Validation completed
-- HTML parsed successfully.
-- Canonical URL preserved.
-- Page title and metadata preserved.
-- Target paragraph updated once only.
-- Operational noise monitoring, compliance testing and reporting are expressly included in the governing pathway explanation.
-- Conditions 12 and 17 remain expressly retained.
-- No visible PL-SP/05/0461-3 references introduced.
-- Existing permit PDF asset paths remain unchanged.
-- Navigation, anchors, document links, images and page structure preserved.
-- No new assets required.
+Preserved
+---------
+- HTML filename and canonical URL
+- Site navigation, sidebar, hero, notices and all other Home page sections
+- Existing stylesheet and script references
+- Existing assets and document links
+- Separate commissioning gateway section later on the Home page
+
+Validation checks
+-----------------
+- Six issue cards present
+- Card order matches key-issues.html
+- All six card href values are valid relative HTML paths
+- Canonical URL preserved
+- No new assets required
+- HTML parsed successfully
