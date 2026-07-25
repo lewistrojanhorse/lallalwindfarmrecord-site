@@ -1,8 +1,14 @@
-Fix NCTP reporting trigger and restore commissioning exhibits
+Rebuild final-turbine commissioning documentary sequence
 
-- clarify that the section 6.0 six-week period begins when noise monitoring for the relevant stage is completed
-- align the operational-noise-reporting caption with the clarified trigger
-- restore all commissioning exhibit images referenced by the page
-- retain the updated CRG minutes and reporting-timeframes comparison images
-- retain the Trustee commissioning enquiry record
-- bump the page record version to 7.7.4
+- reorganise the page into a coherent permit, public chronology, K15aa, monitoring, reporting and reconciliation pathway
+- shorten and clarify the trigger reconciliation table
+- separate the public landscaping chronology from the bird and bat monitoring record
+- place the Jacobs review between the NCTP framework and the K15aa operational record
+- preserve Elaine and Yendon Stage 2 completion dates separately
+- move the section 6.0 reporting comparison beneath the underlying monitoring record
+- distinguish report dates from actual Ministerial submission dates
+- enlarge key portrait exhibits and standardise source-document headings
+- separate the NCTP section 7.0 exhibit from the related DTP FOI note
+- position the Trustee commissioning enquiry after the conflicting date record
+- remove the self-referential next-step panel
+- update the page record version to 7.7.5

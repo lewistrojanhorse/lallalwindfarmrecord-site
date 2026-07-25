@@ -1,19 +1,25 @@
-Lal Lal Wind Farm Record — Commissioning of the Final Turbine
-Page-only deployment validation — Version 7.7.4 — 25 July 2026
+VALIDATION SUMMARY
 
-Updates applied
-- Clarified the NCTP section 6.0 trigger as completion of the noise monitoring for the relevant compliance-monitoring stage.
-- Clarified that, once that monitoring was completed, the corresponding compliance report was required within six weeks.
-- Aligned the Section 6.0 exhibit caption with the revised wording.
-- Restored the complete commissioning image set required by the page.
-- Retained the replacement CRG minutes image and the NCTP reporting-timeframes comparison image.
-- Retained the Trustee commissioning enquiry PDF.
-- Updated the page record version to 7.7.4.
+File: commissioning-final-turbine.html
+Record version: 7.7.5
+Date: 25 July 2026
 
-Asset validation
-- All 19 images referenced under images/commissioning/ are included in this package.
-- The commissioning enquiry PDF is included at the exact linked path.
-- Existing site-wide assets such as style.css, site.js, favicon and logos are intentionally not duplicated in this page-only update.
+Checks completed:
+- HTML parsed successfully with BeautifulSoup.
+- Main page structure rebuilt in the agreed documentary order.
+- Self-referential “Next documentary step” panel removed.
+- 19 commissioning image references checked.
+- Missing commissioning images in package: 0.
+- Trustee commissioning enquiry PDF included.
+- Reporting chronology placed after monitoring source exhibits.
+- Elaine and Yendon Stage 2 completion dates preserved separately.
+- Section 6.0 text distinguishes report dates from actual Ministerial submission dates.
 
-Deployment
-Upload the package contents into the repository root, preserving the included folder structure.
+Missing commissioning assets: None
+
+Repository dependencies not included in this page-only package:
+- site-wide style.css, site.js, favicon and branding assets
+- existing source PDFs already linked by the live repository
+
+Deployment method:
+Upload commissioning-final-turbine.html and merge the supplied images/commissioning and documents/commissioning folders into the repository root without changing filenames.
