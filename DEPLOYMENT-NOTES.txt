@@ -1,4 +1,10 @@
-Lal Lal Wind Farm Record — Version 7.6
-Date: 22 July 2026
+Lal Lal Wind Farm Record — Version 7.7.1 — 25 July 2026
 
-Deployment-ready incremental repository package. Upload the package contents while preserving the existing directory structure. The new PDF must remain in the documents directory.
+1. Back up the current website root.
+2. Upload all files in this package to the website root, replacing matching root files.
+3. Merge the included /images/commissioning and /documents files into the existing directories; do not remove unrelated existing assets.
+4. Confirm these new pages load:
+   - commissioning-final-turbine.html
+   - operational-correspondence.html
+5. Confirm the desktop and mobile navigation displays Final Turbine Commissioning under The Record.
+6. Resubmit sitemap.xml in Google Search Console after deployment.

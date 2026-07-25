@@ -1,6 +1,7 @@
-Update Information Session transcript extract
+Repository Version 7.7.1 - add final-turbine commissioning gateway and documentary exhibits
 
-- replace abbreviated quotation with fuller transcript extract
-- retain documentary wording while normalising AEMO acronym
-- reference commencement timestamp of 53:53
-- update source note to identify reader-aid transcript and authoritative YouTube recording
+- preserve the 18/19 November 2019 commissioning milestone implied by the CRG minutes and June 2020 Community Bulletin
+- distinguish the 18/19 November 2020 landscaping closure dates from the commissioning milestone
+- preserve the later 10 December 2020 agency representation as a separate source-specific date
+- add primary documentary extracts and downloadable source documents to the commissioning page
+- retain navigation, URLs, documentary links and repository structure

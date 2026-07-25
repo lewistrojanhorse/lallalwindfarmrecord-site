@@ -1,0 +1,17 @@
+Lal Lal Wind Farm Record - Version 7.7.1
+Validation date: 25 July 2026
+
+Validated in this deployment package:
+- 29 HTML files parsed.
+- commissioning-final-turbine.html present.
+- Desktop, mobile and sidebar links to the commissioning gateway present.
+- New commissioning documentary images present and linked.
+- New commissioning source PDFs present and linked.
+- 18/19 November 2019 preserved as the commissioning milestone implied by the CRG minutes and June 2020 Community Bulletin.
+- 18/19 November 2020 preserved as the corresponding landscaping-program closure dates.
+- 10 December 2020 preserved as a separate later agency representation.
+- No duplicate HTML IDs detected.
+- All internal HTML page targets in the package resolve.
+
+Deployment model:
+The package contains updated root files plus the new /images/commissioning assets and the specific /documents files linked by the new page. Existing unrelated site images and documents are not duplicated and must remain in place.
