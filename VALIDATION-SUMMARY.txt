@@ -1,27 +1,19 @@
-VALIDATION SUMMARY
-==================
+Commissioning of the Final Turbine — incremental update v7.7.7
 
-Page: commissioning-final-turbine.html
-Record version: 7.7.6
-Date: 25 July 2026
+Validated:
+- HTML parsed successfully.
+- New EPA email image resolves.
+- New SLR K15aa image resolves.
+- EPA source PDF resolves.
+- SLR source PDF resolves.
+- EPA FOI-100-2025 text-only note is present.
+- Record version updated to 7.7.7.
 
-Applied changes
----------------
-- Corrected the Condition 17 reconciliation row.
-- Added Council FOI SR.142870 context to the CRG minutes caption.
-- Removed the duplicated Condition 17 administrative-record exhibit.
-- Removed the obsolete Condition 17 caption.
-- Included the Council FOI decision at the existing repository-relative document path.
-- Removed the now-unused duplicate image asset.
+Package scope:
+- commissioning-final-turbine.html
+- two newly required images
+- two newly required source PDFs
+- validation summary
+- Git commit message
 
-Validation checks
------------------
-- HTML parsed successfully with BeautifulSoup.
-- Condition 17 corrected wording present.
-- Council FOI context present.
-- Bird-and-bat exhibit referenced once.
-- Obsolete exhibit and image reference absent.
-- Required changed assets present and non-empty.
-- Local image/document/navigation references identified: 145.
-
-Result: PASS
+This is an incremental page update and intentionally does not repeat unchanged repository assets.

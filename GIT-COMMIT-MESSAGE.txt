@@ -1,9 +1,8 @@
-Correct Condition 17 record and add Council FOI context
+Add EPA operation trigger and correct K15aa pathway exhibit
 
-- correct the Condition 17 reconciliation row to preserve the commissioning-linked monitoring and reporting pathway
-- record 18 November 2019 as the commissioning date used for the second and final annual bird and bat monitoring report
-- add Council FOI SR.142870 context to the Community Reference Group minutes caption
-- record that Council found no formal commissioning certificate, written notification, milestone register entry or database record within the FOI scope
-- remove the duplicated Condition 17 administrative-record exhibit and obsolete caption
-- include the Council FOI decision in the page update package
-- update the page record version to 7.7.6
+- add EPA correspondence stating that commencement of operation occurs when electricity export to the common electrical grid begins
+- add a text-only reference to EPA FOI-100-2025 and the omitted K15aa baseline report
+- replace the unrelated SLR basis-of-report exhibit with the 1 December 2022 K15aa pre-construction assertion
+- link the new EPA and SLR source documents
+- package only the updated page and newly required assets
+- update the page record version to 7.7.7
