@@ -1,16 +1,14 @@
-Validation Summary — commissioning-final-turbine.html v7.7.14
+VALIDATION SUMMARY — commissioning-final-turbine v7.7.15
 
-Scope
-- Text-only incremental update.
-- No image or PDF assets changed.
+PASS — version
+PASS — shall wording
+PASS — cards
+PASS — old sentence removed
+PASS — no generated image reference
 
-Changes validated
-- Part 1 caption records Elaine Stage 1 completion on 13 May 2021.
-- Part 2 caption records Yendon Stage 1 completion on 1 August 2022.
-- Part 3 caption records Elaine Stage 2 completion on 1 June 2023 and Yendon Stage 2 completion on 19 January 2024, with the dates preserved separately.
-- Page record version and SEO release updated to 7.7.14.
+Package contents:
+- commissioning-final-turbine.html
+- GIT-COMMIT-MESSAGE.txt
+- VALIDATION-SUMMARY.txt
 
-Checks
-- HTML parsed successfully.
-- Existing relative image and document paths were not altered.
-- Incremental package contains only the updated HTML, validation summary and commit message.
+No documentary images or PDFs were changed or included.
