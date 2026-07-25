@@ -1,8 +1,9 @@
-Link the Trustee commissioning enquiry record
+Add March 2020 CRG commissioning chronology record
 
-- refine the administrative reconciliation to identify the 10 December 2020 statement as the later operator position
-- record that the Trustee sought the commissioning certificate or equivalent completion document for administrative record purposes only
-- distinguish the 4 March 2026 follow-up as a request for acknowledgement and Enquiries and Complaints Register confirmation
-- add an inline cross-reference and updated button to the complete commissioning enquiry correspondence
-- include the commissioning enquiry PDF in the incremental deployment package
-- update the page record version to 7.7.17
+- add the 24 March 2020 Community Reference Group minutes between the December 2019 minutes and June 2020 Project Update
+- record that post-construction noise monitoring was delayed because Lal Lal Wind Farms was not operating at full capacity
+- preserve AEMO generation constraints as part of the contemporaneous commissioning chronology
+- exclude the separate complaint-based logger and dwelling-monitoring material from the caption
+- retitle the exhibit group as the public commissioning chronology
+- use the exact supplied documentary image without generation or alteration
+- update the page record version to 7.7.18

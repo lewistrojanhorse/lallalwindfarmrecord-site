@@ -1,14 +1,18 @@
-VALIDATION SUMMARY
+VALIDATION SUMMARY — commissioning-final-turbine.html v7.7.18
+Date: 25 July 2026
 
-Page: commissioning-final-turbine.html
-Record version: 7.7.17
-Package type: Incremental update
+Scope
+- Incremental page update only.
+- Added one exact user-supplied documentary image.
+- No generated or redrawn documentary image used.
 
-Changes validated:
-- Administrative reconciliation identifies the 10 December 2020 statement as a later operator statement.
-- The original Trustee enquiry purpose and no-allegation qualification are preserved.
-- The 4 March 2026 follow-up is accurately described as seeking acknowledgement and register confirmation.
-- Inline and button links both resolve to documents/commissioning/LLWF-Commissioning-Enquiry.pdf.
-- The linked PDF is included in the package at the referenced path.
-- HTML parses successfully.
-- No documentary images were changed or generated.
+Checks
+- HTML parsed successfully: PASS
+- New CRG image exists and is non-empty: PASS
+- New image referenced once: PASS
+- Record version updated to 7.7.18: PASS
+- SEO release updated to v7.7.18: PASS
+- Complaint-based logger/dwelling detail omitted from caption: PASS
+- Existing repository-relative links preserved: PASS
+
+Result: PASS
