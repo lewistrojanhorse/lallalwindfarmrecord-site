@@ -1,1 +1,14 @@
-HTML updated; chronology inserted; version updated to 7.7.19.
+VALIDATION SUMMARY
+==================
+File: commissioning-final-turbine.html
+Record version: 7.7.20
+
+Completed:
+- Removed the generated IGN wording-comparison image reference.
+- Removed the generated reporting-timeframes image reference.
+- Replaced the IGN comparison with exact source wording and direct links to both source PDFs.
+- Retained the reporting elapsed intervals as HTML/CSS cards.
+- Replaced the 24 March 2020 image with the agreed CRG chronology.
+- Preserved the 4 December 2019 documentary exhibit.
+- Preserved filename, canonical URL, navigation and existing source-document links.
+- Confirmed no remaining references to the two removed generated images.

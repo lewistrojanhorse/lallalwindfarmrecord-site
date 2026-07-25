@@ -1,7 +1,10 @@
-Replace repeated CRG minute exhibit with chronology
+Remove generated comparison images from commissioning page
 
 - retain the 4 December 2019 CRG exhibit
-- replace the 24 March 2020 CRG image with a chronological summary of March–November 2020 CRG records
-- record repeated advice that post-construction noise monitoring remained delayed because Lal Lal Wind Farms was not operating at full capacity
-- include the 12 May 2020 operating levels
-- update record version to 7.7.19
+- replace the 24 March 2020 CRG image with the March–November 2020 documentary chronology
+- remove the generated IGN wording-comparison image
+- reproduce the operator wording and exact endorsed NCTP wording as HTML with direct source links
+- remove the generated reporting-timeframes image
+- retain the elapsed-day comparison as HTML/CSS cards
+- preserve all remaining documentary exhibits, URLs and navigation
+- update the page record version to 7.7.20
