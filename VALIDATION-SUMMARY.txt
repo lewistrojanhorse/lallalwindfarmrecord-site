@@ -1,16 +1,12 @@
 Commissioning of the Final Turbine — incremental validation
-Record version: 7.7.8
+Record version: 7.7.9
 Date: 25 July 2026
 
-Updated files:
-- commissioning-final-turbine.html
-- GIT-COMMIT-MESSAGE.txt
-- VALIDATION-SUMMARY.txt
-
-Changes validated:
-- Existing EPA FOI-100-2025 text retained.
-- DTP FOI CS015467 text added immediately beneath the EPA FOI record.
-- DTP wording records the request scope, extensive searches and no relevant information located.
-- No image or PDF was added for the DTP FOI reference.
-- HTML structure remains balanced.
-- Record version and SEO release updated to 7.7.8.
+Validated:
+- HTML parsed successfully.
+- Required html, head and body elements are present.
+- SLR K15aa caption updated without changing the linked source image or PDF.
+- NZS 6808:2010 background sound definition reproduced exactly.
+- Cross-reference resolves to glossary.html#background-sound.
+- Existing page structure retained (21 image references; 128 links).
+- Incremental package contains only the updated HTML, validation summary and commit message.

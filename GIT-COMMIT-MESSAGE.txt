@@ -1,6 +1,7 @@
-Add DTP FOI record to K15aa documentary pathway
+Link K15aa pathway to NZS background sound definition
 
-- add DTP FOI CS015467 beneath the existing EPA FOI reference
-- record that DTP found no information showing when the February 2021 K15aa report was submitted
-- preserve the FOI references as text-only administrative records without adding duplicate images or documents
-- update the page record version to 7.7.8
+- clarify that the NCTP reference-receptor pathway determined NZS 6808:2010 noise limits from background noise monitoring
+- preserve SLR's 1 December 2022 assertion that K15aa baseline monitoring was completed in approximately October 2018
+- link the K15aa caption to the repository definition of background sound
+- reproduce the exact NZS 6808:2010 background sound definition
+- update the page record version to 7.7.9
