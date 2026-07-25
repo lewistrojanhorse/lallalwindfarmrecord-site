@@ -1,8 +1,8 @@
-Add LLWF IGN trigger-wording comparison
+Link the Trustee commissioning enquiry record
 
-- replace the generic later agency attribution with the operator's 14 April 2025 response to EPA IGN-00008382
-- add the approved comparison image showing LLWF's shortened restatement beside the exact endorsed NCTP wording
-- bold both LLWF's “commissioning of the Wind Farm” wording and the NCTP's “commissioning of the last turbine” wording
-- preserve the operator's asserted 10 December 2020 completion-of-commissioning date and earlier generation dates as distinct documentary concepts
-- include the IGN response source PDF
-- update the page record version to 7.7.16
+- refine the administrative reconciliation to identify the 10 December 2020 statement as the later operator position
+- record that the Trustee sought the commissioning certificate or equivalent completion document for administrative record purposes only
+- distinguish the 4 March 2026 follow-up as a request for acknowledgement and Enquiries and Complaints Register confirmation
+- add an inline cross-reference and updated button to the complete commissioning enquiry correspondence
+- include the commissioning enquiry PDF in the incremental deployment package
+- update the page record version to 7.7.17
