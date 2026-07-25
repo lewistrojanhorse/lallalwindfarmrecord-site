@@ -1,7 +1,7 @@
-Clarify AEMO chronology for interim monitoring
+Link K15aa report to pre-operation NCTP requirement
 
-- preserve SLR's interim-check characterisation
-- record Elaine constraints lifted on 8 September 2020
-- record Yendon release to full output on 22 December 2020
-- distinguish LLWF's later chronology from the SLR report
-- update Key Project Dates version to 7.7.6
+- identify the 2021 report as the updated K15aa background record
+- add the NCTP requirement for submission before commencement of operation
+- connect the report to the Condition 25 operational noise pathway
+- preserve the existing report purpose and source citation
+- update Key Project Dates version to 7.7.7

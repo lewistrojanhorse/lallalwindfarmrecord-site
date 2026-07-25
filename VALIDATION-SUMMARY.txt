@@ -7,32 +7,28 @@ key-project-dates.html
 
 Implemented change
 ------------------
-- Revised the October–December 2020 “Interim noise monitoring” entry.
-- Preserved SLR's exact characterisation of the campaign as “an interim check
-  of compliance”.
-- Recorded SLR's explanation that the wind farm was not yet operating at full
-  capacity because of constrained operations imposed by the network operator
-  during the AEMO ramp-up process.
-- Added LLWF's later chronology provided to EPA:
-  - Elaine AEMO constraints lifted on 8 September 2020;
-  - Yendon released to full output on 22 December 2020.
-- Distinguished the later LLWF chronology from SLR's contemporaneous report.
-- Updated the documentary source line.
-- Updated the page record version to 7.7.6 dated 26 July 2026.
+- Expanded the 16 February 2021 “SLR supplementary K15aa baseline report issued” entry.
+- Retained the report's stated purpose of obtaining valid baseline noise levels
+  prior to operation and determining the K15aa operational noise limits.
+- Added the endorsed NCTP requirement that the updated background noise report
+  was to be submitted prior to commencement of operation.
+- Linked the report to the project-specific operational noise compliance pathway
+  established under Planning Permit Condition 25.
+- Updated the page record version to 7.7.7 dated 26 July 2026.
 
 Preserved
 ---------
 - HTML filename and canonical URL
-- Existing chronology order, image and all other entries
-- EPA-context updates in the NCTP and 20 June 2019 entries
-- CRG replacement image and revised February–March 2020 monitoring entry
-- Navigation, links, CSS, scripts and unrelated assets
+- Existing chronology order, image and source citation
+- EPA and AEMO context added in earlier updates
+- CRG interim-monitoring replacement image and related text
+- Navigation, links, CSS, scripts and all unrelated entries
 
 Validation checks
 -----------------
-- Interim monitoring entry located and updated once
-- Exact SLR phrase retained
-- Elaine and Yendon AEMO dates included
+- K15aa report entry located and updated once
+- “prior to commencement of operation” included
+- Condition 25 pathway included
 - Canonical URL preserved
 - No new assets required
 - HTML parsed successfully
