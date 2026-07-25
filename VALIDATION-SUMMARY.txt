@@ -1,14 +1,16 @@
-VALIDATION SUMMARY — commissioning-final-turbine v7.7.15
+VALIDATION SUMMARY
 
-PASS — version
-PASS — shall wording
-PASS — cards
-PASS — old sentence removed
-PASS — no generated image reference
+Page: commissioning-final-turbine.html
+Record version: 7.7.16
+Package type: Incremental
 
-Package contents:
-- commissioning-final-turbine.html
-- GIT-COMMIT-MESSAGE.txt
-- VALIDATION-SUMMARY.txt
-
-No documentary images or PDFs were changed or included.
+Checks completed:
+- Updated HTML written successfully.
+- Generic “Later regulatory statement” attribution removed.
+- “Later operator statement” attribution added.
+- Approved comparison image included unchanged.
+- LLWF shortened wording is bolded in the caption.
+- Exact endorsed NCTP wording is bolded in the caption.
+- Source PDF included and linked.
+- New asset references found: 2.
+- No other documentary images were changed or included.

@@ -1,7 +1,8 @@
-Improve NCTP reporting emphasis and elapsed-time display
+Add LLWF IGN trigger-wording comparison
 
-- emphasise the mandatory “shall” requirement in NCTP section 6.0
-- state that compliance reports shall be submitted within six weeks of completing each monitoring stage
-- replace the inline elapsed-day sentence with responsive boxed HTML/CSS figures for all four monitoring stages
-- retain the supplied documentary images unchanged
-- update the page record version to 7.7.15
+- replace the generic later agency attribution with the operator's 14 April 2025 response to EPA IGN-00008382
+- add the approved comparison image showing LLWF's shortened restatement beside the exact endorsed NCTP wording
+- bold both LLWF's “commissioning of the Wind Farm” wording and the NCTP's “commissioning of the last turbine” wording
+- preserve the operator's asserted 10 December 2020 completion-of-commissioning date and earlier generation dates as distinct documentary concepts
+- include the IGN response source PDF
+- update the page record version to 7.7.16
