@@ -1,8 +1,6 @@
-Add EPA operation trigger and correct K15aa pathway exhibit
+Add DTP FOI record to K15aa documentary pathway
 
-- add EPA correspondence stating that commencement of operation occurs when electricity export to the common electrical grid begins
-- add a text-only reference to EPA FOI-100-2025 and the omitted K15aa baseline report
-- replace the unrelated SLR basis-of-report exhibit with the 1 December 2022 K15aa pre-construction assertion
-- link the new EPA and SLR source documents
-- package only the updated page and newly required assets
-- update the page record version to 7.7.7
+- add DTP FOI CS015467 beneath the existing EPA FOI reference
+- record that DTP found no information showing when the February 2021 K15aa report was submitted
+- preserve the FOI references as text-only administrative records without adding duplicate images or documents
+- update the page record version to 7.7.8

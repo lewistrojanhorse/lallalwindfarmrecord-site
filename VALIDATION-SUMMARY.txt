@@ -1,19 +1,16 @@
-Commissioning of the Final Turbine — incremental update v7.7.7
+Commissioning of the Final Turbine — incremental validation
+Record version: 7.7.8
+Date: 25 July 2026
 
-Validated:
-- HTML parsed successfully.
-- New EPA email image resolves.
-- New SLR K15aa image resolves.
-- EPA source PDF resolves.
-- SLR source PDF resolves.
-- EPA FOI-100-2025 text-only note is present.
-- Record version updated to 7.7.7.
-
-Package scope:
+Updated files:
 - commissioning-final-turbine.html
-- two newly required images
-- two newly required source PDFs
-- validation summary
-- Git commit message
+- GIT-COMMIT-MESSAGE.txt
+- VALIDATION-SUMMARY.txt
 
-This is an incremental page update and intentionally does not repeat unchanged repository assets.
+Changes validated:
+- Existing EPA FOI-100-2025 text retained.
+- DTP FOI CS015467 text added immediately beneath the EPA FOI record.
+- DTP wording records the request scope, extensive searches and no relevant information located.
+- No image or PDF was added for the DTP FOI reference.
+- HTML structure remains balanced.
+- Record version and SEO release updated to 7.7.8.
