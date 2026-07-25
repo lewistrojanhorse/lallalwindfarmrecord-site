@@ -1,8 +1,7 @@
-Replace generated IGN comparison with documentary extracts
+Reclassify final turbine commissioning as a key issue
 
-- add the two supplied IGN-00008382 documentary images
-- show the operator's stated 10 December 2020 commissioning-completion date and earlier generation dates
-- show LLWF's restatement of the monitoring trigger by reference to commissioning of the Wind Farm
-- preserve the distinction from the endorsed NCTP wording referring to commissioning of the last turbine
-- retain the CRG chronology and all other documentary exhibits
-- update the page record version to 7.7.21
+- add final turbine commissioning card to Key Issues
+- position commissioning after the NCTP and before K15aa
+- remove the standalone commissioning gateway panel from Chronology
+- retain chronology entries, contextual links and global navigation
+- update affected pages to record version 7.7.3

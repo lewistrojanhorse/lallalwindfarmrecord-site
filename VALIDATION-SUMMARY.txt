@@ -1,13 +1,34 @@
-VALIDATION SUMMARY
-==================
-Updated file: commissioning-final-turbine.html
-Record version: 7.7.21
+LAL LAL WIND FARM RECORD — INCREMENTAL BUILD VALIDATION
+Build date: 26 July 2026
+Record version: 7.7.3
 
-Changes validated:
-- Added images/commissioning/ign-00008382-operator-dates.jpg.
-- Added images/commissioning/ign-00008382-monitoring-trigger.jpg.
-- Removed the HTML-only substitute comparison panel.
-- Confirmed both supplied documentary images are referenced by the updated page.
-- Confirmed the former generated comparison image is not referenced.
-- Preserved the page filename, canonical URL, navigation, existing source links and CRG chronology.
-- Confirmed all incremental package paths match the repository structure.
+FILES UPDATED
+- chronology.html
+- key-issues.html
+
+CHANGES APPLIED
+- Removed the standalone “Central trigger gateway” promotional panel from chronology.html.
+- Preserved all dated commissioning entries and the contextual “Commissioning gateway” link within the chronology table.
+- Added a “Final turbine commissioning” card to the Primary technical issues section of key-issues.html.
+- Positioned the new card immediately after the Noise Compliance Testing Plan card and before K15aa background sound.
+- Preserved all global navigation, sidebar links, canonical URLs, metadata, existing structure and CSS.
+- The locked commissioning-final-turbine.html page was not modified.
+
+VALIDATION COMPLETED
+PASS — Both updated files retain complete html, head and body structures.
+PASS — Canonical links and JSON-LD metadata remain present.
+PASS — HTML parser validation completed without structural errors.
+PASS — No new images, PDFs, scripts, stylesheets or other assets were required.
+PASS — No image paths or asset references were added, removed or altered.
+PASS — The removed chronology gateway panel is no longer referenced.
+PASS — Chronology commissioning entries and contextual page link remain present.
+PASS — Key Issues card order confirmed: NCTP → Final turbine commissioning → K15aa.
+PASS — Record version updated from 7.7.2 to 7.7.3 and date updated to 26 July 2026.
+PASS — Unified-diff review confirmed that only the approved incremental changes and version updates were introduced.
+
+DEPLOYMENT
+Replace only:
+- chronology.html
+- key-issues.html
+
+No repository-wide replacement is required.
