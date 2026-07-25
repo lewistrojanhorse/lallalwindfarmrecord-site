@@ -1,6 +1,5 @@
-Add NCTP authority pathway to commissioning page
+Standardise permit identifier on commissioning page
 
-- explain the permit and regulation 131B authority chain
-- record that the endorsed NCTP forms part of the permit
-- align Conditions 12, 17 and 25 while preserving distinct terminology
-- update commissioning page record version to 7.7.22
+- remove the -3 suffix from visible PL-SP/05/0461 references
+- retain existing permit PDF asset paths to avoid broken links
+- update commissioning page record version to 7.7.23

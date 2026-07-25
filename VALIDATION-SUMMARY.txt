@@ -1,37 +1,23 @@
-VALIDATION SUMMARY
-==================
-Page: commissioning-final-turbine.html
-Build version: 7.7.22
-Build date: 26 July 2026
+VALIDATION SUMMARY — Commissioning of the Final Turbine
 
-IMPLEMENTED CHANGE
-------------------
-Inserted a new "Governing documentary pathway" section immediately after "Why this date matters" and before "At a glance".
+Build version: 7.7.23
+Date: 26 July 2026
 
-The new section:
-- identifies Planning Permit PL-SP/05/0461-3 as the authorising document;
-- records that Condition 25 requires the NCTP and provides that the endorsed NCTP forms part of the permit;
-- explains that regulation 131B identifies the authorising document as determining the relevant wind farm noise standard;
-- explains that the NCTP derives its authority through the Planning Permit within that statutory framework;
-- shows the documentary sequence from the Planning Permit to Condition 25, regulation 131B and the endorsed NCTP;
-- preserves the differing expressions "commissioning of the facility", "full operation of the facility" and "commissioning of the last turbine";
-- explains the alignment of Conditions 12, 17 and the Condition 25 NCTP pathway without treating the expressions as automatically synonymous.
+Updated file
+- commissioning-final-turbine.html
 
-PRESERVATION CHECKS
--------------------
-- Original page structure retained.
-- Filename for deployment retained as commissioning-final-turbine.html.
-- Canonical URL retained.
-- Navigation, anchors and existing document links retained.
-- Existing images and asset references retained.
-- No generated images or new assets added.
-- Existing documentary exhibits and chronology unchanged.
+Changes made
+- Completed a page-wide check of visible Planning Permit references.
+- Removed the amendment suffix “-3” from all visible references so the page now uses the neutral identifier “Planning Permit PL-SP/05/0461”.
+- Applied the correction to the governing documentary pathway, reconciliation table, exhibit captions and source register.
+- Preserved the existing PDF asset path because the deployed source file is currently named Planning-Permit-PL-SP-05-0461-3.pdf; changing that path without the corresponding asset would break the document links.
+- Updated the page record version to 7.7.23 and the record date to 26 July 2026.
 
-VALIDATION CHECKS
------------------
-- HTML document structure parsed successfully.
-- Single html, head and body elements confirmed.
-- Canonical link confirmed.
-- New section and all agreed concepts confirmed.
-- Image-reference count unchanged.
-- Page and SEO release versions updated to 7.7.22.
+Validation completed
+- HTML parsed successfully.
+- Canonical URL preserved.
+- Page title and metadata preserved.
+- No visible PL-SP/05/0461-3 references remain.
+- Existing permit PDF links remain unchanged and internally consistent.
+- Navigation, anchors, document links, images and page structure preserved.
+- No new assets required.
