@@ -1,34 +1,37 @@
-LAL LAL WIND FARM RECORD — INCREMENTAL BUILD VALIDATION
+VALIDATION SUMMARY
+==================
+Page: commissioning-final-turbine.html
+Build version: 7.7.22
 Build date: 26 July 2026
-Record version: 7.7.3
 
-FILES UPDATED
-- chronology.html
-- key-issues.html
+IMPLEMENTED CHANGE
+------------------
+Inserted a new "Governing documentary pathway" section immediately after "Why this date matters" and before "At a glance".
 
-CHANGES APPLIED
-- Removed the standalone “Central trigger gateway” promotional panel from chronology.html.
-- Preserved all dated commissioning entries and the contextual “Commissioning gateway” link within the chronology table.
-- Added a “Final turbine commissioning” card to the Primary technical issues section of key-issues.html.
-- Positioned the new card immediately after the Noise Compliance Testing Plan card and before K15aa background sound.
-- Preserved all global navigation, sidebar links, canonical URLs, metadata, existing structure and CSS.
-- The locked commissioning-final-turbine.html page was not modified.
+The new section:
+- identifies Planning Permit PL-SP/05/0461-3 as the authorising document;
+- records that Condition 25 requires the NCTP and provides that the endorsed NCTP forms part of the permit;
+- explains that regulation 131B identifies the authorising document as determining the relevant wind farm noise standard;
+- explains that the NCTP derives its authority through the Planning Permit within that statutory framework;
+- shows the documentary sequence from the Planning Permit to Condition 25, regulation 131B and the endorsed NCTP;
+- preserves the differing expressions "commissioning of the facility", "full operation of the facility" and "commissioning of the last turbine";
+- explains the alignment of Conditions 12, 17 and the Condition 25 NCTP pathway without treating the expressions as automatically synonymous.
 
-VALIDATION COMPLETED
-PASS — Both updated files retain complete html, head and body structures.
-PASS — Canonical links and JSON-LD metadata remain present.
-PASS — HTML parser validation completed without structural errors.
-PASS — No new images, PDFs, scripts, stylesheets or other assets were required.
-PASS — No image paths or asset references were added, removed or altered.
-PASS — The removed chronology gateway panel is no longer referenced.
-PASS — Chronology commissioning entries and contextual page link remain present.
-PASS — Key Issues card order confirmed: NCTP → Final turbine commissioning → K15aa.
-PASS — Record version updated from 7.7.2 to 7.7.3 and date updated to 26 July 2026.
-PASS — Unified-diff review confirmed that only the approved incremental changes and version updates were introduced.
+PRESERVATION CHECKS
+-------------------
+- Original page structure retained.
+- Filename for deployment retained as commissioning-final-turbine.html.
+- Canonical URL retained.
+- Navigation, anchors and existing document links retained.
+- Existing images and asset references retained.
+- No generated images or new assets added.
+- Existing documentary exhibits and chronology unchanged.
 
-DEPLOYMENT
-Replace only:
-- chronology.html
-- key-issues.html
-
-No repository-wide replacement is required.
+VALIDATION CHECKS
+-----------------
+- HTML document structure parsed successfully.
+- Single html, head and body elements confirmed.
+- Canonical link confirmed.
+- New section and all agreed concepts confirmed.
+- Image-reference count unchanged.
+- Page and SEO release versions updated to 7.7.22.

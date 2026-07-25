@@ -1,7 +1,6 @@
-Reclassify final turbine commissioning as a key issue
+Add NCTP authority pathway to commissioning page
 
-- add final turbine commissioning card to Key Issues
-- position commissioning after the NCTP and before K15aa
-- remove the standalone commissioning gateway panel from Chronology
-- retain chronology entries, contextual links and global navigation
-- update affected pages to record version 7.7.3
+- explain the permit and regulation 131B authority chain
+- record that the endorsed NCTP forms part of the permit
+- align Conditions 12, 17 and 25 while preserving distinct terminology
+- update commissioning page record version to 7.7.22
