@@ -1,10 +1,32 @@
-Lal Lal Wind Farm Record — Version 7.7.1 — 25 July 2026
+Lal Lal Wind Farm Record — Version 7.7.2
+Commissioning documentary completion release — 25 July 2026
 
-1. Back up the current website root.
-2. Upload all files in this package to the website root, replacing matching root files.
-3. Merge the included /images/commissioning and /documents files into the existing directories; do not remove unrelated existing assets.
-4. Confirm these new pages load:
-   - commissioning-final-turbine.html
-   - operational-correspondence.html
-5. Confirm the desktop and mobile navigation displays Final Turbine Commissioning under The Record.
-6. Resubmit sitemap.xml in Google Search Console after deployment.
+Deployment type
+This is a repository update package. Merge its contents into the existing repository root, preserving the existing /images and /documents assets not included in this update.
+
+Primary change
+Completes commissioning-final-turbine.html using the commissioning-specific documents and documentary images supplied for that page.
+
+Added commissioning source documents
+- documents/commissioning/LLWF-Council-Construction-and-Commissioning.pdf
+- documents/commissioning/LLWF-Community-Bulletin-June-2020.pdf
+- documents/commissioning/Planning-Permit-PL-SP-05-0461-3.pdf
+- documents/commissioning/Endorsed-Noise-Compliance-Testing-Plan-March-2018.pdf
+- documents/commissioning/Condition-17-Bird-and-Bat-Report-Request.pdf
+- documents/commissioning/LLWF-Commissioning-Enquiry.pdf
+- documents/commissioning/FOI-Decision-Commissioning-Date-Condition-12.pdf
+- documents/commissioning/Formal-Enquiry-Commissioning-Certificate-Last-Turbine.pdf
+
+Added documentary exhibits
+- permit Conditions 12, 17 and 23–25
+- NCTP operational limits, monitoring, reporting and responsibilities
+- monitoring-stage and report-period extracts
+- CRG minutes and June 2020 Community Bulletin
+- bird and bat monitoring record
+- Council and later administrative record extracts
+
+Chronology preserved
+- 18 November 2019 implied by the CRG minutes
+- 19 November 2019 implied by the June 2020 Community Bulletin
+- 18–19 November 2020 as the corresponding landscaping closure dates
+- 10 December 2020 retained as a separate later agency representation

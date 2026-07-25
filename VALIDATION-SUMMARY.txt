@@ -1,42 +1,11 @@
-LAL LAL WIND FARM RECORD
-Repository Validation Summary
-Release: Record Version 7.7.1.1 — 25 July 2026
+VALIDATION SUMMARY — VERSION 7.7.2
 
-SCOPE
-- Repository-wide coherence and chronology review of the supplied HTML, CSS, JavaScript, sitemap, robots and verification files.
-- Existing documentary content preserved.
-- No existing page content removed.
-- Existing URLs and stable document links preserved.
+Commissioning page validation
+PASS — all commissioning-specific images referenced by commissioning-final-turbine.html are included.
+PASS — all commissioning-specific PDF links referenced by the page are included.
+PASS — chronology wording preserves the distinct documentary sources and dates.
+PASS — no supplied commissioning exhibit has been silently replaced by generic imagery.
+PASS — archive integrity test completed.
 
-PRIMARY UPDATE
-- Added commissioning-final-turbine.html as a front-end documentary gateway.
-- Added the gateway to desktop navigation, mobile navigation, side navigation, sitemap and site search.
-- Added front-end pathways from Home, Start Here, Framework and Chronology.
-
-CHRONOLOGY CORRECTIONS AND RECONCILIATION
-- Preserved 18 November 2019 as the final-turbine commissioning milestone implied by the 4 December 2019 CRG minutes, which state that the landscaping program would close 12 months later on 18 November 2020.
-- Preserved the June 2020 Community Bulletin closure date of 19 November 2020 and its corresponding implied milestone of 19 November 2019.
-- Preserved the later agency record identifying 10 December 2020 as a separate last-turbine commissioning / operating-date representation.
-- Added documentary images and downloadable source documents to the commissioning gateway.
-- Reordered the principal chronology table into coherent chronological sequence without deleting entries.
-- Updated the glossary commissioning references to preserve the source-specific date pathways.
-
-COHERENCE AND STRUCTURE
-- Standardised the current v7 header/navigation/footer across all supplied pages.
-- Brought Technical Reports into the same current navigation and footer structure as the rest of the repository while preserving its substantive content.
-- Added operational-correspondence.html because it was already referenced by the navigation, sitemap and multiple internal links but was not present in the supplied file set. The page is a conservative documentary gateway derived from the descriptions and links already published in the Documents page; no source material was invented or removed.
-- Standardised all page footers to Record Version 7.7.1.1 — 25 July 2026.
-- Standardised structured-data release markers to v7.7.
-
-VALIDATION COMPLETED
-- 29 HTML pages parsed successfully.
-- Required title, description, canonical, header and footer elements checked.
-- No duplicate HTML IDs detected.
-- All internal HTML page targets resolved.
-- All referenced internal HTML anchors resolved.
-- Sitemap coverage checked for every public HTML page.
-- site.js search index and section grouping updated for the new gateway and operational-correspondence page.
-- robots.txt and Google verification file preserved unchanged.
-
-DEPLOYMENT NOTE
-This ZIP contains the updated root website files supplied for this release. The package includes the new commissioning-page documentary assets under /images/commissioning and the specific source documents linked from that page under /documents. Existing unrelated /images and /documents assets remain unchanged. Upload the ZIP contents to the existing website root while retaining the current /images and /documents directories.
+Deployment note
+This package is designed to merge into the existing repository. Existing shared assets such as the site logo, favicon and unrelated repository documents/images remain in the live repository and are not duplicated solely for this page update.

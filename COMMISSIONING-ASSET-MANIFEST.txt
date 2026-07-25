@@ -1,0 +1,7 @@
+Commissioning documentary asset manifest — v7.7.2
+
+Source PDFs: 8
+Documentary image exhibits: 18
+Updated primary page: commissioning-final-turbine.html
+Updated stylesheet: style.css
+Version references updated across packaged HTML/support files: v7.7.2
