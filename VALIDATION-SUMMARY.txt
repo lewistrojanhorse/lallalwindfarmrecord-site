@@ -3,43 +3,39 @@ VALIDATION SUMMARY
 
 Updated page
 ------------
-k15aa.html
-
-New replacement asset
----------------------
-images/k15aa-record/slr-2022-reference-receptors-background-limits.jpg
+nctp.html
 
 Implemented changes
 -------------------
-- Strengthened item 5, “SLR 2022 technical response and J14aa reference pathway”.
-- Recorded SLR's explanation that the endorsed NCTP nominates reference receptors
-  for which NZS 6808:2010 noise limits are determined from background noise monitoring.
-- Retained K15aa as the relevant reference location for J14aa.
-- Retained SLR's statement that pre-construction baseline monitoring was completed
-  at K15aa and the relevant noise limits determined.
-- Added a concise cross-reference note directing readers to:
-  - item 1 for the background-sound definition;
-  - item 2 for the 2017 Marshall Day location statement;
-  - item 3 for NCTP measurement locations, Regulation 131B and the notional boundary;
-  - item 4 for the 2019 SLR supplementary monitoring relationship.
-- Replaced the existing item 5 image with the supplied SLR extract.
-- Updated the item 5 caption and alternative text.
-- Updated the record version to 7.7.5 dated 26 July 2026.
+- Expanded all six rows in the “NCTP requirements highlighted” table.
+- Strengthened the mandatory pathway and documentary question for:
+  - K15aa;
+  - measurement locations;
+  - measurement position;
+  - acoustic and wind data;
+  - Special Audible Characteristics; and
+  - reporting.
+- Emphasised the relationship between the endorsed NCTP, NZS 6808:2010,
+  the Planning Permit framework and the disclosed administrative record.
+- Added detail concerning background-sound establishment, derivation of
+  operational noise limits, approved locations, notional-boundary continuity,
+  synchronised acoustic and meteorological data, SAC observations and reporting.
+- Added a mandatory-language reading-discipline notice.
+- Updated the record version to 7.7.3 dated 26 July 2026.
 
 Preserved
 ---------
 - HTML filename and canonical URL
-- Existing evidence-card order
-- Existing item 3 EPA correspondence and notional-boundary content
-- Existing item 4 cross-references
-- Navigation, SEO, CSS, scripts and document links
-- No generated imagery was used
+- Existing navigation, SEO, CSS and scripts
+- Existing table structure and row order
+- Existing page sections, images, links and source documents
+- No new assets required
 
 Validation checks
 -----------------
-- Item 5 located and updated once
-- NZS background-derived noise-limit wording included
-- Cross-references to items 1–4 included
-- Replacement image path resolves within the package
+- All six required rows located and updated
+- NZS 6808:2010 references retained where relevant
+- Planning Permit and NCTP pathway references included
+- Reading-discipline notice added once
 - Canonical URL preserved
 - HTML parsed successfully
