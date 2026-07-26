@@ -1,0 +1,176 @@
+{
+  "version": "8.0.0",
+  "release_date": "2026-07-26",
+  "files": [
+    {
+      "file": "GIT-COMMIT-MESSAGE.txt",
+      "sha256": "803061079cda4e2ce05c7c6f4bf521af8ff69295d570981d0eac7c1daf69b4a3",
+      "bytes": 440
+    },
+    {
+      "file": "RELEASE-NOTES.txt",
+      "sha256": "76f59978edb9541e5f2078047eb38e5fb908341724626060cd401ce2cd782348",
+      "bytes": 866
+    },
+    {
+      "file": "VALIDATION-SUMMARY.txt",
+      "sha256": "b942e5733cb5563c8ecd3cf8c5e97e622217d01d1127e58acbc8d7896d82949a",
+      "bytes": 1821
+    },
+    {
+      "file": "aeic.html",
+      "sha256": "c5b94d33130997d9b893a8d6b6ea5a8c4abbadda503d5ed7d3dea6afd0738853",
+      "bytes": 20895
+    },
+    {
+      "file": "agency-records.html",
+      "sha256": "d0cc7629c450306d53b9eefe1399f740aeba909d0c89130a60672288f35daf27",
+      "bytes": 32079
+    },
+    {
+      "file": "chronology.html",
+      "sha256": "033da829c0d65d04f64e8d807e0d4d4339c34908e74f45482580af7b9128c6ed",
+      "bytes": 44210
+    },
+    {
+      "file": "commissioning-final-turbine.html",
+      "sha256": "b54882844b6e0a9fac0316a952d6695afdafb8e7209f67a74394ba5d32beac1a",
+      "bytes": 53036
+    },
+    {
+      "file": "contact.html",
+      "sha256": "93166f5847de44cfb9e06430a55e7fe57b63756b282556f8052ee5aba9c86f50",
+      "bytes": 13839
+    },
+    {
+      "file": "documents.html",
+      "sha256": "cea90cc666fba08846d59bff819f370ea303a7fde74ef8ec12ed505445eaa4d8",
+      "bytes": 48631
+    },
+    {
+      "file": "foi-decisions.html",
+      "sha256": "67c6cd33ebf70b8fd397fde8b2c2bbef25c2d86973f007267fbacfccd0d60a7c",
+      "bytes": 35743
+    },
+    {
+      "file": "framework.html",
+      "sha256": "f1ac9b30c835b5aa809e88236dd6be15bf863d6e998f29b2831688d1c295af10",
+      "bytes": 22902
+    },
+    {
+      "file": "glossary.html",
+      "sha256": "b02c5ba0b3b397dced7a07ca70bda931a741a78097015f6d50f64574a493015c",
+      "bytes": 45151
+    },
+    {
+      "file": "index.html",
+      "sha256": "de626569267e9302f4ddcef4bdd5f1be7be565655eac60cd6896831283bb2b55",
+      "bytes": 25665
+    },
+    {
+      "file": "k15aa.html",
+      "sha256": "5999d2ff879dd1897d6b5333750530a5d6b16574c96ea53268a075f3061fafd9",
+      "bytes": 42665
+    },
+    {
+      "file": "key-issues.html",
+      "sha256": "51eb1f493a22f27c738a73a567e269bf738a8882a2d3b77090c7f4a14153a483",
+      "bytes": 22738
+    },
+    {
+      "file": "key-project-dates.html",
+      "sha256": "abdd95907df4953b35da8fb184035e473b32014e16fa8c81430c0118678697c9",
+      "bytes": 30075
+    },
+    {
+      "file": "nctp.html",
+      "sha256": "ebbca9859d9862ad7db12c21f348b4fb11c800e19fa0f889710d21c5bc61c4e1",
+      "bytes": 25692
+    },
+    {
+      "file": "noise-management-plan.html",
+      "sha256": "aabbc3c17227c05a64ec4cf83cc4ee6c890f38f36a1d349dcac9a68be5008d57",
+      "bytes": 25668
+    },
+    {
+      "file": "nzs6808.html",
+      "sha256": "b274e3e4343e08624b91f1f40a9da67affc394e728c220628782e57542e09611",
+      "bytes": 27958
+    },
+    {
+      "file": "permit-amendment.html",
+      "sha256": "301a941c463524a06aaa51cdffa9d5464dc7ea5301351c0c7dae9df68669f142",
+      "bytes": 28064
+    },
+    {
+      "file": "pre-construction-acoustic-assessments.html",
+      "sha256": "ad41268eb548aba9598f090d006b6f441f54d7ecfe0814a04d8c3e33cc6ed610",
+      "bytes": 34154
+    },
+    {
+      "file": "record-status.html",
+      "sha256": "eabff1c805b0859121eb8a8d29b46e091948ba025064f4a28afc55ac8d44aba9",
+      "bytes": 23779
+    },
+    {
+      "file": "record.html",
+      "sha256": "008bed914a5c01ec9ad541b98ce09af4ad40312fb875d8b63cb50ed61756687a",
+      "bytes": 22088
+    },
+    {
+      "file": "representative-monitoring.html",
+      "sha256": "1a71bbe26b2302b0920c4f4b99a393bac746ba831982dfce1e635cd94519bfd1",
+      "bytes": 36298
+    },
+    {
+      "file": "robots.txt",
+      "sha256": "3f5964cb500fd5cc72bd7c8a426cee9c238a7916dbc74c6fb10265df7432fd2a",
+      "bytes": 81
+    },
+    {
+      "file": "sac.html",
+      "sha256": "2e74758d50a09cd3cae611a32c0a13a469800872a15dabfa082f5fc4534241de",
+      "bytes": 38717
+    },
+    {
+      "file": "site.js",
+      "sha256": "b78e956fd2ad4d23e78bfe26a8259a0ab38e1409c0767911522ff6a6c92f66bc",
+      "bytes": 9855
+    },
+    {
+      "file": "sitemap.xml",
+      "sha256": "b6164254eea78e2be82712489464fc059cd124b8b9ae3628a7e869604ad915cf",
+      "bytes": 3072
+    },
+    {
+      "file": "sonus-pre-construction-noise-assessment.html",
+      "sha256": "78bcf35685335d67059cb97f19561aa15f7431339119743041baa6b49cc653d5",
+      "bytes": 28021
+    },
+    {
+      "file": "start-here.html",
+      "sha256": "86462926f0499cf4692b96bc918fa7267c9d32b450d0bea96674b2a8779c31df",
+      "bytes": 20187
+    },
+    {
+      "file": "style.css",
+      "sha256": "37a189fcac6bfa0dbbf4ccada2bd9ee52626c828c1b6cc72c26ed4a42c89ae5d",
+      "bytes": 25823
+    },
+    {
+      "file": "technical-reports.html",
+      "sha256": "e7689951dc42ef86a22d5acb30018eedabbd2a4cacea0c560d38029adf9d7cad",
+      "bytes": 50091
+    },
+    {
+      "file": "understanding-the-record.html",
+      "sha256": "cc4d21a8c7cdea7ad2952afdadfcd8ca130e31a77118670b8905aaca8458642a",
+      "bytes": 26569
+    },
+    {
+      "file": "verification.html",
+      "sha256": "6a72d0392a45098d0fb35181c6b9fc9a580a1d51d5af1983669413c57c628eda",
+      "bytes": 22703
+    }
+  ]
+}

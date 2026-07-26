@@ -1,0 +1,10 @@
+LAL LAL WIND FARM RECORD — RELEASE NOTES
+Version 8.0.0 — 26 July 2026
+
+Version 8.0.0 is the first repository-wide harmonisation release of the supplied Lal Lal Wind Farm Record pages.
+
+This release consolidates page-level versions into one publication version, applies a common release date, restores canonical deployment filenames, normalises structured metadata and removes accumulated duplicate document declarations.
+
+The substantive documentary content of the supplied pages has been preserved. The release is directed to publication consistency, technical integrity and cross-page presentation rather than introducing a new evidentiary proposition.
+
+Deployment note: this ZIP is an update package. Existing /images and /documents directories must be retained. Any live pages referenced in navigation but not supplied in this audit should also be retained.

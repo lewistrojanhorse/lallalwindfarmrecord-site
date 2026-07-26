@@ -1,9 +1,10 @@
-Add K15aa sound-environment context to representative monitoring
+Release Lal Lal Wind Farm Record v8.0.0
 
-- expand the K15aa geographic comparison
-- add the March 2021 attended observations
-- record the influence of Midland Highway traffic at K15aa
-- contrast J14aa's approximately 2.3 km separation from the highway
-- avoid treating the observations as proof of representativeness
-- add the supplied documentary extract
-- update the page to record version 7.7.4
+- unify all supplied pages under version 8.0.0
+- set the repository release date to 26 July 2026
+- restore canonical deployment filenames
+- normalise footer version and date across the site
+- align canonical, Open Graph and structured metadata
+- remove duplicate document declarations
+- rebuild the sitemap with current last-modified dates
+- validate page structure and preserve documentary content
