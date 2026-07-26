@@ -1,25 +1,24 @@
 LAL LAL WIND FARM RECORD
-Incremental Hero Image Update — Validation Summary
+Operational Correspondence Page — Version 8.0.0 Update
 
-Package version: v8.0.3
 Updated file:
-- images/wind-farm-hero.jpg
+- operational-correspondence.html
 
-Validation performed:
-- Filename preserved: PASS
-- Output path preserved: images/wind-farm-hero.jpg
-- Image opens successfully: PASS
-- Image format: JPEG
-- Image dimensions: 2048 × 536 pixels
-- Existing hero dimensions matched: PASS
-- HTML changes: NONE
-- CSS changes: NONE
-- Navigation changes: NONE
-- Links/anchors changed: NONE
-- Documentary photograph used: YES
-- AI-generated/reconstructed image content used: NO
-- SHA-256: c1625dc16fb5a3ead46a53d7116f0fcc744663e707cc7680a524d3273d9a7d87
+Changes applied:
+- Updated structured-data release marker from v7.7.2 to v8.0.0
+- Updated footer record version from 7.7.2 to 8.0.0
+- Updated footer date from 25 July 2026 to 26 July 2026
+- Preserved filename, canonical URL, navigation, page content, anchors and document links
+
+Validation:
+- HTML parsed successfully: PASS
+- Page title present: PASS
+- Canonical URL preserved: PASS
+- Structured-data release marker v8.0.0 present: PASS
+- Footer version 8.0.0 present: PASS
+- Footer date 26 July 2026 present: PASS
+- Local references retained: 110
+- SHA-256: 3037b8c3933729434b7ee76c8f47e1011c44bce713de2a0f1165b887204af4ac
 
 Deployment:
-Replace the existing images/wind-farm-hero.jpg file with the file in this package.
-Browser/CDN cache may need to be cleared before the replacement appears.
+Replace the existing operational-correspondence.html file with the updated file in this package.

@@ -1,6 +1,5 @@
-Replace homepage hero with documentary wind farm photograph
+Bring operational correspondence page into Version 8.0
 
-- replace images/wind-farm-hero.jpg
-- preserve the existing filename and website references
-- use the supplied documentary photograph cropped for the homepage hero
-- make no HTML, CSS, navigation or content changes
+- update operational-correspondence.html release metadata to v8.0.0
+- update footer record version and date to 26 July 2026
+- preserve page content, navigation, anchors and document links
