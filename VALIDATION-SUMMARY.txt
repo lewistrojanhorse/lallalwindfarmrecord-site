@@ -3,39 +3,51 @@ VALIDATION SUMMARY
 
 Updated page
 ------------
-nctp.html
+representative-monitoring.html
+
+New assets
+----------
+images/representative-monitoring/llwf-aemo-elaine-constraints-8-september-2020.jpg
+images/representative-monitoring/slr-interim-monitoring-october-2020-full-capacity.jpg
 
 Implemented changes
 -------------------
-- Expanded all six rows in the “NCTP requirements highlighted” table.
-- Strengthened the mandatory pathway and documentary question for:
-  - K15aa;
-  - measurement locations;
-  - measurement position;
-  - acoustic and wind data;
-  - Special Audible Characteristics; and
-  - reporting.
-- Emphasised the relationship between the endorsed NCTP, NZS 6808:2010,
-  the Planning Permit framework and the disclosed administrative record.
-- Added detail concerning background-sound establishment, derivation of
-  operational noise limits, approved locations, notional-boundary continuity,
-  synchronised acoustic and meteorological data, SAC observations and reporting.
-- Added a mandatory-language reading-discipline notice.
+- Added a new section:
+  “Operational transition before formal compliance testing”.
+- Placed the section after the existing operational-record chronology and before
+  the documentary-comparison table.
+- Recorded the distinction between:
+  - commencement of generation;
+  - release of AEMO constraints;
+  - commissioning;
+  - full operational capacity; and
+  - commencement of formal post-construction compliance testing.
+- Added LLWF's record that AEMO constraints on the Elaine section were lifted
+  on 8 September 2020.
+- Added SLR's record that October 2020 monitoring at J14aa was only an interim
+  check because the wind farm was not yet operating at full capacity and
+  remained subject to mandatory hold-point testing.
+- Clarified that formal compliance testing was not considered appropriate at
+  that stage.
+- Added a documentary-significance note stating that the LLWF extract is used
+  for operational chronology rather than to determine the separate Regulation
+  131D issue.
+- Added both supplied images as Figures 10 and 11.
+- Added a corresponding row to the documentary-comparison table.
 - Updated the record version to 7.7.3 dated 26 July 2026.
 
 Preserved
 ---------
 - HTML filename and canonical URL
-- Existing navigation, SEO, CSS and scripts
-- Existing table structure and row order
-- Existing page sections, images, links and source documents
-- No new assets required
+- Existing page structure, navigation, CSS and SEO
+- Existing figures, numbering and source links
+- Existing representative-monitoring analysis and conclusions
+- No generated imagery used
 
 Validation checks
 -----------------
-- All six required rows located and updated
-- NZS 6808:2010 references retained where relevant
-- Planning Permit and NCTP pathway references included
-- Reading-discipline notice added once
+- New section added once
+- Both image paths resolve within the package
+- Documentary-comparison row added
 - Canonical URL preserved
 - HTML parsed successfully

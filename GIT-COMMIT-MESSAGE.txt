@@ -1,9 +1,8 @@
-Strengthen mandatory NCTP verification pathways
+Add interim operational transition to representative monitoring
 
-- expand all six mandatory-requirement rows
-- connect K15aa background sound to NZS noise-limit derivation
-- clarify approved location and notional-boundary requirements
-- strengthen acoustic, wind-data and SAC verification questions
-- add reporting timeframe and agency-custody context
-- add a mandatory-language reading-discipline notice
-- update the NCTP page to record version 7.7.3
+- add the September–October 2020 AEMO and SLR chronology
+- distinguish constraint release from full operational capacity
+- record why the J14aa campaign was only an interim assessment
+- preserve the distinction between interim and formal NCTP testing
+- add the two supplied documentary extracts
+- update the representative monitoring page to version 7.7.3
