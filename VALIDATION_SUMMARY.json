@@ -1,0 +1,12 @@
+{
+  "file": "permit-amendment.html",
+  "release": "8.0.2",
+  "release_date": "26 July 2026",
+  "checks": {
+    "target_notice_updated": true,
+    "single_doctype": true,
+    "canonical_url_present": true,
+    "version_updated": true,
+    "footer_updated": true
+  }
+}

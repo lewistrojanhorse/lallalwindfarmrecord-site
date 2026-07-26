@@ -1,8 +1,6 @@
-Update permit amendment documentary pathway
+Update permit amendment current documentary position
 
-- clarify exhibited scope: amend Condition 23 and delete Conditions 24–27
-- add condition-by-condition documentary significance table
-- integrate final permit and Transitional Condition 27A reconciliation
-- record responsible-authority and meteorological monitoring wording questions
-- add exhibited amendment report and 18 May clarification notice
-- release permit amendment page as v8.0.1 dated 26 July 2026
+- record that no substantive clarification response had been received as at 26 July 2026
+- identify the unresolved Transitional Condition 27A, responsible-authority, meteorological monitoring and exhibited-to-final permit reconciliation matters
+- preserve the evidentiary limitation concerning legal effect, validity and operation
+- release permit amendment page as v8.0.2
