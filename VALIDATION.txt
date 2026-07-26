@@ -1,17 +1,25 @@
-VERSION 6.6.3 VALIDATION
-Date: 20 July 2026
+Lal Lal Wind Farm Record — Permit Amendment Update
+Release: 8.0.1
+Date: 26 July 2026
 
-Baseline: Version 6.6.2 audited restoration
-Public HTML pages checked: 25
-Substantive pages intentionally amended: 4
-New Council planning-administration and Governance PDFs: 5
+Files included:
+- permit-amendment.html
+- documents/ERM-Amendment-Proposal-2-October-2025.pdf
+- documents/DTP-Administrative-Clarification-Reconciliation-18-May-2026.pdf
 
-Unaffected-page preservation comparison: PASS
-Historical chronology preservation: PASS
-New document inclusion and links: PASS
-HTML structure and DOCTYPE checks: PASS
+Update summary:
+- clarified that the exhibited proposal sought to amend Condition 23 and delete Conditions 24–27
+- added a condition-by-condition table describing the existing function, proposed treatment and documentary significance
+- added a direct link to the publicly exhibited amendment report
+- moved the final-permit administrative clarification record into the main chronology
+- added concise treatment of Transitional Condition 27A, responsible-authority wording and meteorological monitoring wording
+- added both source documents to the deployment package
+- updated metadata and footer release marker to version 8.0.1
 
-Established document and image assets referenced by the HTML are not duplicated in this incremental deployment package; they remain in the existing server repository.
-
-Errors:
-None identified.
+Validation checks:
+- one HTML doctype
+- one H1
+- canonical URL preserved
+- internal page filenames preserved
+- source-document links match packaged filenames
+- version/date metadata aligned
