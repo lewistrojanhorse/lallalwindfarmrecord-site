@@ -1,8 +1,9 @@
-Add interim operational transition to representative monitoring
+Add K15aa sound-environment context to representative monitoring
 
-- add the September–October 2020 AEMO and SLR chronology
-- distinguish constraint release from full operational capacity
-- record why the J14aa campaign was only an interim assessment
-- preserve the distinction between interim and formal NCTP testing
-- add the two supplied documentary extracts
-- update the representative monitoring page to version 7.7.3
+- expand the K15aa geographic comparison
+- add the March 2021 attended observations
+- record the influence of Midland Highway traffic at K15aa
+- contrast J14aa's approximately 2.3 km separation from the highway
+- avoid treating the observations as proof of representativeness
+- add the supplied documentary extract
+- update the page to record version 7.7.4
