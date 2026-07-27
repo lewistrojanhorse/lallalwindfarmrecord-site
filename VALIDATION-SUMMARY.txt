@@ -1,32 +1,23 @@
 LAL LAL WIND FARM RECORD
-Operational Correspondence — Validation Summary
+Representative Monitoring — Validation Summary
 
-Package version: v8.0.5
+Package version: v8.0.1
 
 Included files:
-- operational-correspondence.html
-- documents/trustee-public-interest-record-blade-failure-incident-29-may-2026.pdf
-
-Update:
-- expanded the Blade-failure incident card to preserve the documentary sequence
-- retained the 24 May 2026 enquiry to Lal Lal Wind Farm
-- added the 29 May 2026 public-interest record correspondence to EPA Victoria and Central Highlands Water
-- retained the contemporaneous blade incident video
-- changed the card actions to Open operator enquiry, Open authority notification and Open video
+- representative-monitoring.html
+- images/i14aa-record/crg-2021-southern-properties.jpg
+- documents/crg-minutes-26-october-2021.pdf
 
 Validation:
-- release marker updated to v8.0.5: PASS
-- footer updated to v8.0.5: PASS
-- operator enquiry retained: PASS
-- authority notification added: PASS
-- blade video retained: PASS
-- three blade-incident actions present: PASS
-- new PDF included at expected path: PASS
-- canonical URL preserved: PASS
-- scoped gold-button/card CSS preserved: PASS
+- exact user-supplied CRG image copied without regeneration or alteration: PASS
+- CRG image placed beside EPA desktop-review evidence: PASS
+- full CRG minutes PDF linked and included: PASS
+- 26 October 2021 timeline explanation expanded: PASS
+- indicative 2020 / formal NCTP distinction preserved: PASS
+- NZS 6808, I14aa 35 dB contour and EPA desktop-review context retained: PASS
+- SLR and ARUP references to Sonus recorded as documentary continuity: PASS
+- release metadata and footer updated to v8.0.1: PASS
+- navigation, anchors and canonical URL preserved: PASS
 
-- New PDF size: 54,881 bytes
-- New PDF SHA-256: 21b73785c0fd7c2fd096b58659021063cebf78b278e9a98f579fb433add5b773
-
-No existing documentary asset has been duplicated in this incremental package.
-The existing repository documents folder must retain the previously deployed enquiry PDF and MOV file.
+Image SHA-256: 63c9f9abba0d35fb3c8ad33ddd5b8dd26c21a52c9761d0444206cb8bba3faa40
+PDF SHA-256: 6d13818f3ef105a3c03e1bffeb9ecb300b88b41df69b5b2850f08d8d2d7ff032
