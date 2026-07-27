@@ -1,8 +1,8 @@
-Improve operational correspondence action visibility
+Add authority notification to blade-failure record
 
-- apply a solid-gold treatment to secondary action buttons
-- add darker-gold hover and keyboard-focus states
-- allow documentary cards to expand naturally with their content
-- keep PDF, image and video action links visible within each card
-- update the page release marker and footer to v8.0.4
-- preserve documentary wording, links, navigation, anchors and structure
+- add the Trustee's 29 May 2026 public-interest record correspondence to EPA Victoria and Central Highlands Water
+- expand the blade-failure incident card to preserve the documentary sequence
+- distinguish the operator enquiry from the authority notification
+- retain the contemporaneous blade incident video
+- update the page release marker and footer to v8.0.5
+- preserve existing links, navigation, anchors and page structure
