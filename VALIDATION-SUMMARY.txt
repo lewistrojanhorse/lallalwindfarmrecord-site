@@ -1,24 +1,26 @@
 LAL LAL WIND FARM RECORD
-Operational Correspondence Page — Version 8.0.0 Update
+Operational Correspondence Completion — Validation Summary
 
-Updated file:
+Package version: v8.0.2
+
+Included files:
 - operational-correspondence.html
-
-Changes applied:
-- Updated structured-data release marker from v7.7.2 to v8.0.0
-- Updated footer record version from 7.7.2 to 8.0.0
-- Updated footer date from 25 July 2026 to 26 July 2026
-- Preserved filename, canonical URL, navigation, page content, anchors and document links
+- documents/operational-noise-complaint-15-august-2024.pdf
+- documents/slr-logger-display-15-august-2024.jpg
+- documents/slr-logger-video-15-august-2024.mov
 
 Validation:
-- HTML parsed successfully: PASS
-- Page title present: PASS
-- Canonical URL preserved: PASS
-- Structured-data release marker v8.0.0 present: PASS
-- Footer version 8.0.0 present: PASS
-- Footer date 26 July 2026 present: PASS
-- Local references retained: 110
-- SHA-256: 3037b8c3933729434b7ee76c8f47e1011c44bce713de2a0f1165b887204af4ac
+- Complaint PDF link present in HTML: PASS
+- Logger image link present in HTML: PASS
+- Logger video link present in HTML: PASS
+- All linked assets included at their expected paths: PASS
+- Video card wording updated to 'Contemporaneous logger video': PASS
+- Existing filenames and URLs preserved: PASS
+- Navigation, anchors, canonical URL and page structure changed: NO
 
-Deployment:
-Replace the existing operational-correspondence.html file with the updated file in this package.
+- PDF size: 323,857 bytes
+- JPG size: 82,214 bytes
+- MOV size: 72,439,614 bytes
+- PDF SHA-256: 9de851fb497aa03afc7ebdade53e6181365f3acd6f6e03179ee69248260c76ca
+- JPG SHA-256: 89a7f9e5c14f7dc642bc9381b62a578320bda70ed7150b67835623a9e301bf73
+- MOV SHA-256: 9d5bfe1e37b5fe22686427a9648d4286f3e95128d63f5696e716c0b56c5c48f9
