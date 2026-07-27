@@ -1,9 +1,9 @@
-Add CRG representative-monitoring record
+Add earlier SAC peer-review methodology
 
-- add the exact supplied 26 October 2021 CRG extract without regeneration
-- add the full CRG minutes PDF
-- expand the representative-monitoring timeline with the recorded explanation for excluding Elaine–Mount Mercer Road properties
-- preserve the distinction between indicative 2020 monitoring and formal NCTP compliance testing
-- place the CRG record beside the EPA desktop-review evidence
-- connect the CRG, NZS 6808, I14aa 35 dB contour and later SLR/ARUP references to Sonus
-- update the page release marker and footer to v8.0.1
+- add the 10 April 2014 peer-review extract authored by Gustaf Reutersward
+- record the stated need for targeted SAC observations under conditions where SACs are more likely
+- record the peer review's transparency and independent-verification observations
+- present the material as earlier professional methodology rather than a conclusion about later Lal Lal assessments
+- add the full peer-review PDF and exact rendered source page
+- update the SAC page release marker and footer to v8.0.1
+- preserve navigation, anchors, canonical URL and existing documentary chronology

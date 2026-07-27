@@ -1,23 +1,37 @@
 LAL LAL WIND FARM RECORD
-Representative Monitoring — Validation Summary
+Special Audible Characteristics — Validation Summary
 
 Package version: v8.0.1
 
 Included files:
-- representative-monitoring.html
-- images/i14aa-record/crg-2021-southern-properties.jpg
-- documents/crg-minutes-26-october-2021.pdf
+- sac.html
+- documents/gustaf-peer-review-noise-compliance-assessment-10-april-2014.pdf
+- images/gustaf-peer-review-sac-methodology-2014.png
+
+Update:
+- added an Earlier peer-review methodology section
+- recorded targeted conditions when SACs are more likely to occur
+- recorded the peer review's observations about transparency and independent verification
+- presented the earlier document as professional methodological context, not as a determination of later Lal Lal assessments
+- added the exact rendered page from the supplied PDF as documentary evidence
+- added the full peer-review PDF to the source-document list
+- preserved existing page structure, navigation, canonical URL and documentary chronology
 
 Validation:
-- exact user-supplied CRG image copied without regeneration or alteration: PASS
-- CRG image placed beside EPA desktop-review evidence: PASS
-- full CRG minutes PDF linked and included: PASS
-- 26 October 2021 timeline explanation expanded: PASS
-- indicative 2020 / formal NCTP distinction preserved: PASS
-- NZS 6808, I14aa 35 dB contour and EPA desktop-review context retained: PASS
-- SLR and ARUP references to Sonus recorded as documentary continuity: PASS
-- release metadata and footer updated to v8.0.1: PASS
-- navigation, anchors and canonical URL preserved: PASS
+- release marker updated to v8.0.1: PASS
+- structured-data version updated: PASS
+- footer version updated: PASS
+- peer-review section added: PASS
+- targeted SAC conditions described: PASS
+- transparency wording included: PASS
+- independent verification wording included: PASS
+- peer-review PDF linked: PASS
+- rendered source image linked: PASS
+- source-document list updated: PASS
+- canonical URL preserved: PASS
+- navigation and existing anchors preserved: PASS
+- PDF included: PASS
+- source-render image included: PASS
 
-Image SHA-256: 63c9f9abba0d35fb3c8ad33ddd5b8dd26c21a52c9761d0444206cb8bba3faa40
-PDF SHA-256: 6d13818f3ef105a3c03e1bffeb9ecb300b88b41df69b5b2850f08d8d2d7ff032
+- Peer-review PDF SHA-256: 6abf8d34b3394556fa70d1821d82255b1ac8cfef7761b5c999b4357cc1b6934e
+- Rendered evidence image SHA-256: 692bb844b63704d37ce180b5b55a91503e66471410d3cf6bbe4e1d0ed6f26350
