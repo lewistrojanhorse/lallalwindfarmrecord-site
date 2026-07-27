@@ -1,7 +1,8 @@
-Complete 15 August 2024 operational correspondence record
+Complete operational correspondence documentary assets
 
-- include the complaint and follow-up correspondence PDF
-- include the logger display photograph
-- include the contemporaneous logger video
-- update the video card label for documentary clarity
-- preserve existing filenames, URLs, navigation, anchors and page structure
+- add the three Trustee enquiry PDFs to the operational correspondence package
+- add the contemporaneous blade incident video
+- add an Open video button to the blade-failure incident card
+- retain the complaint PDF, logger image and logger video
+- update the page release marker and footer to v8.0.3
+- preserve filenames, URLs, navigation, anchors and page structure
