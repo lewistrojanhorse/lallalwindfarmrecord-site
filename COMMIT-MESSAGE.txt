@@ -1,0 +1,8 @@
+Update SAC page with embedded SLR information-session evidence
+
+- embed web-optimised Elaine SAC information-session excerpt
+- place public explanation beside Stage 1 documentary chronology
+- link later SAC timing discussion to embedded video
+- correct near-turbine observation statement in verification table
+- clarify comparison between mandatory NCTP requirements and reported observations
+- update SAC page to v8.0.2

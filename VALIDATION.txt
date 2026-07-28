@@ -1,25 +1,30 @@
-Lal Lal Wind Farm Record — Permit Amendment Update
-Release: 8.0.1
-Date: 26 July 2026
+LAL LAL WIND FARM RECORD — VALIDATION RECORD
+Release: v8.0.2
+Date: 29 July 2026
 
-Files included:
-- permit-amendment.html
-- documents/ERM-Amendment-Proposal-2-October-2025.pdf
-- documents/DTP-Administrative-Clarification-Reconciliation-18-May-2026.pdf
+PACKAGE CONTENT CHECK
+PASS — sac.html is present.
+PASS — videos/elaine-sac-information-session.mp4 is present.
+PASS — the HTML video source path exactly matches the packaged video path.
+PASS — the HTML contains an MP4 source type and a fallback link.
+PASS — structured-data release version is v8.0.2.
+PASS — structured-data dateModified is 2026-07-29.
+PASS — footer record version is 8.0.2 and date is 29 July 2026.
 
-Update summary:
-- clarified that the exhibited proposal sought to amend Condition 23 and delete Conditions 24–27
-- added a condition-by-condition table describing the existing function, proposed treatment and documentary significance
-- added a direct link to the publicly exhibited amendment report
-- moved the final-permit administrative clarification record into the main chronology
-- added concise treatment of Transitional Condition 27A, responsible-authority wording and meteorological monitoring wording
-- added both source documents to the deployment package
-- updated metadata and footer release marker to version 8.0.1
+VIDEO CHECK
+Container/file type: MP4
+File size: 6140094 bytes
+Duration reported by ffprobe: 144.766667 seconds
 
-Validation checks:
-- one HTML doctype
-- one H1
-- canonical URL preserved
-- internal page filenames preserved
-- source-document links match packaged filenames
-- version/date metadata aligned
+INTEGRITY HASHES (SHA-256)
+sac.html
+a488d7295be75f1e3a73a9aa44a4b5a5cacf5369963ff201b05a50a149dc1d8b
+
+videos/elaine-sac-information-session.mp4
+4eec07d9b66ea5947a84bc814d113cd835c8b3e9d32385fd93e0d0d0bf80a612
+
+SCOPE NOTE
+This is a targeted update package rather than a full repository build. References in sac.html to existing site assets—such as style.css, site.js, images and documents—were intentionally preserved and are expected to resolve from the existing deployed repository.
+
+POST-DEPLOYMENT CHECK REQUIRED
+Browser-level checking on the live site remains necessary to confirm playback, responsive layout and resolution of existing repository assets in the production environment.

@@ -1,0 +1,30 @@
+LAL LAL WIND FARM RECORD — SAC PAGE UPDATE
+Release: v8.0.2
+Date: 29 July 2026
+
+PURPOSE
+This is a targeted website update package. It updates the existing SAC page and adds the web-optimised SLR Public Information Session video excerpt used by that page.
+
+DEPLOYMENT ACTIONS
+1. Replace the existing repository file:
+   /sac.html
+
+2. Add the following new file, preserving the directory and filename exactly:
+   /videos/elaine-sac-information-session.mp4
+
+3. Do not replace or delete any other repository files.
+
+4. Commit and deploy the two website files above through the usual repository workflow.
+
+5. After deployment, confirm:
+   - https://lallalwindfarmrecord.com.au/sac.html loads normally;
+   - the embedded video appears within the Stage 1 Elaine section;
+   - the video plays on desktop and mobile;
+   - the fallback video link opens;
+   - existing images, documents, navigation and site styling continue to load.
+
+PACKAGE SUPPORT FILES
+The TXT files in this package are deployment records only. They do not need to be uploaded to the public website unless retained in the repository's internal release records.
+
+ROLLBACK
+Restore the previous /sac.html and remove /videos/elaine-sac-information-session.mp4 if rollback is required.

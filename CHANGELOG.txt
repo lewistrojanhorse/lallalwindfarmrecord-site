@@ -1,0 +1,20 @@
+LAL LAL WIND FARM RECORD — CHANGELOG
+Release: v8.0.2
+Date: 29 July 2026
+Page: /sac.html
+
+CHANGES
+- Embedded a web-optimised excerpt from the Elaine SAC Public Information Session.
+- Positioned the video within the Stage 1 Elaine documentary chronology so readers can compare SLR's public explanation with the NCTP requirements and the report record.
+- Added responsive video presentation and a direct fallback link.
+- Linked the later public-explanation section back to the embedded recording.
+- Clarified the page's documentary-comparison purpose.
+- Corrected the verification comparison so it does not state that Appendix D reports a near-turbine observation where the report does not document one.
+- Updated structured-data release metadata and footer version to v8.0.2, dated 29 July 2026.
+
+FILES CHANGED
+- Modified: /sac.html
+- Added:    /videos/elaine-sac-information-session.mp4
+
+FILES NOT CHANGED
+No global stylesheet, JavaScript, image, document, navigation or other HTML file is included or replaced by this update.
