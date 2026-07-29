@@ -1,19 +1,11 @@
-LAL LAL WIND FARM RECORD — SAC PAGE
-Release: v8.0.4
+NCTP PAGE CHANGELOG
+Release: v8.0.1
 Date: 29 July 2026
 
-CHANGES
-
-- Revised the Stage 1 introduction to state expressly that the attended listening surveys dated 9 March, 10 March, 31 March and 11 June 2021 are the only surveys for K15aa, H18aa and L18aa recorded in the Stage 1 report.
-- Revised the Stage 1 timing note to make the same documentary limit explicit.
-- Added a separate evidence card for Location 4 — Horsehill Road, identifying it as the only additional attended survey location recorded within the Elaine section apart from K15aa, H18aa and L18aa.
-- Added the user-annotated 10 March 2021 AEMO comparison, showing the Location 4 survey record and the relationship between AEST and Australian Eastern Daylight Saving Time.
-- Updated the documentary comparison table to include Location 4 and the new timing comparison.
-- Renumbered the Stage 1 and Stage 2 evidence cards following insertion of the new evidence card.
-- Updated page metadata and footer from v8.0.3 to v8.0.4.
-
-UNCHANGED
-
-- The general SLR methodology video remains beneath the NCTP SAC identification procedure.
-- The 31 March 2021 attended-observations video remains immediately above the 31 March AEMO analytical reconstruction.
-- Existing filenames, navigation, canonical URL and source-document links are preserved.
+- Replaced the transcript/technical-reports referral in the opening Public Information Session section with an embedded video excerpt.
+- Added a web-optimised MP4 using the documentary filename:
+  videos/nctp-public-information-session-methodology.mp4
+- Added a neutral documentary-use note distinguishing SLR's public explanation from the approved NCTP and primary source documents.
+- Added responsive page-specific video presentation rules.
+- Updated page metadata, structured-data release information and footer to v8.0.1 dated 29 July 2026.
+- Preserved the nctp.html filename, canonical URL, navigation, source-document links and existing page structure outside the revised section.

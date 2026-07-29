@@ -1,32 +1,27 @@
-LAL LAL WIND FARM RECORD — SAC PAGE UPDATE
-Release: v8.0.4
+LAL LAL WIND FARM RECORD — NCTP PAGE UPDATE
+Release: v8.0.1
 Date: 29 July 2026
 
 DEPLOYMENT SCOPE
 
 Replace:
-  /sac.html
+  /nctp.html
 
 Add:
-  /images/stage1-location-4-aemo-10-march-2021.jpg
+  /videos/nctp-public-information-session-methodology.mp4
 
-Retain / confirm already deployed:
-  /videos/elaine-sac-information-session.mp4
-  /videos/31-march-2021-attended-observations.mp4
-
-No other repository files are to be replaced by this package.
+No other repository files are to be replaced or removed.
 
 DEPLOYMENT STEPS
 
-1. Back up the presently deployed /sac.html.
-2. Upload the supplied sac.html to the website root, replacing /sac.html.
-3. Upload the supplied JPEG to /images/ using the filename exactly as supplied.
-4. Confirm that both existing MP4 files remain available in /videos/.
-5. Open https://lallalwindfarmrecord.com.au/sac.html and hard-refresh the page.
-6. Confirm the new Location 4 / 10 March evidence card appears after the Stage 1 monitoring-period card.
-7. Confirm both embedded videos play and the 31 March video remains immediately above the AEMO analytical reconstruction.
+1. Upload nctp.html to the website root, replacing the existing /nctp.html file.
+2. Upload nctp-public-information-session-methodology.mp4 to the existing /videos/ directory.
+3. Preserve the filename and relative path exactly as supplied.
+4. Confirm that the embedded video loads and plays on:
+   https://lallalwindfarmrecord.com.au/nctp.html
+5. Clear any host, CDN or browser cache if the earlier page remains visible.
 
 ROLLBACK
 
-Restore the prior sac.html and remove:
-  /images/stage1-location-4-aemo-10-march-2021.jpg
+Restore the previous nctp.html and remove:
+  /videos/nctp-public-information-session-methodology.mp4

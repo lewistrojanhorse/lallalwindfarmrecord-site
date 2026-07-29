@@ -1,7 +1,7 @@
-Clarify Stage 1 survey record and add Location 4 AEMO comparison
+Embed NCTP methodology explanation video
 
-- state that the four recorded dates are the only attended surveys for K15aa, H18aa and L18aa in the Stage 1 report
-- add Location 4 — Horsehill Road as the only additional Elaine survey location
-- add the annotated 10 March 2021 AEMO and daylight-saving comparison
-- update the documentary comparison table and evidence-card numbering
-- update the SAC page to v8.0.4
+- replace the transcript referral with the relevant SLR video excerpt
+- use a documentary filename for the web-optimised video
+- distinguish the public explanation from the approved NCTP source record
+- preserve the NCTP page structure and primary document pathways
+- update the NCTP page to v8.0.1

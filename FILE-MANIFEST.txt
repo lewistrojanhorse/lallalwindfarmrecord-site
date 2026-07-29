@@ -1,12 +1,11 @@
-LAL LAL WIND FARM RECORD — SAC PAGE FILE MANIFEST
-Release: v8.0.4
+NCTP PAGE FILE MANIFEST
+Release: v8.0.1
 Date: 29 July 2026
 
-CHANGELOG.txt	1321 bytes	SHA-256 1723392670ebc8be4eec2b7cf579a308daa380718384c184a862d640c2422ceb
-COMMIT-MESSAGE.txt	436 bytes	SHA-256 a01c34020844e37d70c5b2714d4595cc99f86e4d9d661d4c31aef350c7159561
-UPDATE-INSTRUCTIONS.txt	1067 bytes	SHA-256 ea4b534854e1d4dbcc8cc5e30efd61291719c51849d63dca8d2d833634b97b7f
-VALIDATION.txt	1172 bytes	SHA-256 8f5528220bbcdf30af214190ecc4da376ac253825af68077b7e0cf40a65ef8f3
-images/stage1-location-4-aemo-10-march-2021.jpg	217607 bytes	SHA-256 6305e1f15b918feb78dd45d52eacf3dfe78678b73280360c003d274d35f3a46a
-sac.html	45726 bytes	SHA-256 cd8dd5e1af87ceea3f239925914f874d8503d77b90b18aaca894a5daf827d4aa
-videos/31-march-2021-attended-observations.mp4	3489695 bytes	SHA-256 fb7cf97df3f4ed4c157f33d585312a27f9fb9543f9fc54ad564cc66918a82b19
-videos/elaine-sac-information-session.mp4	6140094 bytes	SHA-256 4eec07d9b66ea5947a84bc814d113cd835c8b3e9d32385fd93e0d0d0bf80a612
+Deployment files:
+  nctp.html                                                  26781 bytes
+  videos/nctp-public-information-session-methodology.mp4     1320545 bytes
+
+SHA-256:
+f626883de8cd6f1c9d022556445dccc6fd3772c0f3f2fced3d1f3a95625c9f80  nctp.html
+6b0026de23c9960d8232de6622a4408f38fced64654047fe24b9191ce53d41fd  videos/nctp-public-information-session-methodology.mp4

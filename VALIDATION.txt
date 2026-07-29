@@ -1,23 +1,21 @@
-LAL LAL WIND FARM RECORD — SAC PAGE VALIDATION
-Release: v8.0.4
+NCTP PAGE VALIDATION RECORD
+Release: v8.0.1
 Date: 29 July 2026
 
-VALIDATION COMPLETED
+CHECKS COMPLETED
 
-PASS — sac.html parsed successfully as HTML.
-PASS — page title and canonical SAC page structure retained.
-PASS — page metadata and footer identify v8.0.4 and 29 July 2026.
-PASS — revised Stage 1 wording identifies the only recorded survey dates for K15aa, H18aa and L18aa.
-PASS — Location 4 — Horsehill Road evidence card is present after the Stage 1 monitoring-period card.
-PASS — new image reference resolves within the deployment package:
-       images/stage1-location-4-aemo-10-march-2021.jpg
-PASS — methodology video reference retained:
-       videos/elaine-sac-information-session.mp4
-PASS — 31 March video reference retained:
-       videos/31-march-2021-attended-observations.mp4
-PASS — evidence-card numbering updated through the Stage 2 section.
-PASS — navigation, canonical URL, document links and existing stable asset paths preserved.
+PASS — HTML parsed successfully.
+PASS — Canonical page filename remains nctp.html.
+PASS — Canonical URL remains https://lallalwindfarmrecord.com.au/nctp.html.
+PASS — Embedded video source resolves to videos/nctp-public-information-session-methodology.mp4.
+PASS — Previous “Open Public Information Session and Transcript” referral was removed from the revised section.
+PASS — HTML5 video includes controls, playsinline and metadata preloading.
+PASS — Video converted to MP4 with H.264 video and AAC audio for broad browser compatibility.
+PASS — Video fast-start metadata enabled for web playback.
+PASS — Page metadata and footer updated to v8.0.1 dated 29 July 2026.
+PASS — Existing navigation and primary document links preserved.
 
-DEPLOYMENT NOTE
+DEPLOYMENT FILES
 
-The package contains both retained video assets for completeness. Only sac.html and the new JPEG need to be changed in a repository where the v8.0.3 videos are already deployed.
+/nctp.html
+/videos/nctp-public-information-session-methodology.mp4
