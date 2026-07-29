@@ -1,9 +1,8 @@
-Lal Lal Wind Farm Record — SAC page v8.0.8
-29 July 2026
+Lal Lal Wind Farm Record — SAC page v8.0.9
 
 Changes
-- Clarified that the 11 June 2021 attended observations occurred after Stage 1 unattended compliance monitoring concluded on 13 May 2021.
-- Expressly recorded that no operational monitoring data from the Stage 1 monitoring period is available for comparison with the 11 June 2021 observations.
-- Identified the Yendon attended listening surveys included in Appendix D as records from a separate wind-farm section.
-- Clarified that the Stage 1 Elaine report contains no corresponding Yendon unattended monitoring data and that those surveys are not treated as Elaine compliance monitoring observations.
-- Updated page metadata and footer version to 8.0.8.
+- Corrected the evidence-card numbering so the documentary extracts run sequentially from 1 to 15.
+- Assigned the attended listening observation map the identifier “Figure 3 — Attended listening observation locations map”.
+- Added an internal anchor to Figure 3 and replaced the imprecise “map above” reference in the H18aa — Midland Highway evidence card with a direct clickable reference.
+- Added numbered headings to the supplementary-procedure and EPA Regulations evidence cards.
+- Updated page metadata and footer to version 8.0.9.

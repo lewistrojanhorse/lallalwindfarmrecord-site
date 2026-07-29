@@ -1,3 +1,3 @@
-fix(sac): clarify June and Yendon attended survey records
+fix(sac): correct evidence numbering and identify location map
 
-Record that the 11 June 2021 attended observations occurred after Elaine unattended compliance monitoring concluded on 13 May 2021 and have no corresponding Stage 1 monitoring data. Identify the Yendon attended surveys included in Appendix D, clarify that they concern a separate wind-farm section, and note that the Elaine report contains no corresponding Yendon monitoring data. Update the SAC page and deployment package to v8.0.8.
+Renumber the SAC evidence sequence consistently, identify the attended listening location map as Figure 3, and link the H18aa — Midland Highway observation directly to that figure. Add numbered headings to the supplementary evidence extracts and update the SAC page to v8.0.9.
