@@ -1,12 +1,14 @@
-feat(sac): add 10 March survey explanation video
+fix(sac): record development of AEMO analytical figures
 
-Add Gustaf Reuterswärd’s Public Information Session explanation relating to the
-10 March 2021 attended survey within the Location 4 — Horsehill Road evidence
-section.
+Explain that the original 10 March and 31 March analytical figures compared
+the Appendix D survey times with periods when the wind farm was not shown as
+producing electricity.
 
-Present the video with the Appendix D survey record and AEMO analytical
-comparison, and add documentary context, an accessible fallback link and an
-evidentiary-use note.
+Record that, following Gustaf Reuterswärd’s explanation during the Public
+Information Session, the figures were revised to also illustrate the one-hour
+AEDT and AEST relationship discussed during the session.
 
-Convert the supplied recording to a web-compatible MP4 and update the SAC page
-to v8.0.11 dated 30 July 2026.
+Clarify that the underlying AEMO production traces were not altered and that
+the added annotations assist documentary comparison only.
+
+Update the SAC page to v8.0.12 dated 30 July 2026.

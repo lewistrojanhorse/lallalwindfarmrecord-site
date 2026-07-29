@@ -1,12 +1,17 @@
-VALIDATION — SAC page v8.0.11
+VALIDATION — SAC page v8.0.12
 
 HTML parsed successfully: PASS.
-Version metadata, structured data and footer checked: PASS — v8.0.11 / 30 July 2026.
-Evidence item 6 insertion checked: PASS — new video is located within “Location 4 — Horsehill Road and 10 March 2021 timing”.
-Documentary introduction, caption and evidentiary-use note checked: PASS.
-Video fallback link checked: PASS.
-New video encoding checked: PASS — MP4 container, H.264 video, AAC audio, web fast-start enabled.
-New and page-specific packaged video/image assets checked: PASS.
-Existing evidence numbering and Figure 3 cross-reference retained: PASS.
+Version metadata and footer v8.0.12 / 30 July 2026: PASS.
+Analytical figure provenance panel present: PASS.
+Initial analytical figure purpose recorded: PASS.
+Post-session AEDT/AEST revision recorded: PASS.
+Underlying AEMO production traces unchanged: PASS.
+10 March figure caption revised: PASS.
+31 March figure caption revised: PASS.
+Packaged asset present: images/stage1-location-4-aemo-10-march-2021.jpg: PASS.
+Packaged asset present: videos/10-march-2021-location-4-explanation.mp4: PASS.
+Packaged asset present: videos/31-march-2021-attended-observations.mp4: PASS.
+Packaged asset present: videos/elaine-sac-information-session.mp4: PASS.
+Packaged asset present: videos/sac-why-subjective-listening-matters.mp4: PASS.
 
 Note: sac.html also references existing site-wide images, documents, CSS and JavaScript files that are not duplicated in this page-only deployment package. Those existing website assets must remain in place during deployment.

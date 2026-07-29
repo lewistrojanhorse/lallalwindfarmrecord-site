@@ -1,11 +1,15 @@
+FILE MANIFEST — SAC page v8.0.12
+
 sac.html
+images/stage1-location-4-aemo-10-march-2021.jpg
 videos/10-march-2021-location-4-explanation.mp4
 videos/31-march-2021-attended-observations.mp4
 videos/elaine-sac-information-session.mp4
 videos/sac-why-subjective-listening-matters.mp4
-images/stage1-location-4-aemo-10-march-2021.jpg
 CHANGELOG.txt
 COMMIT-MESSAGE.txt
 FILE-MANIFEST.txt
 UPDATE-INSTRUCTIONS.txt
 VALIDATION.txt
+
+This is a page-only deployment package. Existing site-wide CSS, JavaScript, documents and image assets remain in place.
