@@ -1,21 +1,16 @@
-NCTP PAGE VALIDATION RECORD
-Release: v8.0.1
-Date: 29 July 2026
+SAC PAGE v8.0.5 — VALIDATION
 
-CHECKS COMPLETED
+PASS — HTML parses
+PASS — Version metadata v8.0.5
+PASS — New section anchor present
+PASS — Stage 1 anchor present
+PASS — New video reference present
+PASS — New video file present
+PASS — NCTP cross-link present
+PASS — NZS cross-link present
 
-PASS — HTML parsed successfully.
-PASS — Canonical page filename remains nctp.html.
-PASS — Canonical URL remains https://lallalwindfarmrecord.com.au/nctp.html.
-PASS — Embedded video source resolves to videos/nctp-public-information-session-methodology.mp4.
-PASS — Previous “Open Public Information Session and Transcript” referral was removed from the revised section.
-PASS — HTML5 video includes controls, playsinline and metadata preloading.
-PASS — Video converted to MP4 with H.264 video and AAC audio for broad browser compatibility.
-PASS — Video fast-start metadata enabled for web playback.
-PASS — Page metadata and footer updated to v8.0.1 dated 29 July 2026.
-PASS — Existing navigation and primary document links preserved.
-
-DEPLOYMENT FILES
-
-/nctp.html
-/videos/nctp-public-information-session-methodology.mp4
+Manual deployment checks:
+- Confirm all three embedded videos play after upload.
+- Confirm the direct Stage 1 link scrolls to the Elaine documentary record.
+- Confirm the three-column reading pathway collapses to one column on mobile.
+- Confirm existing images and document links resolve in the live repository.
