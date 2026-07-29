@@ -1,35 +1,23 @@
-LAL LAL WIND FARM RECORD — VALIDATION RECORD
-Release: v8.0.3
+LAL LAL WIND FARM RECORD — SAC PAGE VALIDATION
+Release: v8.0.4
 Date: 29 July 2026
 
-HTML AND STRUCTURE
+VALIDATION COMPLETED
 
 PASS — sac.html parsed successfully as HTML.
-PASS — Existing page filename preserved as sac.html.
-PASS — Existing canonical URL preserved:
-       https://lallalwindfarmrecord.com.au/sac.html
-PASS — Existing navigation, source-document links and image paths preserved.
-PASS — Structured-data release version updated to v8.0.3.
-PASS — Footer record version updated to v8.0.3.
+PASS — page title and canonical SAC page structure retained.
+PASS — page metadata and footer identify v8.0.4 and 29 July 2026.
+PASS — revised Stage 1 wording identifies the only recorded survey dates for K15aa, H18aa and L18aa.
+PASS — Location 4 — Horsehill Road evidence card is present after the Stage 1 monitoring-period card.
+PASS — new image reference resolves within the deployment package:
+       images/stage1-location-4-aemo-10-march-2021.jpg
+PASS — methodology video reference retained:
+       videos/elaine-sac-information-session.mp4
+PASS — 31 March video reference retained:
+       videos/31-march-2021-attended-observations.mp4
+PASS — evidence-card numbering updated through the Stage 2 section.
+PASS — navigation, canonical URL, document links and existing stable asset paths preserved.
 
-VIDEO PLACEMENT
+DEPLOYMENT NOTE
 
-PASS — videos/elaine-sac-information-session.mp4 is referenced once.
-PASS — methodology video is positioned after the NCTP SAC identification procedure and before NCTP reporting requirements.
-PASS — videos/31-march-2021-attended-observations.mp4 is referenced once.
-PASS — 31 March video is positioned immediately before the AEMO analytical reconstruction card.
-PASS — both video elements use controls, playsinline and metadata preloading.
-PASS — both video elements include browser fallback links.
-
-MEDIA FILES
-
-PASS — Elaine SAC information-session MP4 readable by ffprobe.
-       Duration: approximately 144.77 seconds.
-PASS — 31 March attended-observations MP4 readable by ffprobe.
-       Duration: approximately 64.20 seconds.
-PASS — 31 March MP4 encoded as H.264/AAC with browser fast-start metadata.
-
-DEPLOYMENT SCOPE
-
-PASS — package contains only the replacement page, required video assets and deployment records.
-PASS — no stylesheet, JavaScript, image, PDF, navigation or other repository file is replaced.
+The package contains both retained video assets for completeness. Only sac.html and the new JPEG need to be changed in a repository where the v8.0.3 videos are already deployed.

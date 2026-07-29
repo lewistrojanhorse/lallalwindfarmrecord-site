@@ -1,7 +1,7 @@
-Reposition SAC methodology video and add 31 March explanation
+Clarify Stage 1 survey record and add Location 4 AEMO comparison
 
-- move the SLR methodology excerpt beneath the NCTP SAC procedure
-- separate general methodology from the Stage 1 chronology
-- add the 31 March 2021 attended-observations excerpt above the AEMO graph
-- retain the transcript pathway for the timing explanation
-- update the SAC page to v8.0.3
+- state that the four recorded dates are the only attended surveys for K15aa, H18aa and L18aa in the Stage 1 report
+- add Location 4 — Horsehill Road as the only additional Elaine survey location
+- add the annotated 10 March 2021 AEMO and daylight-saving comparison
+- update the documentary comparison table and evidence-card numbering
+- update the SAC page to v8.0.4
