@@ -1,37 +1,5 @@
-LAL LAL WIND FARM RECORD
-Special Audible Characteristics — Validation Summary
-
-Package version: v8.0.1
-
-Included files:
-- sac.html
-- documents/gustaf-peer-review-noise-compliance-assessment-10-april-2014.pdf
-- images/gustaf-peer-review-sac-methodology-2014.png
-
-Update:
-- added an Earlier peer-review methodology section
-- recorded targeted conditions when SACs are more likely to occur
-- recorded the peer review's observations about transparency and independent verification
-- presented the earlier document as professional methodological context, not as a determination of later Lal Lal assessments
-- added the exact rendered page from the supplied PDF as documentary evidence
-- added the full peer-review PDF to the source-document list
-- preserved existing page structure, navigation, canonical URL and documentary chronology
-
-Validation:
-- release marker updated to v8.0.1: PASS
-- structured-data version updated: PASS
-- footer version updated: PASS
-- peer-review section added: PASS
-- targeted SAC conditions described: PASS
-- transparency wording included: PASS
-- independent verification wording included: PASS
-- peer-review PDF linked: PASS
-- rendered source image linked: PASS
-- source-document list updated: PASS
-- canonical URL preserved: PASS
-- navigation and existing anchors preserved: PASS
-- PDF included: PASS
-- source-render image included: PASS
-
-- Peer-review PDF SHA-256: 6abf8d34b3394556fa70d1821d82255b1ac8cfef7761b5c999b4357cc1b6934e
-- Rendered evidence image SHA-256: 692bb844b63704d37ce180b5b55a91503e66471410d3cf6bbe4e1d0ed6f26350
+VALIDATION SUMMARY
+- Updated only sac.html.
+- Removed unverified attribution of the 10 April 2014 peer review to Gustaf Reuterswärd where authorship was asserted.
+- Replaced with neutral documentary wording.
+- Preserved filenames, links, structure and navigation.
