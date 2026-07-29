@@ -1,8 +1,8 @@
-Lal Lal Wind Farm Record — SAC page v8.0.10
+Lal Lal Wind Farm Record — SAC page v8.0.11
 
 Changes
-- Expanded the documentary context accompanying Gustaf Reuterswärd’s explanation that some attended surveys were not included after review of the operational record.
-- Placed that explanation expressly alongside the Stage 1 Appendix D observations dated 10 March 2021 and 31 March 2021 so readers may compare the approved methodology, the observations reproduced in the report and the stated basis for survey inclusion or omission.
-- Revised the video documentary-use note to identify its relationship to the approved NCTP and the Stage 1 attended-observation record.
-- Preserved the sequential evidence numbering, Figure 3 identification and internal cross-reference introduced in v8.0.9.
-- Updated page metadata and footer to version 8.0.10.
+- Added the Public Information Session video concerning the 10 March 2021 attended survey to evidence item 6, “Location 4 — Horsehill Road and 10 March 2021 timing”.
+- Positioned Gustaf Reuterswärd’s public explanation with the Appendix D survey entry and the existing AEMO analytical comparison so the documentary material can be considered together.
+- Added a documentary introduction, accessible embedded-video fallback, explanatory caption and evidentiary-use note.
+- Converted the supplied MOV recording to a web-compatible MP4 with H.264 video, AAC audio and fast-start metadata.
+- Updated page metadata and footer to version 8.0.11 dated 30 July 2026.

@@ -1,3 +1,12 @@
-fix(sac): clarify attended survey inclusion record
+feat(sac): add 10 March survey explanation video
 
-Place Gustaf Reuterswärd’s public explanation of omitted attended surveys alongside the 10 March and 31 March 2021 observations reproduced in Stage 1 Appendix D. Clarify the documentary purpose of the video so readers can compare the approved NCTP methodology, the observations included in the Stage 1 report and the stated basis upon which some surveys were included or omitted. Update the SAC page to v8.0.10.
+Add Gustaf Reuterswärd’s Public Information Session explanation relating to the
+10 March 2021 attended survey within the Location 4 — Horsehill Road evidence
+section.
+
+Present the video with the Appendix D survey record and AEMO analytical
+comparison, and add documentary context, an accessible fallback link and an
+evidentiary-use note.
+
+Convert the supplied recording to a web-compatible MP4 and update the SAC page
+to v8.0.11 dated 30 July 2026.
