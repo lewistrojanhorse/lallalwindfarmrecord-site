@@ -1,10 +1,11 @@
-VALIDATION — SAC page v8.0.9
+VALIDATION — SAC page v8.0.10
 
 HTML parsed successfully: PASS.
 Version metadata and footer checked: PASS.
-NCTP reporting caption cross-reference checked: PASS — Gustaf Reuterswärd statement linked.
-Public-session spoken attribution checked: PASS — Gustaf Reuterswärd.
-Formal report and documentary attribution retained as SLR where applicable: PASS.
-New and page-specific packaged video/image assets checked: PASS.
+Agreed methodology comparison wording checked: PASS.
+Revised documentary-use note checked: PASS.
+Evidence numbering retained: PASS.
+Figure 3 anchor and cross-reference retained: PASS.
+Packaged video/image assets checked: PASS.
 
 Note: sac.html also references existing site-wide images and documents that are not duplicated in this page-only deployment package. Those existing website assets must remain in place during deployment.
