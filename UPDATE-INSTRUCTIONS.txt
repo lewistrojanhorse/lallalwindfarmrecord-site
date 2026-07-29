@@ -1,7 +1,7 @@
-Deployment instructions — SAC page v8.0.6
+Deployment instructions — SAC page v8.0.7
 
 1. Upload sac.html to the website root, replacing the current sac.html.
 2. Upload the videos directory and its three files if they are not already deployed.
 3. Upload the images directory and its file if it is not already deployed.
 4. Preserve the existing documents directory and all other website assets referenced by sac.html.
-5. Clear any site or CDN cache and confirm the page displays Record Version 8.0.6.
+5. Clear any site or CDN cache and confirm the page displays Record Version 8.0.7.

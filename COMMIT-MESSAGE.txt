@@ -1,3 +1,3 @@
-fix(sac): attribute public-session statements to Gustaf Reuterswärd
+fix(sac): link NCTP reporting extract to omitted attended surveys
 
-Replace corporate attribution of spoken Public Information Session statements with attribution to Gustaf Reuterswärd, while retaining SLR attribution for formal reports and documentary records. Update the SAC page and deployment package to v8.0.6.
+Revise the caption beneath the NCTP attended-observation reporting extract to direct readers to Gustaf Reuterswärd's explanation that some attended surveys were not included in the final report. Update the SAC page and deployment package to v8.0.7.

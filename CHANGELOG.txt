@@ -1,8 +1,7 @@
-Lal Lal Wind Farm Record — SAC page v8.0.6
+Lal Lal Wind Farm Record — SAC page v8.0.7
 29 July 2026
 
-Changes from v8.0.5
-- Corrected attribution of spoken statements made during the Public Information Session.
-- Public-session explanations and quotations are now attributed to Gustaf Reuterswärd.
-- SLR attribution is retained for formal reports, appendices and other corporate documentary records.
-- Updated page metadata and footer version to 8.0.6.
+Changes from v8.0.6
+- Revised the caption beneath the NCTP attended-observation reporting extract.
+- Linked the reporting requirement directly to Gustaf Reuterswärd's explanation that some attended surveys were not included in the final report.
+- Updated page metadata and footer version to 8.0.7.
