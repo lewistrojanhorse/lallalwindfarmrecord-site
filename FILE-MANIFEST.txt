@@ -1,12 +1,10 @@
-LAL LAL WIND FARM RECORD — SAC v8.0.5 FILE MANIFEST
-
+sac.html
+videos/31-march-2021-attended-observations.mp4
+videos/elaine-sac-information-session.mp4
+videos/sac-why-subjective-listening-matters.mp4
+images/stage1-location-4-aemo-10-march-2021.jpg
 CHANGELOG.txt
 COMMIT-MESSAGE.txt
 FILE-MANIFEST.txt
 UPDATE-INSTRUCTIONS.txt
 VALIDATION.txt
-images/stage1-location-4-aemo-10-march-2021.jpg
-sac.html
-videos/31-march-2021-attended-observations.mp4
-videos/elaine-sac-information-session.mp4
-videos/sac-why-subjective-listening-matters.mp4

@@ -1,17 +1,8 @@
-SAC PAGE — CHANGELOG
+Lal Lal Wind Farm Record — SAC page v8.0.6
+29 July 2026
 
-v8.0.5 — 29 July 2026
-- Added a new early-page section: “Why subjective attended listening matters”.
-- Embedded the SLR Public Information Session excerpt explaining:
-  * ears and the brain as acoustic instruments;
-  * subjective listening as the gateway to objective screening;
-  * the inability of objective screening to distinguish some wind turbine tones from other noise sources; and
-  * the resulting role of subjective screening.
-- Added carefully highlighted transcript extracts alongside the original video.
-- Added an explicit reading pathway linking SLR's explanation, the approved NCTP and the Elaine Stage 1 Appendix D records.
-- Added a direct anchor link to the Stage 1 Elaine documentary record.
-- Strengthened the “How to read this page” statement so the page is expressly read in conjunction with the governing framework, NZS 6808:2010, the NCTP page and primary source documents.
-- Updated structured metadata and footer to Record Version 8.0.5.
-
-v8.0.4 — 29 July 2026
-- Revised Stage 1 wording, added Location 4 evidence and the annotated 10 March 2021 AEMO comparison.
+Changes from v8.0.5
+- Corrected attribution of spoken statements made during the Public Information Session.
+- Public-session explanations and quotations are now attributed to Gustaf Reuterswärd.
+- SLR attribution is retained for formal reports, appendices and other corporate documentary records.
+- Updated page metadata and footer version to 8.0.6.
