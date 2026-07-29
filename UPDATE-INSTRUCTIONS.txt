@@ -1,7 +1,11 @@
-UPDATE INSTRUCTIONS — SAC page v8.0.12
+DEPLOYMENT INSTRUCTIONS
 
-1. Upload sac.html to the website root, replacing the existing sac.html.
-2. Upload the packaged images and videos folders with their existing paths.
-3. Preserve all other existing site-wide files, documents, images, style.css and site.js.
-4. Clear any server or CDN cache and confirm the page reports Record Version 8.0.12.
-5. Confirm both AEMO figure sections display the revised provenance wording.
+Release: v8.1.0
+Date: 30 July 2026
+
+1. Back up the current website root.
+2. Upload the contents of this folder to the website root, preserving filenames.
+3. Replace the corresponding root HTML, CSS, JavaScript, sitemap and robots files.
+4. Do not delete or replace existing images/, videos/ or documents/ directories; this is a root-file update package only.
+5. Confirm index.html, record-status.html, sac.html and sitemap.xml load correctly.
+6. Re-submit sitemap.xml in the applicable search-console service after deployment.

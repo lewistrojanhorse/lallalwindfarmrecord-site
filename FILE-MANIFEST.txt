@@ -1,15 +1,41 @@
-FILE MANIFEST — SAC page v8.0.12
+LAL LAL WIND FARM RECORD — FILE MANIFEST
 
-sac.html
-images/stage1-location-4-aemo-10-march-2021.jpg
-videos/10-march-2021-location-4-explanation.mp4
-videos/31-march-2021-attended-observations.mp4
-videos/elaine-sac-information-session.mp4
-videos/sac-why-subjective-listening-matters.mp4
-CHANGELOG.txt
-COMMIT-MESSAGE.txt
-FILE-MANIFEST.txt
-UPDATE-INSTRUCTIONS.txt
-VALIDATION.txt
+Release: v8.1.0
+Date: 30 July 2026
 
-This is a page-only deployment package. Existing site-wide CSS, JavaScript, documents and image assets remain in place.
+CHANGELOG.txt	783 bytes	SHA-256 0fb3339117ce81c26ef4ae5b3d36b2580c102c9ba2fd622fdd853c39dd9a35e3
+COMMIT-MESSAGE.txt	497 bytes	SHA-256 6d92fe1731c5d8e067f7687d6fc5e3283f7431ca868168a0a8cc135d7619ec02
+UPDATE-INSTRUCTIONS.txt	552 bytes	SHA-256 0e51ddfabe8e694e1aa3c4120630abf68c26ce1d07c75e12bb279c8a0a88c024
+VERSION.txt	20 bytes	SHA-256 f9ae60b3d1c068bf35461011745be4722d268f42d9497066832164176091f7f3
+aeic.html	20895 bytes	SHA-256 e7c46ea9f8c83d5bfebd47176654b4d489569777f7b98788be4b890b1a6ae635
+agency-records.html	32079 bytes	SHA-256 d5c71942f5c82a6825d092ff1142d53f94b71734b9f450e34c68adb7390853b0
+chronology.html	44210 bytes	SHA-256 8e949303a77f701b2ed0991a0b2e1e93c99cfccdde10f115b2d508ca860d452e
+commissioning-final-turbine.html	53036 bytes	SHA-256 bf564cdd81b78bf91e6c77e34da464bfa9acfb577f8bf3fdf9f511672a38de5c
+contact.html	13839 bytes	SHA-256 e69b0a050bcadc6e111aac2336e680c3c95964aabd36e3cf7cc32478b35c8884
+documents.html	48631 bytes	SHA-256 5b072c5d1b21e12d10f633c63edaf69e537168421be665e6052ad0f6f2c29af9
+foi-decisions.html	35743 bytes	SHA-256 f4db855a50e02cef6443a14a89d5ac8932ecdb82765f7878fcaed032f2298138
+framework.html	22902 bytes	SHA-256 cfb453810202d827482e1aceef5e0b72aa4bd1ab269d1633d3c8788382f3ffbe
+glossary.html	45151 bytes	SHA-256 06ef2a2f4cc2b592af0f86ad7cdfa264031606345b43bc42c7e335d658a8a50d
+index.html	25665 bytes	SHA-256 de726c90f309d4952fedee41f0b331d16eddde0382d163a04ae3532e48451a81
+k15aa.html	42665 bytes	SHA-256 98b1640db51646879174e83aec2c895810775abb9a4dcb3865b6f91a9d3bd1d7
+key-issues.html	22738 bytes	SHA-256 8d66aec93ca1cb9a8f0409db4ffb7a65775c4c70f129727555607eb03c24643a
+key-project-dates.html	30075 bytes	SHA-256 5d92b5841469cbe45ede5ba47dfe74aadfc76e00d8208b1721e0d154d5e07dfe
+nctp.html	26781 bytes	SHA-256 58a67edcfa9e7ece3f18fb2308fb6d7f4955c979734fde0305ab18f1901e94dc
+noise-management-plan.html	25668 bytes	SHA-256 d1ff9e81396a7b6ce8f9c47e363b10de661155351c7c68c4908778097f58e3f2
+nzs6808.html	27958 bytes	SHA-256 b9ca1b484408e263ae126620a6951224790130950cf4b438564d0f701a3d57ab
+operational-correspondence.html	19462 bytes	SHA-256 9b19f4e841fbfac6f388a6b106d56db7ff7da5c6acbd5fa195e5e71f9a2c6f3c
+permit-amendment.html	28387 bytes	SHA-256 5baabd6324a31813997ef595586a6b1f079ad41ad71076395db9ace287b1f2d7
+pre-construction-acoustic-assessments.html	34154 bytes	SHA-256 dc0b233f5caa0daff5b7db5891eb7d457f962791056268a2fcbdc2ed365730f0
+record-status.html	24100 bytes	SHA-256 b0992ac4f737aa390d9d8cb25c9e50a79370705b98e399083802f9636689b6da
+record.html	22088 bytes	SHA-256 a3657b36f20e01369ad993ab8f4255c61765673d017c01636a3ac6bc99b1f2c8
+representative-monitoring.html	37730 bytes	SHA-256 104aab1bcd55a3868d90c7ec9280c8703d18912089f0730ddd8da2f6e8394fb1
+robots.txt	151 bytes	SHA-256 808217c03a2ed7eb3273f40baa0948ae0931f82b5815504834d5754f10ca4517
+sac.html	57692 bytes	SHA-256 ce0616d3e0e1a1741c21d1174c4d052370835cac76ceb0f9d049a0bec2abe5d4
+site.js	9929 bytes	SHA-256 2faa42d8452b6b086881bc5517de28d351204d16f25091b534e3b488b7629c0e
+sitemap.xml	3149 bytes	SHA-256 7a7cd3d2829765dd6198262f7c7a7a15de3c3406795a978d9e5c2d9a6eef9439
+sonus-pre-construction-noise-assessment.html	28021 bytes	SHA-256 76c83f88a7ff6cb711f3cfeef8858a907334d96233bfaab7ee79d7fe0d6bb718
+start-here.html	20187 bytes	SHA-256 8a8f18509ac583d48366814c9538abfbfbcf62b6ca4a0cc8d9c97bb11e338abb
+style.css	25897 bytes	SHA-256 38e89f3dc533069cf2feb3f82ea00ec23f17fd3aa674ac6746418db2a0f21ce8
+technical-reports.html	50091 bytes	SHA-256 df3afb9904ce613669883b9b3c2473b22b573444de3c41e8cbcad0771e36b82a
+understanding-the-record.html	26569 bytes	SHA-256 43b623b946acd5d3f0c88f6cdf36fe119f01c4028dcca168672fd9e8285b7db9
+verification.html	22703 bytes	SHA-256 829a314a908c08c10529621970c8a6141c645f96e228cd2469a6e9ed76f4de32
