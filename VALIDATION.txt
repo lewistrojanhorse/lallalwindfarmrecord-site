@@ -1,30 +1,35 @@
 LAL LAL WIND FARM RECORD — VALIDATION RECORD
-Release: v8.0.2
+Release: v8.0.3
 Date: 29 July 2026
 
-PACKAGE CONTENT CHECK
-PASS — sac.html is present.
-PASS — videos/elaine-sac-information-session.mp4 is present.
-PASS — the HTML video source path exactly matches the packaged video path.
-PASS — the HTML contains an MP4 source type and a fallback link.
-PASS — structured-data release version is v8.0.2.
-PASS — structured-data dateModified is 2026-07-29.
-PASS — footer record version is 8.0.2 and date is 29 July 2026.
+HTML AND STRUCTURE
 
-VIDEO CHECK
-Container/file type: MP4
-File size: 6140094 bytes
-Duration reported by ffprobe: 144.766667 seconds
+PASS — sac.html parsed successfully as HTML.
+PASS — Existing page filename preserved as sac.html.
+PASS — Existing canonical URL preserved:
+       https://lallalwindfarmrecord.com.au/sac.html
+PASS — Existing navigation, source-document links and image paths preserved.
+PASS — Structured-data release version updated to v8.0.3.
+PASS — Footer record version updated to v8.0.3.
 
-INTEGRITY HASHES (SHA-256)
-sac.html
-a488d7295be75f1e3a73a9aa44a4b5a5cacf5369963ff201b05a50a149dc1d8b
+VIDEO PLACEMENT
 
-videos/elaine-sac-information-session.mp4
-4eec07d9b66ea5947a84bc814d113cd835c8b3e9d32385fd93e0d0d0bf80a612
+PASS — videos/elaine-sac-information-session.mp4 is referenced once.
+PASS — methodology video is positioned after the NCTP SAC identification procedure and before NCTP reporting requirements.
+PASS — videos/31-march-2021-attended-observations.mp4 is referenced once.
+PASS — 31 March video is positioned immediately before the AEMO analytical reconstruction card.
+PASS — both video elements use controls, playsinline and metadata preloading.
+PASS — both video elements include browser fallback links.
 
-SCOPE NOTE
-This is a targeted update package rather than a full repository build. References in sac.html to existing site assets—such as style.css, site.js, images and documents—were intentionally preserved and are expected to resolve from the existing deployed repository.
+MEDIA FILES
 
-POST-DEPLOYMENT CHECK REQUIRED
-Browser-level checking on the live site remains necessary to confirm playback, responsive layout and resolution of existing repository assets in the production environment.
+PASS — Elaine SAC information-session MP4 readable by ffprobe.
+       Duration: approximately 144.77 seconds.
+PASS — 31 March attended-observations MP4 readable by ffprobe.
+       Duration: approximately 64.20 seconds.
+PASS — 31 March MP4 encoded as H.264/AAC with browser fast-start metadata.
+
+DEPLOYMENT SCOPE
+
+PASS — package contains only the replacement page, required video assets and deployment records.
+PASS — no stylesheet, JavaScript, image, PDF, navigation or other repository file is replaced.

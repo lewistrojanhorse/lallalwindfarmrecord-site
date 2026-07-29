@@ -1,8 +1,7 @@
-Update SAC page with embedded SLR information-session evidence
+Reposition SAC methodology video and add 31 March explanation
 
-- embed web-optimised Elaine SAC information-session excerpt
-- place public explanation beside Stage 1 documentary chronology
-- link later SAC timing discussion to embedded video
-- correct near-turbine observation statement in verification table
-- clarify comparison between mandatory NCTP requirements and reported observations
-- update SAC page to v8.0.2
+- move the SLR methodology excerpt beneath the NCTP SAC procedure
+- separate general methodology from the Stage 1 chronology
+- add the 31 March 2021 attended-observations excerpt above the AEMO graph
+- retain the transcript pathway for the timing explanation
+- update the SAC page to v8.0.3
