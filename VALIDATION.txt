@@ -1,12 +1,14 @@
-LAL LAL WIND FARM RECORD — VALIDATION
-
-Release: v8.1.0
+VALIDATION SUMMARY
+Release: v8.1.1
 Date: 30 July 2026
 
-HTML pages checked: 28
-Sitemap lastmod entries checked: 28
-Root-page link references checked: no missing targets
-
-Result: PASS
-
-No metadata, JSON-LD, sitemap or root-page link consistency errors were identified. References to images/, videos/ and documents/ were preserved and were not treated as missing because this is a root-file update package.
+Checks completed:
+- Both HTML files parsed successfully.
+- JSON-LD release metadata updated to v8.1.1 / 8.1.1.
+- dateModified set to 2026-07-30.
+- Visible footer release updated to Record Version 8.1.1.
+- Home page includes latest-notice and administrative-development pathways.
+- Operational Correspondence includes the response-period status section.
+- Internal cross-links are present.
+- PDF source-document path exists in the package.
+- Existing URLs, navigation and unrelated content preserved.

@@ -1,17 +1,6 @@
-LAL LAL WIND FARM RECORD — CHANGELOG
+v8.1.1 — 30 July 2026
 
-Release: v8.1.0
-Date: 30 July 2026
-
-Repository-wide version-status reconciliation.
-
-Changes
-- Reconciled all 28 supplied HTML pages to repository release v8.1.0.
-- Updated JSON-LD data-seo-release attributes to v8.1.0.
-- Updated JSON-LD version values to 8.1.0.
-- Updated JSON-LD dateModified values to 2026-07-30.
-- Updated visible page footers to Record Version 8.1.0 / 30 July 2026.
-- Added the current release entry to record-status.html while preserving the earlier Version 6.6 history.
-- Updated every sitemap lastmod value to 2026-07-30.
-- Added repository release comments to style.css, site.js, robots.txt and sitemap.xml.
-- Preserved page content, canonical URLs, navigation, anchors and page-specific component/version identifiers.
+- Published the Notice — Crystallised Administrative Position dated 21 July 2026.
+- Recorded conclusion of the seven-business-day response period on 30 July 2026.
+- Added neutral documentary wording to the home page and Operational Correspondence page.
+- Preserved the ability to incorporate any later substantive response.

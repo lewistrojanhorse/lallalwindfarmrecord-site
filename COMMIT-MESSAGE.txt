@@ -1,10 +1,15 @@
-chore(release): reconcile repository status to v8.1.0
+feat(record): publish operator notice response-period status
 
-Update all supplied HTML pages and root configuration files to the common
-repository release v8.1.0 dated 30 July 2026.
+Add the 21 July 2026 Notice — Crystallised Administrative Position to the
+public website and record that its seven-business-day response period concluded
+on 30 July 2026.
 
-Reconcile JSON-LD release metadata, version values, dateModified fields,
-visible record-version footers and sitemap lastmod dates. Add the current
-repository release entry to the Record Status page while preserving earlier
-documentary version history, page content, stable URLs and page-specific
-development identifiers.
+Add a documentary status section to Operational Correspondence, including the
+notice chronology, response-period table and source-document link. Add matching
+home-page summaries within Latest Notices and Administrative Developments.
+
+State neutrally that the procedural opportunity identified in the Notice has
+elapsed, without treating that event as a legal or compliance determination,
+and preserve the record's ability to incorporate any later substantive response.
+
+Update the affected pages to v8.1.1 dated 30 July 2026.
