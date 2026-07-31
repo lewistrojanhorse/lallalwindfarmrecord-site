@@ -1,17 +1,17 @@
-feat(record): publish completion of operator procedural opportunity
+feat(record): publish redacted 2024 shadow flicker email response
 
-Update the home page and Operational Correspondence record to include the
-Trustee's 31 July 2026 Notice — Completion of Procedural Opportunity.
+Update the Shadow Flicker documentary record to publish the supplied redacted
+2 October 2024 LLWF email extract concerning modelling at J14aa.
 
-Replace the earlier response-period status with the completed procedural record.
-State that the opportunity afforded by the 21 July 2026 Notice had concluded
-and that, as at 31 July 2026, no substantive response had been received
-identifying additional documentary material, an authorising document or a
-documentary explanation relevant to the matters raised.
+Replace the earlier source-pending notice with the redacted primary-source
+image and retain a neutral summary of LLWF's statement that J14aa showed less
+than 10 hours per year under a stated “realistic case” using Vestas V136-3.8MW
+turbines and referring to a GHD assessment completed in 2017.
 
-Record that the Trustee will proceed on the documentary record as presently
-reconciled while preserving its willingness to consider relevant material
-identified later.
+Present that response alongside the later formal LLWF statement that modelling
+indicated zero hours at the dwelling under a worst-case scenario, without
+attempting to reconcile the two documentary positions.
 
-Add links to both Notices, correct invalid generated class_ attributes and
-update the affected pages to v8.1.2 dated 31 July 2026.
+Exclude the earlier unredacted EML file from the deployment package. Update the
+Shadow Flicker page to v8.1.5 dated 1 August 2026 and correct the malformed
+version value inherited from the previous page build.

@@ -1,9 +1,11 @@
-Lal Lal Wind Farm Record — v8.1.4 — 1 August 2026
+Lal Lal Wind Farm Record — v8.1.5 — 1 August 2026
 
-- Added shadow-flicker.html as a dedicated chronological documentary record.
-- Added selected planning-assessment extracts, location map and Beneficiary MP4.
-- Added published 2025 and 2026 incident correspondence and Trustee clarification request.
-- Summarised relevant 2024 email content without publishing the unredacted email.
-- Added cross-links from index.html, operational-correspondence.html and documents.html.
-- Added Shadow Flicker to desktop/mobile navigation and sitemap.xml.
-- Updated changed page metadata, JSON-LD, visible footer version/date and corrected class_ defects.
+Targeted Shadow Flicker page update
+
+- Published the redacted 2 October 2024 LLWF email extract concerning shadow flicker modelling at J14aa.
+- Replaced the prior source-pending notice with the supplied redacted documentary exhibit.
+- Preserved the neutral summary of LLWF's stated “realistic case” position of less than 10 hours per year at J14aa.
+- Retained the later formal operator statement of zero modelled hours under a worst-case scenario without attempting to reconcile the two records.
+- Confirmed that the earlier unredacted EML file is not included in the deployment package.
+- Updated shadow-flicker.html metadata and visible footer to v8.1.5 dated 1 August 2026.
+- Corrected the malformed visible/JSON-LD version value inherited from the previous page build.

@@ -1,154 +1,25 @@
-Lal Lal Wind Farm Record — v8.1.4 Validation
+VALIDATION — Lal Lal Wind Farm Record v8.1.5
 Date: 1 August 2026
 
-RESULT: PASS
+PASS — Updated HTML present
+PASS — New redacted exhibit present
+PASS — New redacted exhibit linked
+PASS — Unredacted EML excluded from work tree
+PASS — SEO release v8.1.5
+PASS — JSON-LD version 8.1.5
+PASS — JSON-LD dateModified 2026-08-01
+PASS — Visible footer version 8.1.5
+PASS — Invalid class_ attributes absent
+PASS — Prior source-pending wording removed
+PASS — Redacted source status recorded
+PASS — HTML asset/link attributes populated
 
-Scope
-- Incremental deployment based on the v8.1.3 blade-removal package.
-- Added a dedicated Shadow Flicker documentary page and updated navigation/cross-links.
-- Included only selected documentary extracts, the web-compatible video and source PDFs required by the new page.
+Incremental deployment contents:
+- shadow-flicker.html
+- images/shadow-flicker/LLWF-shadow-flicker-email-response-2-October-2024-redacted.jpg
+- CHANGELOG.txt
+- COMMIT-MESSAGE.txt
+- VALIDATION.txt
 
-Privacy and publication control
-- The unredacted LLWF Shadow Flicker .eml file is NOT included.
-- Personal addresses from that unredacted email are NOT reproduced in the HTML.
-- Relevant substantive content is summarised pending a later redacted source version.
-
-Checks completed
-- [PASS] Asset present: images/shadow-flicker/Jacobs-permit-amendment-front-page-2016.jpg
-- [PASS] Asset present: images/shadow-flicker/GHD-shadow-flicker-modelling-parameters.jpg
-- [PASS] Asset present: images/shadow-flicker/GHD-shadow-flicker-receptor-table-J14aa.jpg
-- [PASS] Asset present: images/shadow-flicker/J13aa-J14aa-ESWT23-ESWT24-location-context.jpg
-- [PASS] Asset present: images/shadow-flicker/LLWF-formal-shadow-flicker-response-extract-1.jpg
-- [PASS] Asset present: images/shadow-flicker/LLWF-formal-shadow-flicker-response-extract-2.jpg
-- [PASS] Asset present: videos/beneficiary-shadow-flicker-recording.mp4
-- [PASS] Asset present: documents/shadow-flicker/LLWF-Incident-Shadow-Flicker-21-23-June-2025.pdf
-- [PASS] Asset present: documents/shadow-flicker/Shadow-Flicker-Incidents-June-July-2026.pdf
-- [PASS] Asset present: documents/shadow-flicker/Administrative-Clarification-Request-Shadow-Flicker-26-July-2026.pdf
-- [PASS] record.html: parses as HTML
-- [PASS] record.html: no class_ defect
-- [PASS] record.html: v8.1.4 metadata
-- [PASS] record.html: Shadow Flicker navigation
-- [PASS] nzs6808.html: parses as HTML
-- [PASS] nzs6808.html: no class_ defect
-- [PASS] nzs6808.html: v8.1.4 metadata
-- [PASS] nzs6808.html: Shadow Flicker navigation
-- [PASS] chronology.html: parses as HTML
-- [PASS] chronology.html: no class_ defect
-- [PASS] chronology.html: v8.1.4 metadata
-- [PASS] chronology.html: Shadow Flicker navigation
-- [PASS] sonus-pre-construction-noise-assessment.html: parses as HTML
-- [PASS] sonus-pre-construction-noise-assessment.html: no class_ defect
-- [PASS] sonus-pre-construction-noise-assessment.html: v8.1.4 metadata
-- [PASS] sonus-pre-construction-noise-assessment.html: Shadow Flicker navigation
-- [PASS] key-project-dates.html: parses as HTML
-- [PASS] key-project-dates.html: no class_ defect
-- [PASS] key-project-dates.html: v8.1.4 metadata
-- [PASS] key-project-dates.html: Shadow Flicker navigation
-- [PASS] commissioning-final-turbine.html: parses as HTML
-- [PASS] commissioning-final-turbine.html: no class_ defect
-- [PASS] commissioning-final-turbine.html: v8.1.4 metadata
-- [PASS] commissioning-final-turbine.html: Shadow Flicker navigation
-- [PASS] documents.html: parses as HTML
-- [PASS] documents.html: no class_ defect
-- [PASS] documents.html: v8.1.4 metadata
-- [PASS] documents.html: Shadow Flicker navigation
-- [PASS] k15aa.html: parses as HTML
-- [PASS] k15aa.html: no class_ defect
-- [PASS] k15aa.html: v8.1.4 metadata
-- [PASS] k15aa.html: Shadow Flicker navigation
-- [PASS] record-status.html: parses as HTML
-- [PASS] record-status.html: no class_ defect
-- [PASS] record-status.html: v8.1.4 metadata
-- [PASS] record-status.html: Shadow Flicker navigation
-- [PASS] index.html: parses as HTML
-- [PASS] index.html: no class_ defect
-- [PASS] index.html: v8.1.4 metadata
-- [PASS] index.html: Shadow Flicker navigation
-- [PASS] contact.html: parses as HTML
-- [PASS] contact.html: no class_ defect
-- [PASS] contact.html: v8.1.4 metadata
-- [PASS] contact.html: Shadow Flicker navigation
-- [PASS] agency-records.html: parses as HTML
-- [PASS] agency-records.html: no class_ defect
-- [PASS] agency-records.html: v8.1.4 metadata
-- [PASS] agency-records.html: Shadow Flicker navigation
-- [PASS] aeic.html: parses as HTML
-- [PASS] aeic.html: no class_ defect
-- [PASS] aeic.html: v8.1.4 metadata
-- [PASS] aeic.html: Shadow Flicker navigation
-- [PASS] permit-amendment.html: parses as HTML
-- [PASS] permit-amendment.html: no class_ defect
-- [PASS] permit-amendment.html: v8.1.4 metadata
-- [PASS] permit-amendment.html: Shadow Flicker navigation
-- [PASS] shadow-flicker.html: parses as HTML
-- [PASS] shadow-flicker.html: no class_ defect
-- [PASS] shadow-flicker.html: v8.1.4 metadata
-- [PASS] shadow-flicker.html: Shadow Flicker navigation
-- [PASS] sac.html: parses as HTML
-- [PASS] sac.html: no class_ defect
-- [PASS] sac.html: v8.1.4 metadata
-- [PASS] sac.html: Shadow Flicker navigation
-- [PASS] technical-reports.html: parses as HTML
-- [PASS] technical-reports.html: no class_ defect
-- [PASS] technical-reports.html: v8.1.4 metadata
-- [PASS] technical-reports.html: Shadow Flicker navigation
-- [PASS] representative-monitoring.html: parses as HTML
-- [PASS] representative-monitoring.html: no class_ defect
-- [PASS] representative-monitoring.html: v8.1.4 metadata
-- [PASS] representative-monitoring.html: Shadow Flicker navigation
-- [PASS] nctp.html: parses as HTML
-- [PASS] nctp.html: no class_ defect
-- [PASS] nctp.html: v8.1.4 metadata
-- [PASS] nctp.html: Shadow Flicker navigation
-- [PASS] noise-management-plan.html: parses as HTML
-- [PASS] noise-management-plan.html: no class_ defect
-- [PASS] noise-management-plan.html: v8.1.4 metadata
-- [PASS] noise-management-plan.html: Shadow Flicker navigation
-- [PASS] key-issues.html: parses as HTML
-- [PASS] key-issues.html: no class_ defect
-- [PASS] key-issues.html: v8.1.4 metadata
-- [PASS] key-issues.html: Shadow Flicker navigation
-- [PASS] operational-correspondence.html: parses as HTML
-- [PASS] operational-correspondence.html: no class_ defect
-- [PASS] operational-correspondence.html: v8.1.4 metadata
-- [PASS] operational-correspondence.html: Shadow Flicker navigation
-- [PASS] understanding-the-record.html: parses as HTML
-- [PASS] understanding-the-record.html: no class_ defect
-- [PASS] understanding-the-record.html: v8.1.4 metadata
-- [PASS] understanding-the-record.html: Shadow Flicker navigation
-- [PASS] blade-removal-processing.html: parses as HTML
-- [PASS] blade-removal-processing.html: no class_ defect
-- [PASS] blade-removal-processing.html: v8.1.4 metadata
-- [PASS] blade-removal-processing.html: Shadow Flicker navigation
-- [PASS] start-here.html: parses as HTML
-- [PASS] start-here.html: no class_ defect
-- [PASS] start-here.html: v8.1.4 metadata
-- [PASS] start-here.html: Shadow Flicker navigation
-- [PASS] glossary.html: parses as HTML
-- [PASS] glossary.html: no class_ defect
-- [PASS] glossary.html: v8.1.4 metadata
-- [PASS] glossary.html: Shadow Flicker navigation
-- [PASS] foi-decisions.html: parses as HTML
-- [PASS] foi-decisions.html: no class_ defect
-- [PASS] foi-decisions.html: v8.1.4 metadata
-- [PASS] foi-decisions.html: Shadow Flicker navigation
-- [PASS] pre-construction-acoustic-assessments.html: parses as HTML
-- [PASS] pre-construction-acoustic-assessments.html: no class_ defect
-- [PASS] pre-construction-acoustic-assessments.html: v8.1.4 metadata
-- [PASS] pre-construction-acoustic-assessments.html: Shadow Flicker navigation
-- [PASS] framework.html: parses as HTML
-- [PASS] framework.html: no class_ defect
-- [PASS] framework.html: v8.1.4 metadata
-- [PASS] framework.html: Shadow Flicker navigation
-- [PASS] Raw .eml not included in package
-- [PASS] Unredacted email address not reproduced
-- [PASS] Shadow page links all published new source assets
-- [PASS] Sitemap contains shadow-flicker.html
-- [PASS] Operational Correspondence cross-link present
-- [PASS] Document Library cross-link present
-- [PASS] Home page cross-link present
-- [PASS] Video codec H.264/AAC
-- [PASS] Video duration approximately 36.9 seconds
-
-Inherited repository note
-- This targeted package does not duplicate unchanged site-wide assets or historical documents already present in the deployed repository. Existing links to those baseline assets were preserved.
+Baseline repository dependencies referenced by the page (including style.css, site.js, logos and existing linked pages/assets) are intentionally not duplicated in this targeted deployment.
+The earlier unredacted LLWF Shadow Flicker.eml file is not included.
