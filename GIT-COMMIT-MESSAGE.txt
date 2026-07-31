@@ -1,9 +1,23 @@
-Add 2024 blade removal and processing documentary record
+feat(record): publish shadow flicker documentary record
 
-- add dedicated blade-removal-processing page
-- preserve July 2024 Beneficiary correspondence and photographs
-- add EPA pollution-report package, operator response and SWMS record
-- add FY24 Annual Statement reference
-- add Administrative navigation links and operational cross-reference
-- update document library and sitemap
-- release v8.1.3
+Add a dedicated Shadow Flicker page presenting the available record in
+chronological order: selected 2016–2017 assessment extracts, spatial context,
+one of the Beneficiary’s video recordings, historical 2024 operator responses,
+the 2025 incident reference, 2026 observation correspondence and the Trustee’s
+26 July 2026 administrative clarification request.
+
+Record LLWF’s separate modelled positions without attempting to reconcile them:
+less than 10 hours per year under a stated “realistic case”, and zero hours under
+a stated worst-case scenario.
+
+State the present documentary position that the supplied record contains earlier
+operator engagement but no substantive response to the Trustee’s July 2026
+clarification request or to the individual June–July 2026 notifications.
+
+Do not publish the unredacted historical email or its personal contact details;
+use only its relevant substantive content pending a redacted source version.
+
+Add links from the home page, Operational Correspondence, Document Library,
+desktop/mobile navigation and sitemap. Add the selected documentary images,
+web-compatible MP4 and published PDF exhibits. Update affected pages and
+repository navigation to v8.1.4 dated 1 August 2026.
