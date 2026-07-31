@@ -1,5 +1,34 @@
-VALIDATION SUMMARY
-- Updated only sac.html.
-- Removed unverified attribution of the 10 April 2014 peer review to Gustaf Reuterswärd where authorship was asserted.
-- Replaced with neutral documentary wording.
-- Preserved filenames, links, structure and navigation.
+VALIDATION SUMMARY - Lal Lal Wind Farm Record v8.1.3
+Date: 31 July 2026
+
+BUILD SCOPE
+- New page: blade-removal-processing.html
+- Added Blade Removal & Processing to desktop and mobile Administrative navigation across all supplied HTML pages.
+- Added a related-record section to operational-correspondence.html.
+- Added the three source-document entries to documents.html.
+- Added the new page to sitemap.xml.
+- Added four supplied documentary photographs and three supplied PDF source records.
+
+DOCUMENTARY CONTROLS
+- Historical July 2024 correspondence identified as Beneficiary correspondence predating the Trust.
+- EPA copied status stated as contemporaneous awareness only, not endorsement.
+- Operator statements identified as the operator's explanation.
+- No assertion that pollution occurred, EPA approved the works, or a breach was found.
+- Photograph captions remain descriptive and do not identify material composition.
+
+VALIDATION RESULTS
+- New page links to newly supplied assets: PASS
+- Four documentary image assets present: PASS
+- Three source PDFs present and non-empty: PASS
+- Desktop and mobile navigation insertion across supplied pages: PASS
+- Operational Correspondence cross-reference: PASS
+- Documents library entries: PASS
+- Sitemap entry and last-modified date: PASS
+- Canonical URL, metadata and JSON-LD for new page: PASS
+
+BASELINE REPOSITORY DEPENDENCIES
+- The incremental package intentionally does not duplicate unchanged repository assets such as style.css, site.js, images/lth-logo.png, favicon assets or verification.html.
+- These existing baseline files remain referenced and must remain in place during deployment.
+
+ISSUES
+- None identified.

@@ -1,1 +1,9 @@
-Remove unverified authorship attribution for 2014 peer review on SAC page
+Add 2024 blade removal and processing documentary record
+
+- add dedicated blade-removal-processing page
+- preserve July 2024 Beneficiary correspondence and photographs
+- add EPA pollution-report package, operator response and SWMS record
+- add FY24 Annual Statement reference
+- add Administrative navigation links and operational cross-reference
+- update document library and sitemap
+- release v8.1.3
