@@ -1,14 +1,13 @@
 VALIDATION SUMMARY
-Release: v8.1.1
-Date: 30 July 2026
+Release: v8.1.2
+Date: 31 July 2026
 
-Checks completed:
-- Both HTML files parsed successfully.
-- JSON-LD release metadata updated to v8.1.1 / 8.1.1.
-- dateModified set to 2026-07-30.
-- Visible footer release updated to Record Version 8.1.1.
-- Home page includes latest-notice and administrative-development pathways.
-- Operational Correspondence includes the response-period status section.
-- Internal cross-links are present.
-- PDF source-document path exists in the package.
-- Existing URLs, navigation and unrelated content preserved.
+- index.html parsed and rebuilt.
+- operational-correspondence.html parsed and rebuilt.
+- Invalid class_ attributes corrected.
+- JSON-LD release metadata updated to v8.1.2 / 8.1.2 / 2026-07-31.
+- Visible footers updated to Record Version 8.1.2 — 31 July 2026.
+- Home-page latest notice and administrative-development entries updated.
+- Operational Correspondence procedural section replaced with completed-status wording.
+- Links to both source Notices included.
+- Both PDFs included in the package.

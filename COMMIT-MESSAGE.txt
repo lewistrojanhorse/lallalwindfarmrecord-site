@@ -1,15 +1,17 @@
-feat(record): publish operator notice response-period status
+feat(record): publish completion of operator procedural opportunity
 
-Add the 21 July 2026 Notice — Crystallised Administrative Position to the
-public website and record that its seven-business-day response period concluded
-on 30 July 2026.
+Update the home page and Operational Correspondence record to include the
+Trustee's 31 July 2026 Notice — Completion of Procedural Opportunity.
 
-Add a documentary status section to Operational Correspondence, including the
-notice chronology, response-period table and source-document link. Add matching
-home-page summaries within Latest Notices and Administrative Developments.
+Replace the earlier response-period status with the completed procedural record.
+State that the opportunity afforded by the 21 July 2026 Notice had concluded
+and that, as at 31 July 2026, no substantive response had been received
+identifying additional documentary material, an authorising document or a
+documentary explanation relevant to the matters raised.
 
-State neutrally that the procedural opportunity identified in the Notice has
-elapsed, without treating that event as a legal or compliance determination,
-and preserve the record's ability to incorporate any later substantive response.
+Record that the Trustee will proceed on the documentary record as presently
+reconciled while preserving its willingness to consider relevant material
+identified later.
 
-Update the affected pages to v8.1.1 dated 30 July 2026.
+Add links to both Notices, correct invalid generated class_ attributes and
+update the affected pages to v8.1.2 dated 31 July 2026.

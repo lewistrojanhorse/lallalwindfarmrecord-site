@@ -1,6 +1,8 @@
-v8.1.1 — 30 July 2026
+v8.1.2 — 31 July 2026
 
-- Published the Notice — Crystallised Administrative Position dated 21 July 2026.
-- Recorded conclusion of the seven-business-day response period on 30 July 2026.
-- Added neutral documentary wording to the home page and Operational Correspondence page.
-- Preserved the ability to incorporate any later substantive response.
+- Updated the home page to feature the 31 July Completion Notice.
+- Replaced the interim response-period wording with the completed procedural record.
+- Updated Operational Correspondence with both the 21 July and 31 July Notices.
+- Recorded that no substantive response had been received as at 31 July 2026.
+- Recorded that the Trustee will proceed on the record as presently reconciled.
+- Corrected invalid generated class_ attributes.
