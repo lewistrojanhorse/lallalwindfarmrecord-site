@@ -1,12 +1,14 @@
 VALIDATION SUMMARY
-Release: v8.1.10 — 3 August 2026
+Release: v8.1.11 — 3 August 2026
 
 PASS — Updated sac.html created
-PASS — Video caption identifies roadside viewpoint towards J14aa
-PASS — Documentary-use note also identifies the viewpoint
-PASS — Video source retained
+PASS — Stage 2 map omission expressly recorded
+PASS — Reason for using later On / Off map stated
+PASS — Map caption explains the same basis
+PASS — Elaine Intermediate logger evidence retained
 PASS — Evidence numbering remains continuous 1–20
-PASS — Existing stable anchors retained
+PASS — Existing video location context retained
+PASS — Stable anchors retained
 PASS — SEO release updated
 PASS — JSON-LD version updated
 PASS — Visible footer updated
@@ -14,9 +16,7 @@ PASS — No class_ defects
 
 Scope:
 - Updated sac.html only.
-- Added location context to the public-information-session video caption.
-- Added the same context to the accompanying documentary-use note.
-- Preserved the video, page sequence, numbering, anchors, links and unrelated content.
-
-Documentary statement added:
-- The still image shown in the video was recorded from the roadside looking towards J14aa.
+- Clarified why the later On / Off Testing map is used for Elaine Intermediate.
+- Recorded that the Stage 2 Elaine map does not identify the location named “Elaine Intermediate”.
+- Added the same explanation to the map caption.
+- Preserved all existing evidence, sequencing, numbering, links, anchors and unrelated content.

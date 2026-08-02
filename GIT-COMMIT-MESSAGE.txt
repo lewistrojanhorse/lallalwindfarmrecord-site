@@ -1,12 +1,15 @@
-docs(sac): identify J14aa viewpoint shown in methodology video
+docs(sac): explain Elaine Intermediate map reference
 
-Update the caption for the SLR Public Information Session video concerning
-attended observations, near-turbine listening and Stage 1 reporting.
+Clarify why the later On / Off Testing map is used in the Elaine Intermediate
+evidence item.
 
-Record that the still image shown in the video was taken from the roadside
-looking towards J14aa, and repeat that location context in the accompanying
-documentary-use note.
+Record that the Stage 2 Elaine map reproduced in the report does not identify
+the location named “Elaine Intermediate”. Explain that the later On / Off
+Testing map is therefore used solely to show the approximate location of the
+named site and is not otherwise relied upon in the section.
 
-Preserve the existing video source, page sequence, evidence numbering, stable
-anchors, links and unrelated content. Update the SAC page to v8.1.10 dated
-3 August 2026.
+Add the same explanation to the map caption. Preserve the existing logger
+references, video location context, page sequence, evidence numbering, stable
+anchors and unrelated content.
+
+Update the SAC page to v8.1.11 dated 3 August 2026.

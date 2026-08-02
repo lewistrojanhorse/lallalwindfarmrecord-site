@@ -1,16 +1,17 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.1.10
+Release: v8.1.11
 Date: 3 August 2026
 
 Updated:
 - sac.html
 
-Public Information Session video:
-- Added location context to the caption for the attended-observation methodology video.
-- Recorded that the still image shown in the video was taken from the roadside looking towards J14aa.
-- Repeated that context in the associated documentary-use note so readers understand the visual location shown in the recording.
+Elaine Intermediate map context:
+- Clarified that the Stage 2 Elaine map does not identify the location named “Elaine Intermediate”.
+- Explained that the later On / Off Testing map is therefore used solely as a location reference.
+- Added the same clarification to the map caption.
+- Preserved the statement that the On / Off report is not otherwise relied upon in the section.
 
 Preserved:
-- Existing video source.
-- Page sequencing and evidence numbering.
-- Stable anchors, links and unrelated documentary content.
+- Existing logger references.
+- Existing video location context.
+- Page sequencing, evidence numbering 1–20, stable anchors and unrelated content.
