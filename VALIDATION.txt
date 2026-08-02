@@ -1,16 +1,22 @@
 VALIDATION SUMMARY
-Release: v8.1.9 — 3 August 2026
+Release: v8.1.10 — 3 August 2026
 
-PASS — Updated sac.html created.
-PASS — Elaine Intermediate heading updated.
-PASS — Two separate logger references recorded for 28 March and 12 May 2023.
-PASS — New combined documentary image included and referenced.
-PASS — Earlier single-observation image reference removed.
-PASS — Elaine Intermediate location map retained.
-PASS — Evidence numbering remains continuous from 1 to 20.
-PASS — Existing sequencing, anchors, links and unrelated content preserved.
-PASS — SEO metadata, JSON-LD version/date and visible footer updated.
-PASS — No class_ defects remain.
+PASS — Updated sac.html created
+PASS — Video caption identifies roadside viewpoint towards J14aa
+PASS — Documentary-use note also identifies the viewpoint
+PASS — Video source retained
+PASS — Evidence numbering remains continuous 1–20
+PASS — Existing stable anchors retained
+PASS — SEO release updated
+PASS — JSON-LD version updated
+PASS — Visible footer updated
+PASS — No class_ defects
 
-Documentary position:
-The updated evidence item records two dated references to a logger at Elaine Intermediate and draws no conclusion beyond the Stage 2 appendix entries.
+Scope:
+- Updated sac.html only.
+- Added location context to the public-information-session video caption.
+- Added the same context to the accompanying documentary-use note.
+- Preserved the video, page sequence, numbering, anchors, links and unrelated content.
+
+Documentary statement added:
+- The still image shown in the video was recorded from the roadside looking towards J14aa.

@@ -1,13 +1,12 @@
-feat(sac): expand Elaine Intermediate logger record
+docs(sac): identify J14aa viewpoint shown in methodology video
 
-Update the Elaine Intermediate evidence item to reflect two separate Stage 2
-attended-observation references to a logger at that location.
+Update the caption for the SLR Public Information Session video concerning
+attended observations, near-turbine listening and Stage 1 reporting.
 
-Replace the earlier single extract with the supplied combined image showing the
-28 March 2023 reference to turbines being inaudible at the logger location and
-the 12 May 2023 reference to a frog being found on the logger when the observer
-arrived.
+Record that the still image shown in the video was taken from the roadside
+looking towards J14aa, and repeat that location context in the accompanying
+documentary-use note.
 
-Change the heading to “Elaine Intermediate — two attended-observation
-references to a logger”, retain the location map, preserve sequencing and
-evidence numbering, and update the SAC page to v8.1.9 dated 3 August 2026.
+Preserve the existing video source, page sequence, evidence numbering, stable
+anchors, links and unrelated content. Update the SAC page to v8.1.10 dated
+3 August 2026.
