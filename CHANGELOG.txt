@@ -1,20 +1,11 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.1.8
-Date: 2 August 2026
+Release: v8.1.9
+Date: 3 August 2026
 
-Cumulative update:
-- Retains the undeployed v8.1.7 SAC sequencing reconciliation.
-- Adds the 28 March 2023 Stage 2 observation chronology and contemporaneous occupier record.
-
-Added:
-- Recorded Stage 2 sequence at H18aa, L18aa, K15aa and Elaine Intermediate.
-- Contemporaneous occupier screenshot timestamped 12:45 pm on 28 March 2023.
-- Neutral comparison between the 12:45 pm occupier record and the K15aa observation recorded from 12:30 pm to 1:00 pm.
-- Two new documentary images.
-
-Sequencing:
-- Stage 1 evidence remains followed by the related public explanation.
-- Stage 2 now proceeds through monitoring periods, appendix endpoint, 28 March chronology, 4 April travel chronology, and Elaine Intermediate.
-- All 20 evidence items have been renumbered consecutively.
-
-No unsupported finding has been added.
+Updated sac.html:
+- Replaced the earlier single Elaine Intermediate extract with a combined extract showing two separate Stage 2 references to a logger.
+- Updated the heading to “Elaine Intermediate — two attended-observation references to a logger”.
+- Recorded the 28 March 2023 reference to turbines being inaudible at the logger location.
+- Recorded the 12 May 2023 reference to a frog being found on the logger.
+- Retained the Elaine Intermediate location map.
+- Preserved sequencing, anchors and evidence numbering 1–20.

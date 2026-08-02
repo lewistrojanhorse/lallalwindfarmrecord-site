@@ -1,23 +1,13 @@
-feat(sac): add 28 March occupier record to Stage 2 chronology
+feat(sac): expand Elaine Intermediate logger record
 
-Retain the undeployed v8.1.7 sequencing reconciliation and add the 28 March
-2023 Stage 2 attended-observation sequence as a further chronological record.
+Update the Elaine Intermediate evidence item to reflect two separate Stage 2
+attended-observation references to a logger at that location.
 
-Reproduce the appendix entries for H18aa, L18aa, K15aa and Elaine Intermediate,
-including the recorded L18aa observation from 11:55 am to 12:15 pm and K15aa
-observation from 12:30 pm to 1:00 pm.
+Replace the earlier single extract with the supplied combined image showing the
+28 March 2023 reference to turbines being inaudible at the logger location and
+the 12 May 2023 reference to a frog being found on the logger when the observer
+arrived.
 
-Add the supplied contemporaneous occupier screenshot timestamped 12:45 pm,
-recording concern about a person entering the L18aa property without consent or
-notification. Present the screenshot beside the appendix extract so readers can
-compare the 12:45 pm occupier record with the period recorded for the K15aa
-observation.
-
-State expressly that the photograph does not independently identify the driver
-or establish who entered the property, and make no finding concerning access
-authority, compliance, professional conduct or whether the observations were
-undertaken as recorded.
-
-Preserve the existing 4 April 2023 travel-time comparison, keep the Elaine
-Intermediate observation and location map together, renumber all 20 evidence
-items consecutively, and update the SAC page to v8.1.8 dated 2 August 2026.
+Change the heading to “Elaine Intermediate — two attended-observation
+references to a logger”, retain the location map, preserve sequencing and
+evidence numbering, and update the SAC page to v8.1.9 dated 3 August 2026.
