@@ -1,17 +1,25 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.1.11
+Repository release: v8.1.11
 Date: 3 August 2026
 
-Updated:
-- sac.html
+Repository-wide reconciliation:
+- Reconciled all 30 supplied HTML pages to release v8.1.11.
+- Updated data-seo-release, JSON-LD version, JSON-LD dateModified and visible footer on every page.
+- Corrected malformed inherited version values such as “.1.4”.
+- Preserved canonical URLs, page titles, navigation, anchors and documentary content.
+- Confirmed that no invalid class_ attributes remain.
 
-Elaine Intermediate map context:
-- Clarified that the Stage 2 Elaine map does not identify the location named “Elaine Intermediate”.
-- Explained that the later On / Off Testing map is therefore used solely as a location reference.
-- Added the same clarification to the map caption.
-- Preserved the statement that the On / Off report is not otherwise relied upon in the section.
+Repository support files:
+- Updated style.css release header.
+- Updated site.js release header.
+- Added Blade Removal & Processing and Shadow Flicker to the site search index.
+- Updated robots.txt release header.
+- Rebuilt sitemap.xml with all 30 public pages and 3 August 2026 last-modified dates.
 
-Preserved:
-- Existing logger references.
-- Existing video location context.
-- Page sequencing, evidence numbering 1–20, stable anchors and unrelated content.
+Current substantive page states retained:
+- SAC page retained at its completed 3 August 2026 documentary state.
+- Shadow Flicker retained with the redacted 2 October 2024 operator email record.
+- Operational Correspondence retained with the completed operator procedural-opportunity record.
+- Blade Removal & Processing retained as the dedicated 2024 documentary chronology.
+
+No primary source document, image, video or evidentiary wording was rewritten in this repository reconciliation.

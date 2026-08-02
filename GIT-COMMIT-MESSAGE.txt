@@ -1,15 +1,22 @@
-docs(sac): explain Elaine Intermediate map reference
+chore(release): reconcile repository to v8.1.11
 
-Clarify why the later On / Off Testing map is used in the Elaine Intermediate
-evidence item.
+Reconcile the complete Lal Lal Wind Farm Record repository to v8.1.11 dated
+3 August 2026.
 
-Record that the Stage 2 Elaine map reproduced in the report does not identify
-the location named “Elaine Intermediate”. Explain that the later On / Off
-Testing map is therefore used solely to show the approximate location of the
-named site and is not otherwise relied upon in the section.
+Update all 30 HTML pages so their data-seo-release value, JSON-LD version,
+JSON-LD dateModified field and visible footer record a single consistent
+repository release.
 
-Add the same explanation to the map caption. Preserve the existing logger
-references, video location context, page sequence, evidence numbering, stable
-anchors and unrelated content.
+Correct malformed inherited version values, preserve canonical URLs and remove
+any invalid generated class_ attributes without altering the substantive
+documentary content of the pages.
 
-Update the SAC page to v8.1.11 dated 3 August 2026.
+Update the release headers in style.css, site.js and robots.txt. Expand the
+site search index to include the Blade Removal & Processing and Shadow Flicker
+pages.
+
+Rebuild sitemap.xml to include all 30 public pages with last-modified dates of
+2026-08-03.
+
+Preserve existing documentary wording, chronology, navigation, stable anchors,
+page-specific styling, source links and media references.

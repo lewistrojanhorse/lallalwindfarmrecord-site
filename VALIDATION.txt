@@ -1,22 +1,30 @@
 VALIDATION SUMMARY
-Release: v8.1.11 — 3 August 2026
+Repository release: v8.1.11 — 3 August 2026
 
-PASS — Updated sac.html created
-PASS — Stage 2 map omission expressly recorded
-PASS — Reason for using later On / Off map stated
-PASS — Map caption explains the same basis
-PASS — Elaine Intermediate logger evidence retained
-PASS — Evidence numbering remains continuous 1–20
-PASS — Existing video location context retained
-PASS — Stable anchors retained
-PASS — SEO release updated
-PASS — JSON-LD version updated
-PASS — Visible footer updated
-PASS — No class_ defects
+PASS — 30 canonical HTML pages included
+PASS — Repository support files included
+PASS — HTML parses with head and body
+PASS — All page metadata reconciled
+PASS — All visible footers reconciled
+PASS — All canonical URLs match filenames
+PASS — No unresolved internal HTML page links
+PASS — No unresolved internal anchors
+PASS — Search index includes every HTML page
+PASS — Sitemap includes every HTML page once
+PASS — Sitemap lastmod reconciled
+PASS — No class_ defects remain
+PASS — Release comments reconciled
 
-Scope:
-- Updated sac.html only.
-- Clarified why the later On / Off Testing map is used for Elaine Intermediate.
-- Recorded that the Stage 2 Elaine map does not identify the location named “Elaine Intermediate”.
-- Added the same explanation to the map caption.
-- Preserved all existing evidence, sequencing, numbering, links, anchors and unrelated content.
+Repository scope:
+- 30 HTML pages reconciled to a single repository release.
+- style.css, site.js, robots.txt and sitemap.xml reconciled.
+- Canonical filenames restored at ZIP root.
+- Search index expanded to include Blade Removal & Processing and Shadow Flicker.
+- Sitemap rebuilt with all 30 public pages and lastmod 2026-08-03.
+
+Preservation:
+- Existing documentary content, page structure, navigation, anchors, URLs and page-specific styling were preserved.
+- No images, PDFs or videos were altered or duplicated in this reconciliation package.
+- Existing server-side images/, documents/ and videos/ assets remain required by the included pages.
+
+Unique referenced asset paths retained: 249
