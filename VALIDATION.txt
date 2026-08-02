@@ -1,16 +1,26 @@
 VALIDATION SUMMARY
-Release: v8.1.6 — 2 August 2026
+Release: v8.1.8 — 2 August 2026
 
-PASS — Updated sac.html created.
-PASS — New Stage 2 travel chronology section inserted.
-PASS — Recorded K15aa, L18aa and L28aa times retained.
-PASS — Three supplied documentary images included and referenced.
-PASS — Existing navigation, URLs, anchors and unrelated page content preserved.
-PASS — Subsequent evidence cards renumbered sequentially.
-PASS — JSON-LD release, version and dateModified updated.
-PASS — Visible footer updated to Record Version 8.1.6 dated 2 August 2026.
-PASS — Malformed inherited version value corrected.
-PASS — No class_ attribute defects remain.
+PASS — Updated cumulative sac.html created
+PASS — v8.1.7 sequencing retained
+PASS — 28 March record placed within Stage 2
+PASS — 28 March record precedes 4 April record
+PASS — 4 April record precedes Elaine Intermediate
+PASS — Both new images referenced
+PASS — Both new image files included
+PASS — Evidence numbering continuous
+PASS — Evidence count is 20
+PASS — Stable Stage 1 and Stage 2 anchors retained
+PASS — SEO release updated
+PASS — JSON-LD version updated
+PASS — Visible footer updated
+PASS — No class_ defects
 
-Evidentiary limit:
-The added section presents the recorded times and mapped travel estimates for documentary comparison. It does not determine whether the observations were undertaken as recorded and makes no finding concerning compliance, professional conduct or report accuracy.
+Deployment basis:
+- This package is cumulative from the reconciled v8.1.7 SAC page because that preceding ZIP had not been deployed.
+- It therefore preserves the v8.1.7 sequencing reconciliation and adds the 28 March 2023 record.
+
+Documentary limits:
+- The occupier screenshot is presented as a contemporaneous record supplied by the occupier.
+- The photograph does not independently identify the driver or establish who entered the property.
+- No finding is made concerning access authority, compliance, professional conduct or whether the observations were undertaken as recorded.

@@ -1,16 +1,20 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.1.6
+Release: v8.1.8
 Date: 2 August 2026
 
-Updated sac.html to add a documentary comparison of the Stage 2 attended-observation chronology for 4 April 2023.
+Cumulative update:
+- Retains the undeployed v8.1.7 SAC sequencing reconciliation.
+- Adds the 28 March 2023 Stage 2 observation chronology and contemporaneous occupier record.
 
 Added:
-- K15aa observation: 5:40 am–5:55 am.
-- L18aa observation: 6:05 am–6:20 am.
-- L28aa observation: 6:30 am–6:45 am.
-- K15aa to L18aa mapped travel time: approximately 6 minutes.
-- L18aa to L28aa mapped travel time: approximately 14 minutes.
-- Neutral explanation of the 10-minute interval recorded between L18aa and L28aa.
-- Three supplied documentary images.
+- Recorded Stage 2 sequence at H18aa, L18aa, K15aa and Elaine Intermediate.
+- Contemporaneous occupier screenshot timestamped 12:45 pm on 28 March 2023.
+- Neutral comparison between the 12:45 pm occupier record and the K15aa observation recorded from 12:30 pm to 1:00 pm.
+- Two new documentary images.
 
-Corrected malformed inherited version metadata and renumbered later evidence cards.
+Sequencing:
+- Stage 1 evidence remains followed by the related public explanation.
+- Stage 2 now proceeds through monitoring periods, appendix endpoint, 28 March chronology, 4 April travel chronology, and Elaine Intermediate.
+- All 20 evidence items have been renumbered consecutively.
+
+No unsupported finding has been added.

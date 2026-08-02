@@ -1,23 +1,23 @@
-feat(sac): add Stage 2 attended-observation travel chronology
+feat(sac): add 28 March occupier record to Stage 2 chronology
 
-Update the Special Audible Characteristics page to reproduce the recorded
-Stage 2 attended-observation sequence for 4 April 2023 at K15aa, L18aa and
-L28aa.
+Retain the undeployed v8.1.7 sequencing reconciliation and add the 28 March
+2023 Stage 2 attended-observation sequence as a further chronological record.
 
-Present the recorded observation times alongside supplied public mapping
-extracts showing approximate driving times of 6 minutes from K15aa to L18aa
-and 14 minutes from L18aa to L28aa.
+Reproduce the appendix entries for H18aa, L18aa, K15aa and Elaine Intermediate,
+including the recorded L18aa observation from 11:55 am to 12:15 pm and K15aa
+observation from 12:30 pm to 1:00 pm.
 
-Record that the disclosed chronology allows 10 minutes between the conclusion
-of the L18aa observation at 6:20 am and commencement of the L28aa observation
-at 6:30 am. Explain neutrally that this interval would also encompass completion
-of the observation, field-note recording, return to the vehicle, travel,
-parking and commencement of the next observation.
+Add the supplied contemporaneous occupier screenshot timestamped 12:45 pm,
+recording concern about a person entering the L18aa property without consent or
+notification. Present the screenshot beside the appendix extract so readers can
+compare the 12:45 pm occupier record with the period recorded for the K15aa
+observation.
 
-State expressly that the comparison is provided to assist readers and does not
-determine whether the observations were undertaken as recorded or make any
-finding concerning compliance, professional conduct or report accuracy.
+State expressly that the photograph does not independently identify the driver
+or establish who entered the property, and make no finding concerning access
+authority, compliance, professional conduct or whether the observations were
+undertaken as recorded.
 
-Add the three supplied documentary images, preserve existing page content and
-anchors, renumber subsequent evidence cards, correct malformed inherited
-version values, and update the SAC page to v8.1.6 dated 2 August 2026.
+Preserve the existing 4 April 2023 travel-time comparison, keep the Elaine
+Intermediate observation and location map together, renumber all 20 evidence
+items consecutively, and update the SAC page to v8.1.8 dated 2 August 2026.
