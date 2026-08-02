@@ -1,23 +1,23 @@
-feat(record): publish shadow flicker documentary record
+feat(sac): add Stage 2 attended-observation travel chronology
 
-Add a dedicated Shadow Flicker page presenting the available record in
-chronological order: selected 2016–2017 assessment extracts, spatial context,
-one of the Beneficiary’s video recordings, historical 2024 operator responses,
-the 2025 incident reference, 2026 observation correspondence and the Trustee’s
-26 July 2026 administrative clarification request.
+Update the Special Audible Characteristics page to reproduce the recorded
+Stage 2 attended-observation sequence for 4 April 2023 at K15aa, L18aa and
+L28aa.
 
-Record LLWF’s separate modelled positions without attempting to reconcile them:
-less than 10 hours per year under a stated “realistic case”, and zero hours under
-a stated worst-case scenario.
+Present the recorded observation times alongside supplied public mapping
+extracts showing approximate driving times of 6 minutes from K15aa to L18aa
+and 14 minutes from L18aa to L28aa.
 
-State the present documentary position that the supplied record contains earlier
-operator engagement but no substantive response to the Trustee’s July 2026
-clarification request or to the individual June–July 2026 notifications.
+Record that the disclosed chronology allows 10 minutes between the conclusion
+of the L18aa observation at 6:20 am and commencement of the L28aa observation
+at 6:30 am. Explain neutrally that this interval would also encompass completion
+of the observation, field-note recording, return to the vehicle, travel,
+parking and commencement of the next observation.
 
-Do not publish the unredacted historical email or its personal contact details;
-use only its relevant substantive content pending a redacted source version.
+State expressly that the comparison is provided to assist readers and does not
+determine whether the observations were undertaken as recorded or make any
+finding concerning compliance, professional conduct or report accuracy.
 
-Add links from the home page, Operational Correspondence, Document Library,
-desktop/mobile navigation and sitemap. Add the selected documentary images,
-web-compatible MP4 and published PDF exhibits. Update affected pages and
-repository navigation to v8.1.4 dated 1 August 2026.
+Add the three supplied documentary images, preserve existing page content and
+anchors, renumber subsequent evidence cards, correct malformed inherited
+version values, and update the SAC page to v8.1.6 dated 2 August 2026.

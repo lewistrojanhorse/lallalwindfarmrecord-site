@@ -1,25 +1,16 @@
-VALIDATION — Lal Lal Wind Farm Record v8.1.5
-Date: 1 August 2026
+VALIDATION SUMMARY
+Release: v8.1.6 — 2 August 2026
 
-PASS — Updated HTML present
-PASS — New redacted exhibit present
-PASS — New redacted exhibit linked
-PASS — Unredacted EML excluded from work tree
-PASS — SEO release v8.1.5
-PASS — JSON-LD version 8.1.5
-PASS — JSON-LD dateModified 2026-08-01
-PASS — Visible footer version 8.1.5
-PASS — Invalid class_ attributes absent
-PASS — Prior source-pending wording removed
-PASS — Redacted source status recorded
-PASS — HTML asset/link attributes populated
+PASS — Updated sac.html created.
+PASS — New Stage 2 travel chronology section inserted.
+PASS — Recorded K15aa, L18aa and L28aa times retained.
+PASS — Three supplied documentary images included and referenced.
+PASS — Existing navigation, URLs, anchors and unrelated page content preserved.
+PASS — Subsequent evidence cards renumbered sequentially.
+PASS — JSON-LD release, version and dateModified updated.
+PASS — Visible footer updated to Record Version 8.1.6 dated 2 August 2026.
+PASS — Malformed inherited version value corrected.
+PASS — No class_ attribute defects remain.
 
-Incremental deployment contents:
-- shadow-flicker.html
-- images/shadow-flicker/LLWF-shadow-flicker-email-response-2-October-2024-redacted.jpg
-- CHANGELOG.txt
-- COMMIT-MESSAGE.txt
-- VALIDATION.txt
-
-Baseline repository dependencies referenced by the page (including style.css, site.js, logos and existing linked pages/assets) are intentionally not duplicated in this targeted deployment.
-The earlier unredacted LLWF Shadow Flicker.eml file is not included.
+Evidentiary limit:
+The added section presents the recorded times and mapped travel estimates for documentary comparison. It does not determine whether the observations were undertaken as recorded and makes no finding concerning compliance, professional conduct or report accuracy.

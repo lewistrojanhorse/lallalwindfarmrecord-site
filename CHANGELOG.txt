@@ -1,11 +1,16 @@
-Lal Lal Wind Farm Record — v8.1.5 — 1 August 2026
+Lal Lal Wind Farm Record — CHANGELOG
+Release: v8.1.6
+Date: 2 August 2026
 
-Targeted Shadow Flicker page update
+Updated sac.html to add a documentary comparison of the Stage 2 attended-observation chronology for 4 April 2023.
 
-- Published the redacted 2 October 2024 LLWF email extract concerning shadow flicker modelling at J14aa.
-- Replaced the prior source-pending notice with the supplied redacted documentary exhibit.
-- Preserved the neutral summary of LLWF's stated “realistic case” position of less than 10 hours per year at J14aa.
-- Retained the later formal operator statement of zero modelled hours under a worst-case scenario without attempting to reconcile the two records.
-- Confirmed that the earlier unredacted EML file is not included in the deployment package.
-- Updated shadow-flicker.html metadata and visible footer to v8.1.5 dated 1 August 2026.
-- Corrected the malformed visible/JSON-LD version value inherited from the previous page build.
+Added:
+- K15aa observation: 5:40 am–5:55 am.
+- L18aa observation: 6:05 am–6:20 am.
+- L28aa observation: 6:30 am–6:45 am.
+- K15aa to L18aa mapped travel time: approximately 6 minutes.
+- L18aa to L28aa mapped travel time: approximately 14 minutes.
+- Neutral explanation of the 10-minute interval recorded between L18aa and L28aa.
+- Three supplied documentary images.
+
+Corrected malformed inherited version metadata and renumbered later evidence cards.
