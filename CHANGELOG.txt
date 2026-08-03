@@ -1,25 +1,17 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Repository release: v8.1.11
+Release: v8.1.12
 Date: 3 August 2026
 
-Repository-wide reconciliation:
-- Reconciled all 30 supplied HTML pages to release v8.1.11.
-- Updated data-seo-release, JSON-LD version, JSON-LD dateModified and visible footer on every page.
-- Corrected malformed inherited version values such as “.1.4”.
-- Preserved canonical URLs, page titles, navigation, anchors and documentary content.
-- Confirmed that no invalid class_ attributes remain.
+Updated:
+- contact.html
 
-Repository support files:
-- Updated style.css release header.
-- Updated site.js release header.
-- Added Blade Removal & Processing and Shadow Flicker to the site search index.
-- Updated robots.txt release header.
-- Rebuilt sitemap.xml with all 30 public pages and 3 August 2026 last-modified dates.
+Added:
+- Documentary Updates section.
+- Link to the Lal Lal Wind Farm Record Facebook page.
+- Statement that Facebook supplements the website.
+- Statement that the website remains the primary public administrative and evidentiary record.
 
-Current substantive page states retained:
-- SAC page retained at its completed 3 August 2026 documentary state.
-- Shadow Flicker retained with the redacted 2 October 2024 operator email record.
-- Operational Correspondence retained with the completed operator procedural-opportunity record.
-- Blade Removal & Processing retained as the dedicated 2024 documentary chronology.
-
-No primary source document, image, video or evidentiary wording was rewritten in this repository reconciliation.
+Technical:
+- External link opens in a new tab.
+- Added rel="noopener noreferrer".
+- Updated Contact page metadata and visible footer.

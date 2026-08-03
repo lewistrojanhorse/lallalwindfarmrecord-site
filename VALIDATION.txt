@@ -1,30 +1,12 @@
 VALIDATION SUMMARY
-Repository release: v8.1.11 — 3 August 2026
+Release: v8.1.12 — 3 August 2026
 
-PASS — 30 canonical HTML pages included
-PASS — Repository support files included
-PASS — HTML parses with head and body
-PASS — All page metadata reconciled
-PASS — All visible footers reconciled
-PASS — All canonical URLs match filenames
-PASS — No unresolved internal HTML page links
-PASS — No unresolved internal anchors
-PASS — Search index includes every HTML page
-PASS — Sitemap includes every HTML page once
-PASS — Sitemap lastmod reconciled
-PASS — No class_ defects remain
-PASS — Release comments reconciled
-
-Repository scope:
-- 30 HTML pages reconciled to a single repository release.
-- style.css, site.js, robots.txt and sitemap.xml reconciled.
-- Canonical filenames restored at ZIP root.
-- Search index expanded to include Blade Removal & Processing and Shadow Flicker.
-- Sitemap rebuilt with all 30 public pages and lastmod 2026-08-03.
-
-Preservation:
-- Existing documentary content, page structure, navigation, anchors, URLs and page-specific styling were preserved.
-- No images, PDFs or videos were altered or duplicated in this reconciliation package.
-- Existing server-side images/, documents/ and videos/ assets remain required by the included pages.
-
-Unique referenced asset paths retained: 249
+PASS — Updated contact.html created.
+PASS — Facebook page URL included.
+PASS — External link opens in a new tab.
+PASS — rel="noopener noreferrer" included.
+PASS — Website-primary-record wording included.
+PASS — Canonical URL retained.
+PASS — SEO release, JSON-LD version/date and visible footer updated.
+PASS — Existing contact and correction-protocol content preserved.
+PASS — No class_ defects remain.
