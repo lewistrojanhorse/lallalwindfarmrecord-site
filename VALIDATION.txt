@@ -1,28 +1,30 @@
 VALIDATION SUMMARY
-Release: v8.1.13 — 5 August 2026
+Release: v8.1.14 — 5 August 2026
 
-PASS — foi-decisions.html parses with head and body
-PASS — foi-decisions.html metadata updated
-PASS — foi-decisions.html footer updated
-PASS — foi-decisions.html has no class_ defects
-PASS — foi-decisions.html links the 4 August clarification
-PASS — agency-records.html parses with head and body
-PASS — agency-records.html metadata updated
-PASS — agency-records.html footer updated
-PASS — agency-records.html has no class_ defects
-PASS — agency-records.html links the 4 August clarification
-PASS — PDF asset included
-PASS — FOI register no longer says Part 4 is outstanding
-PASS — FOI detailed record includes 4 August outcome
-PASS — Agency record includes 4 August outcome
-PASS — Documentary qualification included on both pages
+PASS — Updated k15aa.html created
+PASS — HTML parses with head and body
+PASS — DTP Part 4 summary row added
+PASS — New evidence card added
+PASS — Evidence numbering remains continuous 1–12
+PASS — 4 August outcome recorded
+PASS — Neutral documentary qualification included
+PASS — 17 July decision link retained
+PASS — 4 August clarification linked
+PASS — 4 August PDF included
+PASS — Source-document list updated
+PASS — SEO release updated
+PASS — JSON-LD version/date updated
+PASS — Visible footer updated
+PASS — Canonical URL retained
+PASS — No class_ defects
 
 Scope:
-- Updated foi-decisions.html.
-- Updated agency-records.html.
+- Updated k15aa.html.
 - Added documents/DTP-FOI-CS019200-Part-4-Supplementary-Clarification-4-August-2026.pdf.
+- Added the DTP CS019200 Part 4 outcome to the concise documentary summary.
+- Added a new numbered evidence item within the K15aa documentary sequence.
+- Added the supplementary clarification to the primary source-document list.
 
-Documentary change:
-- Replaced the earlier outstanding-status wording for CS019200 Part 4.
-- Recorded DTP's 4 August 2026 supplementary clarification that relevant enquiries did not locate any documents responsive to Part 4.
-- Preserved the distinction between a statutory disclosure outcome and any legal or compliance conclusion.
+Documentary position:
+- DTP recorded that, following relevant enquiries, it was unable to locate documents responsive to Part 4.
+- The page does not treat that disclosure result as independently determining whether authority existed elsewhere, whether a departure occurred, or any legal or compliance consequence.
