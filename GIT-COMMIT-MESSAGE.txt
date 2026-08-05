@@ -1,15 +1,26 @@
-feat(contact): add Facebook documentary updates link
+feat(foi): publish DTP CS019200 Part 4 clarification
 
-Update the Contact page to add a restrained Documentary Updates section linking
-to the Lal Lal Wind Farm Record Facebook page.
+Update the FOI Register and Agency Records pages to publish DTP's supplementary
+clarification dated 4 August 2026 concerning Part 4 of FOI CS019200.
 
-State that the Facebook page publishes notices when significant documentary
-material is added to the website, while recording that Facebook supplements the
-website and that the website remains the primary public administrative and
-evidentiary record.
+Replace the earlier published position that clarification of Part 4 remained
+outstanding.
 
-Open the external Facebook link in a new tab with noopener and noreferrer
-protection.
+Record that, following relevant enquiries, DTP was unable to locate any
+documents in response to Part 4. Part 4 sought documentary authority for the
+identified departures from the NZS 6808:2010 definitions of background sound
+level and notional boundary.
 
-Preserve the existing contact details, correction protocol, navigation and
-unrelated content. Update the Contact page to v8.1.12 dated 3 August 2026.
+Add the supplementary clarification as:
+
+documents/DTP-FOI-CS019200-Part-4-Supplementary-Clarification-4-August-2026.pdf
+
+Link the original 17 July decision, the Trustee's clarification correspondence
+and DTP's 4 August supplementary clarification from both affected pages.
+
+State that the outcome records the result of DTP's statutory disclosure searches
+and does not, by itself, determine whether authority existed elsewhere, whether
+a departure occurred, or the legal or compliance consequences of the disclosed
+record.
+
+Update the affected pages to v8.1.13 dated 5 August 2026.

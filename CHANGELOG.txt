@@ -1,17 +1,20 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.1.12
-Date: 3 August 2026
+Release: v8.1.13
+Date: 5 August 2026
 
 Updated:
-- contact.html
+- foi-decisions.html
+- agency-records.html
 
 Added:
-- Documentary Updates section.
-- Link to the Lal Lal Wind Farm Record Facebook page.
-- Statement that Facebook supplements the website.
-- Statement that the website remains the primary public administrative and evidentiary record.
+- documents/DTP-FOI-CS019200-Part-4-Supplementary-Clarification-4-August-2026.pdf
 
-Technical:
-- External link opens in a new tab.
-- Added rel="noopener noreferrer".
-- Updated Contact page metadata and visible footer.
+DTP FOI CS019200:
+- Replaced the published statement that Part 4 clarification remained outstanding.
+- Added DTP's supplementary clarification dated 4 August 2026.
+- Recorded that, following relevant enquiries, DTP was unable to locate any documents in response to Part 4.
+- Recorded that Part 4 concerned documentary authority for identified departures from the NZS 6808:2010 definitions of background sound level and notional boundary.
+- Added links to the original decision, the Trustee clarification and DTP's supplementary clarification.
+- Preserved a neutral qualification that the disclosure outcome does not itself determine whether authority existed elsewhere or establish legal or compliance consequences.
+
+Updated the affected pages to v8.1.13 dated 5 August 2026.

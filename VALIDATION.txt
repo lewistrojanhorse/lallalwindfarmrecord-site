@@ -1,12 +1,28 @@
 VALIDATION SUMMARY
-Release: v8.1.12 — 3 August 2026
+Release: v8.1.13 — 5 August 2026
 
-PASS — Updated contact.html created.
-PASS — Facebook page URL included.
-PASS — External link opens in a new tab.
-PASS — rel="noopener noreferrer" included.
-PASS — Website-primary-record wording included.
-PASS — Canonical URL retained.
-PASS — SEO release, JSON-LD version/date and visible footer updated.
-PASS — Existing contact and correction-protocol content preserved.
-PASS — No class_ defects remain.
+PASS — foi-decisions.html parses with head and body
+PASS — foi-decisions.html metadata updated
+PASS — foi-decisions.html footer updated
+PASS — foi-decisions.html has no class_ defects
+PASS — foi-decisions.html links the 4 August clarification
+PASS — agency-records.html parses with head and body
+PASS — agency-records.html metadata updated
+PASS — agency-records.html footer updated
+PASS — agency-records.html has no class_ defects
+PASS — agency-records.html links the 4 August clarification
+PASS — PDF asset included
+PASS — FOI register no longer says Part 4 is outstanding
+PASS — FOI detailed record includes 4 August outcome
+PASS — Agency record includes 4 August outcome
+PASS — Documentary qualification included on both pages
+
+Scope:
+- Updated foi-decisions.html.
+- Updated agency-records.html.
+- Added documents/DTP-FOI-CS019200-Part-4-Supplementary-Clarification-4-August-2026.pdf.
+
+Documentary change:
+- Replaced the earlier outstanding-status wording for CS019200 Part 4.
+- Recorded DTP's 4 August 2026 supplementary clarification that relevant enquiries did not locate any documents responsive to Part 4.
+- Preserved the distinction between a statutory disclosure outcome and any legal or compliance conclusion.
