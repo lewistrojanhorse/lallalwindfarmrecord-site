@@ -1,40 +1,38 @@
-feat(yendon): refine rainfall record and add ARUP verification
+feat(commissioning): reconcile later commissioning-status records
 
-Update the Yendon Stage 1 page to align the rainfall comparison with the actual
-dates of the attended observations and unattended monitoring.
+Update the Commissioning of the Final Turbine page to incorporate the later
+operator, consultant, auditor and VCAT records concerning commissioning and
+operational status.
 
-Record that the Elaine Stage 1 Appendix D attended observations end on
-11 June 2021 and the Yendon Stage 1 Appendix D observations continue to
-17 June 2022. Separate this attended-listening comparison from the longer
-unattended monitoring period.
+Record the operator's 14 April 2025 response to EPA IGN-00008382 stating that
+the Wind Farm completed commissioning on 10 December 2020, while separately
+recording that Yendon commenced generating on 20 June 2019 and was released to
+full output by AEMO on 22 December 2020.
 
-Add the Yendon Table 3 extract showing monitoring from 26 May 2022, with N31ab
-ending on 18 July and M29aa and K34aa ending on 1 August 2022. Remove August
-rainfall from the comparison because it falls outside the substantive monitoring
-period, and do not use July or August rainfall to explain frog observations made
-by mid-June.
+Add the Permit Holder's Practice Day Submissions in VCAT proceeding P775/2023,
+which state that the facility was constructed between 2019 and 2021, main
+construction works were completed in early to mid-2021, and full commissioning
+and operation occurred subsequently. Identify this expressly as a party
+submission and not a finding of VCAT.
 
-Recalculate the supplied BOM monthly rainfall comparison through June for the
-attended observations and through July for the unattended monitoring. Record
-that the displayed comparable 2021 periods were wetter than the corresponding
-2022 periods, while stating that monthly rainfall totals alone cannot establish
-frog populations or calling activity and that daily rainfall would be required
-for a date-specific comparison.
+Add SLR's October 2023 Yendon Stage 1 statement that the wind farm was
+electrically and mechanically complete, had been released by the market operator
+to generate at full power and had reached practical completion.
 
-Add the supplied 17 June 2022 Appendix D extract showing daytime frog
-observations, including “Frogs dominant” at K34aa.
+Add ARUP's 7 December 2023 Yendon verification record that the sensitivity of
+the NCTP screening method, together with regular turbine downtime due to ongoing
+commissioning and AEMO generation constraints, resulted in approximately
+85–90 percent of measurement data being excluded from the analysis.
 
-Add a dedicated section for the ARUP Verification of Post-Construction Noise
-Assessment dated 7 December 2023. Record that the alternative 0.5 dB screening
-method produced marginal exceedances around 10 m/s at N31ab and K34aa, that
-SLR attributed the marginal exceedance to seasonal extraneous wildlife noise,
-and that the auditor did not then consider the assessment to demonstrate
-compliance for all noise-sensitive receivers.
+Present the records side by side with the earlier 18–19 November 2019 public
+commissioning chronology and preserve the distinction between generation,
+release to full output, commissioning completion, full commissioning, practical
+completion and commissioning of the last turbine.
 
-Present the ARUP outcome as part of the documentary record and do not convert
-the alternative analysis into a separate legal finding of non-compliance.
+Ask which commissioning event and date was actually used to administer the
+NCTP's mandatory Stage 1 and Stage 2 timing windows without selecting a legal
+answer not established by the disclosed record.
 
-Preserve the existing Yendon chronology, videos, source reports, CRG extract,
-navigation and discovery files.
-
-Update affected pages to v8.1.18 dated 8 August 2026.
+Add the four new documentary exhibits and corresponding primary-source PDFs,
+update the source register and sitemap lastmod, and update the commissioning
+page to v8.1.19 dated 8 August 2026.

@@ -1,42 +1,30 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.1.18
+Release: v8.1.19
 Date: 8 August 2026
 
 Updated:
-- yendon-stage-1.html
-- technical-reports.html
-- site.js
+- commissioning-final-turbine.html
 - sitemap.xml
 
 Added:
-- images/yendon-stage-1/Yendon-Appendix-D-17-June-2022-frog-observations.jpg
-- images/yendon-stage-1/Yendon-Table-3-monitoring-periods-26-May-1-August-2022.jpg
-- images/yendon-stage-1/ARUP-Yendon-Verification-7-December-2023-page-17-extract.jpg
+- images/commissioning/ign-00008382-commissioning-full-output-dates.jpg
+- images/commissioning/slr-yendon-practical-completion.jpg
+- images/commissioning/arup-yendon-ongoing-commissioning-data-exclusion.jpg
+- images/commissioning/vcat-p775-2023-llwf-full-commissioning-submission.jpg
+- documents/commissioning/LLWF-Response-EPA-IGN-00008382.pdf
+- documents/commissioning/SLR-Yendon-Stage-1-Post-Construction-Noise-Assessment-October-2023.pdf
+- documents/commissioning/ARUP-Yendon-Verification-7-December-2023.pdf
+- documents/commissioning/VCAT-P775-2023-LLWF-Practice-Day-Submissions.pdf
 
-Yendon Stage 1:
-- Corrected the rainfall comparison so attended observations and unattended monitoring are treated as separate time periods.
-- Recorded that the last Elaine Appendix D attended observations are dated 11 June 2021 and Yendon Appendix D observations continue to 17 June 2022.
-- Removed July and August rainfall from the attended-observation comparison.
-- Removed August rainfall from the unattended-monitoring comparison because Table 3 shows the latest monitoring endpoint as 1 August 2022.
-- Added the supplied Table 3 extract showing N31ab monitoring to 18 July 2022 and M29aa/K34aa to 1 August 2022.
-- Added the 17 June 2022 Yendon Appendix D extract showing daytime frog observations, including “Frogs dominant” at K34aa.
-- Recalculated the displayed BOM monthly comparisons through June for attended observations and through July for unattended monitoring.
-- Recorded that the displayed comparable 2021 periods were wetter than the corresponding 2022 periods, while preserving the limitation that monthly rainfall does not establish frog populations or calling activity.
+Commissioning reconciliation:
+- Expanded the existing conflicting-date record into a side-by-side commissioning and operational-status reconciliation.
+- Recorded LLWF's later EPA IGN statement that commissioning completed on 10 December 2020 and Yendon was released to full output by AEMO on 22 December 2020.
+- Added the Permit Holder's VCAT P775/2023 Practice Day submission stating that construction continued through early to mid-2021 and that full commissioning and operation occurred subsequently.
+- Clearly identified the VCAT material as a party submission, not a Tribunal finding.
+- Added SLR's October 2023 statement that the wind farm was electrically and mechanically complete, released to generate at full power and had reached practical completion.
+- Added ARUP's 7 December 2023 verification statement that 85–90% of measurement data was excluded due to the NCTP screening sensitivity together with regular turbine downtime associated with ongoing commissioning and AEMO generation constraints.
+- Preserved the earlier 18–19 November 2019 public chronology and the existing IGN/NCTP trigger comparison.
+- Added the plain-English documentary question: which commissioning event and date was actually used to administer the NCTP's mandatory Stage 1 and Stage 2 timing windows?
+- Preserved the distinction between generation, release to full output, commissioning completion, full commissioning, practical completion and final-turbine commissioning.
 
-ARUP verification:
-- Added a dedicated independent-auditor section using the supplied 7 December 2023 page 17 extract.
-- Recorded that the 0.1 dB NCTP method indicated compliance with a relatively small night-time margin around 10–11 m/s.
-- Recorded that the alternative 0.5 dB method produced marginal exceedances around 10 m/s at N31ab and K34aa.
-- Recorded ARUP's statement that SLR attributed the marginal exceedance to seasonal extraneous wildlife noise.
-- Recorded the auditor's position that the assessment did not then demonstrate compliance for all noise-sensitive receivers.
-- Expressly avoided treating the alternative analysis as a separate legal finding of non-compliance.
-
-Preserved:
-- Existing Yendon Stage 1 chronology.
-- All four information-session videos.
-- CRG report-status extract.
-- SLR Yendon and Elaine reports.
-- Information-session transcript.
-- Technical Reports navigation and search/sitemap discovery.
-
-Updated affected HTML metadata and visible footer to v8.1.18 dated 8 August 2026.
+Updated the affected page to v8.1.19 dated 8 August 2026.

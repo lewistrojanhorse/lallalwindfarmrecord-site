@@ -1,47 +1,38 @@
 VALIDATION SUMMARY
-Release: v8.1.18 — 8 August 2026
+Release: v8.1.19 — 8 August 2026
 
-PASS — Yendon page parses with head/body/main
-PASS — Release metadata updated to v8.1.18
+PASS — Updated commissioning page created
+PASS — HTML parses with head/body/main
+PASS — Release metadata updated
 PASS — Visible footer updated
-PASS — Attended observations endpoint recorded
-PASS — 17 June frog extract included
-PASS — Monitoring Table 3 extract included
-PASS — August rainfall removed from comparison table
-PASS — Attended rainfall comparison uses through June
-PASS — Unattended rainfall comparison uses through July
-PASS — Correct Jan-Jun arithmetic
-PASS — Correct May-Jul arithmetic
-PASS — Daily-rainfall limitation included
-PASS — ARUP section added
-PASS — ARUP extract included
-PASS — Marginal exceedances recorded
-PASS — SLR wildlife attribution recorded
-PASS — Auditor non-demonstration position recorded
-PASS — ARUP qualification avoids legal conclusion
-PASS — Present documentary position renumbered to 7
-PASS — All prior videos retained
-PASS — All prior source PDFs retained
+PASS — Canonical URL retained
+PASS — IGN 10 Dec 2020 date recorded
+PASS — IGN 22 Dec 2020 full-output date recorded
+PASS — VCAT early-mid 2021 wording recorded
+PASS — VCAT status clearly identified as submission not finding
+PASS — SLR practical completion wording recorded
+PASS — ARUP ongoing commissioning wording recorded
+PASS — ARUP 85–90% exclusion recorded
+PASS — NCTP trigger question included
+PASS — Existing IGN monitoring-trigger exhibit retained
+PASS — Existing earlier chronology retained
+PASS — All four new documentary images included
+PASS — All four new primary-source PDFs included
+PASS — Source register updated for VCAT
 PASS — No class_ defects
 
-Key corrections from v8.1.17:
-- Separated rainfall relevant to attended observations from rainfall relevant to unattended monitoring.
-- Recorded that the Elaine Appendix D attended observations end on 11 June 2021 and the Yendon Appendix D attended observations end on 17 June 2022.
-- Removed August rainfall from the monitoring-period comparison because the latest Table 3 monitoring endpoint is 1 August 2022.
-- Added the Yendon Table 3 extract showing N31ab to 18 July and M29aa/K34aa to 1 August 2022.
-- Added the 17 June 2022 Appendix D extract showing daytime frog observations.
-- Added the supplied ARUP verification extract dated 7 December 2023.
-- Recorded ARUP's description of marginal exceedances under the 0.5 dB method, SLR's wildlife-noise attribution and the auditor's position that the assessment did not then demonstrate compliance for all noise-sensitive receivers.
+Scope:
+- Updated commissioning-final-turbine.html only as the substantive page change.
+- Updated sitemap.xml lastmod for the commissioning page.
+- Added four documentary images and four primary-source PDFs required by the new reconciliation section.
 
-Rainfall arithmetic reproduced from the supplied BOM monthly table:
-- January–June: 2021 374.0 mm; 2022 320.4 mm.
-- March–June: 2021 252.8 mm; 2022 211.2 mm.
-- May–June: 2021 166.0 mm; 2022 91.2 mm.
-- January–July: 2021 426.2 mm; 2022 364.0 mm.
-- May–July: 2021 218.2 mm; 2022 134.8 mm.
+Documentary additions:
+- LLWF EPA IGN response: commissioning completed 10 December 2020; Yendon released to full output 22 December 2020.
+- LLWF VCAT P775/2023 Practice Day Submissions: main construction completed early to mid-2021; full commissioning and operation occurred subsequently.
+- SLR Yendon Stage 1 report: electrical/mechanical completion, full-power release and practical completion.
+- ARUP Yendon verification: 85–90% data exclusion associated with NCTP screening, regular turbine downtime, ongoing commissioning and AEMO generation constraints.
 
 Editorial safeguards:
-- Monthly rainfall is not presented as proof of frog population or calling activity.
-- The page notes that daily rainfall would be required to compare rainfall accumulated before the exact attended-listening dates.
-- The ARUP 0.5 dB result is not presented as an independent legal finding of non-compliance.
-- Stage 2 Yendon material remains outside the page.
+- The VCAT material is identified as the Permit Holder's submission and not a VCAT finding.
+- Generation, full-output release, practical completion, commissioning completion and final-turbine commissioning are not treated as synonymous.
+- The page asks which commissioning event/date was used to administer the NCTP timing windows rather than selecting a legal answer unsupported by the disclosed record.
