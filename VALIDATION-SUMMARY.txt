@@ -1,34 +1,21 @@
-VALIDATION SUMMARY - Lal Lal Wind Farm Record v8.1.3
-Date: 31 July 2026
+LAL LAL WIND FARM RECORD — VALIDATION SUMMARY
+Repository release: v8.2.0
+Release date: 8 August 2026
 
-BUILD SCOPE
-- New page: blade-removal-processing.html
-- Added Blade Removal & Processing to desktop and mobile Administrative navigation across all supplied HTML pages.
-- Added a related-record section to operational-correspondence.html.
-- Added the three source-document entries to documents.html.
-- Added the new page to sitemap.xml.
-- Added four supplied documentary photographs and three supplied PDF source records.
+Scope
+- Repository-wide reconciliation of the 31 supplied public HTML pages and root configuration files.
+- Stable filenames, canonical URLs, navigation structure and existing page content preserved except for targeted documentary reconciliation.
+- DTP FOI CS019200 Part 4 supplementary clarification dated 4 August 2026 reconciled across Home, Chronology, Key Project Dates, Documents and Record Status.
+- Existing 8 August Yendon Stage 1 and final-turbine commissioning developments preserved.
+- Search index expanded to include Blade Removal and Processing and Shadow Flicker.
+- Sitemap last-modified dates normalised to 8 August 2026.
 
-DOCUMENTARY CONTROLS
-- Historical July 2024 correspondence identified as Beneficiary correspondence predating the Trust.
-- EPA copied status stated as contemporaneous awareness only, not endorsement.
-- Operator statements identified as the operator's explanation.
-- No assertion that pollution occurred, EPA approved the works, or a breach was found.
-- Photograph captions remain descriptive and do not identify material composition.
+Validation
+- HTML pages checked for title, canonical link, JSON-LD validity, duplicate IDs and invalid class_ token.
+- JSON-LD dateModified/version normalised to 2026-08-08 / 8.2.0.
+- Footer Record Version normalised to 8.2.0 / 8 August 2026.
+- sitemap.xml parsed successfully.
+- No documentary images, PDFs or media were regenerated or altered. Existing referenced assets remain unchanged and are not duplicated in this deployment package.
 
-VALIDATION RESULTS
-- New page links to newly supplied assets: PASS
-- Four documentary image assets present: PASS
-- Three source PDFs present and non-empty: PASS
-- Desktop and mobile navigation insertion across supplied pages: PASS
-- Operational Correspondence cross-reference: PASS
-- Documents library entries: PASS
-- Sitemap entry and last-modified date: PASS
-- Canonical URL, metadata and JSON-LD for new page: PASS
-
-BASELINE REPOSITORY DEPENDENCIES
-- The incremental package intentionally does not duplicate unchanged repository assets such as style.css, site.js, images/lth-logo.png, favicon assets or verification.html.
-- These existing baseline files remain referenced and must remain in place during deployment.
-
-ISSUES
-- None identified.
+Result
+PASS — no validation issues detected.
