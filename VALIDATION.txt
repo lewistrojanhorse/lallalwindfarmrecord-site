@@ -1,17 +1,16 @@
 VALIDATION SUMMARY
-Release: v8.1.14 — 5 August 2026
+Release: v8.1.15 — 7 August 2026
 
-PASS — Updated k15aa.html created
+PASS — Updated representative-monitoring.html created
 PASS — HTML parses with head and body
-PASS — DTP Part 4 summary row added
-PASS — New evidence card added
-PASS — Evidence numbering remains continuous 1–12
-PASS — 4 August outcome recorded
-PASS — Neutral documentary qualification included
-PASS — 17 July decision link retained
-PASS — 4 August clarification linked
-PASS — 4 August PDF included
-PASS — Source-document list updated
+PASS — New January 2024 section inserted
+PASS — I14aa enquiry context retained
+PASS — Independent Acoustic Engineer enquiry recorded
+PASS — Neutral limitation included
+PASS — Redacted PDF linked
+PASS — Redacted PDF included
+PASS — Sensitive contact strings removed from redacted PDF
+PASS — Rendered PDF verification produced
 PASS — SEO release updated
 PASS — JSON-LD version/date updated
 PASS — Visible footer updated
@@ -19,12 +18,16 @@ PASS — Canonical URL retained
 PASS — No class_ defects
 
 Scope:
-- Updated k15aa.html.
-- Added documents/DTP-FOI-CS019200-Part-4-Supplementary-Clarification-4-August-2026.pdf.
-- Added the DTP CS019200 Part 4 outcome to the concise documentary summary.
-- Added a new numbered evidence item within the K15aa documentary sequence.
-- Added the supplementary clarification to the primary source-document list.
+- Updated representative-monitoring.html.
+- Added documents/Independent-Acoustic-Engineer-Enquiry-January-2024-Redacted.pdf.
+- Inserted the January 2024 correspondence within the representative-monitoring chronology.
+- Preserved existing documentary wording, figures, tables, navigation, anchors and unrelated content.
+
+Privacy handling:
+- The source email PDF was not published unredacted.
+- Personal and direct contact email addresses and telephone numbers were redacted from the website copy.
+- Names and substantive documentary content were preserved.
 
 Documentary position:
-- DTP recorded that, following relevant enquiries, it was unable to locate documents responsive to Part 4.
-- The page does not treat that disclosure result as independently determining whether authority existed elsewhere, whether a departure occurred, or any legal or compliance consequence.
+- The section records the questions raised and communication pathway.
+- It does not determine consultant independence or the technical correctness of the representative-monitoring methodology.

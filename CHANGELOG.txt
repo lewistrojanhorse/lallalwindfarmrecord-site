@@ -1,20 +1,23 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.1.14
-Date: 5 August 2026
+Release: v8.1.15
+Date: 7 August 2026
 
 Updated:
-- k15aa.html
+- representative-monitoring.html
 
 Added:
-- documents/DTP-FOI-CS019200-Part-4-Supplementary-Clarification-4-August-2026.pdf
+- documents/Independent-Acoustic-Engineer-Enquiry-January-2024-Redacted.pdf
 
-K15aa documentary pathway:
-- Added a concise-summary row for DTP FOI CS019200 Part 4.
-- Added evidence item 12: “DTP FOI CS019200 — documentary authority enquiries”.
-- Recorded that Part 4 sought documentary authority for identified departures from the NZS 6808:2010 definitions of background sound level and notional boundary.
-- Recorded DTP's supplementary clarification dated 4 August 2026 that, following relevant enquiries, no documents were located in response to Part 4.
-- Added links to the 17 July decision, 4 August clarification and FOI Register.
-- Added the supplementary clarification to the primary source-document list.
-- Preserved neutral wording distinguishing the statutory disclosure outcome from any legal or compliance conclusion.
+Representative Monitoring:
+- Added a new January 2024 administrative-correspondence section.
+- Recorded the Beneficiary's questions concerning K15aa, J14aa, I14aa and the representative-monitoring pathway.
+- Recorded the disclosed SLR email statement that a response would not be provided unless instructed.
+- Recorded the subsequent question concerning the Planning Permit requirement for a suitably qualified and experienced independent acoustic engineer.
+- Recorded the 24 January 2024 formal enquiry to Lal Lal Wind Farm seeking its understanding of “Independent Acoustic Engineer”.
+- Added a neutral limitation that the correspondence does not itself determine independence or technical correctness.
 
-Updated the K15aa page to v8.1.14 dated 5 August 2026.
+Privacy:
+- Published a redacted website copy of the email chain.
+- Removed personal/direct email addresses and telephone numbers while preserving substantive documentary content.
+
+Updated the page to v8.1.15 dated 7 August 2026.

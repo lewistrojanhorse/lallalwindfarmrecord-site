@@ -1,26 +1,28 @@
-feat(k15aa): add DTP CS019200 Part 4 outcome
+feat(representative-monitoring): add January 2024 independence enquiry
 
-Update the K15aa Background Sound Record to incorporate DTP's supplementary
-clarification dated 4 August 2026 concerning Part 4 of FOI CS019200.
+Update the Representative Monitoring documentary record to add the January 2024
+correspondence concerning the representative-monitoring pathway and the Planning
+Permit requirement for a suitably qualified and experienced independent acoustic
+engineer.
 
-Add a concise-summary entry and a new numbered evidence item recording that
-Part 4 sought documentary authority for identified departures from the
-NZS 6808:2010 definitions of background sound level and notional boundary.
+Record the Beneficiary's questions concerning K15aa monitoring, the J14aa
+interim assessment, the K15aa background-report requirement, the Elaine
+post-construction assessment and whether SLR had been informed of earlier
+background monitoring at St Sava Monastery (I14aa).
 
-Record that, following relevant enquiries, DTP was unable to locate any
-documents in response to Part 4.
+Record the disclosed email statement that the SLR Technical Director would not
+respond unless instructed, the subsequent question concerning consultant
+independence, and the 24 January 2024 formal enquiry asking Lal Lal Wind Farm to
+explain its understanding of “Independent Acoustic Engineer” under the Planning
+Permit.
 
-Add the supplementary clarification as:
+Publish a privacy-redacted copy of the correspondence as:
 
-documents/DTP-FOI-CS019200-Part-4-Supplementary-Clarification-4-August-2026.pdf
+documents/Independent-Acoustic-Engineer-Enquiry-January-2024-Redacted.pdf
 
-Link the original 17 July decision, the 4 August supplementary clarification
-and the FOI Register from the K15aa evidence sequence. Add the supplementary
-clarification to the primary source-document list.
+State that the correspondence records the questions and communication pathway
+and does not itself determine consultant independence or the technical
+correctness of the representative-monitoring methodology.
 
-State that the disclosure outcome does not, by itself, determine whether an
-authority existed elsewhere, whether a departure occurred, or the legal or
-compliance consequences of the disclosed record.
-
-Preserve the existing K15aa chronology, evidence, links, anchors and unrelated
-content. Update the page to v8.1.14 dated 5 August 2026.
+Preserve the existing page chronology, figures, tables, navigation, stable
+anchors and unrelated content. Update the page to v8.1.15 dated 7 August 2026.
