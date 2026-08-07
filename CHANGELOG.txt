@@ -1,27 +1,41 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.1.16
-Date: 7 August 2026
-
-Updated:
-- representative-monitoring.html
+Release: v8.1.17
+Date: 8 August 2026
 
 Added:
-- documents/Beneficiary-Observations-SLR-Site-Visit-20-May-2021-Redacted.pdf
+- yendon-stage-1.html
+- documents/SLR-Yendon-Stage-1-Post-Construction-Noise-Assessment-October-2023.pdf
+- documents/SLR-Elaine-Stage-1-Post-Construction-Noise-Assessment-October-2023.pdf
+- documents/SLR-Public-Information-Session-Transcript.pdf
+- images/yendon-stage-1/CRG-26-October-2021-Yendon-noise-testing-update.jpg
+- images/yendon-stage-1/BOM-station-087068-rainfall-2021-2022.jpg
+- videos/yendon-monitoring-chronology.mp4
+- videos/yendon-june-2021-second-time.mp4
+- videos/yendon-2021-report-status.mp4
+- videos/yendon-frog-explanation.mp4
 
-Historical Beneficiary record:
-- Added a 20 May 2021 timeline item for the SLR site visit.
-- Added a dedicated section identifying the source as the Beneficiary's written observations of the visit.
-- Recorded the subjects described in the account: the noise report, monitoring south of the wind farm, background data from another location, reported noise and sleep impacts, mitigation discussion, inspection of the dwelling and the sound-related application shown during the visit.
-- Preserved attributed remarks within the source document while expressly stating that the account is not an independent transcript or contemporaneous technical report.
-- Recorded that the document was later provided to the Beneficiary's solicitor.
+Updated:
+- technical-reports.html
+- site.js
+- sitemap.xml
 
-Privacy:
-- Converted the original Word record to a website-safe PDF.
-- Redacted the neighbouring occupier's name from the published copy.
+Yendon Stage 1 page:
+- Built a plain-English chronology of the 2021 and 2022 Stage 1 monitoring pathway.
+- Distinguished the March–May 2021 monitoring, 11 June 2021 attended surveys, September–October 2021 monitoring and later 2022 campaign.
+- Recorded the differing 2022 start-date descriptions contained in the final report and later public explanation.
+- Placed the 26 October 2021 CRG statement about a Yendon report under EPA-auditor review beside SLR's later explanation that no post-construction compliance report was produced from the 2021 monitoring.
+- Compared the 2021 Elaine Stage 1 Appendix D observations, including Yendon survey locations, with the frog observations in the 2022 Yendon Appendix D.
+- Recorded the Yendon report's treatment of frog noise as material to data screening and interpretation.
+- Added a rainfall-timing comparison based solely on the supplied Bureau of Meteorology monthly table.
+- Framed unresolved differences as documentary questions and expressly avoided biological, legal or compliance conclusions unsupported by the record.
 
-Preserved:
-- Existing Representative Monitoring documentary sequence.
-- January 2024 independent-acoustic-engineer correspondence.
-- Existing figures, tables, links, anchors, navigation and unrelated content.
+Media:
+- Converted all four supplied information-session clips to web-compatible H.264/AAC MP4 with fast-start encoding.
+- Embedded each clip with neutral captions and direct fallback links.
 
-Updated the page to v8.1.16 dated 7 August 2026.
+Discovery:
+- Added Yendon Stage 1 to the Technical Reports hub.
+- Added the page to the site search index and sitemap.
+
+Version:
+- New and affected HTML pages updated to v8.1.17 dated 8 August 2026.

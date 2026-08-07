@@ -1,27 +1,37 @@
-feat(representative-monitoring): add 20 May 2021 Beneficiary observations
+feat(record): add dedicated Yendon Stage 1 documentary page
 
-Update the Representative Monitoring page to add the Beneficiary's written
-observations of the SLR site visit conducted on 20 May 2021.
+Add a new Yendon Stage 1 page presenting the post-construction noise record in
+plain English and chronological sequence.
 
-Add the visit to the operational chronology and publish a dedicated historical
-Beneficiary-record section recording the subjects described in the account,
-including discussion of the noise report, monitoring south of the wind farm,
-use of background data from another location, reported noise and sleep impacts,
-possible mitigation, inspection of the dwelling and the sound-related
-application shown during the visit.
+Document the March-May 2021 simultaneous Elaine/Yendon monitoring, the 11 June
+2021 attended surveys, the September-October 2021 Yendon monitoring campaign
+and the later 2022 campaign that produced the final Yendon Stage 1 assessment.
 
-Identify the source expressly as a Beneficiary-authored account that was later
-provided to the Beneficiary's solicitor. State that it is not presented as an
-independent transcript or contemporaneous technical report and that attributed
-remarks remain the Beneficiary's recollection unless separately supported.
+Record the differing descriptions of the 2022 monitoring start date contained
+in the final report and later SLR public explanation without selecting one
+source as determinative.
 
-Convert the original Word document to a website-safe PDF and redact the
-neighbouring occupier's name from the public copy:
+Place the 26 October 2021 CRG statement that the Yendon report was under
+EPA-auditor review beside the later SLR explanation that the 2021 monitoring did
+not result in a post-construction compliance report. Present the difference as
+an unresolved documentary question.
 
-documents/Beneficiary-Observations-SLR-Site-Visit-20-May-2021-Redacted.pdf
+Compare the Elaine Stage 1 Appendix D attended observations, which include
+Yendon survey locations and do not record frogs in the listening notes, with
+the 2022 Yendon Appendix D record where frogs are repeatedly described as
+continuous, prominent or dominant.
 
-Preserve the existing Representative Monitoring sequence, the January 2024
-independent-acoustic-engineer correspondence, figures, tables, stable anchors,
-navigation and unrelated content.
+Record SLR's treatment of wet conditions and frog noise as material to data
+screening and interpretation of the Yendon assessment. Add the supplied Bureau
+of Meteorology monthly rainfall table and align the comparison to the monitoring
+period, while expressly noting that rainfall totals alone cannot establish frog
+populations or calling activity.
 
-Update the page to v8.1.16 dated 7 August 2026.
+Add the supplied source reports, transcript, CRG extract and rainfall image.
+Convert and embed all four supplied information-session clips as H.264/AAC MP4
+with fast-start encoding.
+
+Update the Technical Reports hub, site search index and sitemap to expose the
+new page.
+
+Update affected pages to v8.1.17 dated 8 August 2026.

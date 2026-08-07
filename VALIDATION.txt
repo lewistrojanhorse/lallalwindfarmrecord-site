@@ -1,30 +1,45 @@
 VALIDATION SUMMARY
-Release: v8.1.16 — 7 August 2026
+Release: v8.1.17 — 8 August 2026
 
-PASS — Updated representative-monitoring.html created
-PASS — HTML parses with head and body
-PASS — 20 May 2021 timeline item added
-PASS — Dedicated Beneficiary observations section added
-PASS — Source status described as Beneficiary-authored
-PASS — Independent-transcript limitation included
-PASS — PDF linked
-PASS — Website-safe PDF included
-PASS — Neighbour name removed from published PDF text
-PASS — Final PDF render produced
-PASS — Existing January 2024 section retained
-PASS — SEO release updated
-PASS — JSON-LD version/date updated
-PASS — Visible footer updated
-PASS — Canonical URL retained
-PASS — No class_ defects
+PASS — yendon-stage-1.html parses with head/body/main
+PASS — yendon-stage-1.html no class_ defects
+PASS — yendon-stage-1.html links resolve to new Yendon page where applicable
+PASS — technical-reports.html parses with head/body/main
+PASS — technical-reports.html no class_ defects
+PASS — technical-reports.html links resolve to new Yendon page where applicable
+PASS — Yendon page metadata updated
+PASS — Yendon page canonical correct
+PASS — All four videos embedded
+PASS — All four MP4 files present
+PASS — All video codecs are H.264/AAC
+PASS — CRG image present and linked
+PASS — BOM image present and linked
+PASS — Three source PDFs present
+PASS — 2021 no-frog wording is qualified to Appendix D observations
+PASS — Rainfall limitation included
+PASS — 2021 report-status question framed as unresolved
+PASS — 2022 internal date discrepancy shown
+PASS — Site search includes new page
+PASS — Sitemap includes new page
 
 Scope:
-- Updated representative-monitoring.html.
-- Added documents/Beneficiary-Observations-SLR-Site-Visit-20-May-2021-Redacted.pdf.
-- Added a 20 May 2021 timeline entry and a dedicated historical Beneficiary-record section.
-- Preserved all existing Representative Monitoring content, figures, tables, anchors, navigation and the January 2024 correspondence section.
+- Added yendon-stage-1.html as a dedicated Stage 1 documentary page.
+- Updated technical-reports.html to link the new pathway.
+- Updated site.js search index and sitemap.xml.
+- Added the supplied Yendon and Elaine Stage 1 reports and information-session transcript.
+- Added the supplied CRG extract and Bureau of Meteorology rainfall screenshot.
+- Converted all four supplied MOV clips to H.264/AAC MP4 with fast-start encoding.
 
-Source handling:
-- The original Word document was converted to PDF without rewriting its substantive text.
-- The neighbouring occupier's name was redacted from the public website copy.
-- The source is expressly identified as a Beneficiary-authored account rather than an independent transcript or technical report.
+Editorial safeguards:
+- Stage 2 Yendon material was not added.
+- The page distinguishes continuous monitoring from attended observations.
+- The October 2021 report-status issue is presented as an unreconciled documentary question, not a finding of misconduct or non-compliance.
+- The rainfall comparison is presented as a documentary timing comparison, not as a biological conclusion about frog populations.
+- The absence-of-frogs statement is limited to the Appendix D attended-observation notes in the 2021 Elaine Stage 1 report.
+
+Rainfall arithmetic reproduced from the supplied BOM screenshot:
+- January–July: 2021 426.2 mm; 2022 364.0 mm.
+- May–July: 2021 218.2 mm; 2022 134.8 mm.
+- June–July: 2021 136.8 mm; 2022 106.2 mm.
+- January–August: 2021 471.2 mm; 2022 482.6 mm.
+- September–December: 2021 243.8 mm; 2022 395.6 mm.
