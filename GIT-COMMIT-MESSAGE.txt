@@ -1,37 +1,40 @@
-feat(record): add dedicated Yendon Stage 1 documentary page
+feat(yendon): refine rainfall record and add ARUP verification
 
-Add a new Yendon Stage 1 page presenting the post-construction noise record in
-plain English and chronological sequence.
+Update the Yendon Stage 1 page to align the rainfall comparison with the actual
+dates of the attended observations and unattended monitoring.
 
-Document the March-May 2021 simultaneous Elaine/Yendon monitoring, the 11 June
-2021 attended surveys, the September-October 2021 Yendon monitoring campaign
-and the later 2022 campaign that produced the final Yendon Stage 1 assessment.
+Record that the Elaine Stage 1 Appendix D attended observations end on
+11 June 2021 and the Yendon Stage 1 Appendix D observations continue to
+17 June 2022. Separate this attended-listening comparison from the longer
+unattended monitoring period.
 
-Record the differing descriptions of the 2022 monitoring start date contained
-in the final report and later SLR public explanation without selecting one
-source as determinative.
+Add the Yendon Table 3 extract showing monitoring from 26 May 2022, with N31ab
+ending on 18 July and M29aa and K34aa ending on 1 August 2022. Remove August
+rainfall from the comparison because it falls outside the substantive monitoring
+period, and do not use July or August rainfall to explain frog observations made
+by mid-June.
 
-Place the 26 October 2021 CRG statement that the Yendon report was under
-EPA-auditor review beside the later SLR explanation that the 2021 monitoring did
-not result in a post-construction compliance report. Present the difference as
-an unresolved documentary question.
+Recalculate the supplied BOM monthly rainfall comparison through June for the
+attended observations and through July for the unattended monitoring. Record
+that the displayed comparable 2021 periods were wetter than the corresponding
+2022 periods, while stating that monthly rainfall totals alone cannot establish
+frog populations or calling activity and that daily rainfall would be required
+for a date-specific comparison.
 
-Compare the Elaine Stage 1 Appendix D attended observations, which include
-Yendon survey locations and do not record frogs in the listening notes, with
-the 2022 Yendon Appendix D record where frogs are repeatedly described as
-continuous, prominent or dominant.
+Add the supplied 17 June 2022 Appendix D extract showing daytime frog
+observations, including “Frogs dominant” at K34aa.
 
-Record SLR's treatment of wet conditions and frog noise as material to data
-screening and interpretation of the Yendon assessment. Add the supplied Bureau
-of Meteorology monthly rainfall table and align the comparison to the monitoring
-period, while expressly noting that rainfall totals alone cannot establish frog
-populations or calling activity.
+Add a dedicated section for the ARUP Verification of Post-Construction Noise
+Assessment dated 7 December 2023. Record that the alternative 0.5 dB screening
+method produced marginal exceedances around 10 m/s at N31ab and K34aa, that
+SLR attributed the marginal exceedance to seasonal extraneous wildlife noise,
+and that the auditor did not then consider the assessment to demonstrate
+compliance for all noise-sensitive receivers.
 
-Add the supplied source reports, transcript, CRG extract and rainfall image.
-Convert and embed all four supplied information-session clips as H.264/AAC MP4
-with fast-start encoding.
+Present the ARUP outcome as part of the documentary record and do not convert
+the alternative analysis into a separate legal finding of non-compliance.
 
-Update the Technical Reports hub, site search index and sitemap to expose the
-new page.
+Preserve the existing Yendon chronology, videos, source reports, CRG extract,
+navigation and discovery files.
 
-Update affected pages to v8.1.17 dated 8 August 2026.
+Update affected pages to v8.1.18 dated 8 August 2026.

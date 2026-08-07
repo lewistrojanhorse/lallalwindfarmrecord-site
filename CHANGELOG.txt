@@ -1,41 +1,42 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.1.17
+Release: v8.1.18
 Date: 8 August 2026
 
-Added:
-- yendon-stage-1.html
-- documents/SLR-Yendon-Stage-1-Post-Construction-Noise-Assessment-October-2023.pdf
-- documents/SLR-Elaine-Stage-1-Post-Construction-Noise-Assessment-October-2023.pdf
-- documents/SLR-Public-Information-Session-Transcript.pdf
-- images/yendon-stage-1/CRG-26-October-2021-Yendon-noise-testing-update.jpg
-- images/yendon-stage-1/BOM-station-087068-rainfall-2021-2022.jpg
-- videos/yendon-monitoring-chronology.mp4
-- videos/yendon-june-2021-second-time.mp4
-- videos/yendon-2021-report-status.mp4
-- videos/yendon-frog-explanation.mp4
-
 Updated:
+- yendon-stage-1.html
 - technical-reports.html
 - site.js
 - sitemap.xml
 
-Yendon Stage 1 page:
-- Built a plain-English chronology of the 2021 and 2022 Stage 1 monitoring pathway.
-- Distinguished the March–May 2021 monitoring, 11 June 2021 attended surveys, September–October 2021 monitoring and later 2022 campaign.
-- Recorded the differing 2022 start-date descriptions contained in the final report and later public explanation.
-- Placed the 26 October 2021 CRG statement about a Yendon report under EPA-auditor review beside SLR's later explanation that no post-construction compliance report was produced from the 2021 monitoring.
-- Compared the 2021 Elaine Stage 1 Appendix D observations, including Yendon survey locations, with the frog observations in the 2022 Yendon Appendix D.
-- Recorded the Yendon report's treatment of frog noise as material to data screening and interpretation.
-- Added a rainfall-timing comparison based solely on the supplied Bureau of Meteorology monthly table.
-- Framed unresolved differences as documentary questions and expressly avoided biological, legal or compliance conclusions unsupported by the record.
+Added:
+- images/yendon-stage-1/Yendon-Appendix-D-17-June-2022-frog-observations.jpg
+- images/yendon-stage-1/Yendon-Table-3-monitoring-periods-26-May-1-August-2022.jpg
+- images/yendon-stage-1/ARUP-Yendon-Verification-7-December-2023-page-17-extract.jpg
 
-Media:
-- Converted all four supplied information-session clips to web-compatible H.264/AAC MP4 with fast-start encoding.
-- Embedded each clip with neutral captions and direct fallback links.
+Yendon Stage 1:
+- Corrected the rainfall comparison so attended observations and unattended monitoring are treated as separate time periods.
+- Recorded that the last Elaine Appendix D attended observations are dated 11 June 2021 and Yendon Appendix D observations continue to 17 June 2022.
+- Removed July and August rainfall from the attended-observation comparison.
+- Removed August rainfall from the unattended-monitoring comparison because Table 3 shows the latest monitoring endpoint as 1 August 2022.
+- Added the supplied Table 3 extract showing N31ab monitoring to 18 July 2022 and M29aa/K34aa to 1 August 2022.
+- Added the 17 June 2022 Yendon Appendix D extract showing daytime frog observations, including “Frogs dominant” at K34aa.
+- Recalculated the displayed BOM monthly comparisons through June for attended observations and through July for unattended monitoring.
+- Recorded that the displayed comparable 2021 periods were wetter than the corresponding 2022 periods, while preserving the limitation that monthly rainfall does not establish frog populations or calling activity.
 
-Discovery:
-- Added Yendon Stage 1 to the Technical Reports hub.
-- Added the page to the site search index and sitemap.
+ARUP verification:
+- Added a dedicated independent-auditor section using the supplied 7 December 2023 page 17 extract.
+- Recorded that the 0.1 dB NCTP method indicated compliance with a relatively small night-time margin around 10–11 m/s.
+- Recorded that the alternative 0.5 dB method produced marginal exceedances around 10 m/s at N31ab and K34aa.
+- Recorded ARUP's statement that SLR attributed the marginal exceedance to seasonal extraneous wildlife noise.
+- Recorded the auditor's position that the assessment did not then demonstrate compliance for all noise-sensitive receivers.
+- Expressly avoided treating the alternative analysis as a separate legal finding of non-compliance.
 
-Version:
-- New and affected HTML pages updated to v8.1.17 dated 8 August 2026.
+Preserved:
+- Existing Yendon Stage 1 chronology.
+- All four information-session videos.
+- CRG report-status extract.
+- SLR Yendon and Elaine reports.
+- Information-session transcript.
+- Technical Reports navigation and search/sitemap discovery.
+
+Updated affected HTML metadata and visible footer to v8.1.18 dated 8 August 2026.

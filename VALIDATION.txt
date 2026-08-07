@@ -1,45 +1,47 @@
 VALIDATION SUMMARY
-Release: v8.1.17 — 8 August 2026
+Release: v8.1.18 — 8 August 2026
 
-PASS — yendon-stage-1.html parses with head/body/main
-PASS — yendon-stage-1.html no class_ defects
-PASS — yendon-stage-1.html links resolve to new Yendon page where applicable
-PASS — technical-reports.html parses with head/body/main
-PASS — technical-reports.html no class_ defects
-PASS — technical-reports.html links resolve to new Yendon page where applicable
-PASS — Yendon page metadata updated
-PASS — Yendon page canonical correct
-PASS — All four videos embedded
-PASS — All four MP4 files present
-PASS — All video codecs are H.264/AAC
-PASS — CRG image present and linked
-PASS — BOM image present and linked
-PASS — Three source PDFs present
-PASS — 2021 no-frog wording is qualified to Appendix D observations
-PASS — Rainfall limitation included
-PASS — 2021 report-status question framed as unresolved
-PASS — 2022 internal date discrepancy shown
-PASS — Site search includes new page
-PASS — Sitemap includes new page
+PASS — Yendon page parses with head/body/main
+PASS — Release metadata updated to v8.1.18
+PASS — Visible footer updated
+PASS — Attended observations endpoint recorded
+PASS — 17 June frog extract included
+PASS — Monitoring Table 3 extract included
+PASS — August rainfall removed from comparison table
+PASS — Attended rainfall comparison uses through June
+PASS — Unattended rainfall comparison uses through July
+PASS — Correct Jan-Jun arithmetic
+PASS — Correct May-Jul arithmetic
+PASS — Daily-rainfall limitation included
+PASS — ARUP section added
+PASS — ARUP extract included
+PASS — Marginal exceedances recorded
+PASS — SLR wildlife attribution recorded
+PASS — Auditor non-demonstration position recorded
+PASS — ARUP qualification avoids legal conclusion
+PASS — Present documentary position renumbered to 7
+PASS — All prior videos retained
+PASS — All prior source PDFs retained
+PASS — No class_ defects
 
-Scope:
-- Added yendon-stage-1.html as a dedicated Stage 1 documentary page.
-- Updated technical-reports.html to link the new pathway.
-- Updated site.js search index and sitemap.xml.
-- Added the supplied Yendon and Elaine Stage 1 reports and information-session transcript.
-- Added the supplied CRG extract and Bureau of Meteorology rainfall screenshot.
-- Converted all four supplied MOV clips to H.264/AAC MP4 with fast-start encoding.
+Key corrections from v8.1.17:
+- Separated rainfall relevant to attended observations from rainfall relevant to unattended monitoring.
+- Recorded that the Elaine Appendix D attended observations end on 11 June 2021 and the Yendon Appendix D attended observations end on 17 June 2022.
+- Removed August rainfall from the monitoring-period comparison because the latest Table 3 monitoring endpoint is 1 August 2022.
+- Added the Yendon Table 3 extract showing N31ab to 18 July and M29aa/K34aa to 1 August 2022.
+- Added the 17 June 2022 Appendix D extract showing daytime frog observations.
+- Added the supplied ARUP verification extract dated 7 December 2023.
+- Recorded ARUP's description of marginal exceedances under the 0.5 dB method, SLR's wildlife-noise attribution and the auditor's position that the assessment did not then demonstrate compliance for all noise-sensitive receivers.
 
-Editorial safeguards:
-- Stage 2 Yendon material was not added.
-- The page distinguishes continuous monitoring from attended observations.
-- The October 2021 report-status issue is presented as an unreconciled documentary question, not a finding of misconduct or non-compliance.
-- The rainfall comparison is presented as a documentary timing comparison, not as a biological conclusion about frog populations.
-- The absence-of-frogs statement is limited to the Appendix D attended-observation notes in the 2021 Elaine Stage 1 report.
-
-Rainfall arithmetic reproduced from the supplied BOM screenshot:
+Rainfall arithmetic reproduced from the supplied BOM monthly table:
+- January–June: 2021 374.0 mm; 2022 320.4 mm.
+- March–June: 2021 252.8 mm; 2022 211.2 mm.
+- May–June: 2021 166.0 mm; 2022 91.2 mm.
 - January–July: 2021 426.2 mm; 2022 364.0 mm.
 - May–July: 2021 218.2 mm; 2022 134.8 mm.
-- June–July: 2021 136.8 mm; 2022 106.2 mm.
-- January–August: 2021 471.2 mm; 2022 482.6 mm.
-- September–December: 2021 243.8 mm; 2022 395.6 mm.
+
+Editorial safeguards:
+- Monthly rainfall is not presented as proof of frog population or calling activity.
+- The page notes that daily rainfall would be required to compare rainfall accumulated before the exact attended-listening dates.
+- The ARUP 0.5 dB result is not presented as an independent legal finding of non-compliance.
+- Stage 2 Yendon material remains outside the page.
