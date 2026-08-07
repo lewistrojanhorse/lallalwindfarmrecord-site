@@ -1,23 +1,27 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.1.15
+Release: v8.1.16
 Date: 7 August 2026
 
 Updated:
 - representative-monitoring.html
 
 Added:
-- documents/Independent-Acoustic-Engineer-Enquiry-January-2024-Redacted.pdf
+- documents/Beneficiary-Observations-SLR-Site-Visit-20-May-2021-Redacted.pdf
 
-Representative Monitoring:
-- Added a new January 2024 administrative-correspondence section.
-- Recorded the Beneficiary's questions concerning K15aa, J14aa, I14aa and the representative-monitoring pathway.
-- Recorded the disclosed SLR email statement that a response would not be provided unless instructed.
-- Recorded the subsequent question concerning the Planning Permit requirement for a suitably qualified and experienced independent acoustic engineer.
-- Recorded the 24 January 2024 formal enquiry to Lal Lal Wind Farm seeking its understanding of “Independent Acoustic Engineer”.
-- Added a neutral limitation that the correspondence does not itself determine independence or technical correctness.
+Historical Beneficiary record:
+- Added a 20 May 2021 timeline item for the SLR site visit.
+- Added a dedicated section identifying the source as the Beneficiary's written observations of the visit.
+- Recorded the subjects described in the account: the noise report, monitoring south of the wind farm, background data from another location, reported noise and sleep impacts, mitigation discussion, inspection of the dwelling and the sound-related application shown during the visit.
+- Preserved attributed remarks within the source document while expressly stating that the account is not an independent transcript or contemporaneous technical report.
+- Recorded that the document was later provided to the Beneficiary's solicitor.
 
 Privacy:
-- Published a redacted website copy of the email chain.
-- Removed personal/direct email addresses and telephone numbers while preserving substantive documentary content.
+- Converted the original Word record to a website-safe PDF.
+- Redacted the neighbouring occupier's name from the published copy.
 
-Updated the page to v8.1.15 dated 7 August 2026.
+Preserved:
+- Existing Representative Monitoring documentary sequence.
+- January 2024 independent-acoustic-engineer correspondence.
+- Existing figures, tables, links, anchors, navigation and unrelated content.
+
+Updated the page to v8.1.16 dated 7 August 2026.

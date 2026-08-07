@@ -1,28 +1,27 @@
-feat(representative-monitoring): add January 2024 independence enquiry
+feat(representative-monitoring): add 20 May 2021 Beneficiary observations
 
-Update the Representative Monitoring documentary record to add the January 2024
-correspondence concerning the representative-monitoring pathway and the Planning
-Permit requirement for a suitably qualified and experienced independent acoustic
-engineer.
+Update the Representative Monitoring page to add the Beneficiary's written
+observations of the SLR site visit conducted on 20 May 2021.
 
-Record the Beneficiary's questions concerning K15aa monitoring, the J14aa
-interim assessment, the K15aa background-report requirement, the Elaine
-post-construction assessment and whether SLR had been informed of earlier
-background monitoring at St Sava Monastery (I14aa).
+Add the visit to the operational chronology and publish a dedicated historical
+Beneficiary-record section recording the subjects described in the account,
+including discussion of the noise report, monitoring south of the wind farm,
+use of background data from another location, reported noise and sleep impacts,
+possible mitigation, inspection of the dwelling and the sound-related
+application shown during the visit.
 
-Record the disclosed email statement that the SLR Technical Director would not
-respond unless instructed, the subsequent question concerning consultant
-independence, and the 24 January 2024 formal enquiry asking Lal Lal Wind Farm to
-explain its understanding of “Independent Acoustic Engineer” under the Planning
-Permit.
+Identify the source expressly as a Beneficiary-authored account that was later
+provided to the Beneficiary's solicitor. State that it is not presented as an
+independent transcript or contemporaneous technical report and that attributed
+remarks remain the Beneficiary's recollection unless separately supported.
 
-Publish a privacy-redacted copy of the correspondence as:
+Convert the original Word document to a website-safe PDF and redact the
+neighbouring occupier's name from the public copy:
 
-documents/Independent-Acoustic-Engineer-Enquiry-January-2024-Redacted.pdf
+documents/Beneficiary-Observations-SLR-Site-Visit-20-May-2021-Redacted.pdf
 
-State that the correspondence records the questions and communication pathway
-and does not itself determine consultant independence or the technical
-correctness of the representative-monitoring methodology.
+Preserve the existing Representative Monitoring sequence, the January 2024
+independent-acoustic-engineer correspondence, figures, tables, stable anchors,
+navigation and unrelated content.
 
-Preserve the existing page chronology, figures, tables, navigation, stable
-anchors and unrelated content. Update the page to v8.1.15 dated 7 August 2026.
+Update the page to v8.1.16 dated 7 August 2026.
