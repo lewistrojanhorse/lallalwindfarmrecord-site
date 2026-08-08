@@ -1,37 +1,22 @@
 Lal Lal Wind Farm Record - CHANGELOG
-Release: v8.2.2
+Release: v8.2.3
 Date: 8 August 2026
 
 Updated:
-- operational-correspondence.html
+- agency-records.html
 - chronology.html
-- documents.html
-- index.html
-- k15aa.html
-- sac.html
 - sitemap.xml
 
 Added:
-- documents/Trustee-SLR-Professional-Clarification-Correspondence-26-July-to-5-August-2026.pdf
-- documents/DTP-FOI-CS019200-Part-4-Supplementary-Clarification-4-August-2026.pdf
+- images/council/Beneficiary-email-Council-third-Elaine-met-mast-7-October-2024.jpg
 
-Professional clarification chronology:
-- Expanded the record to include the complete Trustee/SLR correspondence sequence from 26 July to 5 August 2026.
-- 26 July 2026: original Notice issued.
-- 29 July 2026: Trustee forwarded updated SAC material for information and convenience only.
-- 3 August 2026: original response date passed.
-- 4 August 2026: DTP issued its supplementary clarification for FOI CS019200 Part 4.
-- 5 August 2026: Trustee forwarded the DTP clarification to SLR for information so that any response could address the current documentary record.
-- Recorded that both later emails expressly left the 26 July Notice unchanged.
-- 8 August 2026: no response, acknowledgement or request for additional time recorded.
+Moorabool Shire Council / Elaine meteorological monitoring facility:
+- Added the Beneficiary's 7 October 2024 email to Henry Bezuidenhout, Executive Manager Community Planning & Development, concerning the number of meteorological monitoring facilities permitted for the Lal Lal Wind Farm.
+- Recorded that the email referred to earlier Council advice concerning secondary consent, a temporary anemometer and the amended Substation Layout Plan.
+- Recorded that the Beneficiary expressly raised what he described as a third meteorological monitoring facility at the Elaine portion of the wind farm and requested the planning permit, authorising document or other instrument relied upon for the facility and its relocation.
+- Reproduced the supplied email image directly with the historical chronology.
+- Clarified that the entry records what was put to Council and does not independently establish that the asserted third facility was unauthorised.
+- Updated the present documentary position to connect this October 2024 enquiry with the later 2026 Trustee planning-administration, FOI and Governance pathway.
+- Added a separate 7 October 2024 entry to the main chronology linking to the Council record, while preserving the existing 4-7 October 2024 commissioning-enquiry entry.
 
-DTP clarification:
-- Added the 4 August 2026 letter stating that the Energy and Infrastructure Assessment Branch did not believe DTP possessed documentary authority permitting the identified departures from the NZS 6808:2010 definitions of background sound level and notional boundary.
-- Recorded DTP's statement that, following relevant enquiries, it was unable to locate documents responsive to Part 4.
-
-AAS:
-- Preserved the existing separate Beneficiary-process entry.
-- Retained the privacy-redacted Beneficiary notification.
-- Formal AAS complaint remains unpublished.
-
-Updated affected pages to v8.2.2 dated 8 August 2026.
+Updated affected pages to v8.2.3 dated 8 August 2026.

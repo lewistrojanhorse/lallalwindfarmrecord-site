@@ -1,58 +1,33 @@
 VALIDATION SUMMARY
-Release: v8.2.2 - 8 August 2026
+Release: v8.2.3 - 8 August 2026
 
-PASS - operational-correspondence.html: parses
-PASS - operational-correspondence.html: v8.2.2 metadata
-PASS - operational-correspondence.html: footer updated
-PASS - operational-correspondence.html: no class_ defect
-PASS - chronology.html: parses
-PASS - chronology.html: v8.2.2 metadata
-PASS - chronology.html: footer updated
+PASS - agency-records.html: parses with head/body/main
+PASS - agency-records.html: v8.2.3 metadata
+PASS - agency-records.html: visible footer
+PASS - agency-records.html: no class_ defect
+PASS - chronology.html: parses with head/body/main
+PASS - chronology.html: v8.2.3 metadata
+PASS - chronology.html: visible footer
 PASS - chronology.html: no class_ defect
-PASS - documents.html: parses
-PASS - documents.html: v8.2.2 metadata
-PASS - documents.html: footer updated
-PASS - documents.html: no class_ defect
-PASS - index.html: parses
-PASS - index.html: v8.2.2 metadata
-PASS - index.html: footer updated
-PASS - index.html: no class_ defect
-PASS - k15aa.html: parses
-PASS - k15aa.html: v8.2.2 metadata
-PASS - k15aa.html: footer updated
-PASS - k15aa.html: no class_ defect
-PASS - sac.html: parses
-PASS - sac.html: v8.2.2 metadata
-PASS - sac.html: footer updated
-PASS - sac.html: no class_ defect
-PASS - Full correspondence PDF included
-PASS - DTP clarification PDF included
-PASS - 29 July SAC supplementary email recorded
-PASS - 5 August DTP forwarding email recorded
-PASS - Original Notice remains unchanged wording recorded
-PASS - Chronology includes 29 July
-PASS - Chronology includes 4 August
-PASS - Chronology includes 5 August
-PASS - Documents page links full chain
-PASS - Documents page links DTP clarification
-PASS - AAS redacted notification retained
-PASS - Formal AAS complaint still excluded
+PASS - Documentary image copied unchanged
+PASS - Agency Records includes 7 October 2024 entry
+PASS - Agency Records frames assertion safely
+PASS - Agency Records links documentary image
+PASS - Chronology includes exact 7 October 2024 row
+PASS - Chronology links stable new anchor
+PASS - Existing 2026 Moorabool pathway retained
+PASS - Latest professional-clarification chronology retained
+PASS - Sitemap agency lastmod updated
+PASS - Sitemap chronology lastmod updated
 
-Scope of v8.2.2:
-- Expanded the professional-clarification record from the single Notice/status entry to the complete correspondence sequence supplied by the Trustee.
-- Added the 29 July 2026 information-only SAC update.
-- Added the 4 August 2026 DTP FOI CS019200 Part 4 supplementary clarification.
-- Added the 5 August 2026 information-only forwarding email to SLR.
-- Preserved the 26 July Notice as the governing procedural document and recorded that the later emails did not amend it.
-- Added the complete Trustee/SLR email chain as a source PDF.
-- Added the DTP supplementary clarification as a source PDF.
-- Expanded chronology and homepage references accordingly.
+Scope:
+- Updated agency-records.html.
+- Updated chronology.html.
+- Updated sitemap.xml lastmod values.
+- Added one supplied documentary image under images/council/.
 
-Privacy and AAS:
-- Existing Beneficiary notification PDF remains redacted only for the Beneficiary's personal email address.
-- Trustee public contact email remains visible.
-- Formal AAS complaint remains unpublished.
-
-Editorial position:
-- The later correspondence is presented as supplementary information supplied during the procedural opportunity, not as an amendment to the Notice.
-- The no-response status remains factual and expressly non-adverse.
+Documentary treatment:
+- Preserved the 7 October 2024 email image exactly as supplied; no redaction or image alteration applied.
+- Recorded the email as historical Beneficiary correspondence showing what was put to Council.
+- Did not convert the Beneficiary's assertion of a third Elaine facility into an independent finding of unauthorised development.
+- Connected the 2024 enquiry to the later 2026 planning-administration, FOI and Governance pathway.
