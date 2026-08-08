@@ -1,38 +1,57 @@
 VALIDATION SUMMARY
-Release: v8.1.19 — 8 August 2026
+Release: v8.2.1 - 8 August 2026
 
-PASS — Updated commissioning page created
-PASS — HTML parses with head/body/main
-PASS — Release metadata updated
-PASS — Visible footer updated
-PASS — Canonical URL retained
-PASS — IGN 10 Dec 2020 date recorded
-PASS — IGN 22 Dec 2020 full-output date recorded
-PASS — VCAT early-mid 2021 wording recorded
-PASS — VCAT status clearly identified as submission not finding
-PASS — SLR practical completion wording recorded
-PASS — ARUP ongoing commissioning wording recorded
-PASS — ARUP 85–90% exclusion recorded
-PASS — NCTP trigger question included
-PASS — Existing IGN monitoring-trigger exhibit retained
-PASS — Existing earlier chronology retained
-PASS — All four new documentary images included
-PASS — All four new primary-source PDFs included
-PASS — Source register updated for VCAT
-PASS — No class_ defects
+PASS - operational-correspondence.html: parses with head/body/main
+PASS - operational-correspondence.html: release metadata updated
+PASS - operational-correspondence.html: visible footer updated
+PASS - operational-correspondence.html: no class_ defects
+PASS - chronology.html: parses with head/body/main
+PASS - chronology.html: release metadata updated
+PASS - chronology.html: visible footer updated
+PASS - chronology.html: no class_ defects
+PASS - documents.html: parses with head/body/main
+PASS - documents.html: release metadata updated
+PASS - documents.html: visible footer updated
+PASS - documents.html: no class_ defects
+PASS - index.html: parses with head/body/main
+PASS - index.html: release metadata updated
+PASS - index.html: visible footer updated
+PASS - index.html: no class_ defects
+PASS - k15aa.html: parses with head/body/main
+PASS - k15aa.html: release metadata updated
+PASS - k15aa.html: visible footer updated
+PASS - k15aa.html: no class_ defects
+PASS - sac.html: parses with head/body/main
+PASS - sac.html: release metadata updated
+PASS - sac.html: visible footer updated
+PASS - sac.html: no class_ defects
+PASS - Professional clarification section added
+PASS - 26 July Notice linked
+PASS - No-response status recorded to 8 August
+PASS - No-adverse-inference safeguard included
+PASS - AAS complaint recorded as separate Beneficiary process
+PASS - No AAS finding/determination represented
+PASS - Future AAS outcome wording uses may
+PASS - Formal AAS complaint PDF not published
+PASS - Beneficiary email redacted
+PASS - Trustee public email retained
+PASS - Redacted PDF render produced
 
 Scope:
-- Updated commissioning-final-turbine.html only as the substantive page change.
-- Updated sitemap.xml lastmod for the commissioning page.
-- Added four documentary images and four primary-source PDFs required by the new reconciliation section.
+- Updated operational-correspondence.html as the primary substantive record.
+- Updated chronology.html with 26 July, 2 August, 3 August and 8 August procedural events.
+- Updated documents.html to publish the 26 July Notice and the redacted Beneficiary notification.
+- Updated index.html with a restrained current-development entry and latest Notice record.
+- Added cross-references from k15aa.html and sac.html.
+- Updated sitemap.xml last-modified dates for affected pages.
 
-Documentary additions:
-- LLWF EPA IGN response: commissioning completed 10 December 2020; Yendon released to full output 22 December 2020.
-- LLWF VCAT P775/2023 Practice Day Submissions: main construction completed early to mid-2021; full commissioning and operation occurred subsequently.
-- SLR Yendon Stage 1 report: electrical/mechanical completion, full-power release and practical completion.
-- ARUP Yendon verification: 85–90% data exclusion associated with NCTP screening, regular turbine downtime, ongoing commissioning and AEMO generation constraints.
+Privacy:
+- Redacted only the Beneficiary's personal email address from the 2 August Trustee-record email.
+- Retained the Trustee's public website contact email address.
+- The formal AAS complaint itself is not published in this deployment package.
 
 Editorial safeguards:
-- The VCAT material is identified as the Permit Holder's submission and not a VCAT finding.
-- Generation, full-output release, practical completion, commissioning completion and final-turbine commissioning are not treated as synonymous.
-- The page asks which commissioning event/date was used to administer the NCTP timing windows rather than selecting a legal answer unsupported by the disclosed record.
+- The absence of a response is recorded factually; no adverse inference is drawn merely from non-response.
+- The AAS complaint is identified as a separate Beneficiary process and not adopted by the Trustee.
+- No AAS finding or determination is represented as having been made.
+- Future AAS findings or determination are described only as material that may be added where appropriate.

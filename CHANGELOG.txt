@@ -1,30 +1,42 @@
-Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.1.19
+Lal Lal Wind Farm Record - CHANGELOG
+Release: v8.2.1
 Date: 8 August 2026
 
 Updated:
-- commissioning-final-turbine.html
+- operational-correspondence.html
+- chronology.html
+- documents.html
+- index.html
+- k15aa.html
+- sac.html
 - sitemap.xml
 
 Added:
-- images/commissioning/ign-00008382-commissioning-full-output-dates.jpg
-- images/commissioning/slr-yendon-practical-completion.jpg
-- images/commissioning/arup-yendon-ongoing-commissioning-data-exclusion.jpg
-- images/commissioning/vcat-p775-2023-llwf-full-commissioning-submission.jpg
-- documents/commissioning/LLWF-Response-EPA-IGN-00008382.pdf
-- documents/commissioning/SLR-Yendon-Stage-1-Post-Construction-Noise-Assessment-October-2023.pdf
-- documents/commissioning/ARUP-Yendon-Verification-7-December-2023.pdf
-- documents/commissioning/VCAT-P775-2023-LLWF-Practice-Day-Submissions.pdf
+- documents/Notice-Opportunity-to-Clarify-Professional-Positions-26-July-2026.pdf
+- documents/Beneficiary-Notice-to-Trustee-AAS-Complaint-2-August-2026-Redacted.pdf
 
-Commissioning reconciliation:
-- Expanded the existing conflicting-date record into a side-by-side commissioning and operational-status reconciliation.
-- Recorded LLWF's later EPA IGN statement that commissioning completed on 10 December 2020 and Yendon was released to full output by AEMO on 22 December 2020.
-- Added the Permit Holder's VCAT P775/2023 Practice Day submission stating that construction continued through early to mid-2021 and that full commissioning and operation occurred subsequently.
-- Clearly identified the VCAT material as a party submission, not a Tribunal finding.
-- Added SLR's October 2023 statement that the wind farm was electrically and mechanically complete, released to generate at full power and had reached practical completion.
-- Added ARUP's 7 December 2023 verification statement that 85–90% of measurement data was excluded due to the NCTP screening sensitivity together with regular turbine downtime associated with ongoing commissioning and AEMO generation constraints.
-- Preserved the earlier 18–19 November 2019 public chronology and the existing IGN/NCTP trigger comparison.
-- Added the plain-English documentary question: which commissioning event and date was actually used to administer the NCTP's mandatory Stage 1 and Stage 2 timing windows?
-- Preserved the distinction between generation, release to full output, commissioning completion, full commissioning, practical completion and final-turbine commissioning.
+Professional acoustic record:
+- Published the Trustee's 26 July 2026 Notice - Opportunity to Clarify Professional Positions and Authorising Basis.
+- Recorded that the response date was 3 August 2026.
+- Recorded that, as at 8 August 2026, no response, acknowledgement or request for additional time had been received by the Trustee.
+- Preserved the Notice's safeguard that no adverse inference is drawn merely from the absence of a response.
+- Added a dedicated Operational Correspondence section as the primary substantive pathway.
 
-Updated the affected page to v8.1.19 dated 8 August 2026.
+Australian Acoustical Society:
+- Recorded the Beneficiary's 2 August 2026 notification that a separate professional-conduct complaint had been lodged with the Australian Acoustical Society.
+- Recorded that the notification was provided to the Trustee for information and administrative-record purposes only and did not seek adoption or endorsement.
+- Recorded that no AAS finding or determination is presently held on the public record.
+- Recorded that any later findings or determination may be added to the documentary record where appropriate.
+- Did not publish the formal AAS complaint itself.
+
+Privacy:
+- Published a redacted copy of the Beneficiary's Trustee-record email.
+- Redacted only the Beneficiary's personal email address.
+- Retained the Trustee's public website contact email address.
+
+Cross-references:
+- Added chronology entries for 26 July, 2 August, 3 August and 8 August 2026.
+- Added restrained Home page and Latest Notices entries.
+- Added K15aa and SAC cross-references back to Operational Correspondence.
+
+Updated affected pages to v8.2.1 dated 8 August 2026.

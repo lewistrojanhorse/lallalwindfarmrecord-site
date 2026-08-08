@@ -1,3 +1,38 @@
-Repository-wide documentary reconciliation — 8 August 2026 (v8.2.0)
+feat(record): publish professional clarification opportunity and response status
 
-Reconcile DTP CS019200 Part 4 supplementary clarification across principal reader pathways, preserve Yendon Stage 1 and final-turbine commissioning updates, refresh repository metadata/search/sitemap, and retain stable URLs and documentary chronology.
+Update the public record to publish the Trustee's 26 July 2026 Notice -
+Opportunity to Clarify Professional Positions and Authorising Basis concerning
+the professional acoustic record.
+
+Add a dedicated Operational Correspondence section recording the procedural
+purpose of the Notice, the 3 August 2026 response date and the position as at
+8 August 2026 that no response, acknowledgement or request for additional time
+had been received by the Trustee.
+
+Preserve the Notice's express procedural safeguard that no adverse inference is
+drawn merely from the absence of a response. Record only that the documentary
+record remains without clarification or additional material from the recipient
+in response to the opportunity afforded.
+
+Separately record the Beneficiary's 2 August 2026 notification to the Trustee
+that a professional-conduct complaint had been lodged with the Australian
+Acoustical Society. Identify the complaint as a separate Beneficiary process
+provided for Trustee information and administrative-record purposes only, with
+no request for Trustee adoption or endorsement.
+
+Record that no AAS finding or determination is presently published. State that
+if the Society later makes findings or otherwise determines the matter, resulting
+correspondence or a determination may be added to the documentary record where
+appropriate.
+
+Publish a privacy-redacted copy of the Beneficiary's notification email,
+redacting only the Beneficiary's personal email address while retaining the
+Trustee's public website contact email. Do not publish the formal AAS complaint
+itself at this stage.
+
+Add chronology entries for 26 July, 2 August, 3 August and 8 August 2026,
+publish the 26 July Notice in the Document Library, add restrained Home page and
+Latest Notices references, and cross-reference the procedural record from the
+K15aa and SAC pages.
+
+Update affected pages and sitemap metadata to v8.2.1 dated 8 August 2026.
