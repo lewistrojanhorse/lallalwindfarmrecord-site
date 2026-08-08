@@ -1,57 +1,58 @@
 VALIDATION SUMMARY
-Release: v8.2.1 - 8 August 2026
+Release: v8.2.2 - 8 August 2026
 
-PASS - operational-correspondence.html: parses with head/body/main
-PASS - operational-correspondence.html: release metadata updated
-PASS - operational-correspondence.html: visible footer updated
-PASS - operational-correspondence.html: no class_ defects
-PASS - chronology.html: parses with head/body/main
-PASS - chronology.html: release metadata updated
-PASS - chronology.html: visible footer updated
-PASS - chronology.html: no class_ defects
-PASS - documents.html: parses with head/body/main
-PASS - documents.html: release metadata updated
-PASS - documents.html: visible footer updated
-PASS - documents.html: no class_ defects
-PASS - index.html: parses with head/body/main
-PASS - index.html: release metadata updated
-PASS - index.html: visible footer updated
-PASS - index.html: no class_ defects
-PASS - k15aa.html: parses with head/body/main
-PASS - k15aa.html: release metadata updated
-PASS - k15aa.html: visible footer updated
-PASS - k15aa.html: no class_ defects
-PASS - sac.html: parses with head/body/main
-PASS - sac.html: release metadata updated
-PASS - sac.html: visible footer updated
-PASS - sac.html: no class_ defects
-PASS - Professional clarification section added
-PASS - 26 July Notice linked
-PASS - No-response status recorded to 8 August
-PASS - No-adverse-inference safeguard included
-PASS - AAS complaint recorded as separate Beneficiary process
-PASS - No AAS finding/determination represented
-PASS - Future AAS outcome wording uses may
-PASS - Formal AAS complaint PDF not published
-PASS - Beneficiary email redacted
-PASS - Trustee public email retained
-PASS - Redacted PDF render produced
+PASS - operational-correspondence.html: parses
+PASS - operational-correspondence.html: v8.2.2 metadata
+PASS - operational-correspondence.html: footer updated
+PASS - operational-correspondence.html: no class_ defect
+PASS - chronology.html: parses
+PASS - chronology.html: v8.2.2 metadata
+PASS - chronology.html: footer updated
+PASS - chronology.html: no class_ defect
+PASS - documents.html: parses
+PASS - documents.html: v8.2.2 metadata
+PASS - documents.html: footer updated
+PASS - documents.html: no class_ defect
+PASS - index.html: parses
+PASS - index.html: v8.2.2 metadata
+PASS - index.html: footer updated
+PASS - index.html: no class_ defect
+PASS - k15aa.html: parses
+PASS - k15aa.html: v8.2.2 metadata
+PASS - k15aa.html: footer updated
+PASS - k15aa.html: no class_ defect
+PASS - sac.html: parses
+PASS - sac.html: v8.2.2 metadata
+PASS - sac.html: footer updated
+PASS - sac.html: no class_ defect
+PASS - Full correspondence PDF included
+PASS - DTP clarification PDF included
+PASS - 29 July SAC supplementary email recorded
+PASS - 5 August DTP forwarding email recorded
+PASS - Original Notice remains unchanged wording recorded
+PASS - Chronology includes 29 July
+PASS - Chronology includes 4 August
+PASS - Chronology includes 5 August
+PASS - Documents page links full chain
+PASS - Documents page links DTP clarification
+PASS - AAS redacted notification retained
+PASS - Formal AAS complaint still excluded
 
-Scope:
-- Updated operational-correspondence.html as the primary substantive record.
-- Updated chronology.html with 26 July, 2 August, 3 August and 8 August procedural events.
-- Updated documents.html to publish the 26 July Notice and the redacted Beneficiary notification.
-- Updated index.html with a restrained current-development entry and latest Notice record.
-- Added cross-references from k15aa.html and sac.html.
-- Updated sitemap.xml last-modified dates for affected pages.
+Scope of v8.2.2:
+- Expanded the professional-clarification record from the single Notice/status entry to the complete correspondence sequence supplied by the Trustee.
+- Added the 29 July 2026 information-only SAC update.
+- Added the 4 August 2026 DTP FOI CS019200 Part 4 supplementary clarification.
+- Added the 5 August 2026 information-only forwarding email to SLR.
+- Preserved the 26 July Notice as the governing procedural document and recorded that the later emails did not amend it.
+- Added the complete Trustee/SLR email chain as a source PDF.
+- Added the DTP supplementary clarification as a source PDF.
+- Expanded chronology and homepage references accordingly.
 
-Privacy:
-- Redacted only the Beneficiary's personal email address from the 2 August Trustee-record email.
-- Retained the Trustee's public website contact email address.
-- The formal AAS complaint itself is not published in this deployment package.
+Privacy and AAS:
+- Existing Beneficiary notification PDF remains redacted only for the Beneficiary's personal email address.
+- Trustee public contact email remains visible.
+- Formal AAS complaint remains unpublished.
 
-Editorial safeguards:
-- The absence of a response is recorded factually; no adverse inference is drawn merely from non-response.
-- The AAS complaint is identified as a separate Beneficiary process and not adopted by the Trustee.
-- No AAS finding or determination is represented as having been made.
-- Future AAS findings or determination are described only as material that may be added where appropriate.
+Editorial position:
+- The later correspondence is presented as supplementary information supplied during the procedural opportunity, not as an amendment to the Notice.
+- The no-response status remains factual and expressly non-adverse.

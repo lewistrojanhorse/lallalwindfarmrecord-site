@@ -1,5 +1,5 @@
 Lal Lal Wind Farm Record - CHANGELOG
-Release: v8.2.1
+Release: v8.2.2
 Date: 8 August 2026
 
 Updated:
@@ -12,31 +12,26 @@ Updated:
 - sitemap.xml
 
 Added:
-- documents/Notice-Opportunity-to-Clarify-Professional-Positions-26-July-2026.pdf
-- documents/Beneficiary-Notice-to-Trustee-AAS-Complaint-2-August-2026-Redacted.pdf
+- documents/Trustee-SLR-Professional-Clarification-Correspondence-26-July-to-5-August-2026.pdf
+- documents/DTP-FOI-CS019200-Part-4-Supplementary-Clarification-4-August-2026.pdf
 
-Professional acoustic record:
-- Published the Trustee's 26 July 2026 Notice - Opportunity to Clarify Professional Positions and Authorising Basis.
-- Recorded that the response date was 3 August 2026.
-- Recorded that, as at 8 August 2026, no response, acknowledgement or request for additional time had been received by the Trustee.
-- Preserved the Notice's safeguard that no adverse inference is drawn merely from the absence of a response.
-- Added a dedicated Operational Correspondence section as the primary substantive pathway.
+Professional clarification chronology:
+- Expanded the record to include the complete Trustee/SLR correspondence sequence from 26 July to 5 August 2026.
+- 26 July 2026: original Notice issued.
+- 29 July 2026: Trustee forwarded updated SAC material for information and convenience only.
+- 3 August 2026: original response date passed.
+- 4 August 2026: DTP issued its supplementary clarification for FOI CS019200 Part 4.
+- 5 August 2026: Trustee forwarded the DTP clarification to SLR for information so that any response could address the current documentary record.
+- Recorded that both later emails expressly left the 26 July Notice unchanged.
+- 8 August 2026: no response, acknowledgement or request for additional time recorded.
 
-Australian Acoustical Society:
-- Recorded the Beneficiary's 2 August 2026 notification that a separate professional-conduct complaint had been lodged with the Australian Acoustical Society.
-- Recorded that the notification was provided to the Trustee for information and administrative-record purposes only and did not seek adoption or endorsement.
-- Recorded that no AAS finding or determination is presently held on the public record.
-- Recorded that any later findings or determination may be added to the documentary record where appropriate.
-- Did not publish the formal AAS complaint itself.
+DTP clarification:
+- Added the 4 August 2026 letter stating that the Energy and Infrastructure Assessment Branch did not believe DTP possessed documentary authority permitting the identified departures from the NZS 6808:2010 definitions of background sound level and notional boundary.
+- Recorded DTP's statement that, following relevant enquiries, it was unable to locate documents responsive to Part 4.
 
-Privacy:
-- Published a redacted copy of the Beneficiary's Trustee-record email.
-- Redacted only the Beneficiary's personal email address.
-- Retained the Trustee's public website contact email address.
+AAS:
+- Preserved the existing separate Beneficiary-process entry.
+- Retained the privacy-redacted Beneficiary notification.
+- Formal AAS complaint remains unpublished.
 
-Cross-references:
-- Added chronology entries for 26 July, 2 August, 3 August and 8 August 2026.
-- Added restrained Home page and Latest Notices entries.
-- Added K15aa and SAC cross-references back to Operational Correspondence.
-
-Updated affected pages to v8.2.1 dated 8 August 2026.
+Updated affected pages to v8.2.2 dated 8 August 2026.

@@ -1,38 +1,39 @@
-feat(record): publish professional clarification opportunity and response status
+feat(record): publish full professional clarification correspondence chain
 
-Update the public record to publish the Trustee's 26 July 2026 Notice -
-Opportunity to Clarify Professional Positions and Authorising Basis concerning
-the professional acoustic record.
+Expand the professional-clarification record to publish the full Trustee/SLR
+correspondence sequence supplied between 26 July and 5 August 2026.
 
-Add a dedicated Operational Correspondence section recording the procedural
-purpose of the Notice, the 3 August 2026 response date and the position as at
-8 August 2026 that no response, acknowledgement or request for additional time
-had been received by the Trustee.
+Retain the 26 July 2026 Notice - Opportunity to Clarify Professional Positions
+and Authorising Basis as the governing procedural document.
 
-Preserve the Notice's express procedural safeguard that no adverse inference is
-drawn merely from the absence of a response. Record only that the documentary
-record remains without clarification or additional material from the recipient
-in response to the opportunity afforded.
+Add the Trustee's 29 July 2026 information-only email advising that the public
+Special Audible Characteristics record had been expanded with further
+documentary and presentation material. Record that the material was supplied for
+information and convenience only and did not amend, supplement or otherwise
+alter the Notice.
 
-Separately record the Beneficiary's 2 August 2026 notification to the Trustee
-that a professional-conduct complaint had been lodged with the Australian
-Acoustical Society. Identify the complaint as a separate Beneficiary process
-provided for Trustee information and administrative-record purposes only, with
-no request for Trustee adoption or endorsement.
+Add DTP's 4 August 2026 supplementary clarification for FOI CS019200 Part 4.
+Record that the Energy and Infrastructure Assessment Branch did not believe the
+Department possessed any document, instrument or written authority permitting
+or authorising departure from the identified NZS 6808:2010 definitions of
+background sound level and notional boundary, and that relevant enquiries did
+not locate documents responsive to Part 4.
 
-Record that no AAS finding or determination is presently published. State that
-if the Society later makes findings or otherwise determines the matter, resulting
-correspondence or a determination may be added to the documentary record where
-appropriate.
+Add the Trustee's 5 August 2026 email forwarding that DTP clarification to
+Mr Gustaf Reuterswärd and Mr Paul Gardiner for information so that any response
+could be made having regard to the current documentary record. Preserve the
+email's statement that the original Notice remained unchanged.
 
-Publish a privacy-redacted copy of the Beneficiary's notification email,
-redacting only the Beneficiary's personal email address while retaining the
-Trustee's public website contact email. Do not publish the formal AAS complaint
-itself at this stage.
+Update the chronology to include the 29 July SAC update, 4 August DTP
+clarification and 5 August forwarding email, and update the Home page and
+Document Library to expose the complete correspondence pathway.
 
-Add chronology entries for 26 July, 2 August, 3 August and 8 August 2026,
-publish the 26 July Notice in the Document Library, add restrained Home page and
-Latest Notices references, and cross-reference the procedural record from the
-K15aa and SAC pages.
+Continue to record that, as at 8 August 2026, no response, acknowledgement or
+request for additional time had been received and that no adverse inference is
+drawn merely from the absence of a response.
 
-Update affected pages and sitemap metadata to v8.2.1 dated 8 August 2026.
+Preserve the separate AAS procedural entry, the redacted Beneficiary
+notification and the decision not to publish the formal AAS complaint at this
+stage.
+
+Update affected pages and sitemap metadata to v8.2.2 dated 8 August 2026.
