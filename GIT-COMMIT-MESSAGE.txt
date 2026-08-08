@@ -1,13 +1,30 @@
-feat(council): add Elaine met mast removal chronology
+feat(commissioning): add Condition 23 noise sensitive location definition
 
-Add the contemporaneous 12 February 2025 Beneficiary email recording that the asserted third Elaine meteorological mast was being pulled down that day.
+Update the Final Turbine Commissioning page to make the Planning Permit's
+location requirement explicit within the operational-noise pathway.
 
-Add Council's 20 February 2025 response that it understood from LLWF that a temporary meteorological mast had recently been decommissioned and that LLWF did not require a planning permit to remove it.
+Add the supplied Planning Permit Condition 23 extract showing that wind farm
+sound levels must be determined in accordance with NZS 6808:2010 at noise
+sensitive locations "as defined in the Standard".
 
-Add the 21 and 24 February 2025 follow-up correspondence seeking the separate secondary-consent or planning basis for the mast's earlier presence and duration.
+Add the NZS 6808:2010 definition of Noise sensitive location, including items
+(a) to (f), covering residentially zoned land, points within the notional
+boundary, habitable residential spaces, educational institutions, licensed
+kindergartens and childcare facilities, and temporary accommodation.
 
-Publish both February 2025 source PDFs with only the Beneficiary's email address redacted. Preserve the remaining correspondence and recipient details.
+Add the associated NZS 6808:2010 Notional boundary definition because the
+Noise sensitive location definition expressly includes points within the
+notional boundary of buildings containing the specified noise-sensitive spaces.
 
-Cross-reference the February 2025 sequence from the Permit Amendment met-mast reconciliation, Moorabool Agency Records and main Chronology.
+Explain the documentary consequence that Condition 23 does not leave
+"noise sensitive location" as an undefined project-specific expression; the
+permit expressly directs the compliance assessment to the NZS 6808:2010
+definition.
 
-Update affected pages to v8.2.5 dated 8 August 2026.
+Cross-reference the NZS 6808, K15aa and Representative Monitoring pages for
+the detailed monitoring-location record without making a new technical
+compliance finding on the commissioning page.
+
+Preserve all existing commissioning chronology, NCTP, K15aa and reporting
+material, update the existing Conditions 23-25 exhibit caption, and update
+the commissioning page and sitemap metadata to v8.2.6 dated 9 August 2026.

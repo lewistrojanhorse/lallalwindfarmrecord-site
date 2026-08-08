@@ -1,16 +1,31 @@
 VALIDATION SUMMARY
-Release: v8.2.5 - 8 August 2026
+Release: v8.2.6 - 9 August 2026
 
-PASS - permit-amendment.html version
-PASS - permit-amendment.html parses
-PASS - agency-records.html version
-PASS - agency-records.html parses
-PASS - chronology.html version
-PASS - chronology.html parses
-PASS - Met-Mast-Elaine-12-February-2025-redacted.pdf beneficiary email removed
-PASS - Moorabool-SR97214-Met-Mast-Elaine-February-2025-redacted.pdf beneficiary email removed
-PASS - 12 Feb chronology
-PASS - 20 Feb Council response
-PASS - 21/24 follow-up
+PASS - Page parses with head/body/main
+PASS - Release metadata updated
+PASS - Visible footer updated
+PASS - Canonical URL retained
+PASS - Condition 23 definition section added
+PASS - Permit wording as defined in Standard included
+PASS - NZS noise sensitive location definition included
+PASS - NZS definition paragraphs a-f included
+PASS - Notional boundary definition included
+PASS - Cross-links included
+PASS - Supplied Condition 23 image included unchanged
+PASS - Existing commissioning chronology retained
+PASS - Existing K15aa pathway retained
+PASS - No class_ defects
+PASS - Sitemap lastmod updated
 
-Redaction: Beneficiary email address removed from both newly published PDFs; other addresses and correspondence retained.
+Scope:
+- Updated commissioning-final-turbine.html.
+- Updated sitemap.xml lastmod for the commissioning page.
+- Added images/commissioning/permit-condition-23-noise-sensitive-location-definition.jpg.
+
+Documentary treatment:
+- Added Planning Permit Condition 23(a) wording requiring sound levels to be determined at noise sensitive locations as defined in NZS 6808:2010.
+- Added the NZS 6808:2010 definition of Noise sensitive location, including items (a) to (f).
+- Added the NZS notional boundary definition because item (b) expressly refers to it.
+- Connected the permit wording to the existing NZS 6808, K15aa and Representative Monitoring pages without making a new technical-compliance finding.
+- Preserved the supplied Condition 23 image exactly as provided.
+- Preserved existing commissioning, NCTP and K15aa content.
