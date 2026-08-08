@@ -1,43 +1,13 @@
-feat(permit): reconcile met mast wording and Council FOI record
+feat(council): add Elaine met mast removal chronology
 
-Add a dedicated permit-amendment reconciliation for meteorological monitoring
-facilities.
+Add the contemporaneous 12 February 2025 Beneficiary email recording that the asserted third Elaine meteorological mast was being pulled down that day.
 
-Record that the earlier Planning Permit expressly described the Lal Lal Wind
-Farm as including two permanent meteorological monitoring facilities and
-associated equipment.
+Add Council's 20 February 2025 response that it understood from LLWF that a temporary meteorological mast had recently been decommissioned and that LLWF did not require a planning permit to remove it.
 
-Record that the final amended permit issued on 15 May 2026 does not reproduce
-that earlier express wording, while its amendment history describes the
-15 May 2026 amendment as amending Condition 23, deleting Conditions 24 to 27
-and adding Condition 27A for the operational wind-turbine-noise transition.
+Add the 21 and 24 February 2025 follow-up correspondence seeking the separate secondary-consent or planning basis for the mast's earlier presence and duration.
 
-Preserve the documentary question of whether the meteorological-monitoring
-wording change formed part of the exhibited amendment scope and what
-reconciliation supported its appearance in the final permit. Do not state as a
-concluded fact that the change was not advertised where the published record
-supports only the narrower exhibited-scope question.
+Publish both February 2025 source PDFs with only the Beneficiary's email address redacted. Preserve the remaining correspondence and recipient details.
 
-Add the supplied earlier-permit extract highlighting the two permanent
-meteorological monitoring facilities.
+Cross-reference the February 2025 sequence from the Permit Amendment met-mast reconciliation, Moorabool Agency Records and main Chronology.
 
-Add Moorabool Shire Council FOI decision SR.139279 dated 8 April 2026. Record
-that the refined request sought any formal approval, consent, authorisation or
-endorsement issued or recorded by Council in relation to establishment or
-operation of the Elaine Meteorological Monitoring Facility under Planning
-Permit PL-SP/05/0461-2.
-
-Record Council's search of electronic files, drives and databases within
-Community Planning & Development, the combined 10 hours of search time by the
-identified staff roles, and Council's conclusion that no documents meeting the
-terms of the refined request were identified.
-
-Treat the FOI outcome as a documentary search result rather than a legal
-determination that the facility was unauthorised.
-
-Cross-reference the permit-amendment reconciliation with the 7 October 2024
-Beneficiary enquiry concerning the asserted third Elaine facility, add the
-8 April 2026 FOI event to Agency Records and the main Chronology, and update
-affected sitemap metadata.
-
-Update affected pages to v8.2.4 dated 8 August 2026.
+Update affected pages to v8.2.5 dated 8 August 2026.

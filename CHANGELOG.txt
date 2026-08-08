@@ -1,35 +1,9 @@
 Lal Lal Wind Farm Record - CHANGELOG
-Release: v8.2.4
+Release: v8.2.5
 Date: 8 August 2026
 
-Updated:
-- permit-amendment.html
-- agency-records.html
-- chronology.html
-- sitemap.xml
-
-Added:
-- images/permit-amendment/permit-two-permanent-meteorological-monitoring-facilities-extract.jpg
-- documents/Moorabool-Council-FOI-SR139279-Elaine-Meteorological-Monitoring-Facility-8-April-2026.pdf
-
-Permit-amendment / meteorological monitoring reconciliation:
-- Added a dedicated comparison between the earlier permit wording and the final amended permit.
-- Recorded that the earlier permit expressly allowed two permanent meteorological monitoring facilities and associated equipment.
-- Recorded that the final amended permit issued on 15 May 2026 does not reproduce that earlier express wording.
-- Preserved the final permit's amendment-history description of the 15 May 2026 amendment as concerning Condition 23, deletion of Conditions 24-27 and insertion of Condition 27A.
-- Preserved the documentary question of whether the meteorological-monitoring wording change formed part of the exhibited amendment scope and what reconciliation supported the final instrument.
-- Added the supplied permit extract image as direct documentary evidence.
-
-Moorabool Council FOI SR.139279:
-- Added the 8 April 2026 decision concerning the Elaine Meteorological Monitoring Facility.
-- Recorded that the refined request sought any formal approval, consent, authorisation or endorsement issued or recorded by Council concerning establishment or operation of the facility.
-- Recorded that Council searched electronic files, drives and databases within Community Planning & Development and that two staff roles spent a combined 10 hours searching.
-- Recorded Council's decision that no documents meeting the terms of the refined request were identified.
-- Preserved the distinction between a search outcome and a legal finding concerning authorisation.
-
-Cross-references:
-- Added the FOI decision to the Moorabool Agency Records chronology.
-- Added an 8 April 2026 event to the main Chronology.
-- Cross-linked the Permit Amendment reconciliation to the October 2024 Council met-mast chronology.
-
-Updated affected pages to v8.2.4 dated 8 August 2026.
+- Added 12 February 2025 as the contemporaneously recorded date on which the Beneficiary observed the asserted third Elaine meteorological mast being pulled down.
+- Added Council's 20 February 2025 response that LLWF did not require a planning permit to remove the temporary mast.
+- Added the Beneficiary's 21/24 February 2025 follow-up seeking the separate authorising basis for the mast's earlier presence and duration.
+- Added both source PDFs with only the Beneficiary's email address redacted.
+- Updated Permit Amendment, Agency Records and Chronology cross-references.

@@ -1,43 +1,16 @@
 VALIDATION SUMMARY
-Release: v8.2.4 - 8 August 2026
+Release: v8.2.5 - 8 August 2026
 
-PASS - permit-amendment.html: parses with head/body/main
-PASS - permit-amendment.html: release metadata updated
-PASS - permit-amendment.html: visible footer updated
-PASS - permit-amendment.html: no class_ defect
-PASS - agency-records.html: parses with head/body/main
-PASS - agency-records.html: release metadata updated
-PASS - agency-records.html: visible footer updated
-PASS - agency-records.html: no class_ defect
-PASS - chronology.html: parses with head/body/main
-PASS - chronology.html: release metadata updated
-PASS - chronology.html: visible footer updated
-PASS - chronology.html: no class_ defect
-PASS - Permit amendment has met mast reconciliation section
-PASS - Earlier two-mast wording captured
-PASS - Final amended permit wording issue captured
-PASS - Council FOI SR139279 incorporated
-PASS - FOI source PDF included
-PASS - Permit extract image included unchanged
-PASS - Agency page includes 8 April FOI entry
-PASS - Agency page cross-links permit amendment
-PASS - Chronology includes 8 April 2026 FOI event
-PASS - Existing 7 October 2024 met mast chronology retained
-PASS - No categorical 'not advertised' statement
+PASS - permit-amendment.html version
+PASS - permit-amendment.html parses
+PASS - agency-records.html version
+PASS - agency-records.html parses
+PASS - chronology.html version
+PASS - chronology.html parses
+PASS - Met-Mast-Elaine-12-February-2025-redacted.pdf beneficiary email removed
+PASS - Moorabool-SR97214-Met-Mast-Elaine-February-2025-redacted.pdf beneficiary email removed
+PASS - 12 Feb chronology
+PASS - 20 Feb Council response
+PASS - 21/24 follow-up
 
-Scope:
-- Updated permit-amendment.html.
-- Updated agency-records.html.
-- Updated chronology.html.
-- Updated sitemap.xml lastmod values.
-- Added the supplied permit extract image.
-- Added Moorabool Shire Council FOI decision SR.139279.
-
-Documentary treatment:
-- Preserved the permit extract image exactly as supplied.
-- Recorded the earlier permit wording expressly allowing two permanent meteorological monitoring facilities and associated equipment.
-- Recorded that the final amended permit does not reproduce that earlier wording.
-- Recorded the 15 May 2026 amendment history without treating it as proof that every textual change was or was not within exhibited scope.
-- Recorded Council FOI SR.139279 as a search outcome: no documents meeting the refined terms were identified.
-- Did not convert the FOI outcome into a legal finding that the Elaine facility was unauthorised.
-- Did not state categorically that the wording change was 'not advertised'; the page preserves the narrower question of whether it formed part of the exhibited amendment scope.
+Redaction: Beneficiary email address removed from both newly published PDFs; other addresses and correspondence retained.
