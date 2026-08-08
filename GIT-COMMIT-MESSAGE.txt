@@ -1,32 +1,43 @@
-feat(council): add 2024 third Elaine met mast enquiry
+feat(permit): reconcile met mast wording and Council FOI record
 
-Update the Moorabool Shire Council agency record to add the Beneficiary's
-7 October 2024 email concerning the number of meteorological monitoring
-facilities permitted for the Lal Lal Wind Farm.
+Add a dedicated permit-amendment reconciliation for meteorological monitoring
+facilities.
 
-Record that the email referred to the Beneficiary's understanding that the
-Planning Permit allowed two meteorological monitoring facilities and to earlier
-Council advice concerning secondary consent, a temporary anemometer and the
-amended Substation Layout Plan.
+Record that the earlier Planning Permit expressly described the Lal Lal Wind
+Farm as including two permanent meteorological monitoring facilities and
+associated equipment.
 
-Record that the Beneficiary expressly raised what he described as a third
-meteorological monitoring facility at the Elaine portion of the wind farm,
-stated to have been present from approximately mid-2019, and requested further
-particulars identifying the planning permit, authorising document or other
-instrument relied upon for that facility and its relocation.
+Record that the final amended permit issued on 15 May 2026 does not reproduce
+that earlier express wording, while its amendment history describes the
+15 May 2026 amendment as amending Condition 23, deleting Conditions 24 to 27
+and adding Condition 27A for the operational wind-turbine-noise transition.
 
-Reproduce the supplied 7 October 2024 email image directly within the Council
-chronology without redaction or alteration.
+Preserve the documentary question of whether the meteorological-monitoring
+wording change formed part of the exhibited amendment scope and what
+reconciliation supported its appearance in the final permit. Do not state as a
+concluded fact that the change was not advertised where the published record
+supports only the narrower exhibited-scope question.
 
-Frame the entry as historical Beneficiary correspondence showing what was put
-to Council. Do not convert the asserted existence of a third facility into an
-independent finding that the facility was unauthorised.
+Add the supplied earlier-permit extract highlighting the two permanent
+meteorological monitoring facilities.
 
-Update the present Council documentary position to connect the 2024 enquiry
-with the later 2026 planning-administration, FOI and Governance pathway.
+Add Moorabool Shire Council FOI decision SR.139279 dated 8 April 2026. Record
+that the refined request sought any formal approval, consent, authorisation or
+endorsement issued or recorded by Council in relation to establishment or
+operation of the Elaine Meteorological Monitoring Facility under Planning
+Permit PL-SP/05/0461-2.
 
-Add a separate 7 October 2024 event to the main chronology and link it to the
-stable Agency Records anchor while preserving the existing 4-7 October 2024
-commissioning-enquiry chronology entry.
+Record Council's search of electronic files, drives and databases within
+Community Planning & Development, the combined 10 hours of search time by the
+identified staff roles, and Council's conclusion that no documents meeting the
+terms of the refined request were identified.
 
-Update affected pages and sitemap metadata to v8.2.3 dated 8 August 2026.
+Treat the FOI outcome as a documentary search result rather than a legal
+determination that the facility was unauthorised.
+
+Cross-reference the permit-amendment reconciliation with the 7 October 2024
+Beneficiary enquiry concerning the asserted third Elaine facility, add the
+8 April 2026 FOI event to Agency Records and the main Chronology, and update
+affected sitemap metadata.
+
+Update affected pages to v8.2.4 dated 8 August 2026.

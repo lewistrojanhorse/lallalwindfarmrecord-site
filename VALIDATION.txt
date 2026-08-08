@@ -1,33 +1,43 @@
 VALIDATION SUMMARY
-Release: v8.2.3 - 8 August 2026
+Release: v8.2.4 - 8 August 2026
 
+PASS - permit-amendment.html: parses with head/body/main
+PASS - permit-amendment.html: release metadata updated
+PASS - permit-amendment.html: visible footer updated
+PASS - permit-amendment.html: no class_ defect
 PASS - agency-records.html: parses with head/body/main
-PASS - agency-records.html: v8.2.3 metadata
-PASS - agency-records.html: visible footer
+PASS - agency-records.html: release metadata updated
+PASS - agency-records.html: visible footer updated
 PASS - agency-records.html: no class_ defect
 PASS - chronology.html: parses with head/body/main
-PASS - chronology.html: v8.2.3 metadata
-PASS - chronology.html: visible footer
+PASS - chronology.html: release metadata updated
+PASS - chronology.html: visible footer updated
 PASS - chronology.html: no class_ defect
-PASS - Documentary image copied unchanged
-PASS - Agency Records includes 7 October 2024 entry
-PASS - Agency Records frames assertion safely
-PASS - Agency Records links documentary image
-PASS - Chronology includes exact 7 October 2024 row
-PASS - Chronology links stable new anchor
-PASS - Existing 2026 Moorabool pathway retained
-PASS - Latest professional-clarification chronology retained
-PASS - Sitemap agency lastmod updated
-PASS - Sitemap chronology lastmod updated
+PASS - Permit amendment has met mast reconciliation section
+PASS - Earlier two-mast wording captured
+PASS - Final amended permit wording issue captured
+PASS - Council FOI SR139279 incorporated
+PASS - FOI source PDF included
+PASS - Permit extract image included unchanged
+PASS - Agency page includes 8 April FOI entry
+PASS - Agency page cross-links permit amendment
+PASS - Chronology includes 8 April 2026 FOI event
+PASS - Existing 7 October 2024 met mast chronology retained
+PASS - No categorical 'not advertised' statement
 
 Scope:
+- Updated permit-amendment.html.
 - Updated agency-records.html.
 - Updated chronology.html.
 - Updated sitemap.xml lastmod values.
-- Added one supplied documentary image under images/council/.
+- Added the supplied permit extract image.
+- Added Moorabool Shire Council FOI decision SR.139279.
 
 Documentary treatment:
-- Preserved the 7 October 2024 email image exactly as supplied; no redaction or image alteration applied.
-- Recorded the email as historical Beneficiary correspondence showing what was put to Council.
-- Did not convert the Beneficiary's assertion of a third Elaine facility into an independent finding of unauthorised development.
-- Connected the 2024 enquiry to the later 2026 planning-administration, FOI and Governance pathway.
+- Preserved the permit extract image exactly as supplied.
+- Recorded the earlier permit wording expressly allowing two permanent meteorological monitoring facilities and associated equipment.
+- Recorded that the final amended permit does not reproduce that earlier wording.
+- Recorded the 15 May 2026 amendment history without treating it as proof that every textual change was or was not within exhibited scope.
+- Recorded Council FOI SR.139279 as a search outcome: no documents meeting the refined terms were identified.
+- Did not convert the FOI outcome into a legal finding that the Elaine facility was unauthorised.
+- Did not state categorically that the wording change was 'not advertised'; the page preserves the narrower question of whether it formed part of the exhibited amendment scope.
