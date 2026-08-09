@@ -1,20 +1,35 @@
 VALIDATION SUMMARY
-Release: v8.2.7 - 10 August 2026
+Release: v8.2.8 - 10 August 2026
 
-PASS - sequential numbering 1-13
-PASS - Condition 23 new item
-PASS - permit as-defined wording
-PASS - notional boundary definition
-PASS - NCTP within 20 metres
-PASS - EPA Regulation 131B retained
-PASS - Item 13 DTP FOI retained
-PASS - image unchanged
-PASS - metadata
-PASS - footer
-PASS - sitemap
+PASS - page parses
+PASS - release metadata
+PASS - footer updated
+PASS - wind-direction section inserted
+PASS - wind image linked
+PASS - image preserved unchanged
+PASS - plain-English directional comparison
+PASS - downwind wording for I14aa/J14aa
+PASS - no overstatement safeguard
+PASS - comparison note strengthened
+PASS - figure numbering sequential 1-13
+PASS - map caption renumbered to Figure 4
+PASS - attended observations renumbered to Figure 13
+PASS - canonical retained
+PASS - sitemap updated
+PASS - no class_ defects
+
+Scope:
+- Updated representative-monitoring.html.
+- Updated sitemap.xml lastmod for Representative Monitoring.
+- Added images/representative-monitoring/elaine-wind-direction-monitoring-and-long-term-comparison.jpg.
 
 Sequencing:
-- Inserted Planning Permit Condition 23 / NZS location definition as Item 1.
-- Renumbered the existing 12 documentary items to Items 2-13.
-- Corrected cross-references in the SLR 2021 and SLR 2022 notes.
-- Positioned the NCTP within-20m requirement and EPA Regulation 131B explanation immediately after the governing Permit/NZS pathway.
+- Inserted monitoring-period and longer-term Elaine wind-direction evidence directly before the existing turbine-sector map.
+- New wind-direction comparison is Figure 3.
+- Existing turbine-sector map is now Figure 4.
+- Renumbered all later documentary figures sequentially through Figure 13.
+
+Editorial treatment:
+- Explained in plain English how northerly and north-westerly winds relate differently to I14aa/J14aa and K15aa.
+- Framed the evidence as directional exposure context, not proof of a specific sound level.
+- Strengthened the Clause 7.1.5 documentary significance note to bring together proximity, character, turbine sector and directional wind exposure.

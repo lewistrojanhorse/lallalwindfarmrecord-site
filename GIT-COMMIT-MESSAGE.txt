@@ -1,31 +1,33 @@
-feat(k15aa): add permit and NZS governing location pathway
+feat(representative-monitoring): add Elaine wind-direction comparison
 
-Add Planning Permit Condition 23(a) as the first documentary item on the K15aa
-page, recording that wind farm sound levels must be determined in accordance
-with NZS 6808:2010 at noise sensitive locations "as defined in the Standard".
+Add the SLR monitoring-period Elaine wind rose and the Marshall Day longer-term
+Elaine meteorological mast wind-direction record to the Representative
+Monitoring page.
 
-Add the relevant NZS Noise sensitive location wording, including its express
-reference to points within the notional boundary, together with the NZS
-Notional boundary definition of 20 metres from the dwelling or relevant
-building, or the legal boundary where closer.
+Position the wind-direction evidence immediately before the existing turbine-
+sector map so the reader can compare prevailing wind direction with the
+different turbine-to-receptor orientations for I14aa, J14aa and K15aa.
 
-Add the supplied Planning Permit Condition 23 extract as the primary exhibit.
+Explain in plain English that I14aa and J14aa lie generally to the south and
+south-east of turbines to their north and north-west, while K15aa's principal
+turbine sector lies to its north and north-east.
 
-Place the NCTP operational measurement-location requirement immediately after
-the governing Permit/NZS pathway, recording that K15aa measurements are to
-occur within 20 metres of the dwelling and as close as practicably possible to
-the background monitoring location.
+Record that northerly and north-westerly winds can place I14aa and J14aa
+downwind of the relevant turbine sector, while the prominent north-westerly
+component does not align with K15aa's principal north/north-east turbine sector
+in the same way.
 
-Retain and strengthen the accompanying EPA correspondence recording the NZS
-notional-boundary definition and the incorporated NCTP pathway under
-Regulation 131B.
+Frame the comparison as directional exposure context rather than proof of a
+specific sound level at any dwelling.
 
-Renumber the existing documentary record from Items 1-12 to Items 2-13 and
-correct the internal "Read with earlier evidence" references following the
-insertion.
+Strengthen the Clause 7.1.5 documentary significance note so proximity,
+surrounding sound-generating features, turbine sector and directional wind
+exposure are read together when considering similarity in proximity and
+character.
 
-Preserve the distinction between the governing location framework and the
-separate documentary question of how the later K15aa monitoring positions are
-reconciled with that framework.
+Add the wind-direction comparison as Figure 3, renumber the existing turbine-
+sector map to Figure 4, and renumber all subsequent figures sequentially through
+Figure 13.
 
-Update K15aa and sitemap metadata to v8.2.7 dated 10 August 2026.
+Preserve the supplied wind-direction image unchanged and update Representative
+Monitoring and sitemap metadata to v8.2.8 dated 10 August 2026.

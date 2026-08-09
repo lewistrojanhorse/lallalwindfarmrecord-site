@@ -1,8 +1,8 @@
-LLWF deployment manifest - v8.2.7 - 10 August 2026
+LLWF deployment manifest - v8.2.8 - 10 August 2026
 
-CHANGELOG.txt	1095 bytes	SHA256 bbe66b4681d71281458dc6f17eead16acb549f0f235fb7ebe0bf9167e8c8b1e8
-GIT-COMMIT-MESSAGE.txt	1487 bytes	SHA256 bce4193b0258eee23a397516a97e5581c9b4c6f0ee011d31fae9544352266820
-VALIDATION.txt	699 bytes	SHA256 a640e915b59198714fb7f4f5e2a3b2c445cb2fda9ff5d6fe06bd5d6ac27b6665
-images/k15aa-record/permit-condition-23-noise-sensitive-location-k15aa.jpg	499448 bytes	SHA256 39e12717a6ea2c5c2a510d95bec73bfdafcdd88b40020ef55343b3c3429e6fec
-k15aa.html	49357 bytes	SHA256 44d726c3c1101464a9d7f2e871fe8b5ab326c52471c02d246b57641a30598f3a
-sitemap.xml	3475 bytes	SHA256 ff044783c7705a56ebf34792940c14e45c9a9cb9d0e212a6fa561876c44fcb12
+CHANGELOG.txt	1562 bytes	SHA256 93dccf63516b4ffa9a1d7d52ec0d5b44d6e04dd3fef452db2c07c2c5c8e7b995
+GIT-COMMIT-MESSAGE.txt	1574 bytes	SHA256 794ca4d68ea8f107e738533a1c9fae5f18ac060adc65dfb5e2599b7d211359b4
+VALIDATION.txt	1473 bytes	SHA256 3ef8e501fc701274129d58593495bbbc6819f72e5fe24b6f70ef329cd457c6e2
+images/representative-monitoring/elaine-wind-direction-monitoring-and-long-term-comparison.jpg	168116 bytes	SHA256 1baf3190a94f9585a8a2d9ac1f73c0b5d41b164ca8fa49d25e21f4df5d3e0334
+representative-monitoring.html	45280 bytes	SHA256 19b83afea3c317cf7cd3dec9032f196632294db3dc9e90960324afbaa210071f
+sitemap.xml	3475 bytes	SHA256 093e47550b1443c275a923a6939270da67c1175d38a0d04e95cafec76fbefc4f

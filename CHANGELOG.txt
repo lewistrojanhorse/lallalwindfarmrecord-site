@@ -1,21 +1,25 @@
 Lal Lal Wind Farm Record - CHANGELOG
-Release: v8.2.7
+Release: v8.2.8
 Date: 10 August 2026
 
 Updated:
-- k15aa.html
+- representative-monitoring.html
 - sitemap.xml
 
 Added:
-- images/k15aa-record/permit-condition-23-noise-sensitive-location-k15aa.jpg
+- images/representative-monitoring/elaine-wind-direction-monitoring-and-long-term-comparison.jpg
 
-K15aa governing location pathway:
-- Added Planning Permit Condition 23(a) as Documentary Record Item 1.
-- Recorded that Condition 23(a) requires wind farm sound levels to be determined at noise sensitive locations as defined in NZS 6808:2010.
-- Added the relevant NZS Noise sensitive location wording, including the express reference to any point within the notional boundary.
-- Added the NZS Notional boundary definition of 20 metres from the dwelling/relevant building, or the legal boundary where closer.
-- Added the supplied Planning Permit Condition 23 extract.
-- Positioned the NCTP operational requirement for measurements within 20 metres of the dwelling immediately after the governing Permit/NZS pathway.
-- Preserved and strengthened the EPA Regulation 131B / notional-boundary context.
-- Renumbered all existing documentary items from 1-12 to 2-13.
-- Corrected internal item references.
+Representative monitoring / wind direction:
+- Added the SLR monitoring-period Elaine wind rose and Marshall Day longer-term Elaine meteorological mast wind-direction record.
+- Positioned the new evidence immediately before the turbine-sector map so wind direction can be read together with receptor orientation.
+- Explained in plain English that I14aa and J14aa lie generally south/south-east of turbines to their north and north-west, while K15aa's principal turbine sector lies to its north and north-east.
+- Recorded that northerly and north-westerly winds can place I14aa and J14aa downwind of the relevant turbine sector, while the prominent north-westerly component does not align with K15aa's principal north/north-east turbine sector in the same way.
+- Preserved the limitation that the wind roses do not, by themselves, establish the sound level experienced at any receptor.
+- Strengthened the Clause 7.1.5 documentary significance note to include directional wind exposure alongside proximity, surrounding sound-generating features and turbine sector.
+
+Figure numbering:
+- Added the wind-direction comparison as Figure 3.
+- Renumbered the existing turbine-sector map to Figure 4.
+- Renumbered all subsequent figures sequentially through Figure 13.
+
+Updated Representative Monitoring to v8.2.8 dated 10 August 2026.
