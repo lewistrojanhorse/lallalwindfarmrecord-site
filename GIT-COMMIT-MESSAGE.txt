@@ -1,30 +1,31 @@
-feat(commissioning): add Condition 23 noise sensitive location definition
+feat(k15aa): add permit and NZS governing location pathway
 
-Update the Final Turbine Commissioning page to make the Planning Permit's
-location requirement explicit within the operational-noise pathway.
+Add Planning Permit Condition 23(a) as the first documentary item on the K15aa
+page, recording that wind farm sound levels must be determined in accordance
+with NZS 6808:2010 at noise sensitive locations "as defined in the Standard".
 
-Add the supplied Planning Permit Condition 23 extract showing that wind farm
-sound levels must be determined in accordance with NZS 6808:2010 at noise
-sensitive locations "as defined in the Standard".
+Add the relevant NZS Noise sensitive location wording, including its express
+reference to points within the notional boundary, together with the NZS
+Notional boundary definition of 20 metres from the dwelling or relevant
+building, or the legal boundary where closer.
 
-Add the NZS 6808:2010 definition of Noise sensitive location, including items
-(a) to (f), covering residentially zoned land, points within the notional
-boundary, habitable residential spaces, educational institutions, licensed
-kindergartens and childcare facilities, and temporary accommodation.
+Add the supplied Planning Permit Condition 23 extract as the primary exhibit.
 
-Add the associated NZS 6808:2010 Notional boundary definition because the
-Noise sensitive location definition expressly includes points within the
-notional boundary of buildings containing the specified noise-sensitive spaces.
+Place the NCTP operational measurement-location requirement immediately after
+the governing Permit/NZS pathway, recording that K15aa measurements are to
+occur within 20 metres of the dwelling and as close as practicably possible to
+the background monitoring location.
 
-Explain the documentary consequence that Condition 23 does not leave
-"noise sensitive location" as an undefined project-specific expression; the
-permit expressly directs the compliance assessment to the NZS 6808:2010
-definition.
+Retain and strengthen the accompanying EPA correspondence recording the NZS
+notional-boundary definition and the incorporated NCTP pathway under
+Regulation 131B.
 
-Cross-reference the NZS 6808, K15aa and Representative Monitoring pages for
-the detailed monitoring-location record without making a new technical
-compliance finding on the commissioning page.
+Renumber the existing documentary record from Items 1-12 to Items 2-13 and
+correct the internal "Read with earlier evidence" references following the
+insertion.
 
-Preserve all existing commissioning chronology, NCTP, K15aa and reporting
-material, update the existing Conditions 23-25 exhibit caption, and update
-the commissioning page and sitemap metadata to v8.2.6 dated 9 August 2026.
+Preserve the distinction between the governing location framework and the
+separate documentary question of how the later K15aa monitoring positions are
+reconciled with that framework.
+
+Update K15aa and sitemap metadata to v8.2.7 dated 10 August 2026.

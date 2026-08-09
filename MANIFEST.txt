@@ -1,8 +1,8 @@
-LLWF deployment manifest - v8.2.6 - 9 August 2026
+LLWF deployment manifest - v8.2.7 - 10 August 2026
 
-CHANGELOG.txt	1299 bytes	SHA256 de87902e6561b7f3379a43f3f001a1724ab8180b6d41833297afb825ce15f6cd
-GIT-COMMIT-MESSAGE.txt	1593 bytes	SHA256 6b0a129ff0628156f8ad5235592a544cd725bf90fc0898e1d60a6028ed823e28
-VALIDATION.txt	1480 bytes	SHA256 560c44cf83f70cef7caaafe2f64963c3932dd4efe12ef6ff610e2d9365b3a2de
-commissioning-final-turbine.html	64766 bytes	SHA256 1de86230453a344873e5d3cc0d3848a2604a71abb3a6496e1a313724955d9d2e
-images/commissioning/permit-condition-23-noise-sensitive-location-definition.jpg	499448 bytes	SHA256 39e12717a6ea2c5c2a510d95bec73bfdafcdd88b40020ef55343b3c3429e6fec
-sitemap.xml	3474 bytes	SHA256 0b972369a3469d9fcfdddd6cba08e23609fb976636f39b646df3bb7559500884
+CHANGELOG.txt	1095 bytes	SHA256 bbe66b4681d71281458dc6f17eead16acb549f0f235fb7ebe0bf9167e8c8b1e8
+GIT-COMMIT-MESSAGE.txt	1487 bytes	SHA256 bce4193b0258eee23a397516a97e5581c9b4c6f0ee011d31fae9544352266820
+VALIDATION.txt	699 bytes	SHA256 a640e915b59198714fb7f4f5e2a3b2c445cb2fda9ff5d6fe06bd5d6ac27b6665
+images/k15aa-record/permit-condition-23-noise-sensitive-location-k15aa.jpg	499448 bytes	SHA256 39e12717a6ea2c5c2a510d95bec73bfdafcdd88b40020ef55343b3c3429e6fec
+k15aa.html	49357 bytes	SHA256 44d726c3c1101464a9d7f2e871fe8b5ab326c52471c02d246b57641a30598f3a
+sitemap.xml	3475 bytes	SHA256 ff044783c7705a56ebf34792940c14e45c9a9cb9d0e212a6fa561876c44fcb12

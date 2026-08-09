@@ -1,21 +1,21 @@
 Lal Lal Wind Farm Record - CHANGELOG
-Release: v8.2.6
-Date: 9 August 2026
+Release: v8.2.7
+Date: 10 August 2026
 
 Updated:
-- commissioning-final-turbine.html
+- k15aa.html
 - sitemap.xml
 
 Added:
-- images/commissioning/permit-condition-23-noise-sensitive-location-definition.jpg
+- images/k15aa-record/permit-condition-23-noise-sensitive-location-k15aa.jpg
 
-Planning Permit Condition 23 / NZS 6808:
-- Added a dedicated documentary section explaining that Condition 23(a) requires wind farm sound levels to be determined in accordance with NZS 6808:2010 at noise sensitive locations as defined in the Standard.
-- Added the complete NZS 6808:2010 Noise sensitive location definition items (a) to (f).
-- Added the NZS 6808:2010 Notional boundary definition because the Noise sensitive location definition expressly incorporates points within the notional boundary.
-- Added the supplied Planning Permit Condition 23 extract as the primary visual exhibit.
-- Updated the existing Conditions 23-25 exhibit caption to preserve the direct incorporation of the NZS definition.
-- Cross-linked the documentary significance to the NZS 6808, K15aa and Representative Monitoring pages.
-- Did not make a new technical-compliance finding on the Final Turbine Commissioning page; the update identifies the governing location terminology and directs readers to the dedicated technical records.
-
-Updated the affected page to v8.2.6 dated 9 August 2026.
+K15aa governing location pathway:
+- Added Planning Permit Condition 23(a) as Documentary Record Item 1.
+- Recorded that Condition 23(a) requires wind farm sound levels to be determined at noise sensitive locations as defined in NZS 6808:2010.
+- Added the relevant NZS Noise sensitive location wording, including the express reference to any point within the notional boundary.
+- Added the NZS Notional boundary definition of 20 metres from the dwelling/relevant building, or the legal boundary where closer.
+- Added the supplied Planning Permit Condition 23 extract.
+- Positioned the NCTP operational requirement for measurements within 20 metres of the dwelling immediately after the governing Permit/NZS pathway.
+- Preserved and strengthened the EPA Regulation 131B / notional-boundary context.
+- Renumbered all existing documentary items from 1-12 to 2-13.
+- Corrected internal item references.

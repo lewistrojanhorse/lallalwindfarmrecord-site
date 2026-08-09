@@ -1,31 +1,20 @@
 VALIDATION SUMMARY
-Release: v8.2.6 - 9 August 2026
+Release: v8.2.7 - 10 August 2026
 
-PASS - Page parses with head/body/main
-PASS - Release metadata updated
-PASS - Visible footer updated
-PASS - Canonical URL retained
-PASS - Condition 23 definition section added
-PASS - Permit wording as defined in Standard included
-PASS - NZS noise sensitive location definition included
-PASS - NZS definition paragraphs a-f included
-PASS - Notional boundary definition included
-PASS - Cross-links included
-PASS - Supplied Condition 23 image included unchanged
-PASS - Existing commissioning chronology retained
-PASS - Existing K15aa pathway retained
-PASS - No class_ defects
-PASS - Sitemap lastmod updated
+PASS - sequential numbering 1-13
+PASS - Condition 23 new item
+PASS - permit as-defined wording
+PASS - notional boundary definition
+PASS - NCTP within 20 metres
+PASS - EPA Regulation 131B retained
+PASS - Item 13 DTP FOI retained
+PASS - image unchanged
+PASS - metadata
+PASS - footer
+PASS - sitemap
 
-Scope:
-- Updated commissioning-final-turbine.html.
-- Updated sitemap.xml lastmod for the commissioning page.
-- Added images/commissioning/permit-condition-23-noise-sensitive-location-definition.jpg.
-
-Documentary treatment:
-- Added Planning Permit Condition 23(a) wording requiring sound levels to be determined at noise sensitive locations as defined in NZS 6808:2010.
-- Added the NZS 6808:2010 definition of Noise sensitive location, including items (a) to (f).
-- Added the NZS notional boundary definition because item (b) expressly refers to it.
-- Connected the permit wording to the existing NZS 6808, K15aa and Representative Monitoring pages without making a new technical-compliance finding.
-- Preserved the supplied Condition 23 image exactly as provided.
-- Preserved existing commissioning, NCTP and K15aa content.
+Sequencing:
+- Inserted Planning Permit Condition 23 / NZS location definition as Item 1.
+- Renumbered the existing 12 documentary items to Items 2-13.
+- Corrected cross-references in the SLR 2021 and SLR 2022 notes.
+- Positioned the NCTP within-20m requirement and EPA Regulation 131B explanation immediately after the governing Permit/NZS pathway.
