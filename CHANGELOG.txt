@@ -1,25 +1,64 @@
-Lal Lal Wind Farm Record - CHANGELOG
-Release: v8.2.8
-Date: 10 August 2026
+Lal Lal Wind Farm Record — CHANGELOG
+Release: v8.3.0
+Date: 20 August 2026
 
-Updated:
+Repository-wide alignment release.
+
+Updated all 31 canonical HTML pages:
+- index.html
+- start-here.html
+- glossary.html
+- framework.html
+- understanding-the-record.html
+- commissioning-final-turbine.html
+- chronology.html
+- key-project-dates.html
+- key-issues.html
+- nzs6808.html
+- nctp.html
+- k15aa.html
 - representative-monitoring.html
+- sac.html
+- technical-reports.html
+- pre-construction-acoustic-assessments.html
+- sonus-pre-construction-noise-assessment.html
+- noise-management-plan.html
+- permit-amendment.html
+- record.html
+- documents.html
+- agency-records.html
+- foi-decisions.html
+- verification.html
+- record-status.html
+- contact.html
+- aeic.html
+- operational-correspondence.html
+- blade-removal-processing.html
+- shadow-flicker.html
+- yendon-stage-1.html
+
+Updated shared repository files:
+- style.css
+- site.js
+- robots.txt
 - sitemap.xml
 
-Added:
-- images/representative-monitoring/elaine-wind-direction-monitoring-and-long-term-comparison.jpg
+Repository alignment:
+- Set all pages to Record Version 8.3.0 dated 20 August 2026.
+- Set JSON-LD dateModified to 2026-08-20 and version to 8.3.0.
+- Added/updated last-modified metadata on every page.
+- Confirmed canonical and Open Graph URLs against canonical repository filenames.
+- Standardised main navigation and footer structures across the repository.
+- Updated Verification to the current navigation/footer structure.
+- Restored site.js includes to Technical Reports and Yendon Stage 1.
+- Rebuilt sitemap.xml for all 31 pages with 2026-08-20 lastmod values.
+- Updated release comments in style.css, site.js and robots.txt.
 
-Representative monitoring / wind direction:
-- Added the SLR monitoring-period Elaine wind rose and Marshall Day longer-term Elaine meteorological mast wind-direction record.
-- Positioned the new evidence immediately before the turbine-sector map so wind direction can be read together with receptor orientation.
-- Explained in plain English that I14aa and J14aa lie generally south/south-east of turbines to their north and north-west, while K15aa's principal turbine sector lies to its north and north-east.
-- Recorded that northerly and north-westerly winds can place I14aa and J14aa downwind of the relevant turbine sector, while the prominent north-westerly component does not align with K15aa's principal north/north-east turbine sector in the same way.
-- Preserved the limitation that the wind roses do not, by themselves, establish the sound level experienced at any receptor.
-- Strengthened the Clause 7.1.5 documentary significance note to include directional wind exposure alongside proximity, surrounding sound-generating features and turbine sector.
-
-Figure numbering:
-- Added the wind-direction comparison as Figure 3.
-- Renumbered the existing turbine-sector map to Figure 4.
-- Renumbered all subsequent figures sequentially through Figure 13.
-
-Updated Representative Monitoring to v8.2.8 dated 10 August 2026.
+Validation:
+- No broken internal HTML page links.
+- No broken internal anchor links.
+- No duplicate HTML IDs.
+- One consistent main navigation and footer structure.
+- site.js search index contains all canonical pages.
+- Sitemap contains all canonical pages.
+- Existing documentary content and sequencing preserved.

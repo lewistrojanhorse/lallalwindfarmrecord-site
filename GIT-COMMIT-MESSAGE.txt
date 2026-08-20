@@ -1,33 +1,47 @@
-feat(representative-monitoring): add Elaine wind-direction comparison
+chore(repository): align full record to 20 August 2026
 
-Add the SLR monitoring-period Elaine wind rose and the Marshall Day longer-term
-Elaine meteorological mast wind-direction record to the Representative
-Monitoring page.
+Perform a repository-wide integrity and release alignment across all 31
+canonical Lal Lal Wind Farm Record pages.
 
-Position the wind-direction evidence immediately before the existing turbine-
-sector map so the reader can compare prevailing wind direction with the
-different turbine-to-receptor orientations for I14aa, J14aa and K15aa.
+Set every page to Record Version 8.3.0 dated 20 August 2026, update
+JSON-LD dateModified/version values and add consistent last-modified metadata.
 
-Explain in plain English that I14aa and J14aa lie generally to the south and
-south-east of turbines to their north and north-west, while K15aa's principal
-turbine sector lies to its north and north-east.
+Preserve the supplied documentary content, chronology, quotations, evidentiary
+material and page-specific sequencing while aligning repository-level metadata
+and shared navigation.
 
-Record that northerly and north-westerly winds can place I14aa and J14aa
-downwind of the relevant turbine sector, while the prominent north-westerly
-component does not align with K15aa's principal north/north-east turbine sector
-in the same way.
+Standardise the main navigation and footer structure across the repository.
+Bring the Documentary Verification page onto the current navigation/footer
+structure so Blade Removal & Processing and Shadow Flicker are consistently
+available across the site.
 
-Frame the comparison as directional exposure context rather than proof of a
-specific sound level at any dwelling.
+Restore the shared site.js include on Technical Reports and Yendon Stage 1 so
+search and common interaction behaviour remain consistent.
 
-Strengthen the Clause 7.1.5 documentary significance note so proximity,
-surrounding sound-generating features, turbine sector and directional wind
-exposure are read together when considering similarity in proximity and
-character.
+Confirm canonical URLs and Open Graph URLs against the canonical repository
+filenames.
 
-Add the wind-direction comparison as Figure 3, renumber the existing turbine-
-sector map to Figure 4, and renumber all subsequent figures sequentially through
-Figure 13.
+Update style.css, site.js and robots.txt release identifiers to v8.3.0 dated
+20 August 2026.
 
-Preserve the supplied wind-direction image unchanged and update Representative
-Monitoring and sitemap metadata to v8.2.8 dated 10 August 2026.
+Rebuild sitemap.xml to include all 31 canonical pages with a last-modified date
+of 2026-08-20.
+
+Validate the complete supplied page set for HTML structure, duplicate IDs,
+internal page links, cross-page anchors, canonical URLs, JSON-LD release
+metadata, shared navigation/footer consistency, search-index coverage and
+sitemap coverage.
+
+Validation confirms:
+- 31 canonical HTML pages present;
+- no broken internal HTML page links;
+- no broken internal anchors;
+- no duplicate HTML IDs;
+- one consistent main navigation structure;
+- one consistent footer structure;
+- all pages included in the site.js search index; and
+- all pages included in sitemap.xml.
+
+This is an incremental deployment package. Existing documentary images, videos
+and PDFs are not duplicated because no new binary asset is required by this
+repository-wide alignment release.

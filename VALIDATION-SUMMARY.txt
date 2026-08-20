@@ -1,21 +1,33 @@
-LAL LAL WIND FARM RECORD — VALIDATION SUMMARY
-Repository release: v8.2.0
-Release date: 8 August 2026
+VALIDATION SUMMARY
+Release: v8.3.0
+Repository date: 20 August 2026
 
-Scope
-- Repository-wide reconciliation of the 31 supplied public HTML pages and root configuration files.
-- Stable filenames, canonical URLs, navigation structure and existing page content preserved except for targeted documentary reconciliation.
-- DTP FOI CS019200 Part 4 supplementary clarification dated 4 August 2026 reconciled across Home, Chronology, Key Project Dates, Documents and Record Status.
-- Existing 8 August Yendon Stage 1 and final-turbine commissioning developments preserved.
-- Search index expanded to include Blade Removal and Processing and Shadow Flicker.
-- Sitemap last-modified dates normalised to 8 August 2026.
+Repository-wide scope
+- 31 HTML pages aligned to v8.3.0 / 20 August 2026.
+- style.css, site.js, robots.txt and sitemap.xml aligned to the same repository release.
+- No documentary text, quotation or substantive evidentiary conclusion was rewritten as part of the repository-wide alignment pass.
 
-Validation
-- HTML pages checked for title, canonical link, JSON-LD validity, duplicate IDs and invalid class_ token.
-- JSON-LD dateModified/version normalised to 2026-08-08 / 8.2.0.
-- Footer Record Version normalised to 8.2.0 / 8 August 2026.
-- sitemap.xml parsed successfully.
-- No documentary images, PDFs or media were regenerated or altered. Existing referenced assets remain unchanged and are not duplicated in this deployment package.
+Alignment corrections
+- Standardised the main navigation and footer structure across all pages using the current repository navigation.
+- Corrected the Verification page's older navigation/footer variant so Blade Removal & Processing and Shadow Flicker are consistently available.
+- Restored the shared site.js include on Technical Reports and Yendon Stage 1, where it was absent in the supplied page files.
+- Normalised canonical URL, og:url, JSON-LD dateModified/version/url and a last-modified meta marker on every page.
+- Updated every visible Record Version footer to 8.3.0 / 20 August 2026.
+- Rebuilt sitemap.xml with all 31 canonical pages and 20 August 2026 lastmod values.
+- Updated repository release comments in style.css, site.js and robots.txt.
 
-Result
-PASS — no validation issues detected.
+Integrity checks
+- HTML pages checked: 31.
+- Main navigation variants after alignment: 1.
+- Footer variants after alignment: 1.
+- Duplicate IDs: 0.
+- Broken internal HTML page links: 0.
+- Broken internal anchors: 0.
+- Canonical URL mismatches: 0.
+- JSON-LD release/date/url mismatches: 0.
+- site.js search-index omissions: 0.
+- Sitemap page omissions: 0.
+
+Asset-path note
+- This is an incremental repository deployment package. Existing images, videos and PDF/document assets are intentionally not duplicated unless newly required by this alignment pass.
+- All relative HTML page-to-page targets and anchor targets were validated within the supplied repository pages.
