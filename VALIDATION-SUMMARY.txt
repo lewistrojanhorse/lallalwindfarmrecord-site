@@ -1,33 +1,51 @@
-VALIDATION SUMMARY
-Release: v8.3.0
-Repository date: 20 August 2026
+LAL LAL WIND FARM RECORD — VERSION 8.3.1 VALIDATION SUMMARY
+Release date: 21 August 2026
 
-Repository-wide scope
-- 31 HTML pages aligned to v8.3.0 / 20 August 2026.
-- style.css, site.js, robots.txt and sitemap.xml aligned to the same repository release.
-- No documentary text, quotation or substantive evidentiary conclusion was rewritten as part of the repository-wide alignment pass.
+SCOPE
+- Incremental update only; built from the current v8.3.0 Operational Correspondence and Documents pages.
+- Added a dedicated J14aa 15 August 2024 operational-noise case-study page.
+- Added two documentary image assets supplied for this update: the operator complaint-response extract and the K15aa Table 3 night-time noise-limit extract.
+- Updated only the existing Operational Correspondence and Documents pages needed to link to the dedicated case study.
+- Updated the version/date metadata and footers on the changed HTML pages to v8.3.1 — 21 August 2026.
 
-Alignment corrections
-- Standardised the main navigation and footer structure across all pages using the current repository navigation.
-- Corrected the Verification page's older navigation/footer variant so Blade Removal & Processing and Shadow Flicker are consistently available.
-- Restored the shared site.js include on Technical Reports and Yendon Stage 1, where it was absent in the supplied page files.
-- Normalised canonical URL, og:url, JSON-LD dateModified/version/url and a last-modified meta marker on every page.
-- Updated every visible Record Version footer to 8.3.0 / 20 August 2026.
-- Rebuilt sitemap.xml with all 31 canonical pages and 20 August 2026 lastmod values.
-- Updated repository release comments in style.css, site.js and robots.txt.
+DOCUMENTARY CONTENT
+- Preserves the approximately 3:34 am contemporaneous logger display values as source material only.
+- Records the operator response as showing an average wind speed of 9.5 m/s and the statement that wind conditions would not have caused excessive noise.
+- Records SLR's J14aa interim-report position that K15aa's limit was used as the nearest/relevant representative noise limit for J14aa.
+- Shows the K15aa night-time limit of 40.0 dBA at both 9 m/s and 10 m/s hub-height wind speed.
+- Expressly avoids treating the displayed LAF90.0 45.6 dB value as, by itself, a formal LA90,10min compliance result.
+- Expressly records that the complaint-response extract does not identify the height/source of its 9.5 m/s wind figure.
+- Frames the unresolved issue as whether the underlying SLR logger data was reviewed and, if so, what it showed.
 
-Integrity checks
-- HTML pages checked: 31.
-- Main navigation variants after alignment: 1.
-- Footer variants after alignment: 1.
-- Duplicate IDs: 0.
-- Broken internal HTML page links: 0.
-- Broken internal anchors: 0.
-- Canonical URL mismatches: 0.
-- JSON-LD release/date/url mismatches: 0.
-- site.js search-index omissions: 0.
-- Sitemap page omissions: 0.
+FILES ADDED
+- j14aa-15-august-2024.html
+- images/j14aa-15-august-2024-operator-response.jpg
+- images/k15aa-night-noise-limits-9-10ms.jpg
 
-Asset-path note
-- This is an incremental repository deployment package. Existing images, videos and PDF/document assets are intentionally not duplicated unless newly required by this alignment pass.
-- All relative HTML page-to-page targets and anchor targets were validated within the supplied repository pages.
+FILES UPDATED
+- operational-correspondence.html
+- documents.html
+
+CONTENT SAFEGUARDS
+- Existing filenames, navigation, canonical URLs and broader page structure were preserved on updated pages.
+- No existing page was regenerated wholesale; the two existing pages received targeted string-level edits only.
+- Beneficiary and Trustee capacities remain distinct.
+- No technical non-compliance conclusion is asserted from the 3:34 am display.
+- The new page identifies where the documentary record is presently incomplete rather than filling the gap by inference.
+
+LINK / STRUCTURE VALIDATION
+- operational-correspondence.html: parsed successfully; title/main/footer present.
+- documents.html: parsed successfully; title/main/footer present.
+- j14aa-15-august-2024.html: parsed successfully; title/main/footer present.
+- images/j14aa-15-august-2024-operator-response.jpg: present (220,699 bytes).
+- images/k15aa-night-noise-limits-9-10ms.jpg: present (225,589 bytes).
+- Dedicated page reference preserved: documents/slr-logger-video-15-august-2024.mov
+- Dedicated page reference preserved: documents/slr-logger-display-15-august-2024.jpg
+- Dedicated page reference preserved: documents/operational-noise-complaint-15-august-2024.pdf
+- Dedicated page reference preserved: representative-monitoring.html
+- Dedicated page reference preserved: k15aa.html
+- Pre-existing live-site assets referenced by the new page are not duplicated in this incremental package.
+
+DEPLOYMENT
+- Deploy the package contents at repository root, preserving the images/ subfolder.
+- This ZIP is incremental and intentionally does not contain the full website repository.

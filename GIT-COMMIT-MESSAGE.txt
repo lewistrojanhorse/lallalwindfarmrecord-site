@@ -1,47 +1,7 @@
-chore(repository): align full record to 20 August 2026
+Add dedicated J14aa 15 Aug 2024 noise complaint case study
 
-Perform a repository-wide integrity and release alignment across all 31
-canonical Lal Lal Wind Farm Record pages.
-
-Set every page to Record Version 8.3.0 dated 20 August 2026, update
-JSON-LD dateModified/version values and add consistent last-modified metadata.
-
-Preserve the supplied documentary content, chronology, quotations, evidentiary
-material and page-specific sequencing while aligning repository-level metadata
-and shared navigation.
-
-Standardise the main navigation and footer structure across the repository.
-Bring the Documentary Verification page onto the current navigation/footer
-structure so Blade Removal & Processing and Shadow Flicker are consistently
-available across the site.
-
-Restore the shared site.js include on Technical Reports and Yendon Stage 1 so
-search and common interaction behaviour remain consistent.
-
-Confirm canonical URLs and Open Graph URLs against the canonical repository
-filenames.
-
-Update style.css, site.js and robots.txt release identifiers to v8.3.0 dated
-20 August 2026.
-
-Rebuild sitemap.xml to include all 31 canonical pages with a last-modified date
-of 2026-08-20.
-
-Validate the complete supplied page set for HTML structure, duplicate IDs,
-internal page links, cross-page anchors, canonical URLs, JSON-LD release
-metadata, shared navigation/footer consistency, search-index coverage and
-sitemap coverage.
-
-Validation confirms:
-- 31 canonical HTML pages present;
-- no broken internal HTML page links;
-- no broken internal anchors;
-- no duplicate HTML IDs;
-- one consistent main navigation structure;
-- one consistent footer structure;
-- all pages included in the site.js search index; and
-- all pages included in sitemap.xml.
-
-This is an incremental deployment package. Existing documentary images, videos
-and PDFs are not duplicated because no new binary asset is required by this
-repository-wide alignment release.
+- add focused J14aa case-study page
+- add operator-response and K15aa night-limit documentary images
+- link Operational Correspondence and Documents to new case study
+- preserve logger-display limitation and unresolved data-review question
+- bump changed pages to record version 8.3.1
