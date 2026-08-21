@@ -1,7 +1,6 @@
-Add dedicated J14aa 15 Aug 2024 noise complaint case study
+feat(home): surface J14aa 15 Aug 2024 case study
 
-- add focused J14aa case-study page
-- add operator-response and K15aa night-limit documentary images
-- link Operational Correspondence and Documents to new case study
-- preserve logger-display limitation and unresolved data-review question
-- bump changed pages to record version 8.3.1
+- add prominent 3:34 am J14aa case-study pathway to homepage
+- link directly to the dedicated 15 August 2024 evidence page
+- preserve logger-display limitation and documentary framing
+- update homepage metadata and footer to record version 8.3.2
