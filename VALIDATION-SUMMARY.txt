@@ -1,36 +1,52 @@
-LAL LAL WIND FARM RECORD — VERSION 8.3.2 VALIDATION SUMMARY
-Release date: 21 August 2026
+LAL LAL WIND FARM RECORD — VERSION 8.3.3 VALIDATION SUMMARY
+Release date: 23 August 2026
 
 SCOPE
-- Incremental homepage discoverability update only.
-- Added a prominent homepage pathway to the dedicated J14aa 15 August 2024 case study created in v8.3.1.
-- No existing homepage section, navigation item, URL, anchor, canonical link or shared CSS/JavaScript file was removed or rewritten.
+- Incremental website update only.
+- Updated noise-management-plan.html and permit-amendment.html.
+- Added the consolidated 22-page NMP Primary Document Record PDF.
+- No shared CSS, JavaScript, navigation, canonical URLs or existing page filenames were changed.
 
-UPDATED FILE
-- index.html
+NOISE MANAGEMENT PLAN PAGE
+- Added a prominent hero link to the consolidated Primary Document Record.
+- Added 18 July 2024 to the NMP chronology to record withdrawal of the revised-NCTP secondary-consent application.
+- Added a consolidated primary-source section distinguishing:
+  * the October 2022 NMP's Version 3.0 / Final Revision 03 document history;
+  * the draft status expressly attached to NCTP Revision 5;
+  * EPA documentary use of NMP project 0467385;
+  * the November 2023 auditor-verification request;
+  * the later FOI and EPA record; and
+  * the withdrawn NCTP revision pathway.
+- Preserved later EPA/operator descriptions of the NMP as draft or under revision as source positions rather than silently reconciling them.
+- Retained an express documentary-limit statement and no compliance finding.
 
-NEW HOMEPAGE PATHWAY
-- Added "Featured operational case study · 15 August 2024" immediately after the homepage hero/latest-notices area and before "Key issues at a glance".
-- Heading: "3:34 am — J14aa noise complaint and monitoring record".
-- Direct link: j14aa-15-august-2024.html
-- Secondary link: operational-correspondence.html#noise-complaint-15-august-2024
+PERMIT AMENDMENT PAGE
+- Added the NMP Primary Document Record to Primary documents and further reading.
+- Added a direct link from the Transitional Condition 27A administrative-clarification section.
+- Added a dedicated Condition 27A primary-source section linking the NMP, auditor and NCTP revision pathways.
+- Retained the existing evidentiary-limit framing and no legal-effect finding.
 
-DOCUMENTARY SAFEGUARDS
-- States that SLR noise-monitoring equipment was operating at J14aa during the reported early-morning disturbance.
-- Records that the dedicated page brings together the logger display, LLWF complaint response recording 9.5 m/s, the K15aa night-time limits used by SLR for J14aa, and the Beneficiary's contemporaneous data-review question.
-- Preserves the limitation that the visible logger display is contemporaneous source material and is not, by itself, converted into a technical compliance finding.
-- Does not assert that the 45.6 dB logger display proves a breach or formal exceedance.
+NEW DOCUMENT
+- documents/Lal-Lal-Wind-Farm-NMP-Primary-Document-Record-23-August-2026.pdf
+- 22 pages.
+- Source-only compilation previously settled in the record.
 
 VERSION CONTROL
-- Updated index.html JSON-LD release marker/version to v8.3.2.
-- Updated index.html dateModified/last-modified metadata to 21 August 2026.
-- Updated index.html footer to Record Version 8.3.2 — 21 August 2026.
+- Changed pages updated to Record Version 8.3.3 — 23 August 2026.
+- JSON-LD release/version updated to v8.3.3.
+- dateModified / last-modified updated to 2026-08-23.
 
 VALIDATION
-- Confirmed one direct link to j14aa-15-august-2024.html on the homepage.
-- Confirmed existing homepage canonical URL remains https://lallalwindfarmrecord.com.au/.
-- Confirmed existing homepage navigation and major section IDs remain present.
-- Confirmed no .DS_Store files are included in this deployment package.
+- Both changed HTML pages parse with title, main and footer present.
+- No duplicate HTML IDs on changed pages.
+- New PDF exists at the exact linked repository path.
+- Internal HTML page links from changed pages resolve in the reconstructed current repository.
+- New cross-page anchor noise-management-plan.html#nmp-primary-document-record resolves.
+- Existing documentary links and page structure otherwise preserved.
 
-DEPENDENCY
-- j14aa-15-august-2024.html is the dedicated case-study page added by the immediately preceding v8.3.1 deployment and must remain present in the repository.
+DEPLOYMENT
+- Upload the CONTENTS of this ZIP to the GitHub repository root.
+- Replace noise-management-plan.html and permit-amendment.html.
+- Add the included PDF under documents/.
+- Do not delete existing documents or images folders.
+- This package is incremental and intentionally does not contain the full website repository.

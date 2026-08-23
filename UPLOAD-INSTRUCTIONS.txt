@@ -1,1 +1,11 @@
-Deploy the complete contents of this folder over the current public repository. Preserve the existing server-side images and established document library; this package includes the five new Council planning-administration and Governance PDFs and the four prior Version 6.6 disclosure PDFs.
+Upload the CONTENTS of this ZIP to the GitHub repository root.
+
+Replace:
+- noise-management-plan.html
+- permit-amendment.html
+
+Add:
+- documents/Lal-Lal-Wind-Farm-NMP-Primary-Document-Record-23-August-2026.pdf
+
+Do not upload the enclosing folder itself.
+Do not delete the existing documents or images folders.

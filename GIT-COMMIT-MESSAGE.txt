@@ -1,6 +1,11 @@
-feat(home): surface J14aa 15 Aug 2024 case study
+feat(nmp): publish consolidated primary document record
 
-- add prominent 3:34 am J14aa case-study pathway to homepage
-- link directly to the dedicated 15 August 2024 evidence page
-- preserve logger-display limitation and documentary framing
-- update homepage metadata and footer to record version 8.3.2
+- add the 22-page NMP Primary Document Record as a public source bundle
+- link the consolidated record prominently from the Noise Management Plan page
+- add the NCTP secondary-consent withdrawal to the NMP chronology
+- distinguish the October 2022 Final Revision 03 document from the NCTP revision pathway
+- preserve EPA's later draft/revision descriptions as part of the administrative record
+- cross-link the record from the Permit Amendment and Condition 27A pathway
+- add the consolidated PDF to Permit Amendment primary documents and DTP clarification links
+- retain neutral documentary framing and avoid a compliance or legal-effect finding
+- update changed pages to Record Version 8.3.3 dated 23 August 2026
