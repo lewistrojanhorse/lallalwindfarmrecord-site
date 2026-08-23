@@ -1,11 +1,7 @@
 Upload the CONTENTS of this ZIP to the GitHub repository root.
 
-Replace:
-- noise-management-plan.html
-- permit-amendment.html
-
-Add:
-- documents/Lal-Lal-Wind-Farm-NMP-Primary-Document-Record-23-August-2026.pdf
-
+Replace the matching HTML files and add/replace the included PDF under documents/.
 Do not upload the enclosing folder itself.
 Do not delete the existing documents or images folders.
+
+This package supersedes the earlier v8.3.3 NMP primary-document-record incremental package.
