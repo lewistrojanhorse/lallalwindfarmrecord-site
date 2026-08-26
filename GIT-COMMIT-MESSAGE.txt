@@ -1,7 +1,7 @@
-fix(permit): position NMP primary record before related evidence
+feat(record): add DTP Ombudsman escalation to permit amendment record
 
-- move the NMP Primary Document Record section to immediately precede “Continue through the evidence”
-- keep the Condition 27A, NMP, auditor and withdrawn NCTP pathway together before related-page navigation
-- preserve the existing primary-document wording, links and neutral documentary framing
-- retain the consolidated NMP Primary Document Record PDF and Noise Management Plan page update
-- update included pages to Record Version 8.3.4 dated 23 August 2026
+- record 10–25 August 2026 Ministerial response and escalation chronology
+- publish 25 August Victorian Ombudsman complaint concerning DTP permit administration
+- link the escalation across home, permit amendment, chronology, agency and document pages
+- preserve procedural status: complaint lodged, no Ombudsman finding recorded
+- bump changed pages to record version 8.3.5

@@ -1,15 +1,54 @@
-Lal Lal Wind Farm Record — Validation Summary
-Release: v8.3.4
-Date: 23 August 2026
+VALIDATION SUMMARY — Lal Lal Wind Farm Record
+Release: 8.3.5
+Build date: 26 August 2026
 
 Scope
-- Corrected placement of the NMP Primary Document Record on permit-amendment.html.
-- Self-contained incremental package retains the v8.3.3 NMP page and consolidated PDF.
+- Incremental deployment package only.
+- Updated HTML: index.html, permit-amendment.html, chronology.html, agency-records.html, documents.html.
+- New primary document asset: documents/Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf.
+- No existing URLs, navigation structure, canonical URLs, CSS or unrelated page content intentionally changed.
 
-Checks
-- NMP Primary Document Record appears immediately before “Continue through the evidence / Related record pages”.
-- NMP section appears once only.
-- Linked consolidated PDF path is preserved.
-- Cross-link to noise-management-plan.html#nmp-primary-document-record is preserved.
-- HTML parses successfully.
-- No duplicate HTML IDs detected on permit-amendment.html.
+Documentary update
+- Records the 10 August 2026 further Ministerial request, 18 August acknowledgement follow-up, expiry of the 14-day period on 24 August, and Victorian Ombudsman complaint lodged 25 August 2026.
+- The complaint is described as an external administrative-oversight escalation only. No Ombudsman finding, acceptance of allegations or determination is asserted.
+- Existing technical evidence pages are not rewritten; the new material links back to the established permit-amendment and agency record.
+
+Validation
+- PASS: index.html — doctype
+- PASS: index.html — release-version
+- PASS: index.html — last-modified
+- PASS: permit-amendment.html — doctype
+- PASS: permit-amendment.html — release-version
+- PASS: permit-amendment.html — last-modified
+- PASS: chronology.html — doctype
+- PASS: chronology.html — release-version
+- PASS: chronology.html — last-modified
+- PASS: agency-records.html — doctype
+- PASS: agency-records.html — release-version
+- PASS: agency-records.html — last-modified
+- PASS: documents.html — doctype
+- PASS: documents.html — release-version
+- PASS: documents.html — last-modified
+- PASS: index.html — permit-amendment.html#victorian-ombudsman-dtp-complaint
+- PASS: index.html — documents/Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf
+- PASS: permit-amendment.html — id="victorian-ombudsman-dtp-complaint"
+- PASS: permit-amendment.html — documents/Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf
+- PASS: permit-amendment.html — agency-records.html#dtp-ombudsman-complaint
+- PASS: permit-amendment.html — chronology.html#dtp-ombudsman-escalation
+- PASS: agency-records.html — id="dtp-ombudsman-complaint"
+- PASS: agency-records.html — documents/Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf
+- PASS: chronology.html — id="dtp-ombudsman-escalation"
+- PASS: chronology.html — documents/Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf
+- PASS: documents.html — documents/Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf
+- PASS: documents.html — Victorian Ombudsman Complaint — DTP Administration of Lal Lal Wind Farm
+- PASS: Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf — exists
+- PASS: Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf — nonzero
+- PASS: index.html — html/body
+- PASS: permit-amendment.html — html/body
+- PASS: chronology.html — html/body
+- PASS: agency-records.html — html/body
+- PASS: documents.html — html/body
+
+Result: PASS — all validation checks completed.
+
+Note: This is an incremental package. References to pre-existing repository assets are preserved and are not duplicated into this ZIP. New asset paths introduced by this build were verified within the package.
