@@ -1,7 +1,36 @@
-feat(record): add DTP Ombudsman escalation to permit amendment record
+feat(k15aa): add DTP monitoring-methodology clarification
 
-- record 10–25 August 2026 Ministerial response and escalation chronology
-- publish 25 August Victorian Ombudsman complaint concerning DTP permit administration
-- link the escalation across home, permit amendment, chronology, agency and document pages
-- preserve procedural status: complaint lodged, no Ombudsman finding recorded
-- bump changed pages to record version 8.3.5
+Add the 12 August 2026 DTP Energy and Infrastructure Assessment response to
+the K15aa documentary pathway as a later public-authority clarification.
+
+Record that DTP states the Clause 52.32 planning framework requires a
+pre-construction predictive noise assessment conducted in accordance with
+NZS 6808:2010.
+
+Record DTP's statement that the Victorian Wind Energy Facility Turbine Noise
+Guideline does not supplement the requirements in Clause 52.32 and
+NZS 6808:2010, and that the Guideline instead provides additional guidance
+and information relevant to the planning permit process.
+
+Record DTP's express response that "The monitoring methodology is set out in
+NZS 6808:2010" when asked whether representative monitoring methodology
+derives its authority from another legislative or policy mechanism.
+
+Preserve the scope limitation in the DTP response: the Department states that
+it does not administer the Environment Protection Regulations and directs
+questions concerning those Regulations to EPA. Do not treat the clarification
+as determining the application of Regulations 131BB or 131BC to the Lal Lal
+Wind Farm record.
+
+Place the primary analytical treatment on K15aa as Documentary Record Item 14
+and add concise cross-references to the NZS 6808, NCTP, Representative
+Monitoring and Pre-construction Acoustic Assessments pages.
+
+Add a 12 August 2026 entry to the Chronology and publish the source in the
+Document Library. Record provenance accurately as a DTP response later
+supplied to the Beneficiary by a third party.
+
+Publish a true-redacted source PDF removing only the Beneficiary's personal
+recipient email address while preserving the substantive DTP correspondence.
+
+Update affected pages to v8.3.6 dated 27 August 2026.

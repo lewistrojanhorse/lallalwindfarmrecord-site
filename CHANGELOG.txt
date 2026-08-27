@@ -1,64 +1,25 @@
-Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.3.0
-Date: 20 August 2026
+Lal Lal Wind Farm Record - CHANGELOG
+Release: v8.3.6
+Date: 27 August 2026
 
-Repository-wide alignment release.
-
-Updated all 31 canonical HTML pages:
-- index.html
-- start-here.html
-- glossary.html
-- framework.html
-- understanding-the-record.html
-- commissioning-final-turbine.html
-- chronology.html
-- key-project-dates.html
-- key-issues.html
+Updated:
+- k15aa.html
 - nzs6808.html
 - nctp.html
-- k15aa.html
 - representative-monitoring.html
-- sac.html
-- technical-reports.html
 - pre-construction-acoustic-assessments.html
-- sonus-pre-construction-noise-assessment.html
-- noise-management-plan.html
-- permit-amendment.html
-- record.html
+- chronology.html
 - documents.html
-- agency-records.html
-- foi-decisions.html
-- verification.html
-- record-status.html
-- contact.html
-- aeic.html
-- operational-correspondence.html
-- blade-removal-processing.html
-- shadow-flicker.html
-- yendon-stage-1.html
 
-Updated shared repository files:
-- style.css
-- site.js
-- robots.txt
-- sitemap.xml
+Added:
+- documents/External-Clarification-DTP-Pre-Construction-Background-Noise-Assessment-12-August-2026-Redacted.pdf
 
-Repository alignment:
-- Set all pages to Record Version 8.3.0 dated 20 August 2026.
-- Set JSON-LD dateModified to 2026-08-20 and version to 8.3.0.
-- Added/updated last-modified metadata on every page.
-- Confirmed canonical and Open Graph URLs against canonical repository filenames.
-- Standardised main navigation and footer structures across the repository.
-- Updated Verification to the current navigation/footer structure.
-- Restored site.js includes to Technical Reports and Yendon Stage 1.
-- Rebuilt sitemap.xml for all 31 pages with 2026-08-20 lastmod values.
-- Updated release comments in style.css, site.js and robots.txt.
-
-Validation:
-- No broken internal HTML page links.
-- No broken internal anchor links.
-- No duplicate HTML IDs.
-- One consistent main navigation and footer structure.
-- site.js search index contains all canonical pages.
-- Sitemap contains all canonical pages.
-- Existing documentary content and sequencing preserved.
+DTP monitoring-methodology clarification:
+- Added the 12 August 2026 DTP Energy and Infrastructure Assessment response as a later public-authority clarification.
+- Recorded DTP's statement that Clause 52.32 requires a pre-construction predictive noise assessment conducted in accordance with NZS 6808:2010.
+- Recorded DTP's statement that the Victorian Wind Energy Facility Turbine Noise Guideline does not supplement the requirements in Clause 52.32 and NZS 6808:2010.
+- Recorded DTP's statement that the monitoring methodology is set out in NZS 6808:2010.
+- Preserved DTP's statement that it does not administer the Environment Protection Regulations and directs EP Regulation questions to EPA.
+- Added the main treatment as K15aa Documentary Record Item 14 and concise cross-references on related technical pages.
+- Added the 12 August 2026 event to Chronology and the primary source to the Document Library.
+- Published a true-redacted copy removing only the Beneficiary's personal recipient email address.

@@ -1,35 +1,50 @@
 VALIDATION SUMMARY
-Release: v8.2.8 - 10 August 2026
+Release: v8.3.6 - 27 August 2026
 
-PASS - page parses
-PASS - release metadata
-PASS - footer updated
-PASS - wind-direction section inserted
-PASS - wind image linked
-PASS - image preserved unchanged
-PASS - plain-English directional comparison
-PASS - downwind wording for I14aa/J14aa
-PASS - no overstatement safeguard
-PASS - comparison note strengthened
-PASS - figure numbering sequential 1-13
-PASS - map caption renumbered to Figure 4
-PASS - attended observations renumbered to Figure 13
-PASS - canonical retained
-PASS - sitemap updated
-PASS - no class_ defects
+PASS - k15aa.html: parses
+PASS - k15aa.html: release
+PASS - k15aa.html: date
+PASS - k15aa.html: footer
+PASS - nzs6808.html: parses
+PASS - nzs6808.html: release
+PASS - nzs6808.html: date
+PASS - nzs6808.html: footer
+PASS - nctp.html: parses
+PASS - nctp.html: release
+PASS - nctp.html: date
+PASS - nctp.html: footer
+PASS - representative-monitoring.html: parses
+PASS - representative-monitoring.html: release
+PASS - representative-monitoring.html: date
+PASS - representative-monitoring.html: footer
+PASS - pre-construction-acoustic-assessments.html: parses
+PASS - pre-construction-acoustic-assessments.html: release
+PASS - pre-construction-acoustic-assessments.html: date
+PASS - pre-construction-acoustic-assessments.html: footer
+PASS - chronology.html: parses
+PASS - chronology.html: release
+PASS - chronology.html: date
+PASS - chronology.html: footer
+PASS - documents.html: parses
+PASS - documents.html: release
+PASS - documents.html: date
+PASS - documents.html: footer
+PASS - K15aa item 14 added
+PASS - K15aa key methodology quote
+PASS - K15aa scope limitation
+PASS - NZS cross-reference
+PASS - NCTP cross-reference
+PASS - Representative cross-reference
+PASS - Preconstruction cross-reference
+PASS - Chronology 12 Aug entry
+PASS - Documents library entry
+PASS - Redacted PDF included
 
-Scope:
-- Updated representative-monitoring.html.
-- Updated sitemap.xml lastmod for Representative Monitoring.
-- Added images/representative-monitoring/elaine-wind-direction-monitoring-and-long-term-comparison.jpg.
-
-Sequencing:
-- Inserted monitoring-period and longer-term Elaine wind-direction evidence directly before the existing turbine-sector map.
-- New wind-direction comparison is Figure 3.
-- Existing turbine-sector map is now Figure 4.
-- Renumbered all later documentary figures sequentially through Figure 13.
-
-Editorial treatment:
-- Explained in plain English how northerly and north-westerly winds relate differently to I14aa/J14aa and K15aa.
-- Framed the evidence as directional exposure context, not proof of a specific sound level.
-- Strengthened the Clause 7.1.5 documentary significance note to bring together proximity, character, turbine sector and directional wind exposure.
+Documentary treatment:
+- Main analytical treatment added to K15aa as Item 14.
+- Short cross-references added to NZS 6808, NCTP, Representative Monitoring and Pre-construction Acoustic Assessments.
+- Added a 12 August 2026 chronology entry and Document Library entry.
+- Source provenance recorded accurately: DTP response later supplied to the Beneficiary by a third party.
+- DTP's distinction between the Planning/VPP framework and administration of the EP Regulations preserved.
+- No claim is made that DTP determined the application of Regulations 131BB/131BC to Lal Lal Wind Farm.
+- Beneficiary recipient email address true-redacted from the public PDF; substantive content otherwise preserved.
