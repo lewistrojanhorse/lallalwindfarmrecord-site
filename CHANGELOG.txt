@@ -1,25 +1,14 @@
-Lal Lal Wind Farm Record - CHANGELOG
-Release: v8.3.6
+Lal Lal Wind Farm Record — CHANGELOG
+Release: v8.4.0
 Date: 27 August 2026
 
-Updated:
-- k15aa.html
-- nzs6808.html
-- nctp.html
-- representative-monitoring.html
-- pre-construction-acoustic-assessments.html
-- chronology.html
-- documents.html
+Complete repository-wide integrity and release alignment from the two-part 27 August 2026 source repository.
 
-Added:
-- documents/External-Clarification-DTP-Pre-Construction-Background-Noise-Assessment-12-August-2026-Redacted.pdf
-
-DTP monitoring-methodology clarification:
-- Added the 12 August 2026 DTP Energy and Infrastructure Assessment response as a later public-authority clarification.
-- Recorded DTP's statement that Clause 52.32 requires a pre-construction predictive noise assessment conducted in accordance with NZS 6808:2010.
-- Recorded DTP's statement that the Victorian Wind Energy Facility Turbine Noise Guideline does not supplement the requirements in Clause 52.32 and NZS 6808:2010.
-- Recorded DTP's statement that the monitoring methodology is set out in NZS 6808:2010.
-- Preserved DTP's statement that it does not administer the Environment Protection Regulations and directs EP Regulation questions to EPA.
-- Added the main treatment as K15aa Documentary Record Item 14 and concise cross-references on related technical pages.
-- Added the 12 August 2026 event to Chronology and the primary source to the Document Library.
-- Published a true-redacted copy removing only the Beneficiary's personal recipient email address.
+- 32 canonical HTML pages aligned.
+- J14aa page retained and added to search/sitemap.
+- DTP 12 August monitoring-methodology update retained.
+- 25 August Victorian Ombudsman/DTP record retained.
+- Contact Facebook link retained.
+- Shared navigation/footer aligned.
+- Metadata, search index and sitemap rebuilt.
+- Zero broken internal HTML links or anchors; zero duplicate IDs.

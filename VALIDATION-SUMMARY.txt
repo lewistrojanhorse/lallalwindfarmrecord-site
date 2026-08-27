@@ -1,54 +1,36 @@
-VALIDATION SUMMARY — Lal Lal Wind Farm Record
-Release: 8.3.5
-Build date: 26 August 2026
+VALIDATION SUMMARY
+Release: v8.4.0
+Repository date: 27 August 2026
 
-Scope
-- Incremental deployment package only.
-- Updated HTML: index.html, permit-amendment.html, chronology.html, agency-records.html, documents.html.
-- New primary document asset: documents/Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf.
-- No existing URLs, navigation structure, canonical URLs, CSS or unrelated page content intentionally changed.
+Repository basis
+- Built directly from the two-part repository supplied on 27 August 2026.
+- 32 canonical HTML pages identified by their canonical URLs and retained.
+- Current shared style.css, site.js and robots.txt supplied with the repository retained and aligned.
 
-Documentary update
-- Records the 10 August 2026 further Ministerial request, 18 August acknowledgement follow-up, expiry of the 14-day period on 24 August, and Victorian Ombudsman complaint lodged 25 August 2026.
-- The complaint is described as an external administrative-oversight escalation only. No Ombudsman finding, acceptance of allegations or determination is asserted.
-- Existing technical evidence pages are not rewritten; the new material links back to the established permit-amendment and agency record.
+Repository-wide checks
+- 32 canonical HTML pages present.
+- Broken internal HTML page links: 0.
+- Broken internal anchors: 0.
+- Duplicate HTML IDs: 0.
+- Canonical URL mismatches: 0.
+- JSON-LD release/date/url mismatches: 0.
+- Main navigation variants: 1.
+- Footer variants: 1.
+- Search-index omissions: 0.
+- Sitemap omissions: 0.
 
-Validation
-- PASS: index.html — doctype
-- PASS: index.html — release-version
-- PASS: index.html — last-modified
-- PASS: permit-amendment.html — doctype
-- PASS: permit-amendment.html — release-version
-- PASS: permit-amendment.html — last-modified
-- PASS: chronology.html — doctype
-- PASS: chronology.html — release-version
-- PASS: chronology.html — last-modified
-- PASS: agency-records.html — doctype
-- PASS: agency-records.html — release-version
-- PASS: agency-records.html — last-modified
-- PASS: documents.html — doctype
-- PASS: documents.html — release-version
-- PASS: documents.html — last-modified
-- PASS: index.html — permit-amendment.html#victorian-ombudsman-dtp-complaint
-- PASS: index.html — documents/Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf
-- PASS: permit-amendment.html — id="victorian-ombudsman-dtp-complaint"
-- PASS: permit-amendment.html — documents/Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf
-- PASS: permit-amendment.html — agency-records.html#dtp-ombudsman-complaint
-- PASS: permit-amendment.html — chronology.html#dtp-ombudsman-escalation
-- PASS: agency-records.html — id="dtp-ombudsman-complaint"
-- PASS: agency-records.html — documents/Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf
-- PASS: chronology.html — id="dtp-ombudsman-escalation"
-- PASS: chronology.html — documents/Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf
-- PASS: documents.html — documents/Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf
-- PASS: documents.html — Victorian Ombudsman Complaint — DTP Administration of Lal Lal Wind Farm
-- PASS: Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf — exists
-- PASS: Victorian-Ombudsman-Complaint-DTP-Lal-Lal-Wind-Farm-25-August-2026.pdf — nonzero
-- PASS: index.html — html/body
-- PASS: permit-amendment.html — html/body
-- PASS: chronology.html — html/body
-- PASS: agency-records.html — html/body
-- PASS: documents.html — html/body
+Current-record checks
+- Dedicated J14aa 15 August 2024 page retained and added to search/sitemap coverage.
+- 12 August 2026 DTP monitoring-methodology treatment retained on K15aa.
+- 25 August 2026 Victorian Ombudsman/DTP chronology material retained.
+- Contact-page Facebook link retained.
 
-Result: PASS — all validation checks completed.
+Assets
+- This package is an incremental web-code deployment package. The supplied two-part repository consisted of HTML/CSS/JS/robots/sitemap files rather than the full binary images/documents tree.
+- 285 distinct local image/document/media paths are referenced by the HTML and are expected to remain in the existing deployed asset tree. Their absence from this incremental ZIP is not treated as a broken HTML page link.
 
-Note: This is an incremental package. References to pre-existing repository assets are preserved and are not duplicated into this ZIP. New asset paths introduced by this build were verified within the package.
+Release alignment
+- All 32 pages aligned to Record Version 8.4.0 — 27 August 2026.
+- style.css, site.js and robots.txt release identifiers aligned.
+- sitemap.xml rebuilt for all 32 canonical pages with lastmod 2026-08-27.
+- site.js search index rebuilt for all 32 canonical pages.

@@ -1,36 +1,50 @@
-feat(k15aa): add DTP monitoring-methodology clarification
+chore(repository): align complete record to 27 August 2026
 
-Add the 12 August 2026 DTP Energy and Infrastructure Assessment response to
-the K15aa documentary pathway as a later public-authority clarification.
+Perform a complete repository-wide integrity and release alignment using the
+two-part repository supplied on 27 August 2026 as the authoritative baseline.
 
-Record that DTP states the Clause 52.32 planning framework requires a
-pre-construction predictive noise assessment conducted in accordance with
-NZS 6808:2010.
+Retain all 32 canonical HTML pages and preserve the current documentary text,
+quotations, chronology, evidentiary sequencing and page-specific material.
 
-Record DTP's statement that the Victorian Wind Energy Facility Turbine Noise
-Guideline does not supplement the requirements in Clause 52.32 and
-NZS 6808:2010, and that the Guideline instead provides additional guidance
-and information relevant to the planning permit process.
+Set every canonical page to Record Version 8.4.0 dated 27 August 2026. Align
+JSON-LD dateModified/version/url values, canonical URLs, Open Graph URLs and
+last-modified metadata.
 
-Record DTP's express response that "The monitoring methodology is set out in
-NZS 6808:2010" when asked whether representative monitoring methodology
-derives its authority from another legislative or policy mechanism.
+Standardise the main navigation, mobile navigation and footer structure across
+the complete repository.
 
-Preserve the scope limitation in the DTP response: the Department states that
-it does not administer the Environment Protection Regulations and directs
-questions concerning those Regulations to EPA. Do not treat the clarification
-as determining the application of Regulations 131BB or 131BC to the Lal Lal
-Wind Farm record.
+Retain the dedicated J14aa 15 August 2024 public-record page and add it to the
+shared search index and sitemap coverage.
 
-Place the primary analytical treatment on K15aa as Documentary Record Item 14
-and add concise cross-references to the NZS 6808, NCTP, Representative
-Monitoring and Pre-construction Acoustic Assessments pages.
+Retain the 12 August 2026 DTP monitoring-methodology clarification incorporated
+into the K15aa documentary pathway and related pages.
 
-Add a 12 August 2026 entry to the Chronology and publish the source in the
-Document Library. Record provenance accurately as a DTP response later
-supplied to the Beneficiary by a third party.
+Retain the 25 August 2026 Victorian Ombudsman/DTP administrative-oversight
+chronology and permit-amendment material, and retain the Facebook link on the
+Contact page.
 
-Publish a true-redacted source PDF removing only the Beneficiary's personal
-recipient email address while preserving the substantive DTP correspondence.
+Update style.css, site.js and robots.txt release identifiers to v8.4.0 dated
+27 August 2026.
 
-Update affected pages to v8.3.6 dated 27 August 2026.
+Rebuild the site.js search index and sitemap.xml so all 32 canonical pages are
+covered, with sitemap last-modified values of 2026-08-27.
+
+Validate the repository for HTML structure, duplicate IDs, internal page links,
+cross-page anchors, canonical URLs, JSON-LD release metadata, shared navigation
+and footer consistency, search-index coverage and sitemap coverage.
+
+Validation confirms:
+- 32 canonical HTML pages present;
+- no broken internal HTML page links;
+- no broken internal anchors;
+- no duplicate HTML IDs;
+- no canonical URL mismatches;
+- no JSON-LD release/date/url mismatches;
+- one consistent main navigation structure;
+- one consistent footer structure;
+- all 32 pages included in the site.js search index; and
+- all 32 pages included in sitemap.xml.
+
+This remains an incremental web-code deployment package. Existing binary images,
+PDFs and media referenced by the pages remain in the deployed asset tree and are
+not duplicated in this repository-wide alignment ZIP.
