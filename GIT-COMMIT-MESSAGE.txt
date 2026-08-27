@@ -1,39 +1,27 @@
-feat(blade-incident): add 104-day Y23 site-condition record
+feat(navigation): surface Y23 blade incident record
 
-Expand the Blade Removal and Processing page to incorporate the separate 2026
-Y23 blade-failure record while preserving the existing 2024 blade-processing
-chronology as a distinct documentary sequence.
+Improve discoverability of the 2026 Y23 blade-failure material across the
+Lal Lal Wind Farm Record.
 
-Add the third-party site footage supplied on 27 August 2026 and record that
-104 days elapsed from the 15 May 2026 Y23 blade failure.
+Rename the navigation label from "Blade Removal & Processing" to
+"Blade Incident & Processing" while retaining the existing
+blade-removal-processing.html URL so existing links remain valid.
 
-Record the visible site condition shown in the later footage: substantial blade
-sections and numerous smaller dispersed fragments remain present across the
-recorded incident area.
+Add a prominent homepage callout linking directly to the Y23 Blade Incident
+104-Day Site Record.
 
-Compare the 27 August footage with the earlier May footage using qualified
-documentary wording. Record that no material general clean-up or recovery of
-the dispersed debris is apparent from the visual record, while expressly
-avoiding a claim that no material whatsoever had been removed during the
-intervening period.
+Add a dedicated Start Here entry linking directly to the 27 August 2026
+Y23 site-condition material.
 
-Add rainfall context for the 104-day period using an approximate Lal Lal
-locality estimate of about 200 mm, including an approximately 42 mm rainfall
-event on 10 August 2026. Identify the cumulative figure as approximate rather
-than a site-specific rainfall measurement.
+Add a Key Issues entry highlighting the 104-day site record and later visible
+site condition.
 
-Add the supplied map recording turbine Y23 approximately 2.5 km in a straight
-line from Lal Lal Reservoir.
+Add a direct jump link near the top of the Blade Incident & Processing page so
+readers can move immediately to the 2026 Y23 blade-failure section without
+scrolling through the earlier 2024 blade-processing record.
 
-Treat the reservoir distance and rainfall as environmental context only. Do not
-infer a drainage pathway or state that blade material, particles or contaminants
-entered a waterway or Lal Lal Reservoir.
+Preserve all existing blade-incident evidence, footage, rainfall context,
+reservoir-proximity material and documentary qualifications.
 
-Add the 27 August footage and proximity map to the Document Library, add a
-focused Y23 incident sequence to the Chronology, and update the Operational
-Correspondence blade-failure card with links to the later footage and dedicated
-104-day site record.
-
-Preserve the supplied video and map unchanged.
-
-Update affected pages and sitemap metadata to v8.4.1 dated 27 August 2026.
+Update affected page metadata, shared navigation labels and sitemap lastmod
+values to v8.4.2 dated 27 August 2026.

@@ -1,41 +1,110 @@
 VALIDATION SUMMARY
-Release: v8.4.1 — 27 August 2026
+Release: v8.4.2 — 27 August 2026
 
-PASS - blade-removal-processing.html: parses
-PASS - blade-removal-processing.html: release metadata
-PASS - blade-removal-processing.html: footer version/date
-PASS - blade-removal-processing.html: no duplicate IDs
+PASS - representative-monitoring.html: parses
+PASS - representative-monitoring.html: v8.4.2 metadata
+PASS - record-status.html: parses
+PASS - record-status.html: v8.4.2 metadata
+PASS - start-here.html: parses
+PASS - start-here.html: v8.4.2 metadata
+PASS - understanding-the-record.html: parses
+PASS - understanding-the-record.html: v8.4.2 metadata
+PASS - contact.html: parses
+PASS - contact.html: v8.4.2 metadata
+PASS - glossary.html: parses
+PASS - glossary.html: v8.4.2 metadata
+PASS - agency-records.html: parses
+PASS - agency-records.html: v8.4.2 metadata
 PASS - chronology.html: parses
-PASS - chronology.html: release metadata
-PASS - chronology.html: footer version/date
-PASS - chronology.html: no duplicate IDs
-PASS - documents.html: parses
-PASS - documents.html: release metadata
-PASS - documents.html: footer version/date
-PASS - documents.html: no duplicate IDs
+PASS - chronology.html: v8.4.2 metadata
+PASS - verification.html: parses
+PASS - verification.html: v8.4.2 metadata
+PASS - pre-construction-acoustic-assessments.html: parses
+PASS - pre-construction-acoustic-assessments.html: v8.4.2 metadata
 PASS - operational-correspondence.html: parses
-PASS - operational-correspondence.html: release metadata
-PASS - operational-correspondence.html: footer version/date
-PASS - operational-correspondence.html: no duplicate IDs
-PASS - 104-day calculation recorded
-PASS - 27 August footage linked on blade page
-PASS - 27 August footage linked in Documents
-PASS - Reservoir map linked
-PASS - Approximate 2.5 km distance recorded
-PASS - Approximate 200 mm rainfall recorded
-PASS - 42 mm event recorded
-PASS - Rainfall expressly approximate/locality based
-PASS - No contamination overstatement
-PASS - Clean-up comparison qualified
-PASS - Operational Correspondence cross-link added
-PASS - Video asset copied unchanged
-PASS - Map asset copied unchanged
-PASS - Sitemap blade page lastmod
+PASS - operational-correspondence.html: v8.4.2 metadata
+PASS - k15aa.html: parses
+PASS - k15aa.html: v8.4.2 metadata
+PASS - key-issues.html: parses
+PASS - key-issues.html: v8.4.2 metadata
+PASS - blade-removal-processing.html: parses
+PASS - blade-removal-processing.html: v8.4.2 metadata
+PASS - aeic.html: parses
+PASS - aeic.html: v8.4.2 metadata
+PASS - sac.html: parses
+PASS - sac.html: v8.4.2 metadata
+PASS - key-project-dates.html: parses
+PASS - key-project-dates.html: v8.4.2 metadata
+PASS - yendon-stage-1.html: parses
+PASS - yendon-stage-1.html: v8.4.2 metadata
+PASS - documents.html: parses
+PASS - documents.html: v8.4.2 metadata
+PASS - permit-amendment.html: parses
+PASS - permit-amendment.html: v8.4.2 metadata
+PASS - noise-management-plan.html: parses
+PASS - noise-management-plan.html: v8.4.2 metadata
+PASS - framework.html: parses
+PASS - framework.html: v8.4.2 metadata
+PASS - nctp.html: parses
+PASS - nctp.html: v8.4.2 metadata
+PASS - shadow-flicker.html: parses
+PASS - shadow-flicker.html: v8.4.2 metadata
+PASS - commissioning-final-turbine.html: parses
+PASS - commissioning-final-turbine.html: v8.4.2 metadata
+PASS - record.html: parses
+PASS - record.html: v8.4.2 metadata
+PASS - foi-decisions.html: parses
+PASS - foi-decisions.html: v8.4.2 metadata
+PASS - j14aa-15-august-2024.html: parses
+PASS - j14aa-15-august-2024.html: v8.4.2 metadata
+PASS - technical-reports.html: parses
+PASS - technical-reports.html: v8.4.2 metadata
+PASS - sonus-pre-construction-noise-assessment.html: parses
+PASS - sonus-pre-construction-noise-assessment.html: v8.4.2 metadata
+PASS - nzs6808.html: parses
+PASS - nzs6808.html: v8.4.2 metadata
+PASS - index.html: parses
+PASS - index.html: v8.4.2 metadata
+PASS - index.html: Y23 discoverability link
+PASS - start-here.html: Y23 discoverability link
+PASS - key-issues.html: Y23 discoverability link
+PASS - blade-removal-processing.html: Y23 discoverability link
+PASS - representative-monitoring.html: nav label updated where applicable
+PASS - record-status.html: nav label updated where applicable
+PASS - start-here.html: nav label updated where applicable
+PASS - understanding-the-record.html: nav label updated where applicable
+PASS - contact.html: nav label updated where applicable
+PASS - glossary.html: nav label updated where applicable
+PASS - agency-records.html: nav label updated where applicable
+PASS - chronology.html: nav label updated where applicable
+PASS - verification.html: nav label updated where applicable
+PASS - pre-construction-acoustic-assessments.html: nav label updated where applicable
+PASS - operational-correspondence.html: nav label updated where applicable
+PASS - k15aa.html: nav label updated where applicable
+PASS - key-issues.html: nav label updated where applicable
+PASS - blade-removal-processing.html: nav label updated where applicable
+PASS - aeic.html: nav label updated where applicable
+PASS - sac.html: nav label updated where applicable
+PASS - key-project-dates.html: nav label updated where applicable
+PASS - yendon-stage-1.html: nav label updated where applicable
+PASS - documents.html: nav label updated where applicable
+PASS - permit-amendment.html: nav label updated where applicable
+PASS - noise-management-plan.html: nav label updated where applicable
+PASS - framework.html: nav label updated where applicable
+PASS - nctp.html: nav label updated where applicable
+PASS - shadow-flicker.html: nav label updated where applicable
+PASS - commissioning-final-turbine.html: nav label updated where applicable
+PASS - record.html: nav label updated where applicable
+PASS - foi-decisions.html: nav label updated where applicable
+PASS - j14aa-15-august-2024.html: nav label updated where applicable
+PASS - technical-reports.html: nav label updated where applicable
+PASS - sonus-pre-construction-noise-assessment.html: nav label updated where applicable
+PASS - nzs6808.html: nav label updated where applicable
+PASS - index.html: nav label updated where applicable
 
-Documentary treatment:
-- Recorded 104 elapsed days from 15 May to 27 August 2026.
-- Recorded substantial blade material and dispersed fragments as visibly remaining in the later footage.
-- Qualified the clean-up comparison so it does not assert that no material whatsoever had been removed.
-- Presented approximately 200 mm rainfall as an approximate Lal Lal locality estimate, including approximately 42 mm on 10 August 2026.
-- Recorded the supplied 2.5 km measurement as straight-line proximity only.
-- Did not infer a drainage pathway, reservoir contamination or a regulatory finding.
+Discoverability changes:
+- Renamed the site navigation label from Blade Removal & Processing to Blade Incident & Processing on all affected supplied pages.
+- Added a prominent Y23 Blade Incident link on Home.
+- Added a prominent Y23 Blade Incident link on Start Here.
+- Added a prominent Y23 Blade Incident entry on Key Issues.
+- Added a jump link at the top of the Blade Incident & Processing page.

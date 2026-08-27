@@ -1,27 +1,12 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.4.1
+Release: v8.4.2
 Date: 27 August 2026
 
-Updated:
-- blade-removal-processing.html
-- chronology.html
-- documents.html
-- operational-correspondence.html
-- sitemap.xml
-
-Added:
-- documents/blade-incident-site-footage-27-august-2026.mov
-- images/blade-incident/Y23-Lal-Lal-Reservoir-distance-27-August-2026.jpg
-
-2026 Y23 blade-failure record:
-- Expanded the Blade Removal and Processing page so the separate 2026 Y23 blade-failure record is clearly distinguished from the existing 2024 blade-processing record.
-- Added the 27 August 2026 third-party site footage.
-- Recorded 104 days between the 15 May incident and the 27 August footage.
-- Recorded that substantial blade sections and dispersed smaller fragments remain visible in the later footage.
-- Compared the later footage with the earlier May footage using qualified wording.
-- Added approximate rainfall context of about 200 mm during the intervening period, including about 42 mm on 10 August 2026.
-- Added the supplied map recording an approximate 2.5 km straight-line distance from Y23 to Lal Lal Reservoir.
-- Preserved the distinction between proximity/rainfall context and any unsupported conclusion about drainage, pollution, contamination or entry into the reservoir.
-- Added focused Chronology, Document Library and Operational Correspondence cross-references.
-
-Affected pages updated to v8.4.1 dated 27 August 2026.
+Discoverability update:
+- Renamed the navigation label from “Blade Removal & Processing” to “Blade Incident & Processing” across all affected repository pages included in this targeted release.
+- Added a prominent homepage link to the Y23 Blade Incident — 104-Day Site Record.
+- Added a prominent Start Here link to the Y23 Blade Incident — 104-Day Site Record.
+- Added a prominent Key Issues entry for the Y23 Blade Incident and later site condition.
+- Added a direct jump link near the top of the Blade Incident & Processing page to the 2026 Y23 section.
+- Retained the existing URL blade-removal-processing.html to avoid breaking links.
+- Updated affected page metadata and sitemap lastmod values to 27 August 2026.
