@@ -1,51 +1,8 @@
-VALIDATION SUMMARY
-Release: v8.4.3 — 28 August 2026
+Lal Lal Wind Farm Record — v8.4.4 validation
+Date: 28 August 2026
 
-PASS - blade-removal-processing.html: parses
-PASS - blade-removal-processing.html: v8.4.3 metadata
-PASS - blade-removal-processing.html: footer release/date
-PASS - blade-removal-processing.html: no duplicate IDs
-PASS - blade-removal-processing.html: current navigation label
-PASS - chronology.html: parses
-PASS - chronology.html: v8.4.3 metadata
-PASS - chronology.html: footer release/date
-PASS - chronology.html: no duplicate IDs
-PASS - chronology.html: current navigation label
-PASS - documents.html: parses
-PASS - documents.html: v8.4.3 metadata
-PASS - documents.html: footer release/date
-PASS - documents.html: no duplicate IDs
-PASS - documents.html: current navigation label
-PASS - operational-correspondence.html: parses
-PASS - operational-correspondence.html: v8.4.3 metadata
-PASS - operational-correspondence.html: footer release/date
-PASS - operational-correspondence.html: no duplicate IDs
-PASS - operational-correspondence.html: current navigation label
-PASS - Blade page has EPA / water-authority chronology
-PASS - 29 May EPA South West / CHW record described
-PASS - 15 June EPA role quoted
-PASS - 27 August ENQ231138 record linked
-PASS - 29 May primary PDF linked
-PASS - Chronology includes 29 May
-PASS - Chronology includes 15 June EPA role
-PASS - Documents page includes both correspondence files
-PASS - Operational correspondence includes EPA sequence
-PASS - 29 May source preserved unchanged
-PASS - 27 August public copy exists
-PASS - Sitemap affected pages dated 28 August
+HTML pages checked: 32
+Sitemap entries checked: 32
+Result: PASS
 
-Scope:
-- Updated blade-removal-processing.html.
-- Updated chronology.html.
-- Updated documents.html.
-- Updated operational-correspondence.html.
-- Updated sitemap.xml.
-- Added documents/Trustee-Public-Interest-Record-Y23-Blade-Failure-29-May-2026.pdf.
-- Added documents/EPA-ENQ231138-Y23-Blade-Failure-Updated-Site-Footage-27-August-2026-Redacted.pdf.
-
-Documentary treatment:
-- Added the 29 May 2026 Trustee record showing that the earlier footage and environmental/drainage questions were provided to EPA South West and Central Highlands Water shortly after the incident.
-- Added EPA's 15 June ENQ231138 position that it was making enquiries and that its role was limited to ensuring appropriate disposal and clean-up.
-- Added the 27 August 2026 Trustee follow-up under ENQ231138, 104 days after the incident, providing the later footage and seeking EPA's current substantive position.
-- Preserved the distinction between visible site condition and any unsupported conclusion about contamination, environmental harm or the absence of all clean-up activity.
-- Published the 27 August PDF as a true-redacted public copy removing only the Beneficiary's personal recipient email address from the embedded EPA reply.
+All repository HTML pages carry v8.4.4 / 28 August 2026 structured-data metadata, last-modified metadata and visible footer release date. All sitemap lastmod entries are aligned to 28 August 2026. Repository release markers in style.css and robots.txt are aligned. Substantive documentary dates within page content were preserved.
