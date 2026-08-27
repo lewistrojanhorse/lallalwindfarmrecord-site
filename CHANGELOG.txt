@@ -1,14 +1,27 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.4.0
+Release: v8.4.1
 Date: 27 August 2026
 
-Complete repository-wide integrity and release alignment from the two-part 27 August 2026 source repository.
+Updated:
+- blade-removal-processing.html
+- chronology.html
+- documents.html
+- operational-correspondence.html
+- sitemap.xml
 
-- 32 canonical HTML pages aligned.
-- J14aa page retained and added to search/sitemap.
-- DTP 12 August monitoring-methodology update retained.
-- 25 August Victorian Ombudsman/DTP record retained.
-- Contact Facebook link retained.
-- Shared navigation/footer aligned.
-- Metadata, search index and sitemap rebuilt.
-- Zero broken internal HTML links or anchors; zero duplicate IDs.
+Added:
+- documents/blade-incident-site-footage-27-august-2026.mov
+- images/blade-incident/Y23-Lal-Lal-Reservoir-distance-27-August-2026.jpg
+
+2026 Y23 blade-failure record:
+- Expanded the Blade Removal and Processing page so the separate 2026 Y23 blade-failure record is clearly distinguished from the existing 2024 blade-processing record.
+- Added the 27 August 2026 third-party site footage.
+- Recorded 104 days between the 15 May incident and the 27 August footage.
+- Recorded that substantial blade sections and dispersed smaller fragments remain visible in the later footage.
+- Compared the later footage with the earlier May footage using qualified wording.
+- Added approximate rainfall context of about 200 mm during the intervening period, including about 42 mm on 10 August 2026.
+- Added the supplied map recording an approximate 2.5 km straight-line distance from Y23 to Lal Lal Reservoir.
+- Preserved the distinction between proximity/rainfall context and any unsupported conclusion about drainage, pollution, contamination or entry into the reservoir.
+- Added focused Chronology, Document Library and Operational Correspondence cross-references.
+
+Affected pages updated to v8.4.1 dated 27 August 2026.

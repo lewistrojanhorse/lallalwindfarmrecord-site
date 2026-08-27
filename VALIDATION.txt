@@ -1,50 +1,41 @@
 VALIDATION SUMMARY
-Release: v8.3.6 - 27 August 2026
+Release: v8.4.1 — 27 August 2026
 
-PASS - k15aa.html: parses
-PASS - k15aa.html: release
-PASS - k15aa.html: date
-PASS - k15aa.html: footer
-PASS - nzs6808.html: parses
-PASS - nzs6808.html: release
-PASS - nzs6808.html: date
-PASS - nzs6808.html: footer
-PASS - nctp.html: parses
-PASS - nctp.html: release
-PASS - nctp.html: date
-PASS - nctp.html: footer
-PASS - representative-monitoring.html: parses
-PASS - representative-monitoring.html: release
-PASS - representative-monitoring.html: date
-PASS - representative-monitoring.html: footer
-PASS - pre-construction-acoustic-assessments.html: parses
-PASS - pre-construction-acoustic-assessments.html: release
-PASS - pre-construction-acoustic-assessments.html: date
-PASS - pre-construction-acoustic-assessments.html: footer
+PASS - blade-removal-processing.html: parses
+PASS - blade-removal-processing.html: release metadata
+PASS - blade-removal-processing.html: footer version/date
+PASS - blade-removal-processing.html: no duplicate IDs
 PASS - chronology.html: parses
-PASS - chronology.html: release
-PASS - chronology.html: date
-PASS - chronology.html: footer
+PASS - chronology.html: release metadata
+PASS - chronology.html: footer version/date
+PASS - chronology.html: no duplicate IDs
 PASS - documents.html: parses
-PASS - documents.html: release
-PASS - documents.html: date
-PASS - documents.html: footer
-PASS - K15aa item 14 added
-PASS - K15aa key methodology quote
-PASS - K15aa scope limitation
-PASS - NZS cross-reference
-PASS - NCTP cross-reference
-PASS - Representative cross-reference
-PASS - Preconstruction cross-reference
-PASS - Chronology 12 Aug entry
-PASS - Documents library entry
-PASS - Redacted PDF included
+PASS - documents.html: release metadata
+PASS - documents.html: footer version/date
+PASS - documents.html: no duplicate IDs
+PASS - operational-correspondence.html: parses
+PASS - operational-correspondence.html: release metadata
+PASS - operational-correspondence.html: footer version/date
+PASS - operational-correspondence.html: no duplicate IDs
+PASS - 104-day calculation recorded
+PASS - 27 August footage linked on blade page
+PASS - 27 August footage linked in Documents
+PASS - Reservoir map linked
+PASS - Approximate 2.5 km distance recorded
+PASS - Approximate 200 mm rainfall recorded
+PASS - 42 mm event recorded
+PASS - Rainfall expressly approximate/locality based
+PASS - No contamination overstatement
+PASS - Clean-up comparison qualified
+PASS - Operational Correspondence cross-link added
+PASS - Video asset copied unchanged
+PASS - Map asset copied unchanged
+PASS - Sitemap blade page lastmod
 
 Documentary treatment:
-- Main analytical treatment added to K15aa as Item 14.
-- Short cross-references added to NZS 6808, NCTP, Representative Monitoring and Pre-construction Acoustic Assessments.
-- Added a 12 August 2026 chronology entry and Document Library entry.
-- Source provenance recorded accurately: DTP response later supplied to the Beneficiary by a third party.
-- DTP's distinction between the Planning/VPP framework and administration of the EP Regulations preserved.
-- No claim is made that DTP determined the application of Regulations 131BB/131BC to Lal Lal Wind Farm.
-- Beneficiary recipient email address true-redacted from the public PDF; substantive content otherwise preserved.
+- Recorded 104 elapsed days from 15 May to 27 August 2026.
+- Recorded substantial blade material and dispersed fragments as visibly remaining in the later footage.
+- Qualified the clean-up comparison so it does not assert that no material whatsoever had been removed.
+- Presented approximately 200 mm rainfall as an approximate Lal Lal locality estimate, including approximately 42 mm on 10 August 2026.
+- Recorded the supplied 2.5 km measurement as straight-line proximity only.
+- Did not infer a drainage pathway, reservoir contamination or a regulatory finding.

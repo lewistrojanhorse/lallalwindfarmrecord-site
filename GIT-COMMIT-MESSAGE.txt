@@ -1,50 +1,39 @@
-chore(repository): align complete record to 27 August 2026
+feat(blade-incident): add 104-day Y23 site-condition record
 
-Perform a complete repository-wide integrity and release alignment using the
-two-part repository supplied on 27 August 2026 as the authoritative baseline.
+Expand the Blade Removal and Processing page to incorporate the separate 2026
+Y23 blade-failure record while preserving the existing 2024 blade-processing
+chronology as a distinct documentary sequence.
 
-Retain all 32 canonical HTML pages and preserve the current documentary text,
-quotations, chronology, evidentiary sequencing and page-specific material.
+Add the third-party site footage supplied on 27 August 2026 and record that
+104 days elapsed from the 15 May 2026 Y23 blade failure.
 
-Set every canonical page to Record Version 8.4.0 dated 27 August 2026. Align
-JSON-LD dateModified/version/url values, canonical URLs, Open Graph URLs and
-last-modified metadata.
+Record the visible site condition shown in the later footage: substantial blade
+sections and numerous smaller dispersed fragments remain present across the
+recorded incident area.
 
-Standardise the main navigation, mobile navigation and footer structure across
-the complete repository.
+Compare the 27 August footage with the earlier May footage using qualified
+documentary wording. Record that no material general clean-up or recovery of
+the dispersed debris is apparent from the visual record, while expressly
+avoiding a claim that no material whatsoever had been removed during the
+intervening period.
 
-Retain the dedicated J14aa 15 August 2024 public-record page and add it to the
-shared search index and sitemap coverage.
+Add rainfall context for the 104-day period using an approximate Lal Lal
+locality estimate of about 200 mm, including an approximately 42 mm rainfall
+event on 10 August 2026. Identify the cumulative figure as approximate rather
+than a site-specific rainfall measurement.
 
-Retain the 12 August 2026 DTP monitoring-methodology clarification incorporated
-into the K15aa documentary pathway and related pages.
+Add the supplied map recording turbine Y23 approximately 2.5 km in a straight
+line from Lal Lal Reservoir.
 
-Retain the 25 August 2026 Victorian Ombudsman/DTP administrative-oversight
-chronology and permit-amendment material, and retain the Facebook link on the
-Contact page.
+Treat the reservoir distance and rainfall as environmental context only. Do not
+infer a drainage pathway or state that blade material, particles or contaminants
+entered a waterway or Lal Lal Reservoir.
 
-Update style.css, site.js and robots.txt release identifiers to v8.4.0 dated
-27 August 2026.
+Add the 27 August footage and proximity map to the Document Library, add a
+focused Y23 incident sequence to the Chronology, and update the Operational
+Correspondence blade-failure card with links to the later footage and dedicated
+104-day site record.
 
-Rebuild the site.js search index and sitemap.xml so all 32 canonical pages are
-covered, with sitemap last-modified values of 2026-08-27.
+Preserve the supplied video and map unchanged.
 
-Validate the repository for HTML structure, duplicate IDs, internal page links,
-cross-page anchors, canonical URLs, JSON-LD release metadata, shared navigation
-and footer consistency, search-index coverage and sitemap coverage.
-
-Validation confirms:
-- 32 canonical HTML pages present;
-- no broken internal HTML page links;
-- no broken internal anchors;
-- no duplicate HTML IDs;
-- no canonical URL mismatches;
-- no JSON-LD release/date/url mismatches;
-- one consistent main navigation structure;
-- one consistent footer structure;
-- all 32 pages included in the site.js search index; and
-- all 32 pages included in sitemap.xml.
-
-This remains an incremental web-code deployment package. Existing binary images,
-PDFs and media referenced by the pages remain in the deployed asset tree and are
-not duplicated in this repository-wide alignment ZIP.
+Update affected pages and sitemap metadata to v8.4.1 dated 27 August 2026.
