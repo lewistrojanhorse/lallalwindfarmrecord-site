@@ -1,12 +1,25 @@
 Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.4.2
-Date: 27 August 2026
+Release: v8.4.3
+Date: 28 August 2026
 
-Discoverability update:
-- Renamed the navigation label from “Blade Removal & Processing” to “Blade Incident & Processing” across all affected repository pages included in this targeted release.
-- Added a prominent homepage link to the Y23 Blade Incident — 104-Day Site Record.
-- Added a prominent Start Here link to the Y23 Blade Incident — 104-Day Site Record.
-- Added a prominent Key Issues entry for the Y23 Blade Incident and later site condition.
-- Added a direct jump link near the top of the Blade Incident & Processing page to the 2026 Y23 section.
-- Retained the existing URL blade-removal-processing.html to avoid breaking links.
-- Updated affected page metadata and sitemap lastmod values to 27 August 2026.
+Updated:
+- blade-removal-processing.html
+- chronology.html
+- documents.html
+- operational-correspondence.html
+- sitemap.xml
+
+Added:
+- documents/Trustee-Public-Interest-Record-Y23-Blade-Failure-29-May-2026.pdf
+- documents/EPA-ENQ231138-Y23-Blade-Failure-Updated-Site-Footage-27-August-2026-Redacted.pdf
+
+Y23 EPA / water-authority enquiry record:
+- Added the 29 May 2026 Trustee correspondence providing the earlier blade-incident footage to EPA South West and Central Highlands Water.
+- Recorded that the 29 May correspondence expressly raised debris containment and recovery, surrounding land, drainage lines and waterways, relevant authority notification and environmental/public-health assessment while making no allegation or finding.
+- Added EPA's 15 June 2026 ENQ231138 position that it was making enquiries into the broken blade and that its role was limited to ensuring appropriate disposal and clean-up following the incident.
+- Added the 27 August 2026 Trustee follow-up under ENQ231138, 104 days after the incident, providing the later footage and seeking EPA's current substantive position.
+- Added a plain-English 29 May → 15 June → 27 August chronology to the Blade Incident & Processing page.
+- Added both correspondence PDFs to the Document Library and enquiry/Operational Correspondence page.
+- Added 29 May and 15 June entries to the focused Y23 chronology.
+- Published the 27 August correspondence as a true-redacted public copy, removing only the Beneficiary's personal recipient email address from the embedded EPA response.
+- Updated affected page metadata and sitemap lastmod values to 28 August 2026.

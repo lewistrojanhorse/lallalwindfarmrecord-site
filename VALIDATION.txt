@@ -1,110 +1,51 @@
 VALIDATION SUMMARY
-Release: v8.4.2 — 27 August 2026
+Release: v8.4.3 — 28 August 2026
 
-PASS - representative-monitoring.html: parses
-PASS - representative-monitoring.html: v8.4.2 metadata
-PASS - record-status.html: parses
-PASS - record-status.html: v8.4.2 metadata
-PASS - start-here.html: parses
-PASS - start-here.html: v8.4.2 metadata
-PASS - understanding-the-record.html: parses
-PASS - understanding-the-record.html: v8.4.2 metadata
-PASS - contact.html: parses
-PASS - contact.html: v8.4.2 metadata
-PASS - glossary.html: parses
-PASS - glossary.html: v8.4.2 metadata
-PASS - agency-records.html: parses
-PASS - agency-records.html: v8.4.2 metadata
-PASS - chronology.html: parses
-PASS - chronology.html: v8.4.2 metadata
-PASS - verification.html: parses
-PASS - verification.html: v8.4.2 metadata
-PASS - pre-construction-acoustic-assessments.html: parses
-PASS - pre-construction-acoustic-assessments.html: v8.4.2 metadata
-PASS - operational-correspondence.html: parses
-PASS - operational-correspondence.html: v8.4.2 metadata
-PASS - k15aa.html: parses
-PASS - k15aa.html: v8.4.2 metadata
-PASS - key-issues.html: parses
-PASS - key-issues.html: v8.4.2 metadata
 PASS - blade-removal-processing.html: parses
-PASS - blade-removal-processing.html: v8.4.2 metadata
-PASS - aeic.html: parses
-PASS - aeic.html: v8.4.2 metadata
-PASS - sac.html: parses
-PASS - sac.html: v8.4.2 metadata
-PASS - key-project-dates.html: parses
-PASS - key-project-dates.html: v8.4.2 metadata
-PASS - yendon-stage-1.html: parses
-PASS - yendon-stage-1.html: v8.4.2 metadata
+PASS - blade-removal-processing.html: v8.4.3 metadata
+PASS - blade-removal-processing.html: footer release/date
+PASS - blade-removal-processing.html: no duplicate IDs
+PASS - blade-removal-processing.html: current navigation label
+PASS - chronology.html: parses
+PASS - chronology.html: v8.4.3 metadata
+PASS - chronology.html: footer release/date
+PASS - chronology.html: no duplicate IDs
+PASS - chronology.html: current navigation label
 PASS - documents.html: parses
-PASS - documents.html: v8.4.2 metadata
-PASS - permit-amendment.html: parses
-PASS - permit-amendment.html: v8.4.2 metadata
-PASS - noise-management-plan.html: parses
-PASS - noise-management-plan.html: v8.4.2 metadata
-PASS - framework.html: parses
-PASS - framework.html: v8.4.2 metadata
-PASS - nctp.html: parses
-PASS - nctp.html: v8.4.2 metadata
-PASS - shadow-flicker.html: parses
-PASS - shadow-flicker.html: v8.4.2 metadata
-PASS - commissioning-final-turbine.html: parses
-PASS - commissioning-final-turbine.html: v8.4.2 metadata
-PASS - record.html: parses
-PASS - record.html: v8.4.2 metadata
-PASS - foi-decisions.html: parses
-PASS - foi-decisions.html: v8.4.2 metadata
-PASS - j14aa-15-august-2024.html: parses
-PASS - j14aa-15-august-2024.html: v8.4.2 metadata
-PASS - technical-reports.html: parses
-PASS - technical-reports.html: v8.4.2 metadata
-PASS - sonus-pre-construction-noise-assessment.html: parses
-PASS - sonus-pre-construction-noise-assessment.html: v8.4.2 metadata
-PASS - nzs6808.html: parses
-PASS - nzs6808.html: v8.4.2 metadata
-PASS - index.html: parses
-PASS - index.html: v8.4.2 metadata
-PASS - index.html: Y23 discoverability link
-PASS - start-here.html: Y23 discoverability link
-PASS - key-issues.html: Y23 discoverability link
-PASS - blade-removal-processing.html: Y23 discoverability link
-PASS - representative-monitoring.html: nav label updated where applicable
-PASS - record-status.html: nav label updated where applicable
-PASS - start-here.html: nav label updated where applicable
-PASS - understanding-the-record.html: nav label updated where applicable
-PASS - contact.html: nav label updated where applicable
-PASS - glossary.html: nav label updated where applicable
-PASS - agency-records.html: nav label updated where applicable
-PASS - chronology.html: nav label updated where applicable
-PASS - verification.html: nav label updated where applicable
-PASS - pre-construction-acoustic-assessments.html: nav label updated where applicable
-PASS - operational-correspondence.html: nav label updated where applicable
-PASS - k15aa.html: nav label updated where applicable
-PASS - key-issues.html: nav label updated where applicable
-PASS - blade-removal-processing.html: nav label updated where applicable
-PASS - aeic.html: nav label updated where applicable
-PASS - sac.html: nav label updated where applicable
-PASS - key-project-dates.html: nav label updated where applicable
-PASS - yendon-stage-1.html: nav label updated where applicable
-PASS - documents.html: nav label updated where applicable
-PASS - permit-amendment.html: nav label updated where applicable
-PASS - noise-management-plan.html: nav label updated where applicable
-PASS - framework.html: nav label updated where applicable
-PASS - nctp.html: nav label updated where applicable
-PASS - shadow-flicker.html: nav label updated where applicable
-PASS - commissioning-final-turbine.html: nav label updated where applicable
-PASS - record.html: nav label updated where applicable
-PASS - foi-decisions.html: nav label updated where applicable
-PASS - j14aa-15-august-2024.html: nav label updated where applicable
-PASS - technical-reports.html: nav label updated where applicable
-PASS - sonus-pre-construction-noise-assessment.html: nav label updated where applicable
-PASS - nzs6808.html: nav label updated where applicable
-PASS - index.html: nav label updated where applicable
+PASS - documents.html: v8.4.3 metadata
+PASS - documents.html: footer release/date
+PASS - documents.html: no duplicate IDs
+PASS - documents.html: current navigation label
+PASS - operational-correspondence.html: parses
+PASS - operational-correspondence.html: v8.4.3 metadata
+PASS - operational-correspondence.html: footer release/date
+PASS - operational-correspondence.html: no duplicate IDs
+PASS - operational-correspondence.html: current navigation label
+PASS - Blade page has EPA / water-authority chronology
+PASS - 29 May EPA South West / CHW record described
+PASS - 15 June EPA role quoted
+PASS - 27 August ENQ231138 record linked
+PASS - 29 May primary PDF linked
+PASS - Chronology includes 29 May
+PASS - Chronology includes 15 June EPA role
+PASS - Documents page includes both correspondence files
+PASS - Operational correspondence includes EPA sequence
+PASS - 29 May source preserved unchanged
+PASS - 27 August public copy exists
+PASS - Sitemap affected pages dated 28 August
 
-Discoverability changes:
-- Renamed the site navigation label from Blade Removal & Processing to Blade Incident & Processing on all affected supplied pages.
-- Added a prominent Y23 Blade Incident link on Home.
-- Added a prominent Y23 Blade Incident link on Start Here.
-- Added a prominent Y23 Blade Incident entry on Key Issues.
-- Added a jump link at the top of the Blade Incident & Processing page.
+Scope:
+- Updated blade-removal-processing.html.
+- Updated chronology.html.
+- Updated documents.html.
+- Updated operational-correspondence.html.
+- Updated sitemap.xml.
+- Added documents/Trustee-Public-Interest-Record-Y23-Blade-Failure-29-May-2026.pdf.
+- Added documents/EPA-ENQ231138-Y23-Blade-Failure-Updated-Site-Footage-27-August-2026-Redacted.pdf.
+
+Documentary treatment:
+- Added the 29 May 2026 Trustee record showing that the earlier footage and environmental/drainage questions were provided to EPA South West and Central Highlands Water shortly after the incident.
+- Added EPA's 15 June ENQ231138 position that it was making enquiries and that its role was limited to ensuring appropriate disposal and clean-up.
+- Added the 27 August 2026 Trustee follow-up under ENQ231138, 104 days after the incident, providing the later footage and seeking EPA's current substantive position.
+- Preserved the distinction between visible site condition and any unsupported conclusion about contamination, environmental harm or the absence of all clean-up activity.
+- Published the 27 August PDF as a true-redacted public copy removing only the Beneficiary's personal recipient email address from the embedded EPA reply.
