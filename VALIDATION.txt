@@ -1,22 +1,49 @@
-Lal Lal Wind Farm Record — v8.4.6 validation
-Date: 30 August 2026
+VALIDATION SUMMARY
+Release: v8.4.8 - 30 August 2026
 
-Targeted HTML pages checked: 6
-Sitemap entries checked: 34
-Professional-standards local document links checked: 18
-Result: PASS
+PASS - k15aa.html: parses with head/body
+PASS - k15aa.html: release v8.4.8
+PASS - k15aa.html: last modified 2026-08-30
+PASS - k15aa.html: footer v8.4.8
+PASS - k15aa.html: professional navigation present
+PASS - k15aa.html: ombudsman navigation preserved
+PASS - nctp.html: parses with head/body
+PASS - nctp.html: release v8.4.8
+PASS - nctp.html: last modified 2026-08-30
+PASS - nctp.html: footer v8.4.8
+PASS - nctp.html: professional navigation present
+PASS - nctp.html: ombudsman navigation preserved
+PASS - professional-standards.html: parses with head/body
+PASS - professional-standards.html: release v8.4.8
+PASS - professional-standards.html: last modified 2026-08-30
+PASS - professional-standards.html: footer v8.4.8
+PASS - professional-standards.html: professional navigation present
+PASS - professional-standards.html: ombudsman navigation preserved
+PASS - documents.html: parses with head/body
+PASS - documents.html: release v8.4.8
+PASS - documents.html: last modified 2026-08-30
+PASS - documents.html: footer v8.4.8
+PASS - documents.html: professional navigation present
+PASS - documents.html: ombudsman navigation preserved
+PASS - K15aa video section present
+PASS - NCTP K15aa video section present
+PASS - Professional Standards public statement section present
+PASS - Document Library video entry present
+PASS - Shared K15aa public-session video exists
+PASS - k15aa.html: new K15aa video reference resolves
+PASS - nctp.html: new K15aa video reference resolves
+PASS - professional-standards.html: new K15aa video reference resolves
+PASS - documents.html: new K15aa video reference resolves
+NOTE - nctp.html retains its pre-existing reference to videos/nctp-public-information-session-methodology.mp4; that pre-existing asset is not duplicated in this targeted deployment package.
+PASS - New MP4 playable; duration 19.750000 seconds
+PASS - sitemap updated: k15aa.html
+PASS - sitemap updated: nctp.html
+PASS - sitemap updated: professional-standards.html
+PASS - sitemap updated: documents.html
 
-Validation completed:
-- professional-standards.html parses and contains unique HTML IDs.
-- index.html, chronology.html, documents.html, agency-records.html, ombudsman-complaints.html and professional-standards.html carry v8.4.6 / 30 August 2026 release metadata and visible footer version.
-- professional-standards.html is included in sitemap.xml and the site search index.
-- Administrative navigation exposes Ombudsman Complaints and Professional Standards on the updated pages.
-- All local document links introduced by the Professional Standards page resolve to bundled files.
-- No formal AAS or AAAC complaint document is bundled in this release.
-- Newly published correspondence PDFs were checked for the identified private Beneficiary email address; no searchable-text hits remain.
-- Trustee-to-Beneficiary Resonate / Thomas Evans record is bundled as a redacted public copy; the Trustee website contact email remains visible while the Beneficiary personal email is removed.
-- Scanned Trustee procedural Notices were re-rendered after redaction and visually checked; private contact detail has been removed from the public copies while substantive notice content is preserved.
-- The page distinguishes Beneficiary private-capacity AAS pathways from Corporate Trustee AAAC pathways and states that complaint lodgement is not a finding.
+Publication safeguards:
+- Video is described as SLR/Gustaf Reuterswärd public information-session material, not as an AAS/AAAC finding.
+- Page text expressly preserves the Planning Permit, NZS 6808:2010, NCTP and later monitoring reports as the primary technical/governing source record.
+- Formal professional-body complaint material remains outside this release.
 
-Scope note:
-This is a targeted deployment package intended to overlay the existing Lal Lal Wind Farm Record repository. It does not contain the complete website asset tree.
+RESULT: PASS

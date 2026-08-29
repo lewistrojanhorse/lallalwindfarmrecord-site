@@ -1,9 +1,16 @@
-feat: add professional standards and complaints pathways record
+feat(record): add SLR public K15aa information-session statement
 
-- add dedicated AAS and AAAC professional standards page
-- distinguish Beneficiary private-capacity AAS complaints from Trustee AAAC complaints
-- publish pre-complaint clarification correspondence only
-- preserve professional-body complaint confidentiality boundaries
-- add AAS and AAAC process, ethics and governance references
-- surface pathways on home, chronology, documents and agency records
-- update navigation, search and sitemap to v8.4.6
+Publish the supplied public information-session video excerpt in which Gustaf
+Reuterswärd presents the Noise Compliance Testing Plan and explains that the
+NCTP did not include a noise limit for reference location K15aa, with K15aa
+subsequently monitored and a limit derived by SLR.
+
+Add the excerpt to the K15aa and NCTP documentary pathways and to the
+Professional Standards page as independently existing public professional
+material. Preserve the distinction between the public statement and any AAS or
+AAAC complaint process or finding.
+
+Add the video to the Document Library for discoverability, retain the Planning
+Permit, NZS 6808:2010, NCTP and later monitoring reports as the primary sources
+for the governing requirements and technical pathway, and update affected
+release metadata to v8.4.8 dated 30 August 2026.

@@ -1,14 +1,24 @@
-Lal Lal Wind Farm Record — 8.4.6 — 30 August 2026
+Lal Lal Wind Farm Record - CHANGELOG
+Release: v8.4.8
+Date: 30 August 2026
 
-Professional Standards & Complaints Pathways release.
+Updated:
+- k15aa.html
+- nctp.html
+- professional-standards.html
+- documents.html
+- sitemap.xml
 
-- Adds professional-standards.html as a dedicated AAS / AAAC professional standards gateway.
-- Separates AAS complaints made by the Beneficiary in private capacity from AAAC complaints made by the Corporate Trustee.
-- Records the information pathway by which Trustee correspondence could be supplied to the Beneficiary for independent consideration without direction or authorisation to complain.
-- Publishes only independently existing pre-complaint / direct-resolution correspondence and professional-body framework material.
-- Does not publish formal AAS or AAAC complaints or confidential complaint-process correspondence.
-- Records SLR, ARUP, Marshall Day Acoustics and Resonate AAAC pathways, and Gustaf Reuterswärd / Thomas Evans AAS pathways, without treating complaint lodgement as a finding.
-- Adds official professional-body process links and record copies of relevant constitutions, codes and complaints procedures.
-- Updates Home, Chronology, Documents, Agency Records, Ombudsman cross-reference, search, navigation and sitemap.
+Added:
+- videos/SLR-Public-Information-Session-K15aa-Noise-Limit-Excerpt.mp4
 
-- Adds a privacy-redacted Trustee-to-Beneficiary Resonate / Thomas Evans correspondence record documenting the information-only transfer and independent-capacity boundary.
+Public information-session evidence:
+- Added the supplied 19.75-second public information-session excerpt showing SLR acoustician Gustaf Reuterswärd presenting the Noise Compliance Test Plan.
+- The excerpt records the public explanation that the NCTP did not include a noise limit for reference location K15aa and that K15aa was subsequently monitored and a limit derived by SLR.
+- Added the same primary video to the K15aa, NCTP and Professional Standards pathways rather than creating separate duplicate video files.
+- Added a Document Library entry for discoverability.
+- Preserved the distinction between a public professional statement and any professional-body complaint process or finding.
+- Preserved the primary-document hierarchy: the video records SLR's public explanation; the Planning Permit, NZS 6808:2010, NCTP and later monitoring reports remain the primary sources for what was required and what was done.
+
+Release metadata:
+- Updated affected pages to v8.4.8 dated 30 August 2026.
