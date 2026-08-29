@@ -1,16 +1,16 @@
-Lal Lal Wind Farm Record — CHANGELOG
-Release: v8.4.9
+Lal Lal Wind Farm Record - CHANGELOG
+Release: v8.4.10
 Date: 30 August 2026
 
-Repository-wide consolidation
-- Reconciled the complete set of 34 canonical HTML pages supplied on 30 August 2026.
-- Preserved the latest page content from the uploaded repository, including the Victorian Ombudsman, Professional Standards, K15aa and NCTP developments.
-- Carried forward the v8.4.5–v8.4.8 public professional-body/Ombudsman assets and the SLR Public Information Session K15aa video excerpt.
-- Normalised release metadata, JSON-LD dateModified/version markers and visible footer version across all canonical pages.
-- Normalised Administrative navigation so Victorian Ombudsman and Professional Standards pathways are consistently discoverable site-wide.
-- Rebuilt site search from the actual canonical page titles/descriptions and rebuilt sitemap.xml for all canonical pages.
-- Aligned style.css, site.js and robots.txt release markers.
+Corrected:
+- professional-standards.html
 
-Deployment note
-- The uploaded repository parts did not include the complete historical images/ and documents/ binary trees. Existing deployed historical asset folders should be preserved.
-- Do not delete existing GitHub image/document assets merely because they are absent from this consolidation ZIP. See ASSET-COVERAGE.txt.
+Layout correction:
+- Restored the missing <main> wrapper inside .site-shell.
+- Keeps the sidebar and main content as the two intended CSS-grid children.
+- Resolves overlapping Professional Standards headings, explanatory text and section content.
+- Removed a duplicated Ombudsman Complaints / Professional Standards link pair in the footer.
+- No substantive Professional Standards, AAS, AAAC, K15aa or complaint-pathway wording was altered.
+
+Release metadata:
+- Updated the corrected page to v8.4.10 dated 30 August 2026.

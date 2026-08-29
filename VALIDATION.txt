@@ -1,26 +1,17 @@
 VALIDATION SUMMARY
-Release: v8.4.9 — 30 August 2026
-Status: PASS
+Release: v8.4.10 - 30 August 2026
 
-PASS - 34 canonical HTML pages present
-PASS - 34 search-index entries generated
-PASS - 34 sitemap URLs generated
-PASS - repository-wide SEO/footer release metadata aligned to v8.4.9
-PASS - Professional Standards and Ombudsman navigation exposed across canonical pages
-PASS - v8.4.8 K15aa public-session video retained on K15aa, NCTP, Professional Standards and Documents
-PASS - cumulative v8.4.5-v8.4.8 public PDFs/video assets retained where bundled
+PASS - one site-shell
+PASS - one sidebar
+PASS - one main direct child
+PASS - page hero inside main
+PASS - footer outside site-shell
+PASS - single footer Professional Standards link
+PASS - single footer Ombudsman link
+PASS - release v8.4.10
 
-WARNINGS:
-- professional-standards.html: no <main> element
-
-Historical asset-tree scope:
-- The repository parts supplied in this chat consist of the canonical root HTML/CSS/JS/robots source files, not the complete pre-existing historical images/ and documents/ binary trees.
-- This consolidated package therefore preserves the source pages and carries forward the new v8.4.5-v8.4.8 public assets available in the release packages, but does not claim that every historical image/PDF referenced by the site is bundled in this ZIP.
-- Historical local asset references not physically present in supplied/baseline package: 563.
-- Missing historical assets are listed in ASSET-COVERAGE.txt for deployment comparison against the existing GitHub repository.
-
-Editorial safeguards:
-- No substantive documentary wording was rewritten during the repository-wide normalization.
-- Documentary dates inside page content were preserved; only release metadata/dateModified/footer markers were aligned.
-- AAS and AAAC complaint documents remain unpublished; public professional-body material remains limited to the established publication boundary.
-- Complaint lodgement is not represented as a finding by AAS, AAAC or the Victorian Ombudsman.
+Cause identified:
+- professional-standards.html was missing its <main> wrapper inside .site-shell.
+- Because .site-shell is a two-column CSS grid, each top-level <section> became a grid item, producing the visible overlapping headings and content.
+- The corrective build restores the expected structure: .site-sidebar + <main> as the two direct grid children.
+- Duplicate Ombudsman / Professional Standards footer links were also removed.

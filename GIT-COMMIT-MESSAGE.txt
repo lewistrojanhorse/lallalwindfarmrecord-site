@@ -1,18 +1,12 @@
-chore(repository): consolidate public record to v8.4.9
+fix(professional-standards): restore main content wrapper
 
-Reconcile the complete canonical page set supplied on 30 August 2026 and
-preserve the cumulative Victorian Ombudsman, Professional Standards and
-K15aa/NCTP public-information-session developments.
+Correct the Professional Standards & Complaints Pathways page layout by
+restoring the missing <main> element inside the two-column site-shell.
 
-Align all canonical pages to repository release v8.4.9, normalise the
-Administrative navigation so Ombudsman and Professional Standards pathways are
-consistently exposed, rebuild the site search index and sitemap, and retain the
-new public PDFs and video assets carried forward from v8.4.5 through v8.4.8.
+The missing wrapper caused the page's individual sections to become direct CSS
+grid children beside the sticky sidebar, producing overlapping headings and
+body content on the live page.
 
-Preserve substantive documentary wording and chronology. Do not treat complaint
-lodgement as a professional-body or Ombudsman finding, and retain the existing
-publication boundary for AAS and AAAC complaint-process material.
-
-Preserve the existing historical images/ and documents/ trees during deployment;
-the repository parts supplied for this consolidation did not include every
-historical binary asset referenced by the site.
+Preserve all substantive AAS, AAAC, K15aa and professional-complaint pathway
+content, remove the duplicated Ombudsman / Professional Standards footer link
+pair, and update the corrected page to v8.4.10 dated 30 August 2026.
