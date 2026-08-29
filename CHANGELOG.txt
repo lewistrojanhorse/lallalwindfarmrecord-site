@@ -1,10 +1,16 @@
-Lal Lal Wind Farm Record — v8.4.4 — 28 August 2026
+Lal Lal Wind Farm Record — v8.4.5 — 30 August 2026
 
-Repository-wide date alignment release.
+Victorian Ombudsman complaint & oversight record
 
-- Aligns every HTML page to Record Version 8.4.4 and 28 August 2026.
-- Updates structured-data dateModified/version and page last-modified metadata.
-- Updates sitemap lastmod values across the repository to 28 August 2026.
-- Updates repository release markers in supporting site files.
-- Preserves substantive documentary dates, including the 27 August 2026 Y23 blade-incident footage and correspondence chronology.
-- Incorporates the v8.4.1, v8.4.2 and v8.4.3 targeted updates into the complete repository build.
+- Added new ombudsman-complaints.html central oversight page.
+- Recorded four distinct August 2026 complaint pathways: 14 Aug Council C/26/15485; 18 Aug EPA; 18 Aug substantive Council; 25 Aug DTP.
+- Preserved the distinction between C/26/15485 and the separate 18 August Council historical-administration complaint.
+- Added the 24 August C/26/15485 closure correspondence and Trustee clarification request.
+- Added the 13 July–10 August Condition 17 Council correspondence chain as the supporting record for the 14 August online complaint.
+- Added complaint overview to index.html.
+- Updated chronology.html, documents.html and agency-records.html.
+- Added public PDF copies with the Trustee contact email redacted.
+- Updated sitemap.xml and site search for the new canonical page.
+- Updated release metadata on changed pages only.
+
+No Ombudsman finding is inferred from complaint lodgement or correspondence.

@@ -1,1 +1,9 @@
-chore: align repository release to 28 August 2026 (v8.4.4)
+feat(oversight): add Victorian Ombudsman complaint record
+
+- add dedicated Ombudsman complaint and oversight page
+- record distinct Council, EPA and DTP complaint pathways
+- preserve C/26/15485 as separate Condition 17 non-response matter
+- publish 24 August clarification correspondence and Council enquiry chain
+- surface complaint lodgements on homepage, chronology, documents and agency records
+- add public redacted complaint PDFs
+- update search and sitemap for the new oversight page

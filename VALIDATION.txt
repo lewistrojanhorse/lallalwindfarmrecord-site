@@ -1,8 +1,13 @@
-Lal Lal Wind Farm Record — v8.4.4 validation
-Date: 28 August 2026
+VALIDATION — v8.4.5 — 30 August 2026
 
-HTML pages checked: 32
-Sitemap entries checked: 32
-Result: PASS
+PASS
 
-All repository HTML pages carry v8.4.4 / 28 August 2026 structured-data metadata, last-modified metadata and visible footer release date. All sitemap lastmod entries are aligned to 28 August 2026. Repository release markers in style.css and robots.txt are aligned. Substantive documentary dates within page content were preserved.
+Checks:
+- documents.html: 10 ids; no duplicate IDs
+- agency-records.html: 9 ids; no duplicate IDs
+- index.html: 12 ids; no duplicate IDs
+- ombudsman-complaints.html: 7 ids; no duplicate IDs
+- chronology.html: 15 ids; no duplicate IDs
+- New Ombudsman canonical page present in sitemap.
+- New Ombudsman page present in site search.
+- Bundled public complaint/support PDFs present.

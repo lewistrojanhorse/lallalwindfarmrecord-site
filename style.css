@@ -1,4 +1,4 @@
-/* Lal Lal Wind Farm Record repository release v8.4.4 — 28 August 2026 */
+/* Lal Lal Wind Farm Record targeted release v8.4.5 — 30 August 2026 */
 :root{
   --navy:#0c1838;--navy-2:#14244d;--gold:#b28a34;--gold-2:#d1b36a;--ink:#20242c;--muted:#6f7682;--paper:#fffdf8;--soft:#f4f1ea;--line:#e5dece;--green:#227a47;--amber:#b47b1e;--white:#fff;
 }
@@ -166,3 +166,7 @@ body.glossary-page section[id]{scroll-margin-top:170px}
 .source-register .doc-item{gap:1rem;align-items:center}
 .source-register .btn{white-space:nowrap}
 @media(max-width:760px){.source-register .doc-item{align-items:flex-start;flex-direction:column}}
+
+
+/* v8.4.5 — Victorian Ombudsman complaint & oversight record */
+.oversight-register{display:grid;gap:22px}.oversight-card{scroll-margin-top:180px}.oversight-card h2{font-family:Georgia,'Times New Roman',serif;font-size:clamp(1.6rem,2.5vw,2.2rem);margin:10px 0 14px}.oversight-meta{display:flex;flex-wrap:wrap;gap:8px}.oversight-meta span{display:inline-flex;border:1px solid var(--line);background:var(--soft);border-radius:999px;padding:6px 10px;font-size:.76rem;font-weight:800;color:var(--navy)}.oversight-card .notice{margin:18px 0}.ombudsman-home-grid .card{display:block}.ombudsman-home-actions,.oversight-bottom-actions{justify-content:center;margin-top:24px}@media(max-width:620px){.oversight-card{padding:20px}.oversight-bottom-actions{justify-content:flex-start}}
