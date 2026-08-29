@@ -1,16 +1,14 @@
-Lal Lal Wind Farm Record — v8.4.5 — 30 August 2026
+Lal Lal Wind Farm Record — 8.4.6 — 30 August 2026
 
-Victorian Ombudsman complaint & oversight record
+Professional Standards & Complaints Pathways release.
 
-- Added new ombudsman-complaints.html central oversight page.
-- Recorded four distinct August 2026 complaint pathways: 14 Aug Council C/26/15485; 18 Aug EPA; 18 Aug substantive Council; 25 Aug DTP.
-- Preserved the distinction between C/26/15485 and the separate 18 August Council historical-administration complaint.
-- Added the 24 August C/26/15485 closure correspondence and Trustee clarification request.
-- Added the 13 July–10 August Condition 17 Council correspondence chain as the supporting record for the 14 August online complaint.
-- Added complaint overview to index.html.
-- Updated chronology.html, documents.html and agency-records.html.
-- Added public PDF copies with the Trustee contact email redacted.
-- Updated sitemap.xml and site search for the new canonical page.
-- Updated release metadata on changed pages only.
+- Adds professional-standards.html as a dedicated AAS / AAAC professional standards gateway.
+- Separates AAS complaints made by the Beneficiary in private capacity from AAAC complaints made by the Corporate Trustee.
+- Records the information pathway by which Trustee correspondence could be supplied to the Beneficiary for independent consideration without direction or authorisation to complain.
+- Publishes only independently existing pre-complaint / direct-resolution correspondence and professional-body framework material.
+- Does not publish formal AAS or AAAC complaints or confidential complaint-process correspondence.
+- Records SLR, ARUP, Marshall Day Acoustics and Resonate AAAC pathways, and Gustaf Reuterswärd / Thomas Evans AAS pathways, without treating complaint lodgement as a finding.
+- Adds official professional-body process links and record copies of relevant constitutions, codes and complaints procedures.
+- Updates Home, Chronology, Documents, Agency Records, Ombudsman cross-reference, search, navigation and sitemap.
 
-No Ombudsman finding is inferred from complaint lodgement or correspondence.
+- Adds a privacy-redacted Trustee-to-Beneficiary Resonate / Thomas Evans correspondence record documenting the information-only transfer and independent-capacity boundary.

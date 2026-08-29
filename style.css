@@ -1,4 +1,4 @@
-/* Lal Lal Wind Farm Record targeted release v8.4.5 — 30 August 2026 */
+/* Lal Lal Wind Farm Record targeted release v8.4.6 — 30 August 2026 */
 :root{
   --navy:#0c1838;--navy-2:#14244d;--gold:#b28a34;--gold-2:#d1b36a;--ink:#20242c;--muted:#6f7682;--paper:#fffdf8;--soft:#f4f1ea;--line:#e5dece;--green:#227a47;--amber:#b47b1e;--white:#fff;
 }
@@ -170,3 +170,10 @@ body.glossary-page section[id]{scroll-margin-top:170px}
 
 /* v8.4.5 — Victorian Ombudsman complaint & oversight record */
 .oversight-register{display:grid;gap:22px}.oversight-card{scroll-margin-top:180px}.oversight-card h2{font-family:Georgia,'Times New Roman',serif;font-size:clamp(1.6rem,2.5vw,2.2rem);margin:10px 0 14px}.oversight-meta{display:flex;flex-wrap:wrap;gap:8px}.oversight-meta span{display:inline-flex;border:1px solid var(--line);background:var(--soft);border-radius:999px;padding:6px 10px;font-size:.76rem;font-weight:800;color:var(--navy)}.oversight-card .notice{margin:18px 0}.ombudsman-home-grid .card{display:block}.ombudsman-home-actions,.oversight-bottom-actions{justify-content:center;margin-top:24px}@media(max-width:620px){.oversight-card{padding:20px}.oversight-bottom-actions{justify-content:flex-start}}
+
+
+/* Professional standards — v8.4.6 */
+.publication-boundary{border-left:5px solid var(--gold)}
+.capacity-badge{display:inline-flex;align-items:center;padding:7px 11px;border-radius:999px;background:#eef2ff;border:1px solid rgba(15,23,42,.12);color:var(--navy);font-size:.8rem;font-weight:800;margin-bottom:14px}.capacity-badge.trustee{background:#f8f1df}
+.standards-register{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}.standards-card{display:flex;flex-direction:column}.standards-card .button-row{margin-top:auto;padding-top:16px}.standards-meta{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}.standards-meta span{display:inline-flex;padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:var(--soft);font-size:.78rem;font-weight:800;color:var(--navy)}.process-panel{margin-top:24px}.standards-bottom-actions{justify-content:center;margin-top:28px}
+@media(max-width:900px){.standards-register{grid-template-columns:1fr}}

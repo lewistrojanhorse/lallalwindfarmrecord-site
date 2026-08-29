@@ -1,4 +1,4 @@
-# Lal Lal Wind Farm Record targeted release v8.4.5 — 30 August 2026
+# Lal Lal Wind Farm Record targeted release 8.4.6 — 30 August 2026
 User-agent: *
 Allow: /
 

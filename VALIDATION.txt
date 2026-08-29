@@ -1,13 +1,22 @@
-VALIDATION — v8.4.5 — 30 August 2026
+Lal Lal Wind Farm Record — v8.4.6 validation
+Date: 30 August 2026
 
-PASS
+Targeted HTML pages checked: 6
+Sitemap entries checked: 34
+Professional-standards local document links checked: 18
+Result: PASS
 
-Checks:
-- documents.html: 10 ids; no duplicate IDs
-- agency-records.html: 9 ids; no duplicate IDs
-- index.html: 12 ids; no duplicate IDs
-- ombudsman-complaints.html: 7 ids; no duplicate IDs
-- chronology.html: 15 ids; no duplicate IDs
-- New Ombudsman canonical page present in sitemap.
-- New Ombudsman page present in site search.
-- Bundled public complaint/support PDFs present.
+Validation completed:
+- professional-standards.html parses and contains unique HTML IDs.
+- index.html, chronology.html, documents.html, agency-records.html, ombudsman-complaints.html and professional-standards.html carry v8.4.6 / 30 August 2026 release metadata and visible footer version.
+- professional-standards.html is included in sitemap.xml and the site search index.
+- Administrative navigation exposes Ombudsman Complaints and Professional Standards on the updated pages.
+- All local document links introduced by the Professional Standards page resolve to bundled files.
+- No formal AAS or AAAC complaint document is bundled in this release.
+- Newly published correspondence PDFs were checked for the identified private Beneficiary email address; no searchable-text hits remain.
+- Trustee-to-Beneficiary Resonate / Thomas Evans record is bundled as a redacted public copy; the Trustee website contact email remains visible while the Beneficiary personal email is removed.
+- Scanned Trustee procedural Notices were re-rendered after redaction and visually checked; private contact detail has been removed from the public copies while substantive notice content is preserved.
+- The page distinguishes Beneficiary private-capacity AAS pathways from Corporate Trustee AAAC pathways and states that complaint lodgement is not a finding.
+
+Scope note:
+This is a targeted deployment package intended to overlay the existing Lal Lal Wind Farm Record repository. It does not contain the complete website asset tree.

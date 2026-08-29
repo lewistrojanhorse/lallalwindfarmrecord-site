@@ -1,9 +1,9 @@
-feat(oversight): add Victorian Ombudsman complaint record
+feat: add professional standards and complaints pathways record
 
-- add dedicated Ombudsman complaint and oversight page
-- record distinct Council, EPA and DTP complaint pathways
-- preserve C/26/15485 as separate Condition 17 non-response matter
-- publish 24 August clarification correspondence and Council enquiry chain
-- surface complaint lodgements on homepage, chronology, documents and agency records
-- add public redacted complaint PDFs
-- update search and sitemap for the new oversight page
+- add dedicated AAS and AAAC professional standards page
+- distinguish Beneficiary private-capacity AAS complaints from Trustee AAAC complaints
+- publish pre-complaint clarification correspondence only
+- preserve professional-body complaint confidentiality boundaries
+- add AAS and AAAC process, ethics and governance references
+- surface pathways on home, chronology, documents and agency records
+- update navigation, search and sitemap to v8.4.6
