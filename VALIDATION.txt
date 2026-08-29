@@ -1,49 +1,26 @@
 VALIDATION SUMMARY
-Release: v8.4.8 - 30 August 2026
+Release: v8.4.9 — 30 August 2026
+Status: PASS
 
-PASS - k15aa.html: parses with head/body
-PASS - k15aa.html: release v8.4.8
-PASS - k15aa.html: last modified 2026-08-30
-PASS - k15aa.html: footer v8.4.8
-PASS - k15aa.html: professional navigation present
-PASS - k15aa.html: ombudsman navigation preserved
-PASS - nctp.html: parses with head/body
-PASS - nctp.html: release v8.4.8
-PASS - nctp.html: last modified 2026-08-30
-PASS - nctp.html: footer v8.4.8
-PASS - nctp.html: professional navigation present
-PASS - nctp.html: ombudsman navigation preserved
-PASS - professional-standards.html: parses with head/body
-PASS - professional-standards.html: release v8.4.8
-PASS - professional-standards.html: last modified 2026-08-30
-PASS - professional-standards.html: footer v8.4.8
-PASS - professional-standards.html: professional navigation present
-PASS - professional-standards.html: ombudsman navigation preserved
-PASS - documents.html: parses with head/body
-PASS - documents.html: release v8.4.8
-PASS - documents.html: last modified 2026-08-30
-PASS - documents.html: footer v8.4.8
-PASS - documents.html: professional navigation present
-PASS - documents.html: ombudsman navigation preserved
-PASS - K15aa video section present
-PASS - NCTP K15aa video section present
-PASS - Professional Standards public statement section present
-PASS - Document Library video entry present
-PASS - Shared K15aa public-session video exists
-PASS - k15aa.html: new K15aa video reference resolves
-PASS - nctp.html: new K15aa video reference resolves
-PASS - professional-standards.html: new K15aa video reference resolves
-PASS - documents.html: new K15aa video reference resolves
-NOTE - nctp.html retains its pre-existing reference to videos/nctp-public-information-session-methodology.mp4; that pre-existing asset is not duplicated in this targeted deployment package.
-PASS - New MP4 playable; duration 19.750000 seconds
-PASS - sitemap updated: k15aa.html
-PASS - sitemap updated: nctp.html
-PASS - sitemap updated: professional-standards.html
-PASS - sitemap updated: documents.html
+PASS - 34 canonical HTML pages present
+PASS - 34 search-index entries generated
+PASS - 34 sitemap URLs generated
+PASS - repository-wide SEO/footer release metadata aligned to v8.4.9
+PASS - Professional Standards and Ombudsman navigation exposed across canonical pages
+PASS - v8.4.8 K15aa public-session video retained on K15aa, NCTP, Professional Standards and Documents
+PASS - cumulative v8.4.5-v8.4.8 public PDFs/video assets retained where bundled
 
-Publication safeguards:
-- Video is described as SLR/Gustaf Reuterswärd public information-session material, not as an AAS/AAAC finding.
-- Page text expressly preserves the Planning Permit, NZS 6808:2010, NCTP and later monitoring reports as the primary technical/governing source record.
-- Formal professional-body complaint material remains outside this release.
+WARNINGS:
+- professional-standards.html: no <main> element
 
-RESULT: PASS
+Historical asset-tree scope:
+- The repository parts supplied in this chat consist of the canonical root HTML/CSS/JS/robots source files, not the complete pre-existing historical images/ and documents/ binary trees.
+- This consolidated package therefore preserves the source pages and carries forward the new v8.4.5-v8.4.8 public assets available in the release packages, but does not claim that every historical image/PDF referenced by the site is bundled in this ZIP.
+- Historical local asset references not physically present in supplied/baseline package: 563.
+- Missing historical assets are listed in ASSET-COVERAGE.txt for deployment comparison against the existing GitHub repository.
+
+Editorial safeguards:
+- No substantive documentary wording was rewritten during the repository-wide normalization.
+- Documentary dates inside page content were preserved; only release metadata/dateModified/footer markers were aligned.
+- AAS and AAAC complaint documents remain unpublished; public professional-body material remains limited to the established publication boundary.
+- Complaint lodgement is not represented as a finding by AAS, AAAC or the Victorian Ombudsman.

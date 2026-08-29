@@ -1,24 +1,16 @@
-Lal Lal Wind Farm Record - CHANGELOG
-Release: v8.4.8
+Lal Lal Wind Farm Record — CHANGELOG
+Release: v8.4.9
 Date: 30 August 2026
 
-Updated:
-- k15aa.html
-- nctp.html
-- professional-standards.html
-- documents.html
-- sitemap.xml
+Repository-wide consolidation
+- Reconciled the complete set of 34 canonical HTML pages supplied on 30 August 2026.
+- Preserved the latest page content from the uploaded repository, including the Victorian Ombudsman, Professional Standards, K15aa and NCTP developments.
+- Carried forward the v8.4.5–v8.4.8 public professional-body/Ombudsman assets and the SLR Public Information Session K15aa video excerpt.
+- Normalised release metadata, JSON-LD dateModified/version markers and visible footer version across all canonical pages.
+- Normalised Administrative navigation so Victorian Ombudsman and Professional Standards pathways are consistently discoverable site-wide.
+- Rebuilt site search from the actual canonical page titles/descriptions and rebuilt sitemap.xml for all canonical pages.
+- Aligned style.css, site.js and robots.txt release markers.
 
-Added:
-- videos/SLR-Public-Information-Session-K15aa-Noise-Limit-Excerpt.mp4
-
-Public information-session evidence:
-- Added the supplied 19.75-second public information-session excerpt showing SLR acoustician Gustaf Reuterswärd presenting the Noise Compliance Test Plan.
-- The excerpt records the public explanation that the NCTP did not include a noise limit for reference location K15aa and that K15aa was subsequently monitored and a limit derived by SLR.
-- Added the same primary video to the K15aa, NCTP and Professional Standards pathways rather than creating separate duplicate video files.
-- Added a Document Library entry for discoverability.
-- Preserved the distinction between a public professional statement and any professional-body complaint process or finding.
-- Preserved the primary-document hierarchy: the video records SLR's public explanation; the Planning Permit, NZS 6808:2010, NCTP and later monitoring reports remain the primary sources for what was required and what was done.
-
-Release metadata:
-- Updated affected pages to v8.4.8 dated 30 August 2026.
+Deployment note
+- The uploaded repository parts did not include the complete historical images/ and documents/ binary trees. Existing deployed historical asset folders should be preserved.
+- Do not delete existing GitHub image/document assets merely because they are absent from this consolidation ZIP. See ASSET-COVERAGE.txt.

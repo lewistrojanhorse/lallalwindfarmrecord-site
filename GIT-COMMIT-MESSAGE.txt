@@ -1,16 +1,18 @@
-feat(record): add SLR public K15aa information-session statement
+chore(repository): consolidate public record to v8.4.9
 
-Publish the supplied public information-session video excerpt in which Gustaf
-Reuterswärd presents the Noise Compliance Testing Plan and explains that the
-NCTP did not include a noise limit for reference location K15aa, with K15aa
-subsequently monitored and a limit derived by SLR.
+Reconcile the complete canonical page set supplied on 30 August 2026 and
+preserve the cumulative Victorian Ombudsman, Professional Standards and
+K15aa/NCTP public-information-session developments.
 
-Add the excerpt to the K15aa and NCTP documentary pathways and to the
-Professional Standards page as independently existing public professional
-material. Preserve the distinction between the public statement and any AAS or
-AAAC complaint process or finding.
+Align all canonical pages to repository release v8.4.9, normalise the
+Administrative navigation so Ombudsman and Professional Standards pathways are
+consistently exposed, rebuild the site search index and sitemap, and retain the
+new public PDFs and video assets carried forward from v8.4.5 through v8.4.8.
 
-Add the video to the Document Library for discoverability, retain the Planning
-Permit, NZS 6808:2010, NCTP and later monitoring reports as the primary sources
-for the governing requirements and technical pathway, and update affected
-release metadata to v8.4.8 dated 30 August 2026.
+Preserve substantive documentary wording and chronology. Do not treat complaint
+lodgement as a professional-body or Ombudsman finding, and retain the existing
+publication boundary for AAS and AAAC complaint-process material.
+
+Preserve the existing historical images/ and documents/ trees during deployment;
+the repository parts supplied for this consolidation did not include every
+historical binary asset referenced by the site.
