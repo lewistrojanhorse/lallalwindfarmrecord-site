@@ -1,12 +1,20 @@
-fix(professional-standards): restore main content wrapper
+chore(repository): align complete public record to v8.5.2
 
-Correct the Professional Standards & Complaints Pathways page layout by
-restoring the missing <main> element inside the two-column site-shell.
+Reconcile the complete two-part Lal Lal Wind Farm Record source supplied for
+1 September 2026 and establish a single repository-wide release baseline.
 
-The missing wrapper caused the page's individual sections to become direct CSS
-grid children beside the sticky sidebar, producing overlapping headings and
-body content on the live page.
+Align all 34 canonical pages, JSON-LD metadata, last-modified metadata and
+footers to v8.5.2 dated 1 September 2026. Preserve substantive
+documentary chronology and wording.
 
-Preserve all substantive AAS, AAAC, K15aa and professional-complaint pathway
-content, remove the duplicated Ombudsman / Professional Standards footer link
-pair, and update the corrected page to v8.4.10 dated 30 August 2026.
+Carry forward the corrected Professional Standards layout, reconcile the newer
+J14aa source supplied on 31 August 2026, and correct its mixed v8.5.1/v8.5.0
+release metadata.
+
+Rebuild the public search index from the current canonical pages, rebuild the
+34-URL sitemap with 1 September 2026 last-modified dates, and align style.css,
+site.js and robots.txt release markers.
+
+Preserve the existing documents/, images/ and videos/ asset trees during
+deployment; the supplied source parts do not contain every historical binary
+asset referenced by the public record.

@@ -1,16 +1,21 @@
-Lal Lal Wind Farm Record - CHANGELOG
-Release: v8.4.10
-Date: 30 August 2026
+LAL LAL WIND FARM RECORD — CHANGELOG
+Repository release: v8.5.2
+Date: 1 September 2026
 
-Corrected:
-- professional-standards.html
+Repository-wide consolidation
+- Reconciled the complete 34-page canonical source set supplied in two parts.
+- Aligned all canonical HTML release metadata and footers to v8.5.2 / 1 September 2026.
+- Aligned JSON-LD dateModified and meta last-modified to 2026-09-01.
+- Preserved substantive documentary wording and chronology.
+- Preserved the corrected Professional Standards page structure introduced in v8.4.10.
+- Carried forward the newer J14aa record supplied on 31 August 2026.
+- Corrected the mixed J14aa v8.5.1 / v8.5.0 release metadata.
+- Rebuilt the site search index from the current page titles and descriptions.
+- Rebuilt sitemap.xml with 34 canonical URLs and 2026-09-01 lastmod values.
+- Updated style.css, site.js and robots.txt release markers.
 
-Layout correction:
-- Restored the missing <main> wrapper inside .site-shell.
-- Keeps the sidebar and main content as the two intended CSS-grid children.
-- Resolves overlapping Professional Standards headings, explanatory text and section content.
-- Removed a duplicated Ombudsman Complaints / Professional Standards link pair in the footer.
-- No substantive Professional Standards, AAS, AAAC, K15aa or complaint-pathway wording was altered.
-
-Release metadata:
-- Updated the corrected page to v8.4.10 dated 30 August 2026.
+Publication discipline
+- No complaint lodgement has been converted into a finding.
+- Ombudsman and professional-body pathways remain distinct.
+- Historical documentary dates inside the record are preserved; only repository publication metadata
+  was aligned to the new release date.
