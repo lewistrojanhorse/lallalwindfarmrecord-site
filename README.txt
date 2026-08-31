@@ -11,3 +11,10 @@ Added/replaced evidence assets:
 - images/nzs6808-c7-4-3-wind-conditions.jpg
 - images/slr-j14aa-2022-background-interpretation.jpg
 - documents/j14aa-open-notice-22-august-2026.pdf
+
+
+Version 8.5.1 update:
+- Adds the 11-12 February 2024 LLWF wind-at-height correspondence.
+- Adds the TED-Ed link supplied by LLWF in a dedicated explanatory-material box.
+- Includes the original correspondence PDF under documents/.
+- Keeps the video framed as explanatory material, separate from NZS 6808:2010 and the endorsed NCTP.
