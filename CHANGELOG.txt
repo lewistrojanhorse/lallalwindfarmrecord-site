@@ -1,21 +1,19 @@
 LAL LAL WIND FARM RECORD — CHANGELOG
-Repository release: v8.5.2
-Date: 1 September 2026
+Targeted release: v8.5.3
+Date: 4 September 2026
 
-Repository-wide consolidation
-- Reconciled the complete 34-page canonical source set supplied in two parts.
-- Aligned all canonical HTML release metadata and footers to v8.5.2 / 1 September 2026.
-- Aligned JSON-LD dateModified and meta last-modified to 2026-09-01.
-- Preserved substantive documentary wording and chronology.
-- Preserved the corrected Professional Standards page structure introduced in v8.4.10.
-- Carried forward the newer J14aa record supplied on 31 August 2026.
-- Corrected the mixed J14aa v8.5.1 / v8.5.0 release metadata.
-- Rebuilt the site search index from the current page titles and descriptions.
-- Rebuilt sitemap.xml with 34 canonical URLs and 2026-09-01 lastmod values.
-- Updated style.css, site.js and robots.txt release markers.
+Blade Removal, Processing & Incident Record
+- Add the redacted 2024 laboratory Certificate of Analysis as primary source material.
+- Add a source-disciplined laboratory-analysis section.
+- Record the sample identifier “TURBINE”, receipt date 25 July 2024 and report date 19 August 2024.
+- Record nine NIST tentative identifications of top matches without presenting them as definitive compound identification.
+- Clarify that the Certificate does not provide quantitative concentrations.
+- Separate the Certificate wording from the provenance by which the sample was later provided to the Trustee as associated with blade-processing powder.
+- Record the unresolved internal date discrepancy on the Sample History page (27 July 2020 extraction date).
+- Preserve the distinction between laboratory material and the EPA PRI-00080008 administrative record.
+- Do not convert the laboratory results into a pollution, harm, non-compliance or regulatory finding.
 
-Publication discipline
-- No complaint lodgement has been converted into a finding.
-- Ombudsman and professional-body pathways remain distinct.
-- Historical documentary dates inside the record are preserved; only repository publication metadata
-  was aligned to the new release date.
+Discoverability
+- Add the redacted laboratory analysis to documents.html.
+- Update the blade-page search description in site.js.
+- Update blade-removal-processing.html lastmod in sitemap.xml.

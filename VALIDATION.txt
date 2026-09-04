@@ -1,35 +1,30 @@
 VALIDATION SUMMARY
-Lal Lal Wind Farm Record
-Repository release: v8.5.2
-Release date: 1 September 2026
+Release: v8.5.3 — 4 September 2026
+Scope: targeted blade-processing laboratory-analysis update
 
 STATUS: PASS
 
-Canonical HTML pages: 34
-Search index entries: 34
-Sitemap URLs: 34
+PASS - blade-removal-processing.html: parses as HTML
+PASS - blade-removal-processing.html: no duplicate ids
+PASS - blade-removal-processing.html: release marker v8.5.3
+PASS - blade-removal-processing.html: date 2026-09-04
+PASS - documents.html: parses as HTML
+PASS - documents.html: no duplicate ids
+PASS - documents.html: release marker v8.5.3
+PASS - documents.html: date 2026-09-04
+PASS - Blade page: one site-shell main
+PASS - Blade page: lab section present once
+PASS - Blade page: public PDF link resolves in package
+PASS - Documents page: laboratory record present
+PASS - site.js: blade search description updated
+PASS - sitemap.xml: blade lastmod updated
 
-Repository-wide checks
-- JSON-LD data-seo-release aligned to v8.5.2: PASS
-- JSON-LD version aligned to 8.5.2: PASS
-- JSON-LD dateModified aligned to 2026-09-01: PASS
-- meta last-modified aligned to 2026-09-01: PASS
-- Footer release/date aligned: PASS
-- Canonical URLs aligned: PASS
-- Duplicate HTML IDs: PASS
-- Internal canonical HTML links: PASS
-- .site-shell structural integrity: PASS
-- style.css / site.js / robots.txt release markers: PASS
-
-Specific reconciliation completed
-- Carried forward the corrected Professional Standards <main> structure from v8.4.10.
-- Reconciled the newer J14aa source supplied on 31 August 2026.
-- Corrected J14aa's mixed v8.5.1 data-seo-release / v8.5.0 JSON version by normalising the repository to v8.5.2.
-- Rebuilt site.js SEARCH_PAGES directly from the current 34 canonical pages.
-- Rebuilt sitemap.xml from the current canonical page set.
-- Aligned repository publication metadata to 1 September 2026.
-
-Asset coverage
-- Local document/image/video references discovered: 314
-- Referenced assets not physically present in this supplied source bundle: 314
-- Missing binary assets are not treated as broken source-page integration where they are part of the pre-existing live repository asset tree.
+Source-review corrections applied
+- Corrected the page-level data-seo-release mismatch from v8.5.2 to v8.5.3.
+- Removed the unsupported public identification of the redacted laboratory by company name.
+- Distinguished what the Certificate itself says (“TURBINE”) from the provenance linking the sample to blade-processing powder.
+- Preserved the laboratory's tentative-identification limitation and the absence of quantitative concentration results.
+- Recorded the Certificate's internal Sample History date discrepancy: extraction 27 July 2020 versus receipt 25 July 2024 / report 19 August 2024.
+- Preserved the existing non-finding language: the report does not by itself establish pollution, environmental harm, non-compliance or threshold exceedance.
+- Added the laboratory report to the public Document Library.
+- Updated the blade-page search description and sitemap lastmod.

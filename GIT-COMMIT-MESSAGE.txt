@@ -1,20 +1,26 @@
-chore(repository): align complete public record to v8.5.2
+feat(blade-record): add 2024 laboratory analysis with source limitations
 
-Reconcile the complete two-part Lal Lal Wind Farm Record source supplied for
-1 September 2026 and establish a single repository-wide release baseline.
+Add the redacted Certificate of Analysis concerning the “TURBINE” sample to
+the 2024 blade-processing documentary record and publish it as primary source
+material.
 
-Align all 34 canonical pages, JSON-LD metadata, last-modified metadata and
-footers to v8.5.2 dated 1 September 2026. Preserve substantive
-documentary chronology and wording.
+Record the laboratory's nine NIST tentative top-match identifications while
+preserving the report's express limitation that library matches are tentative
+and definitive identification requires comparison with an authentic standard.
+Do not present the report as providing quantitative concentrations.
 
-Carry forward the corrected Professional Standards layout, reconcile the newer
-J14aa source supplied on 31 August 2026, and correct its mixed v8.5.1/v8.5.0
-release metadata.
+Distinguish the Certificate's own sample description (“TURBINE”) from the
+separate provenance by which the sample was provided to the Trustee as
+associated with blade-processing powder.
 
-Rebuild the public search index from the current canonical pages, rebuild the
-34-URL sitemap with 1 September 2026 last-modified dates, and align style.css,
-site.js and robots.txt release markers.
+Record, without correcting or inferring, the unresolved Sample History
+discrepancy showing an extraction date of 27 July 2020 against a recorded
+receipt date of 25 July 2024 and report date of 19 August 2024.
 
-Preserve the existing documents/, images/ and videos/ asset trees during
-deployment; the supplied source parts do not contain every historical binary
-asset referenced by the public record.
+Preserve the separation from EPA PRI-00080008 and the existing non-finding
+language concerning pollution, environmental harm, non-compliance and
+regulatory thresholds.
+
+Add the laboratory report to the Document Library, update search
+discoverability and the blade-page sitemap lastmod, and release the targeted
+update as v8.5.3 dated 4 September 2026.
