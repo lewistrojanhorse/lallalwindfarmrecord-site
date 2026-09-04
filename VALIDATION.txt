@@ -1,31 +1,27 @@
 VALIDATION SUMMARY
-Release: v8.5.4 — 5 September 2026
-Scope: targeted Y23 EPA “loose foam” documentary update
+Release: v8.5.5 — 5 September 2026
+Scope: global social-share image refresh and release-date alignment
 
 STATUS: PASS
 
-PASS - blade-removal-processing.html: parses
-PASS - blade-removal-processing.html: no duplicate IDs
-PASS - blade-removal-processing.html: release v8.5.4
-PASS - blade-removal-processing.html: date 2026-09-05
-PASS - documents.html: parses
-PASS - documents.html: no duplicate IDs
-PASS - documents.html: release v8.5.4
-PASS - documents.html: date 2026-09-05
-PASS - Blade page: PRI-00140148 section present
-PASS - Blade page: EPA quote present
-PASS - Blade page: 2024/2026 boundary explicit
-PASS - EPA response image packaged
-PASS - Laboratory PDF carried forward
-PASS - Documents library entry present
-PASS - Search description updated
-PASS - Sitemap blade date updated
-PASS - Sitemap documents date updated
+Canonical pages: 34
+Pages with og:image: 34
+Pages with twitter:image: 33
+Pages still referencing old social-preview.jpg: 0
+New social image: images/llwf-record-social-preview-2026-09-05.jpg
+New social image dimensions: 1200 × 630
 
-Documentary controls preserved
-- Records only the EPA response supplied to the Trustee; the underlying third-party pollution report is expressly identified as not held.
-- Emphasises EPA's own wording that “Loose foam should be recovered ... and EPA will monitor the response.”
-- Does not state that all Y23 debris is foam.
-- Does not identify the chemical composition of the Y23 foam.
-- Does not link the separate 2024 laboratory sample chemically to the 2026 Y23 debris.
-- Records the Trustee's 4 September 2026 provision of the laboratory material to EPA for independent consideration, including the Trustee's express non-finding position.
+PASS - 34 canonical HTML pages packaged
+PASS - aeic.html: new social image URL
+PASS - aeic.html: old social image removed
+PASS - aeic.html: release metadata
+PASS - aeic.html: date metadata
+PASS - aeic.html: footer date/version
+PASS - agency-records.html: new social image URL
+PASS - agency-records.html: old social image removed
+
+Global controls
+- Existing page wording, chronology, navigation and footer structure preserved except requested release metadata/date.
+- Existing Open Graph/Twitter social image URL replaced with a new cache-busting filename across all 34 canonical HTML pages.
+- New social preview uses the current Facebook banner photograph (turbines, landscape and Lal Lal Wind Farm sign); Facebook interface controls are excluded.
+- Sitemap last-modified dates aligned to 5 September 2026.

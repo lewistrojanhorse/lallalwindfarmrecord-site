@@ -1,20 +1,17 @@
 LAL LAL WIND FARM RECORD — CHANGELOG
-Targeted release: v8.5.4
+Release: v8.5.5
 Date: 5 September 2026
 
-Y23 EPA clean-up record
-- Add the redacted EPA response concerning third-party pollution report PRI-00140148.
-- Record that EPA said it had been in contact with Vestas and that WorkSafe Victoria and Energy Safe Victoria had implemented an exclusion area.
-- Prominently preserve EPA's statement: “Loose foam should be recovered as this exclusion zone is reduced and EPA will monitor the response.”
-- State expressly that the underlying third-party pollution report has not been provided to the Trustee.
-- Preserve the limits of the EPA response: it does not establish that all Y23 debris is foam, identify chemical composition, establish contamination or link the Y23 material to the separate 2024 laboratory sample.
+Global social-share image
+- Replace the previous images/social-preview.jpg reference across all 34 canonical pages.
+- Add images/llwf-record-social-preview-2026-09-05.jpg as the new Open Graph and Twitter social-share image.
+- Derive the new 1200 × 630 image from the current Facebook banner photograph, showing the turbines, landscape and Lal Lal Wind Farm sign.
+- Use a new dated filename to reduce stale Facebook/Open Graph image caching.
 
-4 September 2026 Trustee follow-up
-- Record that the Trustee provided the redacted 2024 laboratory Certificate to EPA South West under ENQ231138.
-- Record that EPA was asked to independently determine whether the laboratory material warranted further enquiry, assessment or action.
-- Preserve the Trustee's express position that the laboratory material was not represented as establishing contamination, environmental harm or regulatory non-compliance.
+Release alignment
+- Update canonical page release metadata to v8.5.5.
+- Update dateModified / last-modified metadata to 2026-09-05.
+- Update page footer record version/date to Record Version 8.5.5 / 5 September 2026.
+- Update sitemap last-modified dates to 2026-09-05.
 
-Discoverability
-- Add the redacted EPA PRI-00140148 response to the Document Library.
-- Update the blade-page search description.
-- Update sitemap last-modified dates for the Blade and Documents pages.
+No substantive documentary wording or chronology was changed in this release.

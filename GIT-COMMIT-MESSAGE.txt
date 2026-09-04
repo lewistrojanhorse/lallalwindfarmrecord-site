@@ -1,24 +1,10 @@
-feat(blade-record): add EPA Y23 “loose foam” clean-up response
+chore(site): refresh social preview image and date record to 5 September 2026
 
-Add the redacted EPA response concerning third-party pollution report
-PRI-00140148 to the Y23 blade-failure documentary record.
+Replace the legacy social-preview image reference across all canonical pages with
+a new 1200x630 Open Graph/Twitter preview derived from the current Lal Lal Wind Farm Facebook banner photograph.
 
-Preserve EPA's own statement that “Loose foam should be recovered as this
-exclusion zone is reduced and EPA will monitor the response,” together with
-EPA's record that it had been in contact with Vestas and that WorkSafe Victoria
-and Energy Safe Victoria had implemented an exclusion area around the turbine.
+Use a new dated image filename to reduce stale Facebook preview caching and align
+all canonical page release metadata, footer version/date and sitemap last-modified
+dates to v8.5.5 / 5 September 2026.
 
-Make clear that the underlying third-party pollution report has not been
-provided to the Trustee and that the EPA response does not establish that all
-Y23 debris is foam, identify the foam's chemical composition, establish
-contamination or environmental harm, or connect the Y23 material to the
-separate 2024 laboratory sample.
-
-Record the Trustee's 4 September 2026 correspondence providing the redacted
-2024 laboratory Certificate to EPA South West under ENQ231138 for independent
-environmental and regulatory consideration. Preserve the Trustee's express
-non-finding position concerning contamination, harm and non-compliance.
-
-Add the EPA response to the Document Library, update search discoverability
-and sitemap last-modified dates, and release the targeted update as v8.5.4
-dated 5 September 2026.
+No substantive documentary wording or chronology is changed.
