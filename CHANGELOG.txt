@@ -1,19 +1,20 @@
 LAL LAL WIND FARM RECORD — CHANGELOG
-Targeted release: v8.5.3
-Date: 4 September 2026
+Targeted release: v8.5.4
+Date: 5 September 2026
 
-Blade Removal, Processing & Incident Record
-- Add the redacted 2024 laboratory Certificate of Analysis as primary source material.
-- Add a source-disciplined laboratory-analysis section.
-- Record the sample identifier “TURBINE”, receipt date 25 July 2024 and report date 19 August 2024.
-- Record nine NIST tentative identifications of top matches without presenting them as definitive compound identification.
-- Clarify that the Certificate does not provide quantitative concentrations.
-- Separate the Certificate wording from the provenance by which the sample was later provided to the Trustee as associated with blade-processing powder.
-- Record the unresolved internal date discrepancy on the Sample History page (27 July 2020 extraction date).
-- Preserve the distinction between laboratory material and the EPA PRI-00080008 administrative record.
-- Do not convert the laboratory results into a pollution, harm, non-compliance or regulatory finding.
+Y23 EPA clean-up record
+- Add the redacted EPA response concerning third-party pollution report PRI-00140148.
+- Record that EPA said it had been in contact with Vestas and that WorkSafe Victoria and Energy Safe Victoria had implemented an exclusion area.
+- Prominently preserve EPA's statement: “Loose foam should be recovered as this exclusion zone is reduced and EPA will monitor the response.”
+- State expressly that the underlying third-party pollution report has not been provided to the Trustee.
+- Preserve the limits of the EPA response: it does not establish that all Y23 debris is foam, identify chemical composition, establish contamination or link the Y23 material to the separate 2024 laboratory sample.
+
+4 September 2026 Trustee follow-up
+- Record that the Trustee provided the redacted 2024 laboratory Certificate to EPA South West under ENQ231138.
+- Record that EPA was asked to independently determine whether the laboratory material warranted further enquiry, assessment or action.
+- Preserve the Trustee's express position that the laboratory material was not represented as establishing contamination, environmental harm or regulatory non-compliance.
 
 Discoverability
-- Add the redacted laboratory analysis to documents.html.
-- Update the blade-page search description in site.js.
-- Update blade-removal-processing.html lastmod in sitemap.xml.
+- Add the redacted EPA PRI-00140148 response to the Document Library.
+- Update the blade-page search description.
+- Update sitemap last-modified dates for the Blade and Documents pages.
