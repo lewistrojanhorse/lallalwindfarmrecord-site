@@ -1,27 +1,51 @@
 VALIDATION SUMMARY
-Release: v8.5.5 — 5 September 2026
-Scope: global social-share image refresh and release-date alignment
+Release: v8.5.6 — 10 September 2026
+Scope: Ministerial decision-record / procedural-position update
 
 STATUS: PASS
 
-Canonical pages: 34
-Pages with og:image: 34
-Pages with twitter:image: 33
-Pages still referencing old social-preview.jpg: 0
-New social image: images/llwf-record-social-preview-2026-09-05.jpg
-New social image dimensions: 1200 × 630
+PASS - permit-amendment.html: parses
+PASS - permit-amendment.html: no duplicate IDs
+PASS - permit-amendment.html: release v8.5.6
+PASS - permit-amendment.html: date 2026-09-10
+PASS - permit-amendment.html: footer 10 September 2026
+PASS - index.html: parses
+PASS - index.html: no duplicate IDs
+PASS - index.html: release v8.5.6
+PASS - index.html: date 2026-09-10
+PASS - index.html: footer 10 September 2026
+PASS - documents.html: parses
+PASS - documents.html: no duplicate IDs
+PASS - documents.html: release v8.5.6
+PASS - documents.html: date 2026-09-10
+PASS - documents.html: footer 10 September 2026
+PASS - chronology.html: parses
+PASS - chronology.html: no duplicate IDs
+PASS - chronology.html: release v8.5.6
+PASS - chronology.html: date 2026-09-10
+PASS - chronology.html: footer 10 September 2026
+PASS - Permit: new Ministerial decision section
+PASS - Permit: Mortlake case number only/context
+PASS - Permit: DTP four-week statement
+PASS - Permit: Trustee-capacity discrepancy preserved
+PASS - Documents: OPEN NOTICE listed
+PASS - Documents: DTP response listed
+PASS - Chronology: 9 September entry
+PASS - Home: latest notice
+PASS - Public OPEN NOTICE PDF packaged
+PASS - Public DTP PDF packaged
 
-PASS - 34 canonical HTML pages packaged
-PASS - aeic.html: new social image URL
-PASS - aeic.html: old social image removed
-PASS - aeic.html: release metadata
-PASS - aeic.html: date metadata
-PASS - aeic.html: footer date/version
-PASS - agency-records.html: new social image URL
-PASS - agency-records.html: old social image removed
+PUBLICATION CONTROLS
+- Mortlake Community Alliance Inc v Minister for Planning & Anor, S ECI 2026 05772 is identified only as contemporaneous procedural context.
+- The Mortlake originating motion is not included in this release.
+- The page expressly states that Mortlake concerns a different project, permit, facts and legal grounds and establishes nothing concerning Lal Lal.
+- The 9 September Trustee Notice is described as preserving procedural options, not commencing judicial review or determining invalidity.
+- DTP's response is described as an acknowledgement/procedural update, not the substantive reasons or contemporaneous decision record requested.
+- The Trustee-capacity issue is preserved: the covering email directed correspondence to the Trustee, while DTP's source response opened “Dear Mr Lewis”.
+- Public PDF copies redact the user's email address.
+- No finding is made concerning validity, judicial-review availability, time limits, extension of time, merits or outcome.
 
-Global controls
-- Existing page wording, chronology, navigation and footer structure preserved except requested release metadata/date.
-- Existing Open Graph/Twitter social image URL replaced with a new cache-busting filename across all 34 canonical HTML pages.
-- New social preview uses the current Facebook banner photograph (turbines, landscape and Lal Lal Wind Farm sign); Facebook interface controls are excluded.
-- Sitemap last-modified dates aligned to 5 September 2026.
+PDF publication copies:
+- OPEN NOTICE: raster-redacted postal/contact block and user email on page 1.
+- DTP response: raster-redacted user email in the top addressee line and quoted covering-email line on page 1.
+- Public PDFs were rebuilt from rendered page images so the redacted contact text is not retained as recoverable PDF text.

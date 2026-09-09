@@ -1,10 +1,20 @@
-chore(site): refresh social preview image and date record to 5 September 2026
+feat(permit-record): add 9 September Ministerial decision-record pathway
 
-Replace the legacy social-preview image reference across all canonical pages with
-a new 1200x630 Open Graph/Twitter preview derived from the current Lal Lal Wind Farm Facebook banner photograph.
+Add the Trustee's 9 September 2026 OPEN NOTICE seeking reasons and the
+contemporaneous Ministerial decision-making record for the 15 May 2026
+amendment of Planning Permit PL-SP/05/0461.
 
-Use a new dated image filename to reduce stale Facebook preview caching and align
-all canonical page release metadata, footer version/date and sitemap last-modified
-dates to v8.5.5 / 5 September 2026.
+Record DTP's same-day acknowledgement that it is considering the material and
+does not anticipate being in a position to provide a response within the next
+four weeks. Treat that communication as a procedural response rather than the
+substantive reasons or decision record requested.
 
-No substantive documentary wording or chronology is changed.
+Identify Mortlake Community Alliance Inc v Minister for Planning & Anor,
+S ECI 2026 05772, filed 28 August 2026, as contemporaneous procedural context
+only. Do not publish or package the Mortlake originating motion and make no
+suggestion that its facts, grounds or extension application establish anything
+concerning Lal Lal Wind Farm.
+
+Preserve the Trustee-capacity correspondence record, update the Homepage,
+Document Library and Chronology, and release the targeted update as v8.5.6
+dated 10 September 2026.

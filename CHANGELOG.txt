@@ -1,17 +1,21 @@
 LAL LAL WIND FARM RECORD — CHANGELOG
-Release: v8.5.5
-Date: 5 September 2026
+Targeted release: v8.5.6
+Date: 10 September 2026
 
-Global social-share image
-- Replace the previous images/social-preview.jpg reference across all 34 canonical pages.
-- Add images/llwf-record-social-preview-2026-09-05.jpg as the new Open Graph and Twitter social-share image.
-- Derive the new 1200 × 630 image from the current Facebook banner photograph, showing the turbines, landscape and Lal Lal Wind Farm sign.
-- Use a new dated filename to reduce stale Facebook/Open Graph image caching.
+Planning Permit Amendment
+- Add the 9 September 2026 OPEN NOTICE seeking reasons and the contemporaneous Ministerial decision-making record for the 15 May 2026 permit-amendment decision.
+- Add DTP's same-day acknowledgement that the material is being considered and a response is not anticipated within the next four weeks.
+- Preserve the distinction between that procedural response and the substantive reasons/decision record requested.
+- Preserve the Trustee-capacity correspondence record and DTP's “Dear Mr Lewis” salutation as source wording.
+- Identify Mortlake Community Alliance Inc v Minister for Planning & Anor, S ECI 2026 05772, filed 28 August 2026, as contemporaneous procedural context only.
+- Do not publish or package the Mortlake originating motion.
+- Recast the prior 25 August “current” position as the historical position at that date.
 
-Release alignment
-- Update canonical page release metadata to v8.5.5.
-- Update dateModified / last-modified metadata to 2026-09-05.
-- Update page footer record version/date to Record Version 8.5.5 / 5 September 2026.
-- Update sitemap last-modified dates to 2026-09-05.
+Discoverability
+- Add the development to Homepage Latest Notices.
+- Add the OPEN NOTICE and DTP response to the Document Library.
+- Add the 9 September event to the principal Chronology and later administrative timeline.
 
-No substantive documentary wording or chronology was changed in this release.
+Publication
+- Public copies of the two Lal Lal PDFs redact the user's email address.
+- Touched pages updated to v8.5.6 / 10 September 2026.
