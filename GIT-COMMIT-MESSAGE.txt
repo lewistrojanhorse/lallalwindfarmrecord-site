@@ -1,20 +1,22 @@
-feat(permit-record): add 9 September Ministerial decision-record pathway
+feat(foi-record): add PL-SP/05/0461-3 decision-record request
 
-Add the Trustee's 9 September 2026 OPEN NOTICE seeking reasons and the
-contemporaneous Ministerial decision-making record for the 15 May 2026
-amendment of Planning Permit PL-SP/05/0461.
+Add the Trustee's 11 September 2026 DTP FOI request for the existing
+assessment and decision record underlying amendment PL-SP/05/0461-3.
 
-Record DTP's same-day acknowledgement that it is considering the material and
-does not anticipate being in a position to provide a response within the next
-four weeks. Treat that communication as a procedural response rather than the
-substantive reasons or decision record requested.
+Integrate the request across the Permit Amendment page, FOI Register,
+Document Library, DTP Agency Records, Chronology, Homepage Latest Notices
+and Record Status.
 
-Identify Mortlake Community Alliance Inc v Minister for Planning & Anor,
-S ECI 2026 05772, filed 28 August 2026, as contemporaneous procedural context
-only. Do not publish or package the Mortlake originating motion and make no
-suggestion that its facts, grounds or extension application establish anything
-concerning Lal Lal Wind Farm.
+Preserve the procedural distinction between the 11 September statutory FOI
+access pathway and the 9 September OPEN NOTICE seeking reasons and the
+contemporaneous Ministerial decision-making record. Record the FOI matter as
+a request lodged only; no decision, disclosure outcome or inference about the
+existence or content of responsive documents is made.
 
-Preserve the Trustee-capacity correspondence record, update the Homepage,
-Document Library and Chronology, and release the targeted update as v8.5.6
-dated 10 September 2026.
+Publish a redacted copy of the five-page FOI request, removing the Trustee's
+postal address and contact email while preserving the substantive document.
+
+Reconcile all 34 supplied canonical pages and root support files to
+v8.5.7 / 11 September 2026, synchronize sitemap last-modified dates
+and current social-preview metadata, and preserve stable public URLs and
+historical documentary chronology.

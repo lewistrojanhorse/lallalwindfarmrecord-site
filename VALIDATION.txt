@@ -1,51 +1,274 @@
 VALIDATION SUMMARY
-Release: v8.5.6 — 10 September 2026
-Scope: Ministerial decision-record / procedural-position update
+Release: v8.5.7 — 11 September 2026
+Scope: repository-wide reconciliation + DTP PL-SP/05/0461-3 FOI decision-record pathway
 
 STATUS: PASS
 
-PASS - permit-amendment.html: parses
-PASS - permit-amendment.html: no duplicate IDs
-PASS - permit-amendment.html: release v8.5.6
-PASS - permit-amendment.html: date 2026-09-10
-PASS - permit-amendment.html: footer 10 September 2026
-PASS - index.html: parses
-PASS - index.html: no duplicate IDs
-PASS - index.html: release v8.5.6
-PASS - index.html: date 2026-09-10
-PASS - index.html: footer 10 September 2026
-PASS - documents.html: parses
-PASS - documents.html: no duplicate IDs
-PASS - documents.html: release v8.5.6
-PASS - documents.html: date 2026-09-10
-PASS - documents.html: footer 10 September 2026
+Canonical HTML pages supplied and reconciled: 34
+
+PASS - aeic.html: parses
+PASS - aeic.html: no duplicate IDs
+PASS - aeic.html: release v8.5.7
+PASS - aeic.html: dateModified 2026-09-11
+PASS - aeic.html: last-modified 2026-09-11
+PASS - aeic.html: footer release 8.5.7
+PASS - aeic.html: social image normalized
+PASS - agency-records.html: parses
+PASS - agency-records.html: no duplicate IDs
+PASS - agency-records.html: release v8.5.7
+PASS - agency-records.html: dateModified 2026-09-11
+PASS - agency-records.html: last-modified 2026-09-11
+PASS - agency-records.html: footer release 8.5.7
+PASS - agency-records.html: social image normalized
+PASS - blade-removal-processing.html: parses
+PASS - blade-removal-processing.html: no duplicate IDs
+PASS - blade-removal-processing.html: release v8.5.7
+PASS - blade-removal-processing.html: dateModified 2026-09-11
+PASS - blade-removal-processing.html: last-modified 2026-09-11
+PASS - blade-removal-processing.html: footer release 8.5.7
+PASS - blade-removal-processing.html: social image normalized
 PASS - chronology.html: parses
 PASS - chronology.html: no duplicate IDs
-PASS - chronology.html: release v8.5.6
-PASS - chronology.html: date 2026-09-10
-PASS - chronology.html: footer 10 September 2026
-PASS - Permit: new Ministerial decision section
-PASS - Permit: Mortlake case number only/context
-PASS - Permit: DTP four-week statement
-PASS - Permit: Trustee-capacity discrepancy preserved
-PASS - Documents: OPEN NOTICE listed
-PASS - Documents: DTP response listed
-PASS - Chronology: 9 September entry
-PASS - Home: latest notice
-PASS - Public OPEN NOTICE PDF packaged
-PASS - Public DTP PDF packaged
+PASS - chronology.html: release v8.5.7
+PASS - chronology.html: dateModified 2026-09-11
+PASS - chronology.html: last-modified 2026-09-11
+PASS - chronology.html: footer release 8.5.7
+PASS - chronology.html: social image normalized
+PASS - commissioning-final-turbine.html: parses
+PASS - commissioning-final-turbine.html: no duplicate IDs
+PASS - commissioning-final-turbine.html: release v8.5.7
+PASS - commissioning-final-turbine.html: dateModified 2026-09-11
+PASS - commissioning-final-turbine.html: last-modified 2026-09-11
+PASS - commissioning-final-turbine.html: footer release 8.5.7
+PASS - commissioning-final-turbine.html: social image normalized
+PASS - contact.html: parses
+PASS - contact.html: no duplicate IDs
+PASS - contact.html: release v8.5.7
+PASS - contact.html: dateModified 2026-09-11
+PASS - contact.html: last-modified 2026-09-11
+PASS - contact.html: footer release 8.5.7
+PASS - contact.html: social image normalized
+PASS - documents.html: parses
+PASS - documents.html: no duplicate IDs
+PASS - documents.html: release v8.5.7
+PASS - documents.html: dateModified 2026-09-11
+PASS - documents.html: last-modified 2026-09-11
+PASS - documents.html: footer release 8.5.7
+PASS - documents.html: social image normalized
+PASS - foi-decisions.html: parses
+PASS - foi-decisions.html: no duplicate IDs
+PASS - foi-decisions.html: release v8.5.7
+PASS - foi-decisions.html: dateModified 2026-09-11
+PASS - foi-decisions.html: last-modified 2026-09-11
+PASS - foi-decisions.html: footer release 8.5.7
+PASS - foi-decisions.html: social image normalized
+PASS - framework.html: parses
+PASS - framework.html: no duplicate IDs
+PASS - framework.html: release v8.5.7
+PASS - framework.html: dateModified 2026-09-11
+PASS - framework.html: last-modified 2026-09-11
+PASS - framework.html: footer release 8.5.7
+PASS - framework.html: social image normalized
+PASS - glossary.html: parses
+PASS - glossary.html: no duplicate IDs
+PASS - glossary.html: release v8.5.7
+PASS - glossary.html: dateModified 2026-09-11
+PASS - glossary.html: last-modified 2026-09-11
+PASS - glossary.html: footer release 8.5.7
+PASS - glossary.html: social image normalized
+PASS - index.html: parses
+PASS - index.html: no duplicate IDs
+PASS - index.html: release v8.5.7
+PASS - index.html: dateModified 2026-09-11
+PASS - index.html: last-modified 2026-09-11
+PASS - index.html: footer release 8.5.7
+PASS - index.html: social image normalized
+PASS - j14aa-15-august-2024.html: parses
+PASS - j14aa-15-august-2024.html: no duplicate IDs
+PASS - j14aa-15-august-2024.html: release v8.5.7
+PASS - j14aa-15-august-2024.html: dateModified 2026-09-11
+PASS - j14aa-15-august-2024.html: last-modified 2026-09-11
+PASS - j14aa-15-august-2024.html: footer release 8.5.7
+PASS - j14aa-15-august-2024.html: social image normalized
+PASS - k15aa.html: parses
+PASS - k15aa.html: no duplicate IDs
+PASS - k15aa.html: release v8.5.7
+PASS - k15aa.html: dateModified 2026-09-11
+PASS - k15aa.html: last-modified 2026-09-11
+PASS - k15aa.html: footer release 8.5.7
+PASS - k15aa.html: social image normalized
+PASS - key-issues.html: parses
+PASS - key-issues.html: no duplicate IDs
+PASS - key-issues.html: release v8.5.7
+PASS - key-issues.html: dateModified 2026-09-11
+PASS - key-issues.html: last-modified 2026-09-11
+PASS - key-issues.html: footer release 8.5.7
+PASS - key-issues.html: social image normalized
+PASS - key-project-dates.html: parses
+PASS - key-project-dates.html: no duplicate IDs
+PASS - key-project-dates.html: release v8.5.7
+PASS - key-project-dates.html: dateModified 2026-09-11
+PASS - key-project-dates.html: last-modified 2026-09-11
+PASS - key-project-dates.html: footer release 8.5.7
+PASS - key-project-dates.html: social image normalized
+PASS - nctp.html: parses
+PASS - nctp.html: no duplicate IDs
+PASS - nctp.html: release v8.5.7
+PASS - nctp.html: dateModified 2026-09-11
+PASS - nctp.html: last-modified 2026-09-11
+PASS - nctp.html: footer release 8.5.7
+PASS - nctp.html: social image normalized
+PASS - noise-management-plan.html: parses
+PASS - noise-management-plan.html: no duplicate IDs
+PASS - noise-management-plan.html: release v8.5.7
+PASS - noise-management-plan.html: dateModified 2026-09-11
+PASS - noise-management-plan.html: last-modified 2026-09-11
+PASS - noise-management-plan.html: footer release 8.5.7
+PASS - noise-management-plan.html: social image normalized
+PASS - nzs6808.html: parses
+PASS - nzs6808.html: no duplicate IDs
+PASS - nzs6808.html: release v8.5.7
+PASS - nzs6808.html: dateModified 2026-09-11
+PASS - nzs6808.html: last-modified 2026-09-11
+PASS - nzs6808.html: footer release 8.5.7
+PASS - nzs6808.html: social image normalized
+PASS - ombudsman-complaints.html: parses
+PASS - ombudsman-complaints.html: no duplicate IDs
+PASS - ombudsman-complaints.html: release v8.5.7
+PASS - ombudsman-complaints.html: dateModified 2026-09-11
+PASS - ombudsman-complaints.html: last-modified 2026-09-11
+PASS - ombudsman-complaints.html: footer release 8.5.7
+PASS - ombudsman-complaints.html: social image normalized
+PASS - operational-correspondence.html: parses
+PASS - operational-correspondence.html: no duplicate IDs
+PASS - operational-correspondence.html: release v8.5.7
+PASS - operational-correspondence.html: dateModified 2026-09-11
+PASS - operational-correspondence.html: last-modified 2026-09-11
+PASS - operational-correspondence.html: footer release 8.5.7
+PASS - operational-correspondence.html: social image normalized
+PASS - permit-amendment.html: parses
+PASS - permit-amendment.html: no duplicate IDs
+PASS - permit-amendment.html: release v8.5.7
+PASS - permit-amendment.html: dateModified 2026-09-11
+PASS - permit-amendment.html: last-modified 2026-09-11
+PASS - permit-amendment.html: footer release 8.5.7
+PASS - permit-amendment.html: social image normalized
+PASS - pre-construction-acoustic-assessments.html: parses
+PASS - pre-construction-acoustic-assessments.html: no duplicate IDs
+PASS - pre-construction-acoustic-assessments.html: release v8.5.7
+PASS - pre-construction-acoustic-assessments.html: dateModified 2026-09-11
+PASS - pre-construction-acoustic-assessments.html: last-modified 2026-09-11
+PASS - pre-construction-acoustic-assessments.html: footer release 8.5.7
+PASS - pre-construction-acoustic-assessments.html: social image normalized
+PASS - professional-standards.html: parses
+PASS - professional-standards.html: no duplicate IDs
+PASS - professional-standards.html: release v8.5.7
+PASS - professional-standards.html: dateModified 2026-09-11
+PASS - professional-standards.html: last-modified 2026-09-11
+PASS - professional-standards.html: footer release 8.5.7
+PASS - professional-standards.html: social image normalized
+PASS - record-status.html: parses
+PASS - record-status.html: no duplicate IDs
+PASS - record-status.html: release v8.5.7
+PASS - record-status.html: dateModified 2026-09-11
+PASS - record-status.html: last-modified 2026-09-11
+PASS - record-status.html: footer release 8.5.7
+PASS - record-status.html: social image normalized
+PASS - record.html: parses
+PASS - record.html: no duplicate IDs
+PASS - record.html: release v8.5.7
+PASS - record.html: dateModified 2026-09-11
+PASS - record.html: last-modified 2026-09-11
+PASS - record.html: footer release 8.5.7
+PASS - record.html: social image normalized
+PASS - representative-monitoring.html: parses
+PASS - representative-monitoring.html: no duplicate IDs
+PASS - representative-monitoring.html: release v8.5.7
+PASS - representative-monitoring.html: dateModified 2026-09-11
+PASS - representative-monitoring.html: last-modified 2026-09-11
+PASS - representative-monitoring.html: footer release 8.5.7
+PASS - representative-monitoring.html: social image normalized
+PASS - sac.html: parses
+PASS - sac.html: no duplicate IDs
+PASS - sac.html: release v8.5.7
+PASS - sac.html: dateModified 2026-09-11
+PASS - sac.html: last-modified 2026-09-11
+PASS - sac.html: footer release 8.5.7
+PASS - sac.html: social image normalized
+PASS - shadow-flicker.html: parses
+PASS - shadow-flicker.html: no duplicate IDs
+PASS - shadow-flicker.html: release v8.5.7
+PASS - shadow-flicker.html: dateModified 2026-09-11
+PASS - shadow-flicker.html: last-modified 2026-09-11
+PASS - shadow-flicker.html: footer release 8.5.7
+PASS - shadow-flicker.html: social image normalized
+PASS - sonus-pre-construction-noise-assessment.html: parses
+PASS - sonus-pre-construction-noise-assessment.html: no duplicate IDs
+PASS - sonus-pre-construction-noise-assessment.html: release v8.5.7
+PASS - sonus-pre-construction-noise-assessment.html: dateModified 2026-09-11
+PASS - sonus-pre-construction-noise-assessment.html: last-modified 2026-09-11
+PASS - sonus-pre-construction-noise-assessment.html: footer release 8.5.7
+PASS - sonus-pre-construction-noise-assessment.html: social image normalized
+PASS - start-here.html: parses
+PASS - start-here.html: no duplicate IDs
+PASS - start-here.html: release v8.5.7
+PASS - start-here.html: dateModified 2026-09-11
+PASS - start-here.html: last-modified 2026-09-11
+PASS - start-here.html: footer release 8.5.7
+PASS - start-here.html: social image normalized
+PASS - technical-reports.html: parses
+PASS - technical-reports.html: no duplicate IDs
+PASS - technical-reports.html: release v8.5.7
+PASS - technical-reports.html: dateModified 2026-09-11
+PASS - technical-reports.html: last-modified 2026-09-11
+PASS - technical-reports.html: footer release 8.5.7
+PASS - technical-reports.html: social image normalized
+PASS - understanding-the-record.html: parses
+PASS - understanding-the-record.html: no duplicate IDs
+PASS - understanding-the-record.html: release v8.5.7
+PASS - understanding-the-record.html: dateModified 2026-09-11
+PASS - understanding-the-record.html: last-modified 2026-09-11
+PASS - understanding-the-record.html: footer release 8.5.7
+PASS - understanding-the-record.html: social image normalized
+PASS - verification.html: parses
+PASS - verification.html: no duplicate IDs
+PASS - verification.html: release v8.5.7
+PASS - verification.html: dateModified 2026-09-11
+PASS - verification.html: last-modified 2026-09-11
+PASS - verification.html: footer release 8.5.7
+PASS - verification.html: social image normalized
+PASS - yendon-stage-1.html: parses
+PASS - yendon-stage-1.html: no duplicate IDs
+PASS - yendon-stage-1.html: release v8.5.7
+PASS - yendon-stage-1.html: dateModified 2026-09-11
+PASS - yendon-stage-1.html: last-modified 2026-09-11
+PASS - yendon-stage-1.html: footer release 8.5.7
+PASS - yendon-stage-1.html: social image normalized
+PASS - Permit Amendment: 11 Sep FOI panel
+PASS - Permit Amendment: separate statutory pathway preserved
+PASS - FOI Register: current request section
+PASS - FOI Register: no decision stated
+PASS - Documents: FOI request listed
+PASS - Agency Records: DTP FOI update
+PASS - Chronology: 11 Sep entry
+PASS - Homepage: 11 Sep latest notice
+PASS - Record Status: current FOI pathway
+PASS - Public FOI PDF packaged
+PASS - Sitemap all dates reconciled
+PASS - Style release comment reconciled
+PASS - Site.js release comment reconciled
+PASS - Robots release comment reconciled
+PASS - Public FOI PDF: email removed from extractable text
+PASS - Public FOI PDF: postal address removed from extractable text
 
-PUBLICATION CONTROLS
-- Mortlake Community Alliance Inc v Minister for Planning & Anor, S ECI 2026 05772 is identified only as contemporaneous procedural context.
-- The Mortlake originating motion is not included in this release.
-- The page expressly states that Mortlake concerns a different project, permit, facts and legal grounds and establishes nothing concerning Lal Lal.
-- The 9 September Trustee Notice is described as preserving procedural options, not commencing judicial review or determining invalidity.
-- DTP's response is described as an acknowledgement/procedural update, not the substantive reasons or contemporaneous decision record requested.
-- The Trustee-capacity issue is preserved: the covering email directed correspondence to the Trustee, while DTP's source response opened “Dear Mr Lewis”.
-- Public PDF copies redact the user's email address.
-- No finding is made concerning validity, judicial-review availability, time limits, extension of time, merits or outcome.
+DOCUMENTARY CONTROLS
+- The 11 September 2026 FOI request is recorded as a request lodged, not as a decision or disclosure outcome.
+- The FOI pathway is expressly kept separate from, and does not replace or withdraw, the Trustee's 9 September OPEN NOTICE seeking reasons and the contemporaneous Ministerial decision-making record.
+- The request is described as seeking existing documents; no inference is drawn about what responsive documents exist, what they contain, exemptions, or DTP's eventual decision.
+- The Mortlake proceeding remains procedural context only on the Permit Amendment/Chronology pathway; its originating motion is not added to the website by this release.
+- The FOI request public copy redacts the Trustee postal address and contact email while preserving the substantive request.
+- Historical dates and historical version-history text inside page content are not rewritten merely to match the current release.
+- Current release metadata, footer version/date, root configuration comments and sitemap last-modified dates are synchronized to v8.5.7 / 11 September 2026.
+- The global social-preview URL is normalized to the current Lal Lal Wind Farm Record banner image.
 
-PDF publication copies:
-- OPEN NOTICE: raster-redacted postal/contact block and user email on page 1.
-- DTP response: raster-redacted user email in the top addressee line and quoted covering-email line on page 1.
-- Public PDFs were rebuilt from rendered page images so the redacted contact text is not retained as recoverable PDF text.
+Public FOI PDF redaction operations: 6

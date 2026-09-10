@@ -1,21 +1,24 @@
 LAL LAL WIND FARM RECORD — CHANGELOG
-Targeted release: v8.5.6
-Date: 10 September 2026
+Repository release: v8.5.7
+Date: 11 September 2026
 
-Planning Permit Amendment
-- Add the 9 September 2026 OPEN NOTICE seeking reasons and the contemporaneous Ministerial decision-making record for the 15 May 2026 permit-amendment decision.
-- Add DTP's same-day acknowledgement that the material is being considered and a response is not anticipated within the next four weeks.
-- Preserve the distinction between that procedural response and the substantive reasons/decision record requested.
-- Preserve the Trustee-capacity correspondence record and DTP's “Dear Mr Lewis” salutation as source wording.
-- Identify Mortlake Community Alliance Inc v Minister for Planning & Anor, S ECI 2026 05772, filed 28 August 2026, as contemporaneous procedural context only.
-- Do not publish or package the Mortlake originating motion.
-- Recast the prior 25 August “current” position as the historical position at that date.
+DTP PL-SP/05/0461-3 FOI decision-record pathway
+- Record the Trustee's 11 September 2026 request under the Freedom of Information Act 1982 (Vic).
+- Add the request to the Planning Permit Amendment page as a separate statutory access pathway continuing from the 9 September Ministerial decision-record request.
+- Add a current-request entry to the FOI Register.
+- Add the redacted primary request to the Document Library.
+- Add the development to DTP Agency Records, the principal Chronology, Homepage Latest Notices and Record Status.
+- Preserve that the request is lodged only; no FOI decision or substantive disclosure outcome is recorded.
+- Preserve that the FOI request does not replace or withdraw the 9 September OPEN NOTICE.
 
-Discoverability
-- Add the development to Homepage Latest Notices.
-- Add the OPEN NOTICE and DTP response to the Document Library.
-- Add the 9 September event to the principal Chronology and later administrative timeline.
+Repository reconciliation
+- Reconcile all 34 supplied canonical HTML pages to v8.5.7 / 11 September 2026.
+- Synchronize JSON-LD release/version/date metadata, last-modified metadata and footer version/date.
+- Normalize Open Graph/Twitter social-preview references to the current banner image.
+- Update style.css, site.js and robots.txt release comments.
+- Update every sitemap last-modified entry to 11 September 2026.
+- Preserve stable filenames, canonical URLs, navigation, documentary chronology and historical version-history statements.
 
 Publication
-- Public copies of the two Lal Lal PDFs redact the user's email address.
-- Touched pages updated to v8.5.6 / 10 September 2026.
+- Create a public redacted copy of the five-page DTP FOI request.
+- Redact the Trustee postal address and contact email only; preserve substantive request text.
