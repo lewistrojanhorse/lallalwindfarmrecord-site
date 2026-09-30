@@ -1,24 +1,13 @@
 LAL LAL WIND FARM RECORD — CHANGELOG
-Repository release: v8.5.7
-Date: 11 September 2026
 
-DTP PL-SP/05/0461-3 FOI decision-record pathway
-- Record the Trustee's 11 September 2026 request under the Freedom of Information Act 1982 (Vic).
-- Add the request to the Planning Permit Amendment page as a separate statutory access pathway continuing from the 9 September Ministerial decision-record request.
-- Add a current-request entry to the FOI Register.
-- Add the redacted primary request to the Document Library.
-- Add the development to DTP Agency Records, the principal Chronology, Homepage Latest Notices and Record Status.
-- Preserve that the request is lodged only; no FOI decision or substantive disclosure outcome is recorded.
-- Preserve that the FOI request does not replace or withdraw the 9 September OPEN NOTICE.
+v8.6.0 — 1 October 2026
 
-Repository reconciliation
-- Reconcile all 34 supplied canonical HTML pages to v8.5.7 / 11 September 2026.
-- Synchronize JSON-LD release/version/date metadata, last-modified metadata and footer version/date.
-- Normalize Open Graph/Twitter social-preview references to the current banner image.
-- Update style.css, site.js and robots.txt release comments.
-- Update every sitemap last-modified entry to 11 September 2026.
-- Preserve stable filenames, canonical URLs, navigation, documentary chronology and historical version-history statements.
+Repository-wide coherency and maintenance release.
 
-Publication
-- Create a public redacted copy of the five-page DTP FOI request.
-- Redact the Trustee postal address and contact email only; preserve substantive request text.
+- Consolidated the 34 canonical HTML pages supplied on 30 September 2026.
+- Normalised mixed v8.5.7, v8.5.8 and v8.5.9 release metadata to v8.6.0.
+- Normalised repository modified dates to 1 October 2026.
+- Reconciled sitemap, robots.txt, style.css and site.js release metadata.
+- Checked internal HTML targets, anchors, duplicate IDs and required page metadata.
+- Preserved substantive documentary chronology and primary documents.
+- No redactions or new images were introduced.

@@ -1,22 +1,15 @@
-feat(foi-record): add PL-SP/05/0461-3 decision-record request
+chore(repository): reconcile site-wide record for 1 October 2026
 
-Add the Trustee's 11 September 2026 DTP FOI request for the existing
-assessment and decision record underlying amendment PL-SP/05/0461-3.
+Run a repository-wide coherency and maintenance pass across all 34 canonical
+Lal Lal Wind Farm Record pages supplied on 30 September 2026.
 
-Integrate the request across the Permit Amendment page, FOI Register,
-Document Library, DTP Agency Records, Chronology, Homepage Latest Notices
-and Record Status.
+Reconcile mixed v8.5.7, v8.5.8 and v8.5.9 page metadata to v8.6.0, align
+JSON-LD, last-modified metadata, page footers, sitemap dates and root support
+file release headers to 1 October 2026, and validate internal page targets,
+anchors, duplicate IDs and core social/canonical metadata.
 
-Preserve the procedural distinction between the 11 September statutory FOI
-access pathway and the 9 September OPEN NOTICE seeking reasons and the
-contemporaneous Ministerial decision-making record. Record the FOI matter as
-a request lodged only; no decision, disclosure outcome or inference about the
-existence or content of responsive documents is made.
+Preserve the substantive documentary record, historical chronology and primary
+documents as supplied. Do not introduce new factual findings, alter documentary
+content or independently redact primary material.
 
-Publish a redacted copy of the five-page FOI request, removing the Trustee's
-postal address and contact email while preserving the substantive document.
-
-Reconcile all 34 supplied canonical pages and root support files to
-v8.5.7 / 11 September 2026, synchronize sitemap last-modified dates
-and current social-preview metadata, and preserve stable public URLs and
-historical documentary chronology.
+Release as v8.6.0 dated 1 October 2026.

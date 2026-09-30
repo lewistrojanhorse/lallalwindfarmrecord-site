@@ -1,15 +1,8 @@
 ASSET COVERAGE
 
-This deployment package is built from the complete two-part root repository supplied
-on 11 September 2026: 34 canonical HTML pages plus style.css, site.js, robots.txt and
-sitemap.xml.
-
-The existing deployed historical documents/images/videos asset trees were not
-re-supplied in those two parts and are therefore not regenerated or replaced here.
-This package contains the new/changed binary assets required by this release:
-- documents/DTP-FOI-Request-PL-SP-05-0461-3-Decision-Record-11-September-2026-Redacted.pdf
-- the two 9 September Ministerial decision-record PDFs carried forward from v8.5.6
-- images/llwf-record-social-preview-2026-09-05.jpg
-
-Deploy by merging this package over the existing site and preserving all other
-historical documents/, images/ and videos/ assets.
+This v8.6.0 package uses the user's complete 30 September 2026 root-page upload
+over the corrected v8.5.7 packaged asset/document baseline. Deploy by merging
+over the existing live repository and preserve historical binary assets not
+included in the package. Absence from this ZIP is not authority to delete a
+live historical document, image or video. Primary documents must remain exactly
+as supplied unless the user expressly directs otherwise.

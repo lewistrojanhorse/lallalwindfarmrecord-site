@@ -1,4 +1,4 @@
-# Lal Lal Wind Farm Record repository release 8.5.7 — 11 September 2026
+# Lal Lal Wind Farm Record repository release 8.6.0 — 1 October 2026
 User-agent: *
 Allow: /
 
